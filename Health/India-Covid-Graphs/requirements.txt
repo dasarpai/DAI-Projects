@@ -1,0 +1,8 @@
+textblob>=0.17.1
+wordcloud>=1.8.1
+plotly>=5.8.0
+voila>=0.1.8
+ipyvuetify>=0.1.9
+voila-vuetify>=0.0.1a6
+bqplot
+numpy
