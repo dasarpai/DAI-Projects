@@ -1,0 +1,12 @@
+Unknown
+We do not know who played against whom in the past and what was the result of game
+We do not know where and day/season of the game. So we donot know the impact of the ground, location, day etc on winning
+
+Assumption
+Irrespective of the team, a player will perform as per his past performance
+Irrespective of the team's player team will perform as per the last performance
+
+
+Approach
+Determine winning probability of the player (independently)
+Determine winning probability of the team (independently)

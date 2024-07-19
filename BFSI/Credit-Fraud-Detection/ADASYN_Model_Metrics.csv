@@ -1,0 +1,13 @@
+,Model,AUC_Score,Recall_Score,Precision_Score,F1_Score
+0,Logistic Regression,0.95,0.91,0.86,0.88
+1,GLM,0.95,0.92,0.86,0.88
+2,KNN,0.84,0.65,0.96,0.78
+3,Random Forest,0.96,0.94,0.9,0.92
+4,Decision Tree,0.79,0.61,0.95,0.74
+5,LGBM,0.98,0.94,0.92,0.93
+6,Perceptron,0.89,0.92,0.86,0.89
+7,SVM,0.94,0.86,0.91,0.88
+8,XGBoost,0.95,0.85,0.91,0.88
+9,AdaBoost,0.95,0.86,0.91,0.88
+10,Naive Bayes,0.89,0.93,0.75,0.83
+11,SGD,0.89,0.93,0.75,0.83

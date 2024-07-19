@@ -1,0 +1,215 @@
+COUNTRY1,COUNTRY,100,101-200,201-500,501-1000,1001-5000,5001-10000,>10000+,ALL
+India,India,0,0,0,13,264,435,5011,5288
+United States of America,United States of America,56,36,60,101,569,1538,2394,3216
+Indonesia,Indonesia,0,0,0,2,67,197,2526,2595
+China,China,4,7,29,60,473,572,1992,2565
+Brazil,Brazil,1,0,5,8,168,122,1115,1297
+Mexico,Mexico,0,1,0,6,52,41,1114,1173
+Russian Federation,Russian Federation,0,0,3,10,128,141,917,1058
+Japan,Japan,1,1,10,12,180,206,799,1003
+Iran,Iran,0,0,2,10,141,60,551,704
+France,France,0,0,13,24,117,75,463,617
+Germany,Germany,2,6,27,19,73,104,332,459
+Canada,Canada,6,5,13,9,39,85,315,387
+Poland,Poland,0,0,2,11,63,24,303,379
+South Korea,South Korea,0,1,5,13,81,29,275,375
+Malaysia,Malaysia,0,0,2,4,36,19,332,374
+Pakistan,Pakistan,0,0,0,1,65,45,292,358
+Ukraine,Ukraine,0,0,0,0,46,70,269,315
+Colombia,Colombia,0,0,0,1,59,59,233,293
+Philippines,Philippines,0,0,0,0,8,30,282,290
+United Kingdom,United Kingdom,8,11,24,36,63,51,138,280
+Nigeria,Nigeria,0,0,0,0,34,54,245,279
+Spain,Spain,0,3,13,21,43,27,186,266
+Italy,Italy,0,5,16,25,36,22,157,239
+Turkey,Turkey,0,0,1,9,123,47,80,213
+Tunisia,Tunisia,0,0,0,0,7,13,196,203
+Thailand,Thailand,0,0,0,5,34,46,155,194
+Australia,Australia,7,3,13,12,7,22,148,190
+Viet Nam,Viet Nam,0,0,0,1,30,32,149,180
+Bangladesh,Bangladesh,0,0,0,0,39,26,131,170
+Taiwan,Taiwan,0,1,2,10,70,34,82,165
+Morocco,Morocco,0,0,0,0,14,4,134,148
+Argentina,Argentina,0,0,2,0,40,33,103,145
+Kazakhstan,Kazakhstan,0,0,0,1,9,15,124,134
+Peru,Peru,0,0,0,0,19,28,114,133
+Chile,Chile,0,0,2,1,36,11,92,131
+Netherlands,Netherlands,3,3,5,2,18,23,98,129
+Kenya,Kenya,0,0,0,0,9,22,114,123
+South Africa,South Africa,0,0,4,4,15,4,98,121
+Iraq,Iraq,0,0,0,0,26,18,89,115
+Portugal,Portugal,0,1,4,1,33,17,70,109
+Switzerland,Switzerland,3,2,2,3,15,18,77,102
+Algeria,Algeria,0,0,0,0,31,23,71,102
+Romania,Romania,0,0,0,2,36,16,61,99
+Afghanistan,Afghanistan,0,0,0,0,0,3,95,95
+Myanmar,Myanmar,0,0,0,0,0,2,89,89
+Austria,Austria,0,1,2,7,15,20,60,85
+Uzbekistan,Uzbekistan,0,0,0,0,1,16,82,83
+Somalia,Somalia,0,0,0,0,0,0,83,83
+Belgium,Belgium,2,0,3,3,8,12,65,81
+Denmark,Denmark,1,2,2,1,3,4,64,73
+Egypt,Egypt,0,0,0,3,36,8,34,73
+Czechia,Czechia,0,0,2,3,16,7,49,70
+Hungary,Hungary,0,0,1,5,12,4,52,70
+Serbia,Serbia,0,0,1,1,5,8,63,70
+Ethiopia,Ethiopia,0,0,0,0,9,5,61,70
+United Arab Emirates,United Arab Emirates,0,0,0,2,16,10,51,69
+Saudi Arabia,Saudi Arabia,0,0,3,1,28,13,36,68
+Uganda,Uganda,0,0,0,0,6,4,61,67
+Ireland,Ireland,0,0,4,2,13,8,47,66
+Venezuela,Venezuela,0,0,0,0,8,9,58,66
+Ghana,Ghana,0,0,0,0,7,10,59,66
+Costa Rica,Costa Rica,0,0,0,0,5,7,61,66
+Ecuador,Ecuador,0,0,0,0,30,19,35,65
+Georgia,Georgia,0,0,0,0,5,3,58,63
+Dominican Republic,Dominican Republic,0,0,0,0,1,10,61,62
+Sri Lanka,Sri Lanka,0,0,0,0,11,6,50,61
+Greece,Greece,0,0,3,6,16,7,34,59
+Sudan,Sudan,0,0,0,0,3,7,56,59
+Libya,Libya,0,0,0,0,5,3,53,58
+Belarus,Belarus,0,0,0,1,12,23,44,57
+Bolivia,Bolivia,0,0,0,0,2,8,54,56
+Mongolia,Mongolia,0,0,0,0,2,3,54,56
+New Zealand,New Zealand,0,1,3,2,7,8,42,55
+Bulgaria,Bulgaria,0,0,0,1,20,11,33,54
+Tanzania,Tanzania,0,0,0,0,5,8,46,51
+Latvia,Other 139 Countries,0,0,0,0,5,5,45,50
+Cambodia,Other 139 Countries,0,0,0,0,2,2,48,50
+Nicaragua,Other 139 Countries,0,0,0,0,1,4,49,50
+Slovenia,Other 139 Countries,0,0,1,0,3,2,45,49
+Bosnia and Herzegovina,Other 139 Countries,0,0,0,0,8,5,40,48
+Azerbaijan,Other 139 Countries,0,0,0,0,4,2,44,48
+Yemen,Other 139 Countries,0,0,0,0,3,6,45,48
+Sweden,Other 139 Countries,0,6,4,2,19,2,16,47
+Lebanon,Other 139 Countries,0,0,0,1,8,2,37,46
+Croatia,Other 139 Countries,0,0,0,1,5,6,40,46
+Kyrgyzstan,Other 139 Countries,0,0,0,0,1,4,45,46
+Singapore,Other 139 Countries,2,0,0,2,9,8,31,44
+Norway,Other 139 Countries,1,2,1,2,15,4,23,44
+Israel,Other 139 Countries,0,1,4,2,11,13,26,44
+Zambia,Other 139 Countries,0,0,0,0,2,1,42,44
+Finland,Other 139 Countries,1,0,5,3,7,16,26,42
+Uruguay,Other 139 Countries,0,0,0,0,4,7,37,41
+Syria,Other 139 Countries,0,0,0,0,3,8,38,41
+Albania,Other 139 Countries,0,0,0,0,3,4,38,41
+Lithuania,Other 139 Countries,0,0,0,1,7,5,32,40
+Armenia,Other 139 Countries,0,0,0,0,3,2,37,40
+Paraguay,Other 139 Countries,0,0,0,0,1,3,39,40
+D R of the Congo,Other 139 Countries,0,0,0,0,1,1,39,40
+El Salvador,Other 139 Countries,0,0,0,0,1,5,38,39
+Oman,Other 139 Countries,0,0,0,0,4,9,34,38
+Jordan,Other 139 Countries,0,0,0,2,18,6,17,37
+Puerto Rico,Other 139 Countries,0,0,0,1,4,12,32,37
+Slovakia,Other 139 Countries,0,0,0,1,15,4,20,36
+Cyprus,Other 139 Countries,0,0,0,1,6,2,29,36
+Senegal,Other 139 Countries,0,0,0,0,1,2,33,34
+Cuba,Other 139 Countries,0,0,0,0,9,6,23,32
+Nepal,Other 139 Countries,0,0,0,0,3,4,29,32
+Estonia,Other 139 Countries,0,0,1,0,3,3,27,31
+Palestina,Other 139 Countries,0,0,0,0,9,3,20,29
+Panama,Other 139 Countries,0,0,0,0,2,3,27,29
+Benin,Other 139 Countries,0,0,0,0,1,1,28,29
+Other,Other 139 Countries,0,0,0,0,8,7,20,28
+Malawi,Other 139 Countries,0,0,0,0,1,5,27,28
+Tajikistan,Other 139 Countries,0,0,0,0,0,1,28,28
+Cameroon,Other 139 Countries,0,0,0,0,5,2,20,25
+Moldova,Other 139 Countries,0,0,0,0,2,3,22,24
+Guatemala,Other 139 Countries,0,0,0,0,3,2,20,23
+Jamaica,Other 139 Countries,0,0,0,0,1,3,22,23
+North Macedonia,Other 139 Countries,0,0,0,0,4,2,18,22
+Rwanda,Other 139 Countries,0,0,0,0,1,0,21,22
+Hong Kong,Other 139 Countries,2,1,1,1,5,4,11,21
+Angola,Other 139 Countries,0,0,0,0,0,1,21,21
+Haiti,Other 139 Countries,0,0,0,0,0,1,21,21
+Côte d'Ivoire,Other 139 Countries,0,0,0,0,1,3,19,20
+Zimbabwe,Other 139 Countries,0,0,0,0,5,5,14,19
+Burundi,Other 139 Countries,0,0,0,0,0,1,19,19
+Mozambique,Other 139 Countries,0,0,0,0,1,2,16,17
+Burkina Faso,Other 139 Countries,0,0,0,0,0,3,17,17
+Honduras,Other 139 Countries,0,0,0,0,1,3,15,16
+Qatar,Other 139 Countries,0,0,0,1,4,3,9,14
+Bahrain,Other 139 Countries,0,0,0,0,3,2,11,14
+Botswana,Other 139 Countries,0,0,0,0,1,3,13,14
+Trinidad and Tobago,Other 139 Countries,0,0,0,0,2,0,11,13
+Kuwait,Other 139 Countries,0,0,0,0,4,3,8,12
+Madagascar,Other 139 Countries,0,0,0,0,1,0,11,12
+Gabon,Other 139 Countries,0,0,0,0,0,0,12,12
+Mauritius,Other 139 Countries,0,0,0,0,1,1,10,11
+Macao,Other 139 Countries,0,0,0,1,3,3,6,10
+Bhutan,Other 139 Countries,0,0,0,0,0,2,10,10
+Iceland,Other 139 Countries,0,0,0,1,2,2,6,9
+Barbados,Other 139 Countries,0,0,0,0,1,0,8,9
+Cape Verde,Other 139 Countries,0,0,0,0,1,0,8,9
+Curaçao,Other 139 Countries,0,0,0,0,0,0,8,8
+Mali,Other 139 Countries,0,0,0,0,0,0,8,8
+Timor-Leste,Other 139 Countries,0,0,0,0,0,0,8,8
+Malta,Other 139 Countries,0,0,0,1,0,1,6,7
+Brunei Darussalam,Other 139 Countries,0,0,0,0,2,1,5,7
+Saint Kitts and Nevis,Other 139 Countries,0,0,0,0,0,2,7,7
+Sierra Leone,Other 139 Countries,0,0,0,0,0,2,7,7
+Papua New Guinea,Other 139 Countries,0,0,0,0,0,3,6,6
+Guyana,Other 139 Countries,0,0,0,0,0,1,6,6
+Togo,Other 139 Countries,0,0,0,0,0,1,5,5
+Cayman Islands ,Other 139 Countries,0,0,0,0,0,0,5,5
+Saint Lucia,Other 139 Countries,0,0,0,0,0,0,5,5
+Namibia,Other 139 Countries,0,0,0,0,2,0,2,4
+Dominica,Other 139 Countries,0,0,0,0,1,0,3,4
+Laos,Other 139 Countries,0,0,0,0,0,3,4,4
+Gambia,Other 139 Countries,0,0,0,0,0,2,4,4
+Belize,Other 139 Countries,0,0,0,0,0,1,4,4
+Guinea,Other 139 Countries,0,0,0,0,0,1,4,4
+Liberia,Other 139 Countries,0,0,0,0,0,1,4,4
+Aruba,Other 139 Countries,0,0,0,0,0,0,4,4
+Chad,Other 139 Countries,0,0,0,0,0,0,4,4
+Maldives,Other 139 Countries,0,0,0,0,0,0,4,4
+Mauritania,Other 139 Countries,0,0,0,0,0,0,4,4
+Luxembourg,Other 139 Countries,0,0,0,1,0,0,2,3
+Fiji,Other 139 Countries,0,0,0,0,2,0,1,3
+Montenegro,Other 139 Countries,0,0,0,0,1,1,2,3
+Guam,Other 139 Countries,0,0,0,0,1,0,2,3
+Liechtenstein,Other 139 Countries,0,0,0,0,1,0,2,3
+Antigua and Barbuda,Other 139 Countries,0,0,0,0,0,1,3,3
+North Korea,Other 139 Countries,0,0,0,0,0,1,3,3
+Seychelles,Other 139 Countries,0,0,0,0,0,1,3,3
+Suriname,Other 139 Countries,0,0,0,0,0,1,3,3
+Andorra,Other 139 Countries,0,0,0,0,0,0,3,3
+Grenada,Other 139 Countries,0,0,0,0,1,0,1,2
+Lesotho,Other 139 Countries,0,0,0,0,1,0,1,2
+Bahamas,Other 139 Countries,0,0,0,0,0,1,2,2
+Republic of the Congo,Other 139 Countries,0,0,0,0,0,1,2,2
+Niger,Other 139 Countries,0,0,0,0,0,1,2,2
+Swaziland,Other 139 Countries,0,0,0,0,0,1,2,2
+British Virgin Islands,Other 139 Countries,0,0,0,0,0,0,2,2
+Kiribati,Other 139 Countries,0,0,0,0,0,0,2,2
+Montserrat,Other 139 Countries,0,0,0,0,0,0,2,2
+Saint Vincent and Grenadines,Other 139 Countries,0,0,0,0,0,0,2,2
+Samoa,Other 139 Countries,0,0,0,0,0,0,2,2
+Turks and Caicos Islands ,Other 139 Countries,0,0,0,0,0,0,2,2
+French Polynesia,Other 139 Countries,0,0,0,0,1,0,0,1
+Greenland,Other 139 Countries,0,0,0,0,1,0,0,1
+Virgin Islands US,Other 139 Countries,0,0,0,0,1,0,0,1
+American Samoa,Other 139 Countries,0,0,0,0,0,1,1,1
+Anguilla,Other 139 Countries,0,0,0,0,0,1,1,1
+Djibouti,Other 139 Countries,0,0,0,0,0,1,1,1
+Faroe Islands,Other 139 Countries,0,0,0,0,0,1,1,1
+Micronesia FSM,Other 139 Countries,0,0,0,0,0,1,1,1
+Monaco,Other 139 Countries,0,0,0,0,0,1,1,1
+Réunion,Other 139 Countries,0,0,0,0,0,1,1,1
+San Marino,Other 139 Countries,0,0,0,0,0,1,1,1
+Bonaire Sint Eustatius and Saba,Other 139 Countries,0,0,0,0,0,1,1,1
+Bermuda,Other 139 Countries,0,0,0,0,0,0,1,1
+Central African Republic,Other 139 Countries,0,0,0,0,0,0,1,1
+Comoros,Other 139 Countries,0,0,0,0,0,0,1,1
+Equatorial Guinea,Other 139 Countries,0,0,0,0,0,0,1,1
+French Guiana,Other 139 Countries,0,0,0,0,0,0,1,1
+Isle of Man ,Other 139 Countries,0,0,0,0,0,0,1,1
+Marshall Islands,Other 139 Countries,0,0,0,0,0,0,1,1
+Martinique,Other 139 Countries,0,0,0,0,0,0,1,1
+Niue ,Other 139 Countries,0,0,0,0,0,0,1,1
+Northern Mariana Islands,Other 139 Countries,0,0,0,0,0,0,1,1
+Palau,Other 139 Countries,0,0,0,0,0,0,1,1
+Solomon Islands,Other 139 Countries,0,0,0,0,0,0,1,1
+Tonga,Other 139 Countries,0,0,0,0,0,0,1,1
+Turkmenistan,Other 139 Countries,0,0,0,0,0,0,1,1
+Vanuatu,Other 139 Countries,0,0,0,0,0,0,1,1

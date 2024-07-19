@@ -1,0 +1,1 @@
+{"recall_score": 0.26, "f1_score": 0.3, "accuracy_score": 0.58, "precision_score": 0.35}
