@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2567/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 7(2)(c) in The Delhi Rent Act, 1995
+(c) the cost of construction shall be the actual amount spent on construction, and in a case, where such amount cannot be ascertained, such cost shall be determined, as per the scheduled rates of the Central Public Works Department for cost of construction for similar construction for the year in which the premises was constructed;

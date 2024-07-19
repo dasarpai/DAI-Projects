@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1128/
+Cites: ['Ashish Uppal vs Child Welfare Committee, ... on 17 August, 2021\nPunjab-Haryana High Court Cites 8 - Cited by 0 - Full Document', 'Ashraya vs Nil on 30 March, 1990\nKarnataka High Court Cites 24 - Cited by 1 - Full Document', 'Ashraya And Ors. vs Jan-Erik Lundqvist And Ors. on 30 March, 1990\nKarnataka High Court Cites 24 - Cited by 0 - Full Document', 'In The Matter Of Ashraya And Others ... vs Unknown on 30 March, 1990\nKarnataka High Court Cites 24 - Cited by 0 - Full Document', 'Amit Beri Son Of Hardaya Narain ... vs Smt. Sheetal Beri Wife Of Amit Beri ... on 17 May, 2006\nAllahabad High Court Cites 21 - Cited by 1 - Full Document', 'Rajender Tyagi & Anr vs Aadesh Tyagi & Ors on 2 June, 2015\nDelhi District Court Cites 8 - Cited by 0 - Full Document', 'Rajender Tyagi & Anr vs Aadesh Tyagi & Ors on 2 June, 2015\nDelhi District Court Cites 8 - Cited by 0 - Full Document', 'Km. Renu vs State Of U.P. And Others on 3 January, 2020\nAllahabad High Court Cites 2 - Cited by 0 - Full Document', 'Chinnaiah Ramamoorthi vs Vidyaarthy C.Ramamoorthi on 23 October, 2018\nMadras High Court Cites 4 - Cited by 0 - Full Document', 'Smt Lissy Joshi vs The Child Welfare Committee on 11 September, 2019\nKarnataka High Court Cites 5 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 15 in The Guardians and Wards Act, 1890
+15. Appointment or declaration of several guardians.—
+(1) If the law to which the minor is subject admits of his having two or more joint guardians of his person or property or both, the Court may, if it thinks fit, appoint or declare them. 1[***]
+(4) Separate guardians may be appointed or declared of the person and of the property of a minor.
+(5) If a minor has several properties, the Court may, if it thinks fit, appoint or declare a separate guardian for any one or more of the properties.

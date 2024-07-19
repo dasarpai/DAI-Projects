@@ -1,0 +1,14 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1841/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 15 in The Industrial Reconstruction Bank Of India Act, 1984
+15. Executive Committee and other committees.-
+(1) The Board may constitute an Executive Committee consisting of such number of directors as may be provided for in the regulations.
+(2) The Executive Committee shall discharge such functions as may be provided for in the regulations, or, as may be delegated to it, by the Board.
+(3) The Board may constitute such other committees, whether consisting only of directors or only of other persons or partly of directors and partly of other persons, for such purpose or purposes, as it may think fit.
+(4) The Executive Committee or any other committee constituted under this section shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be provided for in the regulations.

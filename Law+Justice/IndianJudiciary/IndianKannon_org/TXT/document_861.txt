@@ -1,0 +1,15 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/861/
+Cites: ['The Code Of Criminal Procedure, 1973 : https://indiankanoon.org/doc/445276/', 'Ahmed Ali vs Keenoo Khan on 31 July, 1908 : https://indiankanoon.org/doc/1611498/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+A.B. Adepu Reddi vs K. Ramayya on 19 March, 1920
+Equivalent citations: 59 Ind Cas 414
+Author: Oldfield
+Bench: Oldfield
+ORDER Oldfield, J.
+1. The Deputy Magistrate has held, on the strength of a Lower Burma ruling, that Section 517, Criminal Procedure Code, applies to immoveable property. He should confine himself to the rulings or the High Courts in which, for the present purposes, he would have found ample guidance. See Baisureswar Singh v. Bhola Nath Pathuk (Emperor) 22 Ind. Cas. 751 : 18 C.W.N. 1146 : 15 Cr. L.J. 175 and Ahmed Ali v. Keenoo Khan 1 Ind. Cas. 202, 36 C. 44 : 13 C.W.N. 77 : 9 Cr. L.J. 294. Section 517 must be regarded as applying to moveable property only and the only question is, whether Section 522 is applicable.
+2. It is not necessary, in order to its applicability, that force should be an ingredient of the offence of which accused is convict-ed, if the use of force appears from the evidence. There seems in the present case to be evidence, on which a finding in favour of the use of the criminal force can be reached. The Deputy Magistrate's order as to possession is set aside and the case remanded, so that it may be restored to the file and the appeal, so far as it relates to possession, may be re heard in the light of the foregoing. The petition is dismissed so far as it relates to the conviction.

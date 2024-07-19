@@ -1,0 +1,18 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/741/
+Cites: ['Commissioner Of Income-Tax vs Glory Paul on 5 July, 1989 : https://indiankanoon.org/doc/947752/', 'Commissioner Of Income-Tax vs T.K. Sarala Devi on 6 April, 1987 : https://indiankanoon.org/doc/1549718/', 'Section 3 in The Finance Act, 1996 : https://indiankanoon.org/doc/308955/', 'Manubhai A. Sheth And Others vs N.D. Nirgudkar, 2Nd Income-Tax ... on 18 June, 1980 : https://indiankanoon.org/doc/384411/']
++++++++++++++++++++++++++
+
+
+Kerala High Court
+Commissioner Of Income Tax vs Smt. M. Subaida Beevi. on 21 June, 1993
+Equivalent citations: (1996) 131 CTR Ker 107
+Author: K S Paripoornan
+JUDGMENT K. S. PARIPOORNAN, J. :
+At the instance of the Revenue, the Tribunal has referred the following question of law for the decision of this Court :
+"Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that the transfer of the agricultural lands situate within the municipal limits of Kayamkulam did not give rise to income by way of capital gains ?"
+2. The respondent is an assessee to income-tax. We are concerned with the asst. yr. 1973-74. The assessee had agricultural lands situate in the municipal limits of Kayamkulam. They were acquired by the Government. The compensation awarded was brought to tax by way of capital gains, by the assessing authority. The plea of the assessee was that there was no capital gains, since the agricultural lands were situate within the municipal limits. In appeal, the Tribunal accepted the plea. It did so by placing reliance on the decision of the Bombay High Court in Manubhai A. Sheth vs. N. D. Nirgudkar, Second ITO (1981) 128 ITR 87 (Bom). It is thereafter, at the instance of the Revenue, the question of law formulated hereinabove has been referred for the decision of this Court, by the Tribunal.
+3. We heard counsel for the Revenue, Mr. P. K. R. Menon. A Bench of this Court in CIT vs. T. K. Sarala Devi (1987) 167 ITR 136 (Ker) declined to follow the decision of the Bombay High Court in Manubhai A. Sheths case (supra). The above Bench decision in Sarala Devis case (supra) was followed by subsequent decisions of this Court, the latest being CIT vs. Glory Paul (1990) 186 ITR 496 (Ker). Following the decision in Sarala Devis case (supra), it was held by this Court that the decision of the Tribunal, holding that no tax on capital gains was leviable on the sale of the land situate within the municipal limits, is erroneous in law. This Court also took into account s. 3 of the Finance Act, 1989.
+4. In the light of the decision of this Court in CIT vs. T. K. Sarala Devi (supra) and the decisions following the same upto CIT vs. Glory Paul (supra), we are of the view that the decision of the Tribunal holding that no capital gains tax is exigible in this case discloses an error of law. The Tribunal was clearly in error in holding so.
+5. We, therefore, answer the question referred to this Court in the negative against the assessee and in favour of the assessee. The reference is answered as above.

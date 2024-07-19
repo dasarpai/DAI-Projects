@@ -1,0 +1,17 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1302/
+Cites: ['Queen-Empress vs Karamdi on 29 October, 1895 : https://indiankanoon.org/doc/112265/', 'Hiraman De vs Ram Kumar Ain on 14 October, 1890 : https://indiankanoon.org/doc/1151618/', 'Section 438 in The Code Of Criminal Procedure, 1973 : https://indiankanoon.org/doc/1783708/']
++++++++++++++++++++++++++
+
+
+Calcutta High Court
+The State vs Ram Abatar Roy on 20 May, 1958
+Equivalent citations: AIR 1960 Cal 451, 1960 CriLJ 899
+Author: J Mitter
+Bench: J Mitter, Bhattacharya
+JUDGMENT J.P. Mitter, J.
+1. This is a Reference under Section 438 of the Code of Criminal Procedure made by the learned Additional District Magistrate of 24-Parganas recommending that an order of a learned Assistant Sessions Judge at Alipore be set aside.
+2. Mr. Kali Mohan Chakrabarty appearing OB behalf of the opposite party contends that this Reference is incompetent, because so far as the Additional District Magistrate is concerned, the court of an Assistant Sessions Judge is not an inferior criminal court. This contention appears to us to be unanswerable and is supported by Queen Empress v. Karamdi. ILR 23 Cal 250, and Hiraman De v. Ram Kumar Ain. ILR 18 Cal 186. We must accordingly reject the Reference and leave it to the State to take such steps as it may be advised to set aside the order of the learned Assistant Sessions Judge.
+Bhattacharya, J.
+3. I agree.

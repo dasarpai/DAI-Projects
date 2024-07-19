@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/203/
+Cites: ['State Of U.P. And Ors vs Renusagar Power Co. And Others on 28 July, 1988 : https://indiankanoon.org/doc/1901448/', 'Essar vs State on 25 February, 2010 : https://indiankanoon.org/doc/945301/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 3(1)(c) in The Estate Duty Act, 1953
+(c) money which a person has a general power to charge on the property of another person shall be deemed to be an interest in that property of which the former has power to dispose;

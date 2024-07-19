@@ -1,0 +1,20 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2889/
+Cites: ['The Interest Act, 1978 : https://indiankanoon.org/doc/910984/', 'Vaid Mahesh Chandra Shastri ... vs Life Insurance Corporation Of ... on 13 March, 1968 : https://indiankanoon.org/doc/1266792/']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+Life Insurance Corporation Of ... vs Chander Kanta And Ors. on 31 March, 1998
+Equivalent citations: (1998) 119 PLR 354
+Author: T Chalapathi
+Bench: T Chalapathi
+JUDGMENT T.H.B. Chalapathi, J.
+1. This appeal is filed against the judgment and decree of the learned Additional District Judge, Chandigarh, in Civil Appeal No. 161 of 1985 dated March 13, 1996.
+2. The only dispute in this appeal is in regard to the interest on the amount covered by the policy. On Parkash husband of the first respondent took a policy in his name on his life for Rs. 50,000/- in July, 1975 and he died on 4.5.1976. The plaintiffs then requested the defendant Corporation to pay them the amount but the corporation did not pay the same. Therefore, the plaintiffs filed this suit for recovery of the amount. The trial Court decreed the suit but no interest has been granted. The plaintiffs filed an appeal claiming interest at the rate of 18 per cent per annum. The appellate Court awarded interest at the rate of 18 per cent per annum from the date of death of the insured. Aggrieved by the same the Life Insurance Corporation filed the present appeal.
+3. Learned counsel for the appellant contended that there was no prayer in the suit for payment of interest and, therefore, the Corporation is not liable to pay interest. He further contended that the award of interest at the rate of 18 per cent per annum is not warranted under law. The relevant portion of the plaint reads as follows:-
+"It is, therefore, respectfully prayed that a decree for Rs. 50,000/-...........The plaintiffs may also be granted interest at the rate of fixed deposit from the date the amount found due till the date the amount is paid by the defendant."
+4. Thus, there is specific prayer for granting interest on the amount due under the policy. There cannot be any doubt that the money payable under life insurance policy is a debt on the death of insured and the Court can order payment of interest on the sum insured under the Interest Act from the date of the death of the insured. Reference may be made to the decision of the Allahabad High Court in Vaid Mahesh Chandra Shastri Rampuri v. Life Insurance Corporation of India, 1968(38) Company Cases 767. I am, therefore, of the opinion that the appellant-Corporation is liable to pay interest on the amount covered by the policy and which shall become payable on the death of the insured.
+5. The appellate Court granted interest at the rate of 18 per cent per annum. No reasons have been given by the appellate Court to award interest at the rate of 18 per cent. On the other hand in the plaint the plaintiffs claimed interest payable on fixed deposits. Therefore, I am of the opinion that the grant of interest at the rate of 18 per cent is not fair in this case. In the circumstances of the case, I feel that the rate of interest requires modification I accordingly award interest at the rate of 12 per cent per annum from the date of the death of the deceased till the filing of the suit and during the pendency of the suit at the rate of 6 per cent per annum till the date of payment on the amount of Rs. 50,000/-.
+6. Accordingly the appeal is partly allowed and the decree of the appellate Court is modified allowing interest to the plaintiffs at the rate of 12 per cent per annum from the date of the death of the deceased till the filing of the suit and from the date of filing of the suit to the date of realisation at the rate of 6 per cent per annum on the principal amount of Rs. 50,000/-.

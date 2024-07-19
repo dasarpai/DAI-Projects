@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3093/
+Cites: ['Iqbal Mansoory [A vs State Rep. By on 19 April, 2011\nMadras High Court Cites 21 - Cited by 0 - Full Document', 'Tuncay Alankus vs Central Bureau Of Investigation ... on 23 May, 2008\nDelhi High Court Cites 15 - Cited by 0 - Full Document', 'Shaji vs The State Of Kerala on 14 July, 2006\nKerala High Court Cites 3 - Cited by 0 - Full Document', 'Shahebali Sheikh And Ors. vs Emperor on 30 January, 1931\nCalcutta High Court Cites 21 - Cited by 0 - Full Document', 'Sri Shamsheer @ Kutti vs State Of Karnataka on 20 November, 2020\nKarnataka High Court Cites 6 - Cited by 0 - Full Document', 'Minunno Vancenzo vs State Of H.P. on 8 December, 2005\nHimachal Pradesh High Court Cites 19 - Cited by 1 - Full Document', 'Ashwani Kumar vs State Of U.P. on 17 February, 2023\nAllahabad High Court Cites 15 - Cited by 0 - Full Document', 'State vs Unknown on 10 October, 2013\nDelhi District Court Cites 14 - Cited by 0 - Full Document', 'Ashok Kumar vs Manoj Kumar on 24 January, 2014\nDelhi District Court Cites 11 - Cited by 0 - Full Document', 'Rama Nand Paswan vs State (Govt.Of Nct Delhi) on 11 August, 2009\nDelhi High Court Cites 11 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 279 in The Code Of Criminal Procedure, 1973
+279. Interpretation of evidence to accused or his pleader.
+(1) Whenever any evidence is given in a language not understood by the accused, and he is present in Court in person, it shall be interpreted to him in open Court in a language understood by him.
+(2) If he appears by pleader and the evidence is given in a language other than the language of the Court, and not understood by the pleader, it shall be interpreted to such pleader in that language.
+(3) When documents are put for the purpose of formal proof, it shall be in the discretion of the Court to interpret as much thereof as appears necessary.

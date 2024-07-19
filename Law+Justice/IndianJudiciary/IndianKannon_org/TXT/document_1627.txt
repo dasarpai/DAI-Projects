@@ -1,0 +1,21 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1627/
+Cites: ['Badridas Daga vs The Commissioner Of Income-Tax on 25 April, 1958 : https://indiankanoon.org/doc/866820/', 'Associated Banking Corporation ... vs Commissioner Of Income-Tax, ... on 22 October, 1964 : https://indiankanoon.org/doc/1771900/', 'North Arcot District ... vs Commissioner Of Income Tax on 9 January, 1997 : https://indiankanoon.org/doc/1620179/', 'North Arcot District ... vs Commissioner Of Income Tax. on 9 January, 1997 : https://indiankanoon.org/doc/1119643/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Commissioner Of Income-Tax, ... vs Mohan Trading Co. on 2 August, 1989
+Equivalent citations: 1990 182 ITR 101 Delhi
+Author: Kirpal
+Bench: B Kirpal, C Chaudhary
+JUDGMENT Kirpal, J.
+1. The petitioner, in respect of the assessment year 1972-73, seeks reference of the following question of law to this court :
+"Whether, on the facts and in the circumstances of the case, the Tribunal was justified in holding that the assessed was entitled to the claim regarding embezzlement of cash even though the Tribunal itself had observed that the facts as narrated by the assessed did not inspire confidence ? "
+2. According to the respondent, a sum of Rs. 38,168 was embezzled by one of its employees from its branch at Jammu. This embezzlement was found out by the auditors. The respondent came to know about this embezzlement on July 14, 1971.
+3. The respondent lodged an F.I.R. with the police on July 14, 1971, but the employee could not be traced and the money was not recovered. Nevertheless, the respondent did write to the police even in 1976 reminding the police about this case.
+4. The respondent claimed deduction of this amount. The Income-tax Officer did not allow the same. In appeal, the Commissioner of Income-tax (Appeals) held that, in view of the fact that a reminder had been sent to the Inspector-General of Police as late as 1976, it still showed that the respondent herein considered the chances of recovery as good and hence it could not be said that the loss had occurred during this year.
+5. The assessed then filed an appeal to the Tribunal. The Tribunal, vide its order dated June 25, 1984, relied upon the Board's Circular dated November 24, 1965, and came to the conclusion that the aforesaid amount should be allowed as deduction. It may here be mentioned that the circular of the Board, inter alia, refers to two decisions of the Supreme Court in Badridas Daga v. CIT [1958] 34 ITR 10 and Associated Banking Corporation of India Ltd. v. CIT [1965] 56 ITR 1, in which it was held that embezzlement by an employee was allowable as a deduction in computing the business income. It was further observed in the circular that this loss should be allowed as a deduction in the year in which it is discovered. The Tribunal, applying this circular, observed that it was allowable as a deduction in the year 1972-73.
+6. We see no question of law arising out of the decision of the Tribunal. This petition is dismissed.
+7. No order as to costs.

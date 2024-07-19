@@ -1,0 +1,76 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1187/
+Cites: ['The Industrial Employment (Standing Orders) Act, 1946\nCentral Government Act Cites 0 - Cited by 1736 - Full Document', 'the Delhi Special Police Establishment Act, 1946\nCentral Government Act Cites 0 - Cited by 3341 - Full Document', 'The Payment of Wages Act, 1936\nCentral Government Act Cites 0 - Cited by 2719 - Full Document', 'Section 2 in The Payment of Wages Act, 1936 [Complete Act]\nCentral Government Act Cites 0 - Cited by 389', 'Section 12A in The Industrial Employment (Standing Orders) Act, 1946 [Complete Act]\nCentral Government Act Cites 0 - Cited by 54', 'Section 2 in the Delhi Special Police Establishment Act, 1946 [Complete Act]\nCentral Government Act Cites 0 - Cited by 383', 'Section 2 in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 8116', 'Section 13(2) in The Industrial Employment (Standing Orders) Act, 1946 [Section 13] [Complete Act]\nCentral Government Act Cites 0 - Cited by 7', 'Section 4 in The Industrial Employment (Standing Orders) Act, 1946 [Complete Act]\nCentral Government Act Cites 0 - Cited by 98', 'the Central Excise Act, 1944\nCentral Government Act Cites 0 - Cited by 34165 - Full Document']
++++++++++++++++++++++++++
+
+
+Madras High Court
+B.Sivakumar vs The Managing Director on 15 March, 2010
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS  
+
+DATED:  15.3.2010
+
+CORAM:  
+
+THE HONOURABLE MR.JUSTICE K.CHANDRU
+
+W.P.No.6304 of 2009
+B.Sivakumar       . . Petitioner
+Vs.
+
+1. The Managing Director 
+    TASMAC Ltd., 
+    4th Floor, CMDA Tower-II
+    Egmore, Chennai  600 008. 
+
+2. The Senior Regional Manager 
+    TASMAC Ltd.
+    Coimbatore  30.
+
+2. The District Manager-I
+    (Retail Selling)
+    TASMAC Ltd., Kavundampalayam
+    Coimbatore  30.      .. Respondents
+
+PRAYER: Petition under Article 226 of the Constitution of India for issue of writ of Certiorarified Mandamus to call for the records connected with the proceedings of the 1st respondent in Na.Ka.No.7330/C.V.2(3)2008, dated 16.3.2009 which confirms the order of the second respondent in Pa.Mu.2087/2008/A1, dated 17.7.2008 in confirming the order of the 3rd respondent in Na.Ka.No.1151/2007/RV1, dated 24.12.2007 and quash the same and consequently direct the respondents to reinstate the petitioner as Supervisor.
+
+   For Petitioner : Ms.N.Indumathi
+   For Respondents : Mr.J.Ravindran
+
+ORDER
+The petitioner is a Supervisor in TASMAC Shop No.1619. He was removed from service by an order dated 10.8.2005. He filed a writ petition in W.P.No.24391 of 2007 challenging the order of termination. The said writ petition came to be allowed by order dated 23.7.2007, since his termination was done without due notice. However, he was not directed to be given any back-wages since he challenged the order belatedly and liberty was given to the respondents to pass fresh orders after issuing notice to the petitioner and after conducting an enquiry.
+2. On such remand, the petitioner was restored to service, but an enquiry notice was given to the petitioner. It was stated that in the enquiry no other witnesses were examined. The petitioner himself appeared and stated that the amounts which were seized from the shop to the extent of Rs.59,852/-, which was kept in the empty cartons along with the used bottles, were paid back by the three salesmen attached to the shop and the petitioner has no role. Notwithstanding his explanation, he was dismissed from service by order dated 24.12.2007.
+3. The petitioner preferred an appeal to the second respondent. The Appellate Authority, by order dated 17.7.2008, dismissed the appeal. It was stated that the petitioner being the Shop Supervisor is alone responsible for whatever irregularities that are found in the shop and therefore, his appeal cannot be entertained.
+4. The petitioner also filed a revision as against the said order. The revision was also rejected by an order dated 16.3.2009 of the first respondent. In the revision, it was stated that as per the Rules and Regulations in respect of contract/part-time/temporary workers with regard to the cash shortages, stock shortage and other irregularities, the Shop Supervisor and other Salesmen are jointly responsible and therefore, his revision was rejected. It was against the said order, the petitioner has filed the writ petition.
+5. The writ petition was admitted on 15.4.2009. Despite lapse of eleven months, no counter affidavit has been filed. The matter has been listed on being specially ordered by the Hon'ble Chief Justice.
+6. The learned counsel appearing for the respondents submitted that the petitioner was bound by the terms of appointment and the Rules provided therein and there was no obligation to conduct any enquiry under the said Rules.
+7. This Court is unable to agree with the said contention. Undoubtedly, the activity of the respondent/Corporation is selling liquor through various retail shops and the said work can be held to be a commercial establishment coming within the definition of Section 2(3) of the Tamil Nadu Shops and Establishments Act, 1947. Under the said Act, the services of an employee, who is employed for more than six months, cannot be dispensed with unless one month's notice or wages in lieu of such notice are provided and he can be terminated only for a reasonable cause. Such notice and assigning of reasonable cause are unnecessary if his services are dispensed with on a charge of misconduct supported by satisfactory evidence recorded at an inquiry held for the purpose. Therefore, the relevant Act makes it obligatory for the respondent/ Corporation to conduct an enquiry, in which there must be satisfactory evidence. Though the Tamil Nadu Shops and Establishments Act, 1947 provides for an appeal under Section 41(2), it is not known as to why the petitioner has not availed the appeal remedy provided which is not only cost effective, but more advantageous to the employees.
+8. Apart from this fact, under the Industrial Employment (Standing Orders) Act, 1946, "industrial establishment" has been defined under Section 2(e). As per Section 2(e)(i) of the Industrial Employment (Standing Orders) Act, 1946, "industrial establishment" includes an industrial establishment as defined in clause (ii) of Section 2 of the Payment of Wages Act, 1936. By a State amendment introduced under Section 2(ii)(h) by Tamil Nadu Act 9 of 1959, under Section 2(ii)(h) of the Payment of Wages Act, 1936, it has been provided that it includes an establishment or undertaking which the State Government may, by notification in the Official Gazette, declare to be an industrial establishment for the purposes of the Act.
+9. By virtue of the said power conferred under the Payment of Wages Act, 1936 through the State amendment, the State Government by a notification made in G.O.Ms.No.78, Labour and Employment Department, dated 26.6.1996 has extended the provisions of the Payment of Wages Act to all the shops and commercial establishments employing twenty or more persons. Therefore, by virtue of this notification, the provisions of the Industrial Employment (Standing Orders) Act, 1946 are applicable to the respondent/Corporation.
+10. By virtue of the application of the Industrial Employment (Standing Orders) Act, 1946 to the respondent/Corporation, the respondent/Corporation is bound to get standing orders certified under Sections 3 and 4 of the Industrial Employment (Standing Orders) Act, 1946. If no certified standing orders are available, by virtue of Section 12A of the Industrial Employment (Standing Orders) Act, 1946, the model standing orders framed by the Government are applicable to the employees of the respondent/Corporation. The Model Standing Orders framed by the Tamil Nadu Government under Model Standing Order No.14 provides for termination of employment of workmen. The Model Standing Order No.14 reads as follows:
+"14. Termination of employment of workmen-
+(1) Subject to the provisions contained in standing order 17, no employer shall dispense with the service of any workman with not less than one year of continuous service except for a reasonable cause and without giving such workman atleast one month's notice or wages in lieu of such notice.
+(2) In cases of retrenchment as defined in Section 2(oo) of the Industrial Disputes Act, 1947 (Central Act XIV of 1947), the provisions of the said Act shall apply:
+Provided that no such notice shall be necessary in the case of badli and apprentices.
+(3) No order of termination of service of a workman shall be made unless the workman is informed in writing of the reasons for the termination of his services and is given an opportunity to show cause against such termination. A copy of the said order shall be communicated to the workman.
+(4) Where the employment of any workman is terminated by or on behalf of the industrial establishment, the wages earned by him shall be paid before the expiry of the second working day from the day on which his employment was terminated or the same shall be made available to him by the drawer of the wages, in case he does not turn up for receiving the wages."
+11. In case a workman did not fall under Model Standing Order No.14, the Model Standing Order No.17 provides the punishment for misconducts as well as the procedure for dealing with misconducts. The acts and omissions which constitute misconduct are set out in Model Standing Order No.16. Therefore, it is too late for the respondents to contend that they need not hold any enquiry since the workmen were covered by the terms of the appointment and the contract given to them. When once a matter is covered by the provisions of the Industrial Employment (Standing Orders) Act, 1946, then the question of reading in of a contract into the said Standing Orders will not arise. On the other hand, any agreement signed outside the provisions of the Industrial Employment (Standing Orders) Act, 1946 would be void. The Supreme Court vide its judgment in Western India Match Co. v. Workmen, AIR 1973 SC 2650 in paragraph (8) has held as follows:
+"8. In the sunny days of the market economy theory people sincerely believed that the economic law of demand and supply in the labour market would settle a mutually beneficial bargain between the employer and the workman. Such a bargain, they took it for granted, would secure fair terms and conditions of employment to the workman. This law they venerated as natural law. They had an abiding faith in the verity of this law. But the experience of the working of this law over a long period has belied their faith. Later generations discovered that the workman did not possess adequate bargaining strength to secure fair terms and conditions of service. When the workmen also made this discovery, they organised, themselves in trade unions and insisted on collective bargaining with the employer. The advent of trade unions and collective bargaining created new problems of maintaining industrial peace and production for the society. It was therefore considered that the society has also an interest in the settlement of the terms of employment of industrial labour. While formerly there were two parties at the negotiating table the employer and the workman, it is now thought that there should also be present a third party, the State, as representing the interest of the society. The Act gives effect to this new thinking. By Section 4 the Officer certifying the Standing Order is directed to adjudicate upon the fairness or reasonableness of the provisions of the Standing Order. The Certifying Officer is the statutory representative of the society. It seems to us that while adjudging the fairness or reasonableness of any Standing Order, the Certifying Officer should consider and weigh the social interest in the claims of the employer and the social interest in the demands of the workmen. Section 10 provides the mode of modifying the Standing Orders The employer or the workman may apply to the Certifying Officer in the prescribed manner for the modification of the Standing Orders Section 13(2) provides that an employer who does any act in contravention of the Standing Order shall be punishable with fine which may extend to one hundred rupees. It also provides for the imposition of a further fine in the case of a continuing offence. The fine may extend to twenty-five rupees for every day after the first during which the offence continues."
+12. Therefore, in the light of the above, when a workman is completely covered by the provisions of Section 41 of the Tamil Nadu Shops and Establishments Act, 1947 as well as the Model Standing Orders framed under Industrial Employment (Standing Orders) Act, 1946, the application of which is guaranteed by virtue of Section 12A Industrial Employment (Standing Orders) Act, 1946, any termination contrary to these enactments would be void.
+In view of the same, the writ petition stands allowed and the impugned orders are set aside. No costs. Consequently, M.P.No.2 of 2009 is closed.
+15.3.2010 Index : Yes Internet : Yes sasi K.CHANDRU,J.
+[sasi] To:
+1. The Managing Director TASMAC Ltd., 4th Floor, CMDA Tower-II Egmore, Chennai  600 008.
+2. The Senior Regional Manager TASMAC Ltd.
+Coimbatore  30.
+2. The District Manager-I (Retail Selling) TASMAC Ltd., Kavundampalayam Coimbatore  30.
+W.P.No.6304 of 2009 15.3.2010

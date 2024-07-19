@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4075/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 12 in The Patents (Amendment) Act, 2002
+12. Substitution of new section for section 15.- For section 15 of the principal Act, the following section shall be substituted, namely:-" 15. Power of Controller to refuse or require amended applications, etc., in certain cases.- Where the Controller is satisfied that the application or any specification or any other document filed in pursuance thereof does not comply with the requirements of this Act or of any rules made thereunder, the Controller may require the application, specification or other document, as the case may be, to be amended to his satisfaction before he proceeds with the application or refuse the application on failure o do so.".

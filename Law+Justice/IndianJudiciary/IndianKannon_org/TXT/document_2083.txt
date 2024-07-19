@@ -1,0 +1,929 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2083/
+Cites: ['Section 446 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 952', 'Section 529A in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 607', 'Section 537 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 249', 'The Companies Act, 1956\nCentral Government Act Cites 0 - Cited by 36297 - Full Document', 'Section 442 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 164', 'Section 125 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 201', 'Section 19 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 320', 'Section 132 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 113', 'Section 529 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 513', 'Section 17 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 577']
++++++++++++++++++++++++++
+
+
+Bombay High Court
+Idbi Ltd vs The Official Liquidator on 7 June, 2011
+Bench: Ravi K. Deshpande
+                                       1
+
+               IN THE HIGH COURT OF JUDICATURE AT BOMBAY,
+                          NAGPUR BENCH, NAGPUR
+
+
+
+
+                                                                            
+                                                    
+                  Company Application No.110 of 2009
+                                  In
+                  Company Appeal No.          of 2009
+
+
+
+
+                                                   
+    IDBI Ltd.,
+    having its registered office at
+    IDBI Tower, W.T.C. Complex,
+    Cuffe Parade, Mumbai-400 005,
+    through its Authorized Officer,
+
+
+
+
+                                             
+    B. Srinivasa Rao,
+    Deputy General Manager,
+    Recovery Department.     ig                  ... Applicant
+
+
+    Versus
+                           
+    Official Liquidator,
+    High Court of Bombay,
+    Nagpur Bench, of Maharashtra
+    Explosives Ltd. (In Liqn.).                  ... Non-Applicant
+      
+   
+
+
+
+    Shri S.V. Sohoni, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+
+                                       With
+
+                         Company Appeal No.5 of 2009
+                                      In
+                         Company Petition No.7 of 2001
+
+
+
+
+
+    Kotak Mahindra Bank Ltd.,
+    a banking Company
+    incorporated under
+    the Companies Act, 1956,
+    having its Registered Office
+    at 36-38A,
+    Nariman Bhavan,
+    227, Nariman Point,
+    Mumbai-400 021 and
+    inter alia, having its office at
+
+
+
+
+                                                    ::: Downloaded on - 09/06/2013 17:18:35 :::
+                                        2
+
+    Dani Corporate Park,
+    7th Floor, 158 CST Road,
+
+
+
+
+                                                                              
+    Kalina, Santacruz (E),
+    Mumbai-400 098.                               ... Appellant
+
+
+
+
+                                                      
+    Versus
+
+
+    The Official Liquidator,
+
+
+
+
+                                                     
+    High Court of Bombay,
+    Nagpur Bench, of
+    Maharashtra Explosives Ltd.,
+    (In Liqn.).                                   ... Respondent
+
+
+
+
+                                              
+    Shri A.S. Jaiswal, Advocate for Appellant.
+    Dr. Anjan De, Advocate for Respondent.
+                            
+                           
+                                        With
+
+                          Company Appeal No.9 of 2009
+                                       In
+                          Company Petition No.7 of 2001
+      
+   
+
+
+
+    IFCI Ltd.,
+    A Company incorporated under the
+    Companies Act, 1956 and having its
+    Registered office at 61, Nehru Place,
+    New Delhi.                                    ... Appellant
+
+
+
+
+
+    Versus
+
+
+    Official Liquidator,
+
+
+
+
+
+    High Court of Bombay,
+    Nagpur Bench, of Maharashtra
+    Explosives Ltd. (In Liqn.).                   ... Respondent
+
+
+    Shri S.V. Sohoni, Advocate for Appellant.
+    Dr. Anjan De, Advocate for Respondent.
+
+
+
+
+                                                      ::: Downloaded on - 09/06/2013 17:18:35 :::
+                                       3
+
+                                          With
+
+
+
+
+                                                                             
+                    Company Appeal Stamp No.18418 of 2009
+
+
+
+
+                                                     
+    IDBI Ltd.,
+    having its registered office at
+    IDBI Tower, W.T.C. Complex,
+    Cuffe Parade, Mumbai-400 005,
+    through its Authorized Officer,
+
+
+
+
+                                                    
+    B. Srinivasa Rao,
+    Deputy General Manager,
+    Recovery Department.                         ... Appellant
+
+
+    Versus
+
+
+
+
+                                                
+    Official Liquidator,
+    High Court of Bombay,
+                            
+    Nagpur Bench, of Maharashtra
+    Explosives Ltd. (In Liqn.).                  ... Respondent
+                           
+    Shri S.V. Sohoni, Advocate for Appellant.
+    Dr. Anjan De, Advocate for Respondent.
+      
+   
+
+
+
+                                          With
+
+                       Company Application No.84 of 2008
+                                      In
+
+
+
+
+
+                         Company Petition No.7 of 2001
+
+
+    Kotak Mahindra Bank Ltd.,
+    a banking Company incorporated
+    under the Companies Act, 1956,
+    having its Registered office at
+
+
+
+
+
+    36-38A, Nariman Bhavan,
+    227, Nariman Point,
+    Mumbai-400 021, and inter alia,
+    having its office at Dani Corporate
+    Park, 7th Floor, 158, CST Road,
+    Kalina, Santacruz (E),
+    Mumbai-400 098.                              ... Applicant
+
+
+    Versus
+
+
+
+
+                                                     ::: Downloaded on - 09/06/2013 17:18:35 :::
+                                          4
+
+
+    The Official Liquidator,
+
+
+
+
+                                                                                 
+    High Court of Bombay,
+    Nagpur Bench, Nagpur, of
+    Maharashtra Explosives Ltd.
+
+
+
+
+                                                         
+    (In Liqn.),
+    Old Secretariat Building,
+    2nd Floor, Opposite V.C.A. Ground,
+    Nagpur.                                       ... Non-Applicant
+
+
+
+
+                                                        
+    Shri A.S. Jaiswal, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+                                               
+                                         With
+
+                       Company Application No.377 of 2010
+                             ig       In
+                         Company Petition No.7 of 2001
+                           
+    Bank of India,
+    A Corporate Constitution under the
+    Banking Companies (Acquisition and
+    Transfer of Undertakings) Act No.V of
+      
+
+    1970, having its Head Office at
+    Express Towers, Nariman Point,
+   
+
+
+
+    Bombay-400 021 and a Branch Office
+    amongst other places at Nagpur (Main Branch),
+    Bank of India Building, Ground Floor,
+    King's Way, Nagpur,
+    through Power of Attorney Holder,
+
+
+
+
+
+    Smt. Nirmala Dhas,Senior Bank Manager.        ...Applicant
+
+
+    Versus
+
+
+    Official Liquidator,
+
+
+
+
+
+    High Court, Nagpur,
+    and Liquidator of Maharashtra
+    Explosive Limited (In Liqn.),
+    having office at New Secretariat
+    Building, 2nd Floor, Civil Lines,
+    Nagpur.                                       ... Non-Applicant
+
+
+    Shri Sanjeev P. Deshpande, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+                                                         ::: Downloaded on - 09/06/2013 17:18:35 :::
+                                        5
+
+
+                                       With
+
+
+
+
+                                                                             
+                      Company Application No.146 of 2008
+                                     In
+
+
+
+
+                                                     
+                        Company Petition No.7 of 2001
+
+
+    Bank of Maharashtra,
+    Head Office at 1501,
+    Lokmangal,
+
+
+
+
+                                                    
+    Shivaji Nagar,
+    Pune-5,
+    Branch Office at West High Court
+    Road, Dharampeth, Nagpur,
+    through its Chief Manager.                    ... Applicant
+
+
+
+
+                                             
+    Versus                 
+    Official Liquidator,
+                          
+    High Court, Nagpur, and
+    Liquidator of Maharashtra Explosive Limited
+    (In Liqn.), having office at
+    New Secretariat Building,
+    2nd Floor, Civil Lines, Nagpur.               ... Non-Applicant
+      
+   
+
+
+
+    Shri Tushar Darda, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+
+                                       With
+
+                      Company Application No.153 of 2008
+                                     In
+                        Company Petition No.7 of 2001
+
+
+
+
+
+    IFCI Limited,
+    having its Registered Office at
+    Earnest House, 8th & 9th Floors,
+    Nariman Point, Mumbai-400 021,
+    through its Authorized Officer,
+    Shri V. Sreekumaran Nair,
+    Asstt. General Manager.                       ... Applicant
+
+
+    Versus
+
+
+
+
+                                                     ::: Downloaded on - 09/06/2013 17:18:36 :::
+                                       6
+
+
+
+
+                                                                            
+    Official Liquidator,
+    High Court of Judicature at Bombay,
+    Bench at Nagpur,
+
+
+
+
+                                                    
+    2nd floor, East Wing,
+    New Secretariat Building,
+    Near VCA Ground,
+    Civil Lines, Nagpur-440 001.                ... Non-Applicant
+
+
+
+
+                                                   
+    Shri S.V. Sohoni, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+                                             
+                                       With
+
+                      Company Application No.530 of 2011
+                            ig       In
+                        Company Petition No.7 of 2001
+                          
+    IFCI Limited,
+    having its Registered Office at
+    Earnest House, 8th & 9th Floors,
+    Nariman Point,
+    Mumbai-400 021,
+      
+
+    through its Authorized Officer,
+    Shri V.S. Nair, Asstt. General Manager.     ... Applicant
+   
+
+
+
+    Versus
+
+
+
+
+
+    Official Liquidator,
+    High Court of Judicature at Bombay,
+    Bench at Nagpur,
+    2nd floor, East Wing,
+    New Secretariat Building,
+    Near VCA Ground,
+    Civil Lines,
+
+
+
+
+
+    Nagpur-440 001.                             ... Non-Applicant
+
+
+    Shri S.V. Sohoni, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+                                                    ::: Downloaded on - 09/06/2013 17:18:36 :::
+                                       7
+
+                                       With
+
+
+
+
+                                                                            
+                      Company Application No.154 of 2008
+                                     In
+                        Company Petition No.7 of 2001
+
+
+
+
+                                                    
+    IDBI Bank Ltd.,
+    having its Registered Office at
+    IDBI Tower, W.T.C. Complex,
+    Cuffe Parade,
+
+
+
+
+                                                   
+    Mumbai-400 005,
+    through its Authorized Officer,
+    D. Srinivasa Rao s/o B. Satyanarayana,
+    Deputy General Manager,
+    Recovery Department.                        ... Applicant
+
+
+
+
+                                             
+    Versus                  
+    Official Liquidator,
+                           
+    High Court of Judicature at Bombay,
+    Bench at Nagpur,
+    2nd floor, East Wing, New Secretariat
+    Building, Near VCA Ground,
+    Civil Lines,
+    Nagpur-440 001.                             ... Non-Applicant
+      
+   
+
+
+
+    Shri S.V. Sohoni, Advocate for Applicant.
+    Dr. Anjan De, Advocate for Non-Applicant.
+
+
+
+
+
+                                       With
+
+                      Company Application No.533 of 2011
+                                     In
+                        Company Petition No.7 of 2001
+
+
+
+
+
+    IDBI Bank Ltd.,
+    having its Registered Office at
+    IDBI Tower,
+    W.T.C. Complex,
+    Cuffe Parade,
+    Mumbai-400 005,
+    through its Authorised officer
+    B. Srinivasa Rao s/o B. Satyanarayana,
+    General Manager,
+    Recovery Department.                        ... Applicant
+
+
+
+
+                                                    ::: Downloaded on - 09/06/2013 17:18:36 :::
+                                        8
+
+
+
+
+                                                                                 
+    Versus
+
+
+
+
+                                                         
+    Official Liquidator,
+    High Court of Judicature at Bombay,
+    Bench at nagpur,
+    2nd Floor, East Wing,
+    New Secretariat Building,
+    Near VCA Ground,
+
+
+
+
+                                                        
+    Civil Lines, Nagpur-440 001.                      ... Non-Applicant
+
+
+    Shri S.V. Sohoni, Advocate for Applicant.
+    Dr. Anjay De, Advocate for Non-Applicant.
+
+
+
+
+                                              
+                             ig         With
+
+                     Official Liquidator's Report No.24 of 2009
+                                           In
+                           
+                           Company Petition No.7 of 2001
+
+
+                       In the matter of Companies Act, 1956
+                                        And
+             In the matter of M/s. Maharashtra Explosive Ltd. (In Liqn.)
+      
+   
+
+
+
+    Dr. Anjan De, Advocate for Official Liquidator.
+    Shri S.V. Sohoni, Advocate for Objector.
+    ShriN.A.Padhye,Advocate for Secured Creditors.
+
+
+
+
+
+                Coram : R.K. Deshpande, J.
+                Date of Reserving the Judgment      : 27-4-2011
+
+                Date of Pronouncing the Judgment : 7-6-2011
+
+
+
+
+
+    Judgment :
+1. A Company, viz. Maharashtra Explosives Ltd. (Company under liquidation), incorporated under the Companies Act, 1956 (for short, "the said Act"), having its registered office at Plot No.2, Villa Marina, 924, Nelson Square, Nagpur-13, was ordered to be wound up on 12-8-2001 by this Court in Company Petition No.7 of 2001 and the Official Liquidator was appointed with usual powers and duties under the said Act. In compliance of the said order, the Official Liquidator took the possession of the assets, properties and books of accounts of the said Company, being factory assets situated at Kelzar, District Wardha.
+By an order dated 9-11-2001, the Official Liquidator was permitted by this Court to sell the assets and properties of the said Company situated at Kelzar, District Wardha, and Singroli (M.P.). The Official Liquidator realized a sum of Rs.40 crores by sale of the assets and properties of the said Company.
+The sale was confirmed by this Court on 3-10-2007 in favour of the highest bidder, namely M/s. Cozy Properties Pvt. Ltd., and the purchaser had deposited the entire amount with the Official Liquidator. However, the proceedings are pending before the Apex Court in SLP involving the question of setting aside the sale, payment of costs and expenses. One more appeal filed by the Collector, Wardha, against the order passed by this Court on the question of unearned income from the sale of the Government properties is pending before the Division Bench of this Court.
+2. The ICICI Bank Limited, Industrial Development Bank of India (IDBI) and IFCI Limited claiming themselves to be the secured creditors of the Company in liquidation with first charge on the assets and properties, had filed the Original Application No.14 of 2003 on 18-11-2002, invoking the jurisdiction of the Debts Recovery Tribunal under Section 19 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 ("the RDB Act" for short) on the basis of the hypothecation deeds dated 28-3-1984 and 17-9-1984 and also the mortgage-deeds. The Maharashtra Explosives Ltd., a Company under liquidation, and the Official Liquidator, were party-respondent Nos.1 and 2 respectively, whereas the other creditors, viz. Bank of Maharashtra and Bank of India, were party-respondent Nos.3 and 4 respectively, in the said application.
+The said Original Application was allowed by the Debts Recovery Tribunal by its judgment and order dated 31-8-2005. The operative part of the order is reproduced below :
+"The O.A. Is allowed with cost against defendants 1 and 2 subject to that Official Liquidator's liability shall be restricted to the extent of available estate workmen's dues and claims of other secured creditors.
+Subject to (A) above the defendants 1/2 shall pay -
+(i) To the applicant no.1 Rs.7.10,82,501.85 Ps.
+               (ii)    To the applicant no.2         Rs.7,28,68,640/-
+
+               (iii)   To the applicant no.3         Rs.3,22,26,201/-
+With interest @ 9% per annum from the date of filing the O.A.
+till future realization.
+It is declared that the outstanding are secured by defendant no.1/2's mortgaged properties described in Annexure-A to the O.A. in which defendant nos.3 and 4 have 2nd charge.
+It is also declared that the charge of outstanding are secured by Deeds of Hypothecation (Ex.21, 23).
+Issue Recovery Certificate accordingly."
+3. The Official Liquidator submitted his report, being OLR No.26 of 2005, seeking permission to invite debts and claims under Section 529, 529A and 530 of the said Act read with Rule 148 of the Company (Court) Rules, 1959 (for short, "the said Rules") from the workmen and the creditors of the Company. This Court granted permission on 8-7-2005. Pursuant thereto, the Official Liquidator issued the advertisements in the leading newspapers, which were published on 14-7-2005. The last date for lodging the claims with the Official Liquidator in terms of the said advertisements, was 16-8-2005.
+4. In response to the aforesaid advertisement, the second charge holder-Bank of India filed its affidavit of proof of debt making the claim for recovery of Rs.2,72,24,644.01, on the basis of the order of the Debts Recovery Tribunal passed in Original Application No.414 of 2001.
+The details of the claim were as under :
+1 Outstanding as on 01.10.1999 Rs.2,14,45,381.86 2 Interest charged upto 15-2-2001 Rs. 57,77,262.15 3 Notice Charges Rs. 2,000.00 TOTAL Rs.2,72,24,644.00 The Bank of Maharashtra, which was also held to be the second charge holder, also filed an affidavit of proof of debt on 4-8-2005. It claimed an amount of Rs.1,98,39,779.58 towards principal and Rs.94,74,176/- towards interest from 1-1-1999 to 31-8-2001, on the basis of the order of the Debts Recovery Tribunal passed on 31-8-2005. It also laid other claims.
+5. The first charge holder-IFCI Limited filed its affidavit of proof of debt dated 20-9-2007, in which it claimed a total amount of Rs.3,22,26,201/- as on 18-11-2002 and the amount of interest, at the rate of 9% per annum from 18-11-2002 till its realization, as per the judgment and order dated 31-8-2005 passed by the Debts Recovery Tribunal. The another first charge holder IDBI, laid its claim on 9-8-2005 and additional claim on 11-8-2005 by filing an affidavit of proof of debt. In terms of the judgment and order passed by the Debts Recovery Tribunal on 31-8-2005, the claim of IDBI was for a sum of Rs.11,51,25,284/- as on 15-12-2007 along with future interest at the rate of 9% per annum from 16-12-2007, till its realization.
+6. The ICICI Bank Ltd., which was also the first charge holder, lodged its claim before the Debts Recovery Tribunal. As per the judgment and order dated 31-8-2005 passed by the said Tribunal in Original Application No.120 of 2003, it was entitled to claim of Rs.10,22,54,480/-
+as on 30-9-2007 along with interest at the rate of 9% per annum from the date of filing of the Original Application, i.e. 18-11-2002 till its realization.
+The ICICI Bank Limited, assigned the debts due to it from the Company under liquidation, to Kotak Mahindra Bank Limited on 31-3-2006. This Court allowed Application No.19 of 2006 filed in Company Petition No.7 of 2001 for substituting the name of Kotak Mahindra Bank Limited, in place of ICICI Bank Limited, by an order dated 29-9-2006. Kotak Mahindra Bank limited filed its affidavit of proof of debt on 30-10-2007 and an additional affidavit in support of it, on 16-1-2008. As per the judgment and order dated 31-8-2005 passed by the Debts Recovery Tribunal, it claimed an amount of Rs.10,22,54,480/- as on 30-9-2007. It also claimed interest at the rate of 9% per annum from the date of filing of Original Application, i.e. 18-11-2002, till its realization. In addition to this, it also claimed reimbursement of expenses amounting to Rs.67,27,862/- incurred by its predecessor-in-title for the protection and sale of the secured assets from the sale proceeds. There was a delay in lodging the claim and hence an application was moved, being Company Application No.31 of 2008 for condonation of delay. It was allowed by this Court on 2-4-2008.
+7. On 18-6-2008, Kotak Mahindra Bank Limited filed Company Application No.84 of 2008 claiming the reliefs as under :
+"a) This Hon'ble Court be pleased to order and direct the Official Liquidator to reimburse an amount of Rs.67,27,862/-
+(Rupees Sixty Seven Lacs Twenty Seven Thousand Eight Hundred Sixty Two Only) or any other amount as determined by this Hon'ble Court, to the applicant, towards reimbursement of the expenses incurred by the predecessor in title of the Applicant for the protection and sale of the secured assets.
+b) This Hon'ble Court be pleased to order and direct the official Liquidator that the net sale proceeds from the sale of assets of the company in liquidation, after reimbursement of expenses incurred by other secured creditors, if any, together with the interest earned on the sale proceeds, be distributed to the Applicant on a pari pasu basis with other secured creditors having a 1st charge on the assets of the company in liquidation, in satisfaction of the Recovery Certificate issued by the Debts Recovery Tribunal.
+c) Pending the hearing and final disposal of this Company Application this Hon'ble Court be pleased to order and direct the Official Liquidator to release such ad hoc amount as this Court deems fit and proper towards the adjudicated claim of the Applicant; and
+d) For ad-interim reliefs in terms of prayer (a) and (c) hereto.
+e) For costs of the Application."
+By an order dated 11-7-2008 passed by this Court in Company Application No.84 of 2008, the Official Liquidator was directed to pay an amount of Rs.67,27,862/- towards reimbursement of expenses incurred for the protection and sale of secured assets of the company under liquidation. So far as the claim in terms of prayer clause (b) above, for balance amount of Rs.10,65,31,476/- in terms of the judgment and order dated 31-8-2005 passed by the Debts Recovery Tribunal in Original Application No.14 of 2003 was concerned, this Court, by an order dated 5-9-2008, directed release of ad hoc payment of Rs.5 crores to Kotak Mahindra Bank Limited subject to certain conditions and it was observed that the prayer for grant of relief (b) shall be considered at appropriate stage. The Company Application was thus kept pending. On the basis of the Official Liquidator's Report No.50 of 2008, this Court permitted ad hoc payment of Rs.6 crores to IDBI by an order dated 26-9-2008, and the payment of Rs.2 crores to IFCI Limited.
+8. The Official Liquidator filed OLR No.16 of 2009 on 27-2-2009 for grant of permission to declare 100% dividend under Section 529A of the said Act read with Rule 276 of the said Rules to the workmen and the secured creditors, amounting to Rs.2,02,28,225/- and Rs.,21,20,88,674/-
+respectively, as on the date of winding-up order. Prayer clause (A) of OLR No.16 of 2009 was as under :
+"(A) Whether this Hon'ble High Court would be pleased to permit the Official Liquidator to declare the first Dividend @ 100% to workers and secured creditors, whose claims are accepted and stated in annexures "A" and "B" to this report at paras 7 and 8 and same may be approved and payment will be made after further order of this Hon'ble High Court."
+This Court passed an order on 6-3-2009 permitting the Official Liquidator to declare the dividend as per prayer clause (A) with notice of its actual reimbursement after appropriate orders by the Hon'ble Supreme Court in pending matters. The said is reproduced below :
+" By this report, Official Liquidator states that the work of verification of claims is over and he is in position to declare 100% dividend for workers and also for full amount for secured creditors till the date of winding up order. He has accordingly filed list of secured creditors with their entitlement as Annexures-A and B with this report. He is also seeking permission to advertise the grant of dividend as per Rule 276 of the Companies Act, but then he has further stated that actual disbursement will be only after the matter is cleared by the Hon'ble Supreme Court.
+After hearing the Official Liquidator, I find that as the date of disbursement is still not certain, there is no point in issuing any advertisement at this stage. However, the official liquidator is permitted to declare the dividend as per prayer clause (a) with notice of its actual disbursement after appropriate orders by the Hon'ble Supreme Court in pending matters.
+In view of this, O.L.R. is disposed of."
+9. The Official Liquidator thereafter conducted the meetings on 14-10-2008 and 12-2-2009. In the meeting dated 12-2-2009, the Official Liquidator determined the claims as on the date of the liquidation, i.e. 2-8-2001, and the relevant portion of the same is reproduced below :
+       Secured Creditors           Principal                Interest                 Total
+    1) Kotak Mahindra       1,20,28,560/-             4,67,12,273/-           5,87,40,833/-
+    2) I.D.B.I.             1,81,25,000/-             4,62,82,440/-           6,44,07,440/-
+    3) I.F.C.I.                 83,14,828/-           1,95,48,951/-           2,78,63,779/-
+
+
+
+
+
+
+
+    4) Bank of Maharashtra 1,97,66,602/-          1,19,39,779/-          3,17,06,381/-
+    5) Bank of India         2,14,45,381/-         79,24,858/-           2,93,70,239/-
+
+
+
+
+                                                                                          
+                                                  Gross Total :         21,20,88,672/-
+
+
+
+
+                                                                  
+The Official Liquidator has determined the claims as above, in exercise of his power conferred by Rule 163 of the said Rules, in accordance with Sections 529 and 529A of the said Act and Rules 154, 156 and 179 of the said Rules. It has been separately communicated to all secured creditors vide communication dated 20-2-2009. As against the claims of secured creditors in terms of certificate issued under Section 19(22) of the RDB Act by the Debts Recovery Tribunal, as on 30-9-2007, the Official Liquidator has restricted it up to the date of winding-up order, i.e. 2-8-2001 as per Rule 154 of the said Rules. As against the claim of interest at the rate of 9% per annum granted by the Debts Recovery Tribunal with effect from 18-11-2002 till realization, the Official Liquidator has restricted it to 4% per annum in terms of Rules 156 and 179 of the said Rules.
+10. The communication dated 20-2-2009 issued by the Official Liquidator determining the claims as on the date of winding-up order is the subject-matter of challenge in Company Appeal No.5 of 2009 filed by Kotak Mahindra Bank Ltd. on 20-6-2009, Company Appeal No.9 of 2009 filed by IFCI on 18-6-2009, and Company Appeal Stamp No.18418 of 2009 filed by IDBI along with the application for condonation of delay. The Bank of India, which is the second charge holder, filed Company Application No.377 of 2010 on 9-11-2009 for distribution of the amount as per the certificate issued by the Debts Recovery Tribunal. The Bank of Maharashtra, the another second charge holder, filed Company Application No.146 of 2008 for disbursement of the amount as per the certificate issued by the Debts Recovery Tribunal on 31-8-2005.
+On 24-3-2009, the Official Liquidator filed another OLR No.24 of 2009 for permission to declare dividend. The IFCI filed its objection to this OLR.
+The IDBI Bank Ltd. filed separate Company Application No.533 of 2011, on 6-4-2011 for direction to the Official Liquidator to pay amount as per the certificate under Section 19(22) of the RDB Act. Similar Company Application No.530 of 2011 is also filed on 6-4-2011 by IFCI Ltd.
+11. Shri A.S. Jaiswal and Shri S.V. Sohoni, the learned counsels appearing for the appellants, have urged that the first charge holders are entitled to enforce their full claim as per the certificate issued by the Debts Recovery Tribunal under Section 19(22) of the RDB Act. According to them, the Official Liquidator and the Company under liquidation were both the party-respondents in the proceedings before the Debts Recovery Tribunal and the certificate issued under Section 19(22) of the RDB Act by the Debts Recovery Tribunal on 31-8-2005 is binding upon them, as they have not challenged it before the Appellate Tribunal under the RDB Act.
+According to them, the Official Liquidator had no option but to honour the certificate as it is without any modification or alteration. They further submit that the first charge holders remained outside the liquidation proceedings and hence the Official Liquidator had no competency to adjudicate upon their claims on the basis of the provisions of Rules 156 and 179 of the said Rules to restrict the payment of interest to 4% per annum. According to them, the provisions of Rules 156 and 179 of the said Rules were not applicable to those secured creditors, who remained outside the liquidation proceedings.
+12. It is the further submission of Shri Jaiswal and Shri Sohoni, the learned counsels, that the Official Liquidator has, in his communication dated 20-2-2009 impugned in these appeals, informed the secured creditors to approach the Company Court for their balance amount of claim. Hence, it is their alternate submission that if the Liquidator cannot grant the claims of the secured creditors in terms of the certificate issued under the RDB Act, then it is the Company Court, which is competent to grant such claims and hence for that purpose, Kotak Mahindra Bank Ltd.
+has filed a separate Company Application, bearing No.84 of 2008 claiming the reliefs, as are already reproduced in para 7 of this judgment. Similar Company Application Nos.146 of 2010, 377 of 2010, 530 of 2011 and 533 of 2011 have been filed by all other secured creditors. Though the Bank of Maharashtra has filed Company Application no.146 of 2010, Shri Darda, the learned counsel for the Bank of Maharashtra, has brought to my notice, the fact that the Bank of Maharashtra has filed Recovery Proceedings No.2 of 2008 before the Debts Recovery Tribunal for execution of the certificate of recovery dated 25-1-2008, issued for Rs.3,21,18,451.58 under Section 19(22) of the RDB Act by the Debts Recovery Tribunal and the notice has been issued by the Debts Recovery Tribunal on 19-4-2011 to the Official Liquidator. Dr. Anjan De, the learned counsel for the Official Liquidator, has also accepted that the Official Liquidator has received such notice.
+13. Relying upon the provision of Rule 9 of the said Rules, it has been urged that inherent powers are conferred upon the Company Court to give such directions or pass such other orders as may be necessary for the ends of justice or to prevent abuse of process of the Court. It is the submission of Shri Sohoni, the learned counsel, that IDBI and IFCI have raised an objection to OLR 24 of 2009 and claimed the disbursement of the amount as per the certificate issued by the Debts Recovery Tribunal.
+It is also the submission of Shri Jaiswal, the learned counsel, that in terms of the provision of Section 456(2) of the said Act, the Company Court is the custodian of the properties of the Company under liquidation. The properties of the Company are already sold as per the order dated 9-11-2001 passed by the Company Court and an amount of Rs.40 crores has been realized by sale of assets and properties of the Company under liquidation. The sale has been confirmed by this Court on 3-10-2007. Hence, the only remedy available for the secured creditors is to approach the Company Court for release of the balance amount covered by the certificate.
+14. Dr. Anjan De, the learned counsel for the Official Liquidator, has urged that the Official Liquidator has acted in accordance with the provisions of Rules 154, 156 and 179 of the said Rules while accepting or rejecting the claims of the secured creditors. According to him, Rule 154 of the said Rules does not permit the Official Liquidator to accept the claims of the secured creditors after the date of the order of winding-up was passed on 2-8-2001 and, therefore, the Official Liquidator has restricted the claims to the date of the order of winding-up of the Company. He further submits that Rules 156 and 179 of the said Rules do not permit the Official Liquidator to grant interest exceeding 4% per annum and hence the Official Liquidator was right in restricting the claim of interest to 4% per annum. In view of this, it is the submission of Dr. Anjan De that the Official Liquidator has asked the secured creditors to get their claims for the balance amount from the Company Court.
+According to him, no fault can be found with the action of the Official Liquidator impugned in these appeals.
+15. In respect of the claims of the secured creditors for grant of the amount in terms of the certificate issued by the Debts Recovery Tribunal, as made in Company Application No.84 of 2008, and the objections raised by the secured creditors to OLR No.24 of 2009, Dr. Anjan De, the learned counsel for the Official Liquidator; and Shri Ramesh Darda and Shri S.P. Deshpande, the learned counsels for the second charge holders, have urged that Section 25 of the RDB Act prescribes various modes of recovery of debts and Section 28 thereof provides for the other modes of recovery on the basis of the certificate issued under Section 19(22) of the RDB Act. According to them, if the secured creditors wanted execution of the certificate issued by the Debts Recovery Tribunal, then they have to adopt all such modes as are available under the RDB Act, and the mode, which they have adopted of making an application before the Company Court, is not the mode recognized for execution of the certificate under the RDB Act. Hence, according to them, such prayer before the Company Court is not maintainable.
+16. Dr. Anjan De, the learned counsel for the Official Liquidator, relying upon the provisions of Section 132 and 125 of the said Act, has also urged that the secured creditors have failed to establish that the Registrar of Companies has given them a certificate of registration of charge stating the exact amount which is secured, and hence the charges of the secured creditors become void against the Official Liquidator in terms of the provisions of Section 125 of the said Act. It is also urged by Shri Ramesh Darda and Shri S.P. Deshpande, the learned counsels, that the first charge holders, in spite of obtaining a certificate under Section 19(22) of the RDB Act and opting to stay outside the liquidation proceedings initially, have participated in the winding-up proceedings before the Official Liquidator under Rule 163 of the said Rules. The secured creditor-Kotak Mahindra Bank Pvt. Ltd. has claimed and recovered the expenses amounting to Rs.67,27,860/- incurred for protection and sale of secured assets as per the order dated 11-7-2008 passed by this Court in Company Application No.84 of 2008. The Company Court has also permitted declaration of dividend as per the order dated 6-3-2009 passed on OLR No.16 of 2009. The first charge holders have also got their claims accepted from the Official Liquidator in exercise of his powers under Rule 163 of the said Rules up to the date of the order of winding-up of the Company and to the extent of 4% interest in terms of Rules 156 and 179 of the said Rules. They have not adopted any procedure for execution of the certificate, as contemplated by Sections 25, 28 and 29 of the RDB Act. Thus, the entire conduct of the first charge holders amounts to relinquishment of their securities in terms of the proviso to Section 529(1) of the said Act and hence the waiver and estoppel operate against them to ask for payment of their dues in terms of the certificate.
+17. From the rival submissions made by the parties, the following questions fall for consideration of this Court in all these appeals :
+(1) Whether the secured creditors, having obtained a certificate under Section 19(22) of the RDB Act for recovery of their dues as the first charge holders from the Company under liquidation, are entitled to enforce their full claim under the certificate, in the proceedings lodged under Rule 163 of the said Rules before the Official Liquidator ?
+(2) Whether the official Liquidator, in exercise of his powers under Rule 163 of the said Rules, is competent to restrict the claims of the secured creditors holding a certificate of recovery under Section 19(22) of the RDB Act for recovery of the dues up to the date of winding-up order, as contemplated by Rule 154, and for payment of subsequent interest at the rate of 4%, as contemplated by Rule 179 of the said Rules ?
+(3) Whether the Company Court has jurisdiction under Section 446 of the said Act to entertain and decide the claims of the first charge holders/secured creditors for payment of balance amount of debts on the basis of the certificate issued under Section 19(22) by the Debts Recovery Tribunal, in exercise of its jurisdiction under Section 17 of the RDB Act ?
+(4) Whether the Company Court has jurisdiction under Section 446 of the said Act to decide the question whether the charges of the secured creditors are registered under Section 132 of the said Act and to the extent such charges are not registered, the claims of the secured creditors against the Official Liquidator can be declared as void in view of the provisions of Section 125 of the said Act ?
+(5) Whether the Company Court has jurisdiction under Section 446 of the said Act, to go into the question whether the first charge holders have relinquished or surrendered their securities/charges over the assets and properties of the Company under liquidation ?
+Facts not in dispute :
+18. It is not in dispute that on 2-8-2001, the Company under liquidation was ordered to be wound-up and the Official Liquidator was appointed. The assets and properties of the Company under liquidation have been sold on 9-11-2001 and an amount of Rs.40 crores has been realized. The sale has been confirmed by this Court on 3-10-2007 and the SLP is pending in the Supreme Court and there is no stay. It is the claim of the secured creditors that they opted to remain outside the liquidation proceedings and had approached the Debts Recovery Tribunal under Section 19 of the RDB Act on 18-11-2002. It is further not disputed that the Company under liquidation and the Official Liquidator were the party-
+respondent nos.1 and 2 respectively in the proceedings before the Debts Recovery Tribunal instituted by the first charge holders. It is also not in dispute that the Debts Recovery Tribunal, by its judgment and order dated 31-8-2005, has determined the priority of the secured creditors and the amount, which each one of them is entitled to recover from the Company under liquidation, as on 30-9-2007. It is also not in dispute that the first charge holders are held entitled to get interest at the rate of 9% per annum from the date of filing of the OA, i.e. 18-11-2002, till the realization of the debts. The judgment and order dated 31-8-2005 passed by the Debts Recovery Tribunal has become final and binding upon the Official Liquidator and the Company under liquidation. The Official Liquidator has determined the liabilities of the Company under liquidation on 12-2-2009, in accordance with the provisions of Sections 529 and 529A of the said Act and Rules 154, 156 and 159 of the said Rules. In this factual background, the controversy needs to be considered.
+As regards Question No.(1) :
+19. The first charge holders have lodged their claims on the basis of the certificate under Section 19(22) of the RDB Act, in the proceedings under Rule 163 of the said Rules before the Official Liquidator. The Official Liquidator has partially accepted the claims of all such secured creditors as under :
+    S.No.         Name of      Total claim under    Claim accepted under Rule 163 of the Company 
+                  Secured         certificate        (Court) Rules, 1959 by the Official Liquidator
+                  Creditor
+                                                    Principal          Interest           Total
+                                                       (a)               (b)                (c)
+     1      Kotak              Rs,10,22,54,480/- Rs.1,20,28,560/- Rs.4,67,12,273/- Rs.5,87,40,833/-
+            Mahindra 
+            Bank Ltd.
+
+
+
+
+
+
+
+    2   Industrial    Rs.11,51,25,284/- Rs.1,81,25,000/- Rs.4,62,82,440/- Rs.6,44,07,440/-
+        Development 
+
+
+
+
+                                                                                            
+        Bank of India
+    3   Industrial      Rs.3,22,26,201/-   Rs.83,14,828/-   Rs.1,95,48,951/- Rs.2,78,63,779/-
+
+
+
+
+                                                                    
+        Finance 
+        Corporation of 
+        India Ltd.
+    4   Bank of         Rs.2,93,13,955/-   Rs.1,97,66,602/- Rs.1,19,39,779/- Rs.3,17,06,381/-
+
+
+
+
+                                                                   
+        Maharashtra
+5 Bank of India Rs.2,72,24,644/- Rs.2,14,45,381/- Rs.79,24,858/- Rs.2,93,70,239/-
+Gross Total Rs.21,20,88,672/-
+The Official Liquidator has partially accepted the claims of the secured creditors on the basis of the certificate under Section 19(22) of the RDB Act, up to the date of the order of winding-up of the Company passed on 12-8-2001.
+20. The question is whether the secured creditors having obtained the certificates under Section 19(22) of the RDB Act, are entitled to enforce their full claim under the certificates in the proceedings lodged under Rule 163 of the said Rules before the Official Liquidator, irrespective of the date of order of winding-up of the Company. Rule 163 of the said Rules deals with acceptance or rejection of proof of debts in winding-up proceedings by the Official Liquidator. The Official Liquidator may have partially accepted the claim on the basis of the certificate issued by the Debts Recovery Tribunal under Section 19(22) of the RDB Act. However, it does not mean that the jurisdiction of the Official Liquidator under Rule 163 of the said Rules can be invoked by the secured creditors to enforce their full claims on the basis of the certificate under Section 19(22) of the RDB Act. Sections 25, 26 and 29 of the RDB Act provide various modes for execution of such certificates. Neither the Official Liquidator is empowered under the said provisions of the RDB Act, to enforce such certificate nor Rule 163 of the said Rules is prescribed as one of the modes for execution of such certificates under Sections 25, 28 and 29 of the RDB Act. Though, the Official Liquidator is bound by the judgment and order dated 31-8-2005 passed by the Debts Recovery Tribunal and the certificate under Section 19(22) of the RDB Act, he would be answerable in respect of it, in the proceedings for execution of such certificate, if initiated by the secured creditors under the provisions of the RDB Act. But when it comes to the acceptance or rejection of the proof of debts under Rule 163 of the said Rules, the Official Liquidator will have to act strictly in accordance with the provisions of the said Act and the Rules and he can neither act in deviation of it, nor can grant the claims, which are not permissible under the said Rules. The first charge holders/secured creditors are, therefore, not entitled to enforce their full claim under the certificate, in the proceedings lodged under Rule 163 of the said Rules before the Official Liquidator. The question No.1 is answered accordingly. Hence, no fault can be found with the action of the Official Liquidator, which is impugned in the appeals.
+As regards Question No.(2) :
+21. The question is whether the Official Liquidator, acting under Rule 163 of the said Rules in winding-up proceedings, is competent to restrict the claims of the secured creditors for recovery of debts, to the date of the order of winding-up as per Rule 154 of the said Rules and for interest to the extent of 4%, as contemplated by Rules 156 and 179 of the said Rules. Rules 154, 156, 163 and 179 of the said Rules being relevant, are reproduced below :
+"R.154. Value of debts.--The value of all debts and claims against the company shall, as far as is possible, be estimated according to the value thereof at the date of the order of the winding-up of the company or where before the presentation of the petition for winding-up, a resolution has been passed by the company for voluntary winding-up, at the date of the passing of such resolution."
+"R.156. Interest.--On any debt or certain sum payable at a certain time or otherwise, whereon interest is not reserved or agreed for, and which is overdue at the date of the winding-
+up order, or the resolution as the case may be, the creditor may prove for interest at a rate not exceeding four per cent per annum up to that date from the time when the debt or sum was payable, if the debt or sum is payable by virtue of a written instrument at a certain time, and if payable otherwise, then from the time when a demand in writing has been made, giving notice that interest will be claimed from the date of demand until the time of payment."
+"R.163. Acceptance or rejection of proof to be communicated.--After such investigation as he may think necessary, the liquidator shall in writing admit or reject the proof in whole or in part. Every decision of the Liquidator accepting or rejecting a proof, either wholly or in part, shall be communicated to the creditor concerned by post under certificate of posting where the proof is admitted and by registered post for acknowledgment where the proof is rejected wholly or in part, provided that it shall not be necessary to give notice of the admission of a claim to a creditor who has appeared before the Liquidator and the acceptance of whose claim has been communicated to him or his agent in writing at the time of acceptance. Where the Liquidator rejects a proof, wholly or in part, he shall state the grounds of the rejection to the creditor in Form No.69. Notice of admission of proof shall be in Form No.70."
+"R.179. Payment of subsequent interest.--In the event of there being a surplus after payment in full of all the claims admitted to proof, creditors whose proofs have been admitted shall be paid interest from the date of the winding-up order or of the resolution as the case may be, up to the date of the declaration of the final dividend, at a rate not exceeding 4 per cent per annum, on the admitted amount of the claim, after adjusting against the said amount the dividends declared as on the date of the declaration of each dividend."
+Rule 163 of the said Rules deals with the acceptance or rejection of the proof by the Liquidator either wholly or in part, which is to be communicated to the creditor concerned. The Official Liquidator is, therefore, competent to accept the claim in part also and hence it cannot be said that he has acted without jurisdiction in rejecting part of the claim. The said Rule is placed in the chapter of winding-up proceedings by the Court. The Official Liquidator is, therefore, bound by the provisions under the chapter of winding-up in the said Rules. Rule 154 in the said chapter deals with the value of debts, which the Official Liquidator has to estimate at the date of the order of winding-up of the Company, which is 2-8-2001 in this case. Rules 156 and 179 in the said chapter deal with the payment of interest, which cannot exceed 4% per annum up to the date from the time when the debt or sum was payable from the date of the winding-up order. The Official Liquidator is, therefore, competent to restrict the claims of secured creditors, as has been done. The question No.(2) is, therefore, answered accordingly. It is not disputed in this case that the Official Liquidator has acted as per the said Rules. Hence, no fault can be found with the action of the Official Liquidator.
+22. The contention of Shri Jaiswal, the learned counsel for the first charge holders, is that under Rule 163 of the said Rules, there is no power vested with the Official Liquidator to adjudicate upon the claims of the secured creditors standing outside the liquidation proceedings and in whose favour the competent Court, i.e. the Debts Recovery Tribunal, has issued the certificate of recovery under Section 19(22) of the RDB Act.
+According to him, the Official Liquidator, by acting on the basis of the provisions of Rules 154, 156 and 179 of the said Rules, has altered or modified the claims of the secured creditors. The alternate submission of the learned counsel is that Section 34 of the RDB Act provides that notwithstanding anything inconsistent therewith contained in any other law for the time being in force, the provisions of this Act shall have the effect. Hence, according to him, the provisions of Rules 154, 156 and 179 of the said Rules being inconsistent with the terms of the certificates issued under Section 19(22) of the RDB Act, the same will not operate.
+23. The contention, as aforesaid, raised by Shri Jaiswal, the learned counsel for the first charge holders, cannot be accepted.
+The reasons are that when the Official Liquidator acts under Rule 163 of the said Rules, either to accept or to reject the proof of debts,, he is not exercising any power of execution of certificate under Sections 25 to 30 of the RDB Act. Hence, it will not have the effect of altering or modifying such certificate. The certificate issued under Section 19(22) of the RDB Act remains as it is. On the contrary, the claim in the certificate is accepted to the extent it is in conformity with Rules 154, 156 and 179 of the said Rules. The Official Liquidator is neither competent to travel beyond the scope of the said Rules, nor is conferred with the powers under Sections 25 to 30 of the RDB Act, to execute the said certificate.
+In view of this, there is no question of any adjudication by the Official Liquidator when he restricts the claims of the secured creditors in conformity with the provisions of the said Rules. What is the most important aspect of it, is that the acceptance of the claim of the secured creditor by the Official Liquidator under Rule 163 of the said Rules, is not binding upon the secured creditor and it is open for him either to accept it or refuse to accept it. Even if he accepts it or refused to accept it, his right to get the certificate under Section 19(22) of the RDB Act executed under Sections 25 to 30 of the RDB Act is in no manner taken away, altered or modified for recovery of the full amount of such certificate. In view of this, there is no question of any inconsistency, as contemplated by Section 34 of the RDB Act, and hence the said provision does not come into operation in this situation.
+24. Shri Jaiswal, the learned counsel, has relied upon the judgment of Punjab and Haryana High Court in State Bank of Patiala v.
+Northland Sugar Complex Ltd., reported in (2004) 55 SCL 92, wherein it has been held that Rule 154 of the Company (Court) Rules is not applicable in respect of the secured creditors, who stand outside the winding-up proceedings, and the date of winding-up is relevant only for those creditors, whose claims are required to be settled by the Official Liquidator. The said judgment is not applicable to the facts of the present case, for the reason that though the secured creditors are standing outside the liquidation proceedings, they have approached the Official Liquidator under Rule 163 of the said Rules for acceptance of their claims.
+If they wanted the Official Liquidator to accept their claims, then the Official Liquidator is bound by the provision of Rules 154, 156 and 179 of the said Rules, though the secured creditors standing outside may not be.
+It is still open for the secured creditors to refuse to accept such determination by the Official Liquidator and to adopt the modes of execution, as prescribed under the RDB Act. In such execution proceedings, Rules 154, 156 and 179 of the said Rules shall not come into operation. Same would be the fate of other two judgments of Kerala High Court and Andhra Pradesh High Court in Federal Bank Ltd. and others v.
+Official Liquidator and others, reported in (2003) 113 Company Cases 410, and Re: Crips Laboratories Ltd., reported in (2008) 145 Company Cases 357. For the same reasons, these two judgments are also not applicable to the facts of the present case.
+As regards Question No.(3) :
+25. This question pertains to the jurisdiction of the Company Court under Sections 446 and 537 of the said Act and relating to the execution of the certificate issued under Section 19(22) of the RDB Act. Section 446 of the said Act being relevant, is reproduced below :
+"446. Suits stayed on winding up order.--(1) When a winding up order has been made or the Official Liquidator has been appointed as provisional liquidator, no suit or other legal proceeding shall be commenced, or if pending at the date of the winding up order, shall be proceeded with, against the company, except by leave of the Tribunal and subject to such terms as the Tribunal may impose.
+(2) The Tribunal shall, notwithstanding anything contained in any other law for the time being in force, have jurisdiction to entertain, or dispose of--
+(a) any suit or proceeding by or against the company;
+(b) any claim made by or against the company (including claims by or against any of its branches in India);
+(c) any application made under section 391 by or in respect of the company;
+(d) any question of priorities or any other question whatsoever, whether of law or fact, which may relate to or arise in course of the winding up of the company;
+whether such suit or proceeding has been instituted, or is instituted, or such claim or question has arisen or arises or such application has been made or is made before or after the order for the winding up of the company, or before or after the commencement of the Companies (Amendment) Act, 1960 (65 of 1960).
+* * * (4) Nothing in sub-section (1) or sub-section (3) shall apply to any proceeding pending in appeal before the Supreme Court or a High Court."
+Sub-section (1) of Section 446 of the said Act creates a bar for institution of suit or other legal proceedings after passing of the order of winding-up of the Company, except by leave of the Company Court and subject to such terms as the Company Court may impose. If any suit or other legal proceedings are pending against the Company under liquidation on the date of the winding-up order, then this provision also creates a bar to proceed with it against the Company under liquidation, except by leave of the Company Court and subject to such terms as the Company Court may impose.
+Sub-section (2) of Section 446 begins with the non obstante clause and it states that the Company Court shall, notwithstanding any contained in any other law for the time being in force, have jurisdiction to entertain, or dispose of the suit, other proceedings, claims and application and shall decide the questions specified in clauses (a) to (d) of sub-section (2) of Section 446 of the said Act.
+Section 537 is relevant and the same is also reproduced below :
+"537. Avoidance of certain attachments, executions, etc., in winding up by Tribunal.-- (1) Where any company is being wound up by the Tribunal--
+(a) any attachment, distress or execution put in force, without leave of the Tribunal against the estate or effects of the company, after the commencement of the winding up; or
+(b) any sale held, without leave of the Tribunal of any of the properties or effects of the company after such commencement.
+(2) Nothing in this section applies to any proceedings for the recovery of any tax or impost or any dues payable to the Government."
+Sub-section (1) of Section 537 of the said Act also contemplates leave to be obtained from the Company Court for attachment, distress or execution against the estate or effects of the Company, or for any sale of the properties or effects of the Company. If any such proceedings, as contemplated by Section 537 of the said Act, are taken up without leave of the Company Court, the same are rendered void.
+26. When the aforesaid provisions under the said Act were introduced or amended, the RDB Act was not in force. It was enacted subsequently and brought into force with effect from 25-6-1993.
+Section 17 of the RDB Act created the jurisdiction of the Debts Recovery Tribunal to entertain and decide the applications from the banks and financial institutions for recovery of debts due to them. Section 17 of the RDB Act being relevant, is reproduced below :
+"17. Jurisdiction, powers and authority of Tribunals.--
+(1) A Tribunal shall exercise, on and from the appointed day, the jurisdiction, powers and authority to entertain and decide applications from the banks and financial institutions for recovery of debts due to such banks and financial institutions.
+(2) An Appellate Tribunal shall exercise, on and from the appointed day, the jurisdiction, powers and authority to entertain appeals against any order made, or deemed to have been made, by a Tribunal under this Act."
+Section 19(19) and Section 19(22) of the RDB Act confer powers upon the Debts Recovery Tribunal to issue the certificate of recovery and the same being relevant, are reproduced below :
+"19. Application to the Tribunal.-- ...
+(19) Where a certificate of recovery is issued against a company registered under the companies Act, 1956 (1 of 1956), the Tribunal may order the sale proceeds of such company to be distributed among its secured creditors in accordance with the provisions of section 529-A of the Companies Act, 1956 (1 of 1956) and to pay the surplus, if any, to the company.
+(22) The Presiding Officer shall issue a certificate under his signature on the basis of the order of the Tribunal to the Recovery Officer for recovery of the amount of debt specified in the certificate."
+Section 18 of the RDB Act deals with the bar of jurisdiction and it runs as under :
+"18. Bar of jurisdiction.--On an from the appointed day, no Court or other authority shall have, or be entitled to exercise, any jurisdiction, powers or authority (except the Supreme Court, and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) in relation to the matters specified in section 17."
+Sections 25 to 29 deal with various modes of recovery. Section 34 of the RDB Act deals with overriding effect of the RDB Act and the same is reproduced below :
+"34. Act to have overriding effect.--(1) Save as provided under sub-section (2), the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.
+The provisions of this Act or the rules made thereunder shall be in addition to, and not in derogation of, the Industrial Finance Corporation Act, 1948 (15 of 1948), the State Financial Corporations Act, 1951 (63 of 1951), the Unit Trust of India Act, 1963 (52 of 1963), the Industrial Reconstruction Bank of India Act, 1984 (62 of 1984), the Sick Industrial Companies (Special Provisions) Act, 1985 (1 of 1986) and the Small Industries Development Bank of India Act, 1989 (39 of 1989)."
+27. After coming into force of the RDB Act, the first decision of the Apex Court on the said Act came in the case of Allahabad Bank v. Canara Bank and another, reported in AIR 2000 SC 1535. It was a case where the appellant-Allahabad Bank obtained a certificate under Section 19(19) of the RDB Act against the debtor-Company and the claim of the respondent-Canara Bank against the debtor-Company was pending before the Debts Recovery Tribunal. There was no order of winding-up of the debtor-Company passed, nor was the Liquidator appointed. In response to the recovery proceedings initiated by the appellant-Allahabad Bank before the Recovery Officer under the RDB Act, the respondent-Canara Bank filed an application for stay of sale of the properties of the debtor-Company before the Company Court. The learned Judge of the Company Court, in exercise of his powers under Section 442 read with Section 537 of the said Act, stayed sale of assets and disbursement of monies realized in some of the sales already effected. This was the subject-matter of challenge in appeal before the Apex Court. The Apex Court allowed the appeal and set aside the order of the High Court and it was held that the respondent-Canara Bank does not belong to the class of secured creditor covered by Section 529A(1)(b) of the said Act.
+28. The first question, which arose in the decision of the Apex Court, cited supra, was : whether the Debts Recovery Tribunal has exclusive jurisdiction under Section 17 of the RDB Act in the matter of passing the order of adjudication. The second question was whether for initiation of various proceedings under the RDB Act, leave of the Company Court was necessary under Section 537 of the said Act before a winding-up order is passed against the Company. The third question was whether the Company Court can pass an order of stay of the proceedings before the Debts Recovery Tribunal in exercise of its powers under Section 442 of the said Act. The fourth question involved was whether the provisions of the RDB Act shall override the provisions of the said Act.
+Lastly, a distinction was made between the cases where the secured creditor opts to stand outside the winding-up proceedings and where he goes before the Company Court.
+29. The question whether the Debts Recovery Tribunal has exclusive jurisdiction under Section 17 of the RDB Act in respect of adjudication and execution has been dealt with in paras 21, 22, 23, 24 and 25 of the judgment of the Apex Court, cited supra, and the relevant paras are reproduced below :
+"22. We hold that the provisions of Sections 17 and 18 of the RDB Act are exclusive so far as the question of adjudication of the liability of the defendant to the appellant Bank is concerned.
+(ii) execution of Certificate by Recovery Officer : Is his jurisdiction exclusive"
+"23. Even in regard to 'execution', the jurisdiction of the Recovery Officer is exclusive. Now a procedure has been laid down in the Act for recovery of the debt as per the certificate issued by the Tribunal and this procedure is contained in Chapter V of the Act and is covered by Sections 25 to 30. It is is not the intendment of the Act that while the basic liability of the defendant is to be decided by the Tribunal under Section 17, the Banks/Financial institutions should go to the Civil Court or the Company Court or some other authority outside the Act for the actual realisation of the amount. The certificates granted under Section 19(22) has, in out opinion, to be executed only by the Recovery officer. No dual jurisdictions at different stages are contemplated. Further, section 34 of the Act gives overriding effect to the provisions of the RDB Act. That section reads as follows :
+"Section 34(1) : Act to have overriding effect--
+(1) Save as otherwise provided in sub-section (2), the provisions of this Act shall effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.
+(2) The provisions of this Act or the rules made thereunder shall be in addition to, and not in derogation of, the Industrial Finance Corporation Act, 1948 (15 of 1948), the State Financial Corporation Act, 1951 (63 of 1951), the Unit Trust of India Act, 1963 (52 of 1963), the Industrial Reconstruction Bank of India Act, 1984 (62 of 1984) and the Sick Industrial Companies (Special Provisions) Act, 1985 (1 of 1986)."
+The provisions of section 34(1) clearly state that the RDB Act overrides other law s to the extent of 'inconsistency'. In our opinion, the prescription of an exclusive Tribunal both for adjudication and execution is a procedure clearly inconsistent with realisation of these debts in any other manner."
+"25. Thus, the adjudication of liability and the recovery of the amount of execution of the certificate are respectively within the exclusive jurisdiction of the Tribunal and the Recovery Officer and no other Court or authority much less the Civil Court or the Company Court can go into the said questions relating to the liability and the recovery except as provided in the Act. Point 1 is decided accordingly. ..."
+Thus, it has been held in clear terms that the jurisdiction of the Debts Recovery Tribunal under Sections 17 and 18 of the RDB Act is exclusive so far as the question of adjudication of liability and execution of the certificate by the Recovery Officer is concerned. It has further been held that no other Court or authority much less the Civil Court or the Company Court can go into the said question relating to the liability and recovery, except as provided in the Act.
+30. The next question regarding leave of the Court, as contemplated by Sections 446 and 537 of the said Act, is concerned, it has been dealt with in paras 29 and 31 of the judgment of the Apex Court, cited supra, and the relevant portion is contained in para 31, which is reproduced below :
+"31. ...We are of the view that the appellant's case under the RDB Act - with an additional section like section 34 - is on a stronger footing for holding that leave of the Company Court is not necessary under section 537 or under section 446 for the same reasons. If the jurisdiction of the Tribunal is exclusive, the Company Court cannot also use its powers under section 442 against the Tribunal/Recovery Officer.
+Thus, sections 442, 446 and 537 cannot be applied against the Tribunal. ..."
+It has thus been held that the jurisdiction of the Debts Recovery Tribunal is exclusive and the Company Court cannot use its powers under Section 442 against the Tribunal or Recovery Officer and the provisions of Sections 442, 446 and 537 of the said Act cannot be applied against the Debts Recovery Tribunal.
+31. The question whether the provisions of the RDB Act shall override the provisions of the said Act has been considered by the Apex Court in paras 40 and 49 of the said judgment of the Apex Court, cited supra. The same are, therefore, reproduced below :
+"40. Alternative, the Companies Act, 1956 and the RDB Act can both be treated as special laws, and the principle that when there are two special laws, the latter will normally prevail over the former if there is a provision in the latter special Act giving it overriding effect, can also be applied.
+Such a provision is there in the RDB Act, namely, section 34.
+A similar situation arose in Maharashtra Tubes ltd. v. State Industrial and Investment Corporation of India (1993) 2 SCC 144 : (1993 AIR SCW 991) where there was inconsistency between two special laws, the Finance Corporation Act, 1951 and the Sick Industries Companies (Special Provisions) Act, 1985. The latter contained Section 32 which gave overriding effect to its provisions and was held to prevail over the former. It was pointed out by Ahmadi, J. that both special statutes contained non-obstante clauses but the "1985 Act being a subsequent enactment, the non-obstante clause therein would ordinarily prevail over the non-obstante clause in section 46-B of the 1951 Act unless it is found that the 1985 Act is a general statute and the 1951 statute is a special one". Therefore, in view of section 34 of the RDB Act, the said Act overrides the Companies Act, to the extent there is anything inconsistent between the Acts."
+"49.
+For the aforesaid reasons, we hold that at the stage of adjudication under S.17 and execution of the certificate under S.25 etc. the provisions of the RDB Act, 1993 confer exclusive jurisdiction in the Tribunal and the Recovery Officer in respect of debts payable to Banks and financial institutions and there can be no interference by the Company Court under section 442 read with section 537 or under Section 446 of the Companies Act, 1956. In respect of the monies realised under the RDB Act, the question of priorities among the Banks and financial institutions and other creditors can be decided only by the Tribunal under the RDB Act and in accordance with section 19(19) read with section 529A of the Companies Act and in no other manner. The provisions of the RDB Act, 1993 are to the above extent inconsistent with the provisions of the Companies Act, 1956 and the latter Act has to yield to the provisions of the former. This position holds good during the pendency of the winding up petition against the debtor-
+company and also after a winding up order is passed. No leave of the Company Court is necessary for initiating or continuing the proceedings under the RDB Act, 1993.
+Points 2 and 3 are decided accordingly in favour of the appellant and against the respondents."
+Thus, it has been clearly held that the provisions of the RDB Act shall prevail over the provisions of the said Act to the extent of inconsistency between the same and the provisions of the said Act have to yield to the provisions of the RDB Act.
+ig It has been held that in the matter of adjudication under Section 17 and execution under Section 25, etc., of the RDB Act, there can be no interference by the Company Court under Sections 442, 446 and 537 of the Companies Act. The important observation of the Apex Court is that this position holds good during the pendency of the winding-up proceedings against the debtor-Company and also after the winding-up order is passed and no leave of the Company Court is necessary for initiating or continuing the proceedings under the RDB Act. In view of this position, the fact that no order of winding-up of the Company was passed in the judgment of the Apex Court, the same would not make any difference for applicability of the ratio of the said judgment to the facts of the present case on the ground that in the present case, the order of winding-up of the Company was passed on 2-8-2001.
+32. The Apex Court has dealt with the distinction between those secured creditors, who desire to go to the Company Court, and those who like to stand outside the winding-up proceedings. Such distinction is made in paras 61 to 67 of the judgment of the Apex Court, cited supra.
+Paras 63 and 67 are relevant for the purpose of the present case and hence the same are reproduced below :
+" 63. The second class of secured creditors referred to above are those who come under S.529A(1)(b) read with proviso (c) to section 529(1). These are those who opt to stand outside the winding up to realise their security.
+Inasmuch as section 19(19) permits distribution to secured creditors only in accordance with section 529A, the said category is the one consisting of creditors who stand outside the winding up. These secured creditors in certain circumstances can come before the Company Court (here the Tribunal) and claim priority over the other creditors for release of amounts out of the other monies lying in the Company Court (here, the Tribunal). This limited priority is declared in section 529A(1) but it is restricted only to the extent specified in clause (b) of section 529A(1). The said provision refers to sub-clause (c) of the proviso to section 529(1) and it is necessary to understand the scope of the said provision."
+"67. In our opinion, the words "so much of the debt due to such secured creditor as could not be realised by him by virtue of the foregoing provisions of the proviso" obviously mean the amount taken away from the private realisation of the secured creditor by the liquidator by way of enforcing the charge for workmen's due under clause (c) of the proviso to section 529(1) "ratebly" against each secured creditor. To that extent, the secured creditor - who has stood outside the winding up and who has lost a part of the monies otherwise covered by security - can come before the Tribunal to reimburse himself from out of other monies available in the Tribunal, claiming priority over all creditors, by virtue of section 529A(1)(b)."
+It is thus apparent that even the secured creditors, who have opted to stand outside the winding up proceedings, can in certain circumstances come before the Company Court and claim priority over all other creditors for release of the amounts out of other monies lying in the Company Court. However, this limited priority is restricted only to the extent specified in clause (b) of Section 529A(1) of the said Act. It has further been held that the secured creditor, who has stood outside the winding-up proceedings, and who has lost a part of the monies otherwise covered by the security, can come before the Tribunal to reimburse himself out of other monies available in the Tribunal, claiming priority over all creditors by virtue of Section 529A(1)(b) of the said Act.
+33. The next judgment of the Apex Court, relevant in the present case, is in Rajasthan Financial Corpn. & Anr. v. Official Liquidator & Anr., reported in AIR 2006 SC 755. It was a case where the order of winding-up of the Company was passed on 14-4-1994 and the appellants, who were the secured creditors, had opted to stay outside the winding-up proceedings and had proposed to pursue their remedies available to them under Section 29 of the State Financial Corporations Act, 1951.
+However, these secured creditors had not taken any steps by setting the machinery under the State Financial Corporations Act in motion, but had approached the Company Court for grant of permission to sell the securities and realize the amounts and to apportion the same between them and the Bank of Baroda, the another secured creditor, with an undertaking to pay the dues of the workmen in accordance with Section 529A of the Companies Act. This application was rejected by the Company Court on the ground that the appellant-secured creditors had a right available under Section 29 of the State Financial Corporations Act.
+This was the subject-matter of challenge before the Apex Court. In para 18 of the said judgment, the Apex Court has summed up the legal position and Item (iv) in the said para being relevant, is reproduced below :
+"(iv) In a case where proceedings under the Recovery of Debts Due to Banks and Financial institutions Act, 1993 or the SFC Act are not set in motion, the concerned creditor is to approach the company Court for appropriate directions regarding the realization of its securities consistent with the relevant provisions of the Companies Act regarding distribution of the assets of the company-in-liquidation."
+Thus, it has been held that the secured creditor can approach the Company Court for appropriate directions regarding realization of its securities consistent with the relevant provisions of the said Act regarding distribution of the assets of the Company under liquidation. No doubt, in the present case, the claims of the secured creditors have been adjudicated by the Debts Recovery Tribunal under the RDB Act.
+However, that would not alter the position in respect of the applicability of the aforesaid ratio of the judgment of the Apex Court, for the reason that when the secured creditors stay outside the winding-up proceedings but approach the Company Court, they stand only in the shoes of the secured creditors entitled to enforce their securities consistent with the relevant provisions of the said Act regarding distribution of the assets of the Company under liquidation.
+34. The third judgment of the Apex Court, relevant in the present case, in ICICI Bank Ltd. v. SIDCO Leather ltd. & Ors., reported in AIR 2006 SC 2088. After referring to its earlier judgment in Allahabad Bank v. Canara Bank and another (AIR 2000 SC 1535), referred to above, the Apex Court has, in this judgment, dealt with the questions of adjudication, execution and working out priorities, which is dealt with in para 31 reproduced below :
+"31. The above recommendations as to working out "priorities" have not been brought into the Act with greater clarity under Section 19(19) as substituted by Ordinance 1 of 2000, inter alia, whereof Priorities, so far as the amounts realized under the RDB Act are concerned, are to be worked out only by the Tribunal under the RDB Act. Section 19(19) of the RDB Act reads as follows :
+"19. (19) Where a certificate of recovery is issued against a company registered under the Companies Act, 1956, the Tribunal may order the sale proceeds of such company to be distributed among its secured creditors in accordance with the provisions of Section 529-A of the Companies Act, 1956 and to pay the surplus, if any, to the company.
+(Emphasis supplied) Section 19(19) is clearly inconsistent with Section 446 and other provisions of the Companies Act. Only Section 529-A is attracted to the proceedings before the Tribunal. Thus, on questions of adjudication, execution and working out priorities, the special provisions made in the RDB Act have to be applied."
+Thus, it has been held that on the questions of adjudication, execution and working out priorities, the special provisions made in the RDB Act have to be applied.
+35. The propositions of law laid down by the Apex Court in the aforesaid judgments can be summed-up as under :
+(i) Section 17 of the RDB Act confers exclusive jurisdiction upon the Debts Recovery Tribunal to adjudicate the question of recovery of debts and to grant certificate of recovery to the banks and institutions.
+(ii) Sections 25 to 29 of the RDB Act confers exclusive jurisdiction upon the Recovery Officer for recovery of amount covered by the certificate of recovery.
+(iii) There can be no interference by the Company Court on the question of adjudication, execution and working out priorities determined by the special provisions of the RDB Act.
+(iv) The jurisdiction of the Company Court is available only to a limited extent of dealing with the provisions of Sections 529 and 529A of the Companies Act read with Section 19(19) of the RDB Act and where the secured creditors have approached the Company Court, their claims consistent with the provisions of the said Act can be considered and decided by the Company Court.
+(v) For institution or continuing proceedings before the Debts Recovery Tribunal either under Section 17 or before the Recovery Officer under Sections 25 to 29 of the RDB Act, no leave of the Company Court, as contemplated by Sections 446(1) and 537 of the said Act is necessary.
+(vi) In case of any inconsistency between the provisions of the said Act and the RDB Act, the provisions of the RDB Act shall prevail. This position holds good during the pendency of the winding-up petition against the debtor-Company and also after the order of winding-up is passed.
+36. Keeping in view the law, as aforesaid, laid down by the Apex Court, it has to be held that the Company Court, in exercise of its jurisdiction under sub-section (2) of Section 446 of the said Act, can entertain and decide the claims of the secured creditors, who have obtained the certificate of recovery under Section 19(22) of the RDB Act only to the extent they are consistent with the provisions of Section 529A and 529(1)(c) of the said Act and Rules 154, 156 and 179 of the said Rules. The reason is that such creditors stand in the shoes of the secured creditors entitled to enforce their securities consistent with the provisions of the said Act regarding distribution of the assets of the Company under liquidation. This is how the secured creditors were before the official Liquidator under Rule 163 of the said Rules. The Official Liquidator was, therefore, right and reasonable in accepting the claim consistent with the provisions of the said Act and the said Rules. Simply because such certificate is binding upon the Company under liquidation and the Official Liquidator, that does not extend the jurisdiction of the Company Court to grant the entire claim covered by such certificate.
+37. In order to get the entire claim based exclusively on such certificate, the secured creditors have to adopt any one or more modes of recovery of debts prescribed under Sections 25, 28 and 29 of the RDB Act and the Company Court has no jurisdiction under sub-section (2) of Section 446 of the said Act to act in execution of such certificate, as this is not one of the modes prescribed under the RDB Act. No doubt, sub-
+section (2) of Section 446 of the said Act contains a non-obstante clause that "notwithstanding anything contained in any other law for the time being in force", however when this provision was introduced or amended, the RDB Act was not in force and after coming into force of the RDB Act, the jurisdiction of the Company Court under Section 446(2) of the said Act is ousted to the extent, the provisions are made under the RDB Act.
+38. It is the contention of Shri Jaiswal that in terms of Section 456(2) of the said Act, the Company Court is the custodian of the properties of the Company under liquidation and the assets and properties of the Company under liquidation are sold on 9-11-2001 and the sale was confirmed by the Company Court on 3-10-2007. The amount of Rs.40 crores realized therefrom is with the Official Liquidator under the custody of this Court. Thus, the secured creditors have lost their security under the orders of this Court and, therefore, even if resort to execution proceedings under the RDB Act is made, the Recovery Officer shall have to approach this Court under sub-section (4) of Section 28 of the RDB Act for payment of entire amount as per the certificate under the RDB Act. It is his submission that Rule 9 of the said Rules confers inherent powers upon the Company Court, which can be invoked for this purpose.
+39. The contention as aforesaid cannot be accepted, for the reason that if the Company Court has no jurisdiction under Section 446 of the said Act to go into the question of execution of certificate, the question of exercising inherent powers under Rule 9 of the said Rules does not arise. The question whether the secured creditors have lost their security or not, or whether the assets and properties transferred can be attached or not, can be gone into only in the execution proceedings by the Recovery Officer under the RDB Act and it is not proper for this Court to express any opinion on that question, so as to prejudice the contentions of either of the parties. Not only that, but the Recovery Officer has power under sub-section (2) of Section 28 of the RDB Act to require any person from whom an amount is due to the defendant in recovery certificate to deduct such amount and credit it to the account of the Recovery Officer. If the Recovery Officer, after dealing with all such relevant aspects, approaches this Court, as required by sub-section (4) of Section 28 of the RDB Act, then only this Court can exercise jurisdiction.
+In other words, the exercise of jurisdiction by the Company Court under Section 446(2) can only be at the instance of the Recovery Officer acting under Section 28(4) of the RDB Act. In view of this, any decision by the Company Court on the application of a secured creditor under Section 446 of the said Act, to disburse amount to the secured creditors as per the certificate under Section 19(22) of the RDB Act, would be without jurisdiction. Hence, question No.(3) is answered accordingly.
+As regards Question No.(4) :
+40. Though Dr. Anjan De does not dispute the determination under Section 529 and 529A of the said Act read with Rules 154, 156 and 179 of the said Rules by the Official Liquidator, his argument is two-fold, viz. (i) that the certificate of registration of charge, as required by Section 132 of the said Act, is not produced and hence in view of Section 125 of the said Act, the security on the property of the Company under liquidation is rendered void against the Liquidator, and (ii) that in the absence of any amount of security being specified in any such certificate of registration, the secured creditor will be treated as unsecured creditor, or if particular amount is specified in the certificate, then it is only to that extent such creditor will be treated as secured creditor and for the balance amount of claim, such creditor shall be treated as unsecured creditor.
+41. Shri Jaiswal, the learned counsel for the secured creditors, does not dispute the position that in the absence of any amount of security being specified in such certificate under Section 132 of the said Act, the secured creditor will be treated as unsecured creditor or if particular amount is specified as secured, then for rest of the claim, shall be treated as of unsecured creditor. He has, however, urged that in fact the charges of the secured creditors are registered, as required by Section 132 of the said Act, and the certificates of registration have been issued by the Registrar of Companies, and hence Section 125 of the said Act will not operate. He further submits that the question whether the charges of the secured creditors are in fact registered for the entire amount for which the certificates are issued under Section 19(22) of the said Act by the Debts Recovery Tribunal, was the question raised and decided in the proceedings before the Debts Recovery Tribunal to which the Company under liquidation and the Official Liquidator were the parties, wherein it has been held that the amount is secured and the secured creditors are the charge-holders. He submits that even before the Official Liquidator, along with the affidavit of proof of claims, the secured creditors have filed the copies of registration of charge issued by the Registrar of Companies, and this fact has never been disputed by the Official Liquidator.
+42. Alternatively, Shri Jaiswal submits that the registration of charge and priority of claims is the exclusive jurisdiction of the Debts Recovery Tribunal under Section 17 of the RDB Act and its decision having become final, the same cannot be reopened in these proceedings.
+He further submits that in fact acting on the basis of these certificates, the Official Liquidator has determined the amount payable to the secured creditors. According to him, though such determination is disputed by the secured creditors, it is not open for the Official Liquidator to re-open such determination with a view to reduce the claims of the secured creditors. He has relied upon the judgment of the Apex Court in Indian Bank v. Official Liquidator, Chemmeens Exports (P) Ltd. and others, reported in (1998) 5 SCC 401.
+43. In order to consider the question, Sections 125(1) and 132 of the said Act will have to be considered. Hence, the said provisions are reproduced below :
+"125. Certain charges to be void against liquidator or creditors unless registered.--(1) Subject to the provisions of this part, every charge created on or after the 1st day of April, 1914, by a company and being a charge to which this section applies shall, so far as any security on the company's property or undertaking is conferred thereby, be void against the liquidator and any creditor of the company, unless the prescribed particulars of the charge, together with the instrument, if any, by which the charge is created or evidence, or a copy thereof verified in the prescribed manner, are filed with the Registrar for registration in the manner required by this Act within thirty days after the date of its creation :
+Provided that the Registrar may allow the particulars and instrument or copy as aforesaid to be filed within thirty days next following the expiry of the said period of thirty days on payment of such additional fee not exceeding ten times the amount of fee specified in Schedule X as the Registrar may determine, if the company satisfies the Registrar that it had sufficient cause for not filing the particulars and instrument or copy within that period."
+"132. Certificate of registration.--The Registrar shall give a certificate under his hand of the registration of any charge registered in pursuance of this Part, stating the amounts thereby secured; and the certificate shall be conclusive evidence that the requirements of this Part as to registration have been complied with."
+Section 132 requires charge to be registered and the Registrar of Companies to issue such certificate of registration of charge stating the amount secured, which shall be the conclusive evidence. The word "Charge" has been defined under under Section 124 of the said Act as under :
+"124. "Charge" to include mortgage in this Part.--In this Part, the expression "charge" includes a mortgage."
+The "charge" includes a mortgage. Sub-section (1) of Section 125 declares that unless the prescribed particulars of the charge together with the instrument, if any, by which the charge is created or evidenced or a copy thereof verified in the prescribed manner are filed with the Registrar for registration in the manner required under the Act within a period of thirty days after the date of its creation, it shall be void against the Liquidator and any creditor of the Company.
+44. The questions whether the charge is registered or there is a non-compliance of Section 125(1) of the said Act, are the disputed questions of fact. In fact, the determination by the Official Liquidator under Rule 163 of the said Rules by the communication dated 20-2-2009, impugned in the appeals, is on the basis that the charge is registered.
+The Official Liquidator himself has produced the copies of the certificates of registration of the charges on record. Hence, the registration of charges by the Registrar of Companies is not disputed.
+45. What has to be seen is the non-compliance of sub-section (1) of Section 125 of the said Act. The Debts Recovery Tribunal, in exercise of its jurisdiction under Section 17 of the RDB Act, has delivered its judgment and order on 31-8-1995 recording the finding that the charges of outstandings have been secured by the deeds of hypothecation and the mortgage of the property. It has also decided the question as to what extent the secured creditors are entitled to recover the outstandings. It has been held that the Official Liquidator's liability shall be restricted to the extent of available estate, workmen's dues and claims of other secured creditors. The ICICI Bank Ltd. (Kotak Mahindra Bank Ltd.), IDBI and IFCI Ltd. are held to be the first charge holders, whereas the Bank of Maharashtra and the Bank of India have been held to be the second charge holders.
+46. In the judgment of the Apex Court in Allahabad Bank's case, cited supra, it has been held in para 49 thereof that at the stage of adjudication under Section 17 and execution of the certificate under Section 25, the provisions of the RDB Act confer exclusive jurisdiction upon the Tribunal and the Recovery Officer in respect of the debts payable to the banks and financial institutions and there can be no interference by any Court under Section 442 read with Section 537 or under Section 446 of the Companies Act. In para 31 of the said judgment (which is reproduced in para 32 above), it has been held that the Company Court cannot use its powers under Section 446 of the said Act against the Tribunal/Recovery Officer and Sections 442, 446 and 537 cannot be applied against the Tribunal. In view of this, the matter is completely determined by the Debts Recovery Tribunal and this Court has no jurisdiction under Section 446 to re-open the issues concluded by the judgment and order passed by the Debts Recovery Tribunal under Section 17 of the RDB Act.
+47. In Indian Bank's case, cited supra, relied upon by Shri Jaiswal, the question for consideration was regarding the effect of Section 125 of the said Act on the preliminary decree in a mortgage suit based on an unregistered charge. The Apex Court has considered the provisions of Section 446 of the said Act and in para 12 of the said judgment, it has been held as under :
+" It may be noted that these provisions have no application to any proceeding pending in appeal before a High Court or the Supreme Court. From this what follows is when a suit is instituted in the court of competent jurisdiction with the leave of the court under sub-section (1) and a decree is passed by that court whether on the basis of mortgage or otherwise, it would be binding on the Official Liquidator and no plea inconsistent with the decree passed against the Official Liquidator can be raised while deciding the questions of priorities under clause (d) of sub-section (2).
+We wish to make it clear that under Section 446, no power is conferred on the Company Court to declare a decree of the competent court void - a prayer which is made by the Official Liquidator in the application out of which this appeal arises -
+so to that extent the application filed by the Liquidator in the Company Court is not maintainable."
+In the aforesaid case, a preliminary decree in a mortgage suit was passed, based on an unregistered charge, however in the present case, the property is mortgaged, the charge is also registered, and a certificate under Section 19(22) of the RDB Act has been issued. Hence, the aforesaid judgment applies with greater force. In view of the aforesaid law laid down by the Apex Court, it is apparent that the judgment and order passed by the Debts Recovery Tribunal is binding upon the Official Liquidator and no plea inconsistent with such judgment and order can be raised by the Official Liquidator while deciding the question of priorities under clause (d) of sub-section (2) of Section 446 of the said Act. It has been held that under Section 446, no power is conferred upon the Company Court to declare a decree of the competent Court to be void and the application of the Official Liquidator for that purpose was held to be not maintainable. In view of this, it has to be held that the Company Court has no jurisdiction under Section 446 of the said Act to go into the question as to whether the charges of the secured creditors are registered or not, and whether the debts of the secured creditors should be treated as secured only to the extent of the amounts specified in the certificate. Question No.(4) is, therefore, answered accordingly.
+As regards Question No.(5) :
+48. Dr. Anjan De, the learned counsel for the Official Liquidator;
+and Shri Darda and Shri S.P. Deshpande, the learned counsels for the second charge holders, have urged that the first charge holders/secured creditors having participated in the proceedings before the Official Liquidator under Rule 163 of the said Rules, have relinquished their claims over the assets and properties of the Company under liquidation, to the extent they are not accepted by the Official Liquidator, and, therefore, they are not entitled to get their claims enforced fully, as covered by the certificate issued under Section 19(22) of the said Act. I have already taken a view that the jurisdiction of the Company Court is available to the secured creditors only to a limited extent of dealing with the provisions of Sections 529 and 529A of the said Act and Rules 154, 156 and 179 of the said Rules, and where the secured creditors approach the Company Court, their claims consistent with the provisions of the said Act and the said Rules can be granted by the Company Court.
+49. The question whether the first charge holders have relinquished their claims over the assets and properties of the Company under liquidation, is a mixed question of law and fact, which is required to be pleaded and proved. In Allahabad Bank's case, cited supra, the Apex Court has held in paras 63 and 67 of the said judgment (which are already reproduced) that these secured creditors in certain circumstances can come before the Company Court and claim priority over the other creditors for release of the amounts out of the other monies lying in the Company Court. The question of relinquishment or surrender of the claims of the secured creditors on the basis of the certificate under Section 19(22) of the RDB Act, pertains to the executability or enforcement of the certificate. If there are facts and circumstances indicating relinquishment or surrender of security, then this question can be raised and decided in the proceedings for execution of certificate under Section 25 or 28 of the RDB Act, if instituted by the secured creditors, and it cannot be gone into by the Company Court under Section 446 of the said Act. The jurisdiction of the Company Court to deal with this question is ousted. Question No.(5) is, therefore, answered accordingly.
+50. The Official Liquidator has declared the dividend as per the provision of sub-section (2) of Section 529A of the said Act by accepting the claims of the secured creditors to the extent they are consistent with the provisions of the said Act and the said Rules. However, in view of the fact that the matter is already pending before the Apex Court, it would not be proper at this stage to permit actual disbursement of dividend, though this Court by an order dated 6-3-2009 has permitted the Official Liquidator to declare such dividend. In fact, in the order dated 6-3-2009, reproduced earlier, this Court has made it clear that the actual disbursement shall be after the appropriate orders passed by the Hon'ble Supreme Court in pending matters. The question of disbursal of dividend declared pursuant to the order passed by this Court on 6-3-2009, shall be considered as and when the Apex Court decides the matter. The parties are at liberty to move appropriate applications before this Court at any subsequent stage for disbursal of dividend on the basis of any subsequent events or on the basis of the orders passed by the Apex Court.
+51. On 16-12-2010, this Court had passed a common order on all the company applications and the Official Liquidator's Reports pending before this Court. It was recorded in the said order that the Official Liquidator has no objection to disburse the amount, as was determined in the meeting dated 12-2-2009, subject to the condition that the applicants shall furnish before this Court an undertaking that they would repay the amount received by them along with interest thereon in case Special Leave Petition Nos.21737 of 2007, 21738 of 2007 and 21739 of 2007 are allowed by the Hon'ble Supreme Court. Accordingly, all the secured creditors and some of the workers have filed an undertaking before this Court.
+52. In view of above, the following order is passed :
+(i) The determination by the Official Liquidator on 12-2-2009, as communicated on 20-2-2009, in exercise of his power conferred by Rule 163 of the Company (Court) Rules and in accordance with Sections 529 and 529A of the Companies Act and Rules 154, 156 and 179 of the said Rules, is confirmed subject to the Official Liquidator being satisfied about the undertaking furnished by the concerned parties in terms of the order dated 16-12-2010 passed by this Court.
+(ii) Company Application No.110 of 2009 seeking condonation of delay caused in filing Company Appeal Stamp No.18418 of 2009, is hereby allowed and the delay caused is condoned.
+(iii) Company Appeal Nos.5 of 2009, 9 of 2009 and stamp No.18418 of 2009 challenging the partial rejection of the claims by the Official Liquidator on 12-2-2009, are hereby dismissed, holding that the secured creditors are not entitled to enforce their full claims on the basis of the certificate issued under Section 19(22) of the RDB Act and that the Official Liquidator is competent under Rule 163 of the Company (Court) Rules to restrict the claims of the secured creditors in terms of Rules 154, 156 and 179 of the said Rules.
+(iv) Company Application No.84 of 2008 filed by Kotak Mahindra Bank Ltd., Company Application No.377 of 2010 filed by Bank of India, Company Application No.146 of 2008 filed by Bank of Maharashtra, Company Application Nos.153 of 2008 and 530 of 2011 filed by IFCI Ltd., and Company Application Nos.154 of 2008 and 533 of 2011 filed by IDBI Ltd, are all dismissed, to the extent the claim is made for enforcement of the certificate issued under Section 19(22) of the RDB Act.
+     (v)    It will be open for the secured creditors to adopt all
+
+
+
+
+
+            such   other    proceedings       as     are     available      for
+enforcement of their full claims on the basis of the certificates issued under Section 19(22) of the RDB Act, in accordance with law, and none of the observations made by this Court shall come in their way.
+(vi) The contention of the Official Liquidator for reduction of the claims determined on 12-2-2009 under Rule 163 of the Company (Court) Rules on the ground that the claims of the secured creditors be declared as void against the Official Liquidator as per the provisions of Section 125 of the Companies Act, cannot be entertained by the Company Court in the proceedings under Section 446 or 537 of the Companies Act.
+(vii) The contention that the first charge holders have relinquished or surrendered their securities or charges over the assets and properties of the Company under liquidation, cannot be gone into in the proceedings under Section 446 of the Companies Act.
+(viii) The claim of the Official Liquidator made in Official Liquidator's Report No.24 of 2009 for distribution of dividend declared pursuant to the order passed by this Court on 6-3-2009, shall be considered as and when the Apex Court decides the matter, and the parties are at liberty to move appropriate applications before this Court after the decision of the Apex Court, or on the basis of the subsequent events. Official Liquidator's Report No.24 of 2009 stands disposed of accordingly.
+(ix) The applicants/appellants in all the applications and the appeals to pay the costs incurred by the Official Liquidator and to bear their own costs.
+JUDGE.
+pdl

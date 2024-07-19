@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4342/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 19(c)(3) in The Chartered Accountants (Amendment) Act, 2006
+(3) Where the Board of Discipline is of the opinion that a member is guilty of a professional or other misconduct mentioned in the First Schedule, it shall afford to the member an opportunity of being heard before making any order against him and may thereafter take any one or more of the following actions, namely:-
+(a) reprimand the member;
+(b) remove the name of the member from the Register up to a period of three months;
+(c) impose such fine as it may think fit, which may extend to rupees one lakh.

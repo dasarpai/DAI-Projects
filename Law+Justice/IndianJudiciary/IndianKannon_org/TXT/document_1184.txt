@@ -1,0 +1,211 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1184/
+Cites: []
++++++++++++++++++++++++++
+
+
+Gujarat High Court
+Nanduba vs Dena on 9 November, 2011
+Author: Mr.S.J.Mukhopadhaya, Honourable Dave,
+  
+ Gujarat High Court Case Information System 
+    
+  
+    
+
+ 
+ 
+           
+         
+     
+     Print
+              
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+ 
+
+
+  
+
+LPA/378/2010  5/ 6 ORDER 
+ 
+ 
+
+ 
+
+ 
+
+IN
+THE HIGH COURT OF GUJARAT AT AHMEDABAD
+ 
+
+ 
+
+
+ 
+
+LETTERS
+PATENT APPEAL No. 378 of 2010
+ 
+
+In
+
+
+ 
+
+SPECIAL
+CIVIL APPLICATION No. 12543 of 2009
+ 
+
+With
+
+
+ 
+
+CIVIL
+APPLICATION No. 2314 of 2010
+ 
+
+In
+ 
+
+
+LETTERS
+PATENT APPEAL No. 378 of 2010
+ 
+
+ 
+=================================================
+
+
+ 
+
+NANDUBA
+JASHUJI NAVUJI PARMAR WD/O JASHUJI NAVUJI & 4 - Appellant(s)
+ 
+
+Versus
+ 
+
+DENA
+BANK & 4 - Respondent(s)
+ 
+
+=================================================
+ 
+Appearance : 
+MR
+AJ SHASTRI for Appellant(s) : 1 - 5. 
+MR BHARAT JANI for
+Respondent(s) : 1 - 3. 
+MR UMESH TRIVEDI, ADDL. GOVERNMENT PLEADER
+for Respondent(s) : 4 -
+5. 
+=================================================
+
+
+ 
+   
+  
+   
+   
+    
+
+CORAM
+   : 
+   
+  
+   
+    
+
+HONOURABLE
+   THE CHIEF JUSTICE MR. S.J. MUKHOPADHAYA
+  
+ 
+  
+   
+    
+
+ 
+
+   
+  
+   
+    
+
+and
+  
+ 
+  
+   
+    
+
+ 
+
+   
+  
+   
+    
+
+HONOURABLE
+   MR.JUSTICE ANANT S. DAVE
+  
+ 
+
+ 
+
+ 
+ 
+
+
+ 
+
+Date
+: 21/10/2010  
+ORAL ORDER
+(Per : HONOURABLE THE CHIEF JUSTICE MR. S.J. MUKHOPADHAYA) This appeal has been preferred by the appellant borrower against the order dated 24.2.2010 passed by the learned Single Judge in Special Civil Application No. 12543 of 2009. By the said order, the learned Single Judge dismissed the writ petition which was preferred against the order for recovery of the dues of Dena Bank (hereinafter referred to as the respondent bank ) under Section 165 of the Bombay Land Revenue Code, 1879 read with Rule 129 of the Land Revenue Rules.
+2. The learned Single Judge held that the appellant borrower is not entitled for waiver and dismissed the petition, but has not decided the question whether the bank's dues can be recovered under Section 165 of the Bombay Land Revenue Code, 1879.
+3. As noticed above, the learned counsel for the appellant has taken a plea that the bank had no jurisdiction to take measures for recovering the dues under Section 165 of the Bombay Land Revenue Code. It is contended that the agricultural loan was taken by the appellant from the bank pursuant to a scheme floated by NABARD and, therefore, the bank cannot recover the dues under the Code aforesaid.
+4. The learned counsel for the bank relied on Section 15 of the Gujarat Agricultural (Provision of Facilities) Act, 1979 (Gujarat Act No. 19 of 1979) [hereinafter referred to as the Gujarat Agricultural Credit Act, 1979 ] and Section 3(2) of the Gujarat Public Moneys (Recovery of Dues) Act, 1979 (Gujarat Act No. 17 of 1979) [hereinafter referred to as the Gujarat Public Moneys Act, 1979 ] and submitted that the recovery of dues of the bank can be made as arrears of land revenue and, therefore, such recovery can be made under Section 165 of the Bombay Land Revenue Code. However, such submission cannot be accepted for the reasons mentioned hereunder.
+Section 15 of the the Gujarat Agricultural Credit Act, 1979 deals with recovery of dues in respect of financial assistance to carry out State sponsored scheme as arrears of land revenue and reads as under :-
+15. Recovery of dues in respect of financial assistance to carry out State-sponsored Scheme as arrears of land revenue. - Notwithstanding anything contained in the foregoing provisions of this Chapter, the State Government, by an order published in the Official Gazette, direct that any amount due from the agriculturist towards financial assistance given to him by the bank for the purpose of carrying out any State-sponsored scheme may be recovered on behalf of such bank as an arrear of land revenue. Any amount so recovered on behalf of the bank shall be paid over to the bank after deducting such portion thereof as cost of collection as the Collector may determine to be reasonable.
+It is true that the respondent bank comes within the definition of bank under Section 3(d) of the the Gujarat Agricultural Credit Act, 1979 , However, in the present case, we find that neither the loan having given out of any State-sponsored scheme nor the State Government has published any notification in the official gazette directing recovery of the agricultural dues of the respondent bank for the purpose of carrying out any State-sponsored scheme.
+5. We have noticed Section 2(l) of the Gujarat Public Moneys Act, 1979 wherein the State-sponsored scheme has been defined which means a scheme sponsored or adopted by the State Government or an officer authorized by it in this behalf for development of agriculture or industry and notified as such by the State Government or the authorized officer, by a notification in the Official Gazette, for the purposes of the said Act. Therefore, the respondent bank cannot derive the advantage of Section 15 of the Gujarat Agricultural Credit Act, 1979.
+6. So far as Section 3(2) of the Gujarat Public Moneys Act, 1979 is concerned, the said provision is also not applicable in the present case.
+Section 3 relates to recovery of certain dues as arrears of land revenue where any person is a party and taken for the purposes as mentioned in Section 3(1). In such case, the Collector on receiving the certificate may make an inquiry and recover the amount under Section 3(2) of the Gujarat Public Moneys Act, 1979. This will be evident from the provisions as quoted hereunder :-
+3. Recovery of certain dues as arrears of land revenue. (1) Where any person is a party -
+(a) to any agreement relating to a loan, advance or grant given to him or relating to credit in respect of, or relating to hire-purchase of goods sold to him by the State Government or the Corporation, by way of financial assistance, or
+(b) to any agreement relating to a loan, advance or grant given to him or relating to credit in respect of, or relating to hire-purchase of goods sold to him by a bank or a Government Company, as the case may be, under a State sponsored scheme; or
+(c) to any agreement relating to a guarantee given by the State Government or the Corporation in respect of a loan raised by an industrial concern; or
+(d) to any agreement providing that any money payable thereunder to the State Government or the Corporation shall be recoverable as arrears of land revenue:
+and such person -
+(i) makes any default in payment of the loan or advance of any installment thereof,
+(ii) having become liable under the conditions of the grant to refund the grant or any portion thereof, makes any default in the refund of such grant or portion or any installment thereof, or
+(iii) otherwise fails to comply with the terms of the agreement then, in the case of the State Government, such officer as may be authorized in that behalf by the State Government by notification in the Official Gazette, in the case of a Corporation or a Government Company, the Managing Director thereof or where there is no Managing Director, the Chairman thereof, by whatever name called, and in the case of a bank, the local agent thereof, by whatever name called, may send to the Collector a certificate as early as possible in the prescribed form mentioning the sum due from such persons and requesting that such sum may be recovered as if it were an arrear of land revenue.
+(2) The Collector on receiving the certificate shall after making such inquiries (including giving hearing to the party affected) as he deems fit proceed to recover the amount stated therein as aforesaid as arrears of land revenue.
+(3) On recovery of any amount under sub-section (2), the same shall be paid over to the State Government, Corporation, Government Company, or as the case may be, bank after deducting, except in the case of amount to be paid to the State Government, such portion of the amount realized, as cost of collection, as the Collector may deem to be reasonable.
+(4) ... ... ... ... ...
+Therefore, the respondent bank also cannot recover the amount under Section 3 of the Gujarat Public Moneys Act, 1979.
+7. As we have noticed that the Bombay Land Revenue Code, 1879 is not attracted in the present case, we hold that the respondent bank could not have directed the Talati-cum-Mantri, Vasai to take steps for auction sale of the property as intimated by letter dated 2.11.2009 nor the Deputy Mamlatdar & Special Recovery Officer, Regional Office, Dena Bank, Mehsana could have issued auction notice as issued at page 56 to the writ petitioner. For the said reasons, we set aside the letter dated 2.11.2009 issued by the respondent bank to the Talati-cum-Mantri, Vasai and the auction notice dated 6.12.2008 issued by Deputy Mamlatdar & Special Recovery Officer, Regional Office, Dena Bank, Mehsana.
+8. The learned Single Judge failed to notice the aforesaid provisions and thereby could not notice that the respondent bank had no jurisdiction to recover the amount under Section 165 of the Bombay Land Revenue Code, 1879 or the Rules framed thereunder.
+9. So far as the appellant's right for waiver of loan is concerned, we are not deliberating on such issue. The learned Single Judge has held that the appellant has failed to show his right of waiver. If there is any provision under which the appellant can claim right of waiver, he may bring the same to the notice of the bank.
+10. Though we have set aside the the letter dated 2.11.2009 issued by the respondent bank to the Talati-cum-Mantri, Vasai and the auction notice dated 6.12.2008 issued by Deputy Mamlatdar & Special Recovery Officer, Regional Office, Dena Bank, Mehsana, but this order shall not stand in the way of the respondent bank to recover its dues in accordance with law.
+11. The Letters Patent Appeal and the Civil Application both stand disposed of with the aforesaid observations. No costs.
+[S.J.
+MUKHOPADHAYA, CJ.] [ANANT S. DAVE. J.] sundar/-
+    Top

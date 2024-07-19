@@ -1,0 +1,82 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/849/
+Cites: ['THE WEALTH-TAX ACT, 1957 : https://indiankanoon.org/doc/983571/', 'Section 7 in THE WEALTH-TAX ACT, 1957 : https://indiankanoon.org/doc/1668735/', 'The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/', 'Section 7 in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1849490/', 'Section 2 in THE WEALTH-TAX ACT, 1957 : https://indiankanoon.org/doc/569859/', 'Ashok Harris, Chennai vs Dcit, Chennai on 10 July, 2017 : https://indiankanoon.org/doc/81926593/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+M.K.Kuppuraj (Huf) vs The Commissioner Of Wealth-Tax on 21 August, 2002
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+Dated: 21/08/2002
+
+Coram
+
+The Honourable Mr. Justice R.JAYASIMHA BABU
+and
+The Honourable Mr. Justice K.P.SIVASUBRAMANIAM
+
+T.C. No. 511 of 1993
+and T.C.Nos. 512 to 517 of 1993
+
+
+M.K.Kuppuraj (HUF),
+Coimbatore.     ..Applicant in
+                T.C.No.511 of 1993
+
+M.K.Kuppuraj (individual),
+Coimbatore.     ..Applicant in
+T.C.Nos.512 to 515 of 1993
+
+Shri M.K.Ananthakumar,
+Coimbatore.     ..Applicant in
+T.C.Nos.516 and 517 of 1993
+
+-Vs-
+
+The Commissioner of Wealth-tax,
+Coimbatore.     ..Respondent in all
+                the Tax Cases
+
+
+        Tax Case References under Sec.256 (1) of the Income-tax Act,  referred
+by 'A" Bench of the Income-tax Appellate Tribunal, Madras.
+
+
+!For Applicants :  Mr.R.Meenakshisundaram
+
+For Respondent :  Mr.  T.Ayyasamy,
+                Spl.  GP (Taxes)
+
+
+:ORDER
+(Order of the Court was made by R.JAYASIMHA BABU, J.) The question referred to us at the instance of the assessee is as to whether the Tribunal was right in having applied the proviso to Section 7 (4) of the Wealth Tax Act in respect of a part of the property and not to the whole of it. The assessment year is 1981-82.
+2. The assessee owns a house property called "Hawarden" at Thiruchy Road, Coimbatore. The property consists of 175 cents of land with built up area of 1187 sq. Metres. The assessees claimed the benefit of the proviso to Section 7 (4) of the Wealth Tax Act. The assessing authority while granting exemption under that provision, limited it to an extent of 88 cents out of the 175 cents, after expressing the view that that extent was the reasonable extent which could be regarded as the land appurtenant to the house. He thereafter estimated the value of the remaining 87 cents and calculated the same in the assessable wealth of the assessee. He relied upon the Town Planning Rules which stipulated, according to him, that the open area shall be "not less than 1/3 of the area of the site open to the sky".
+3. An appeal to the appellate authority having proved unsuccessful, the assessee carried the matter in further appeal to the Tribunal. The Tribunal confirmed the order of the Commissioner after holding that the extent of land determined by the assessing officer was capable of being independently developed and, therefore, that extent cannot be regarded as part of the house as the remaining extent in the view of the Tribunal was sufficient to enable the assessee to enjoy the house.
+4. Section 7 of the Wealth Tax Act deals with the manner in which the value of the assets is to be determined. Sub-section(4) thereof which is the relevant sub-section requiring our consideration reads thus:-
+"(4) Notwithstanding anything contained in sub-section (1), the value of a house belonging to the assessee and exclusively used by him for residential purposes throughout the period of twelve months immediately preceding the valuation date may, at the option of the assessee, be taken to be the price which, in the opinion of the Assessing Officer, it would fetch if sold in the open market on the valuation date next following the date on which he became the owner of the house, or on the valuation date relevant to the assessment year commencing on the 1st day of April, 1971, whichever valuation date is later:
+Provided that where more than one house belonging to the assessee is exclusively used by him for residential purposes, the provisions of this sub-section shall apply only in respect of one of such houses which the assessee may, at his option, specify in this behalf in the return of net wealth."
+5. This sub-section does not set out a definition of the term " house" nor does it lay down any ceiling regarding the extent of open space which can be regarded as part of the house. The term "house" is not defined in the definition Section 2 of the Wealth Tax Act.
+6. The tests that are required to be satisfied to attract the proviso to Section 7 (4) are (i) that the property must belong to the assessee and
+(ii) that it should be used exclusively for 'residential purpose'. In the event of the assessee having more than one residential house, option is given to the assessee to specify the house in respect of which he wishes to avail the benefit under that proviso.
+7. It is the case of the assessee that the house in respect of which the benefit under the proviso to Section 7 (4) has been availed is a residential house being used by the assessee for the purpose of his residence. That fact is not disputed by the Revenue. The house itself is a large house. It also has a large open space around it. The Wealth Tax Act does not impose any limit on the extent of open space which may be retained by the assessee for the better enjoyment of his residential house. The limitations regarding the holding of urban land is not the subject matter of the Wealth Tax Act but of a separate enactment. It was not necessary for the purpose of Wealth Tax Act, as it stood during the relevant year, to determine the extent of the land which can be regarded as either reasonably necessary or as being appuretnant to the house. Once it is found that the house is infact a residential house and that the land is being used as the ground attached to the house for the benefit of the residents of the house, it remains a part of the house for the purpose of the proviso to Section 7 (4). Importing into this provision notions as to what the assessing officer or other authorities may regrd as the optimum size or reasonable size for the house is wholly beyond their jurisdiction. It is not for the authorities to decide for the assessee as to what the size of his house should be or the extent of the garden or other area which the assessee should have for the house in which he lives. Any such enquiry is outside the scope of the Wealth Tax Act.
+8. Learned counsel for the assessee submitted that the present assessee is a member of the family of late Sri Shanmugam Chettiar, who was at one time the Finance Minister for the Union of India and that the house had been purchased by him together with the enclosed grounds and that the area of the house as also the extent of the grounds attached to it are the same even now.
+9. Although on account of the preasure of population and the high cost of land in urban areas, the extent of living space available to the average urban dweller has dwindled and having the benefit of open space, much less garden space, is almost a luxury, nevertheless, the fact that in earlier times houses were large and that they had large open spaces around is not to be whished away or to be regarded as being impermissible by reason of the limited space and the high cost of such space in more recent years. If a person had acquired a house for being used as a residential house and that house hapened to have large open space around it for use as garden or as play area or other purposes, as long as the house is used solely for residence and the benefit of those grounds are confined to the residents of the house and their visitors, such a house with its grounds would qualify for exemption under Section 7 (4). Importing individual notions as to what should be the reasonable size of a house or what should be the reasonable extent of the open space around is not a permissible exercise in making the assessment under the Wealth Tax Act.
+10. The assessing officer has referred to the Town Planning Rules which stipulates that the extent of the open space around the house should be not less than one third of the built area. Even those Rules do not impose a limit on the maximum open space that can be left around the house. The assessing officer cannot take a rule under a different enactment specifying a minimum and convert that into a maximum for the purpose of the Wealth Tax Act and thereafter bring to tax a part of the house which should have been excluded from valuation under Section 7 (4). The Tribunal was wholly in error in upholding that exercise which the assessing officer had resorted to.
+11. When the statute provides an exemption it is not to be whittled down arbitrarily by the assessing officers by importing their private notions of reasonableness into the provision which grants exemption.
+12. The question referred to us is, therefore, answered in favour of the assessee and against the Revenue.
+Index:Yes Website:Yes To
+1. The Asst. Registrar Income-tax Appellate Tribunal 121 Nungambakkam High Road Chennai.
+2. The Commissioner of Income-tax, Madurai
+3. The Commissioner of Income-tax (Appeals) IV, Madras-34
+4. The 2nd Income-tax Officer, Madras-2
+5. The Commissioner of Income-tax, Madurai dev/ 

@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3688/
+Cites: ['Commissioner Of Income-Tax vs Official Liquidator, Agra ... on 24 November, 1933 : https://indiankanoon.org/doc/802642/', 'Seriveti Kotiswamy And Ors. vs State Of Andhra on 28 September, 1956 : https://indiankanoon.org/doc/1342549/', 'Cbi vs 1 Sh. Netrapal Singh S/O Sh. ... on 3 September, 2012 : https://indiankanoon.org/doc/164924774/', 'Dcit Circle 9 (1), vs Sql Star International Ltd, on 4 June, 2018 : https://indiankanoon.org/doc/137813316/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 162(1) in The Income- Tax Act, 1995
+(1) Every representative assessee who, as such, pays any sum under this Act, shall be entitled to recover the sum so paid from the person on whose behalf it is paid, or to retain out of any moneys that may be in his possession or may come to him in his representative capacity, an amount equal to the sum so paid.

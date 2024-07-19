@@ -1,0 +1,16 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1946/
+Cites: ['Section 323 in The Indian Penal Code : https://indiankanoon.org/doc/1011035/', 'The Indian Penal Code : https://indiankanoon.org/doc/1569253/', 'R. Govindaswamy vs The State (Circle Inspector Of ... on 4 August, 1959 : https://indiankanoon.org/doc/1408796/', 'R. Govindaswamy vs The State (Circle Inspector Of ... on 4 August, 1959 : https://indiankanoon.org/doc/769892/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+M. Mohamed Ibrahim Sahib vs Bazhul Asu Habu on 19 January, 1950
+Equivalent citations: AIR 1950 Mad 503
+Author: G Menon
+Bench: G Menon
+ORDER Govinda Menon, J.
+1. Having rightly and correctly held that there are no materials for setting aside the order of discharge under Section 307, Penal Code the learned Sessions Judge, in my opinion, was not justified in ordering a farther enquiry with regard to the alleged offence under Section 323, Penal Code. The learned Judge holds that the order of the Magistrate implies a discharge with regard to Section 323. If that is so, simply because the Magistrate has not used words "the accused is discharged under Section 323" the learned Judge had no jurisdiction to set aside the order of discharge.
+2. Moreover, the learned Judge himself concedes that the Magistrate has disbelieved the witnesses and nothing contra has been said against that procedure. I do not think that it is open to the learned Judge to bisect the order of discharge into two component parts, confirm one part and set aside the other. The order of discharge must be taken and read as a whole and as it appears that the Magistrate did not accept the testimony of the witnesses, it necessarily follows that that non-acceptance would amount to a disbelief of the evidence regarding the offence under Section 323 as well.
+3. I would therefore set aside the order of the learned Judge directing further enquiry and confirm the order of discharge passed by the Court of the first instance.

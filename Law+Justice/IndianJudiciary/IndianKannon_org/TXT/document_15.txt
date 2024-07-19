@@ -1,0 +1,53 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/15/
+Cites: ['Section 2 in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 8116', 'Mahboob Deepak vs Nagar Panchayat Gajraula & Anr on 13 December, 2007\nSupreme Court of India Cites 1 - Cited by 224 - Full Document', 'Section 11A in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 2446', 'Secretary, State Of Karnataka And ... vs Umadevi And Others on 10 April, 2006\nSupreme Court of India Cites 25 - Cited by 1504 - Full Document', 'Section 25G in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1408', 'Section 25F in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 7401']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+Divisional Forest Officer vs Bansi & Another on 26 November, 2008
+C.W.P. No.17851 of 2007                                               -1-
+
+
+         IN THE HIGH COURT OF PUNJAB AND HARYANA
+                      AT CHANDIGARH
+
+                                                 C.W.P. No.17851 of 2007
+                                                 Decided on : 26-11-2008
+
+Divisional Forest Officer
+                                                               ....Petitioner
+                     VERSUS
+
+Bansi & another
+                                                             ....Respondents
+CORAM:-HON'BLE MR. JUSTICE HEMANT GUPTA.
+HON'BLE MR. JUSTICE NAWAB SINGH.
+1.Whether Reporters of local papers may be allowed to see the judgment ?
+2. To be referred to the Reporters or not ?
+3.Whether the judgment should be reported in the Digest ?
+-.-
+Present:- Mr. Sunil Nehra, Addl. A.G., Haryana for the petitioner.
+Mr. Manoj Kumar, Advocate for respondent No.1. HEMANT GUPTA, J The challenge in the present writ petition is to the Award passed by the Labour Court on 05.06.2006 (Annexure P-5), whereby an Industrial Dispute raised by respondent No.1 (hereinafter referred to as "the workman") was answered in favour of the workman and the workman has been ordered to be reinstated in service with continuity of service and other consequential benefits including 50% back wages from the date of issuance of demand notice till the date of publication of the Award and full wages thereafter till reinstatement.
+It is the case of the workman that he was engaged as a Beldar w.e.f. December, 1992 on daily wage basis and continued to work till 26.8.2000. The workman claims to have worked for 240 days in a year preceding the date of termination. It is alleged that his services have been terminated on 27.8.2000 without complying with the provisions of Section 25-F of Industrial Disputes Act, 1947 (for short 'the Act') and also the provisions of Section 25-G of the Act has been violated, as the Management has retained persons junior to the petitioner.
+The stand of the Management was that the workman was engaged to carry out plantation work which is of seasonal nature. It was denied that the workman has worked for 240 days in a calendar year.
+The learned Labour Court answered reference in favour of the workman by raising adverse inference against the Management for not producing the record of the engagement of the workman. It was found that though the Management witness Dalip Singh, Range Forest Officer, MW-1, has stated in the cross-examination that he has seen the original muster rolls from July, 1993 to August, 2000 before appearing as a witness. But, still he has not produced the records. The learned Labour Court has returned a finding that the workman has worked for more than 240 days preceding one year from the date of termination.
+Learned counsel for the petitioner has relied placed upon a decision of the Supreme Court in cases reported as Ghaziabad Development Authority & another Vs. Ashok Kumar & another, 2008 (4) SCC 261, Mahboob Deepak vs. Nagar Panchayat, Gajraula, (2008) 1 SCC 575, M.P. Administration Vs. Tribhuwan, (2007) 9 SCC 748, Utrranchal Forest Development Corpn. Vs. M.C. Joshi, (2007) 2 SCC (L&S) 813, State of M.P. And others Vs. Lalit Kumar Verma, (2007) 1 SCC 575, to contend that the post under the State are required to be filled up in terms of the Recruitment Rules and by inviting applications from all eligible candidates. It is contended that the respondent-workman was engaged on daily wages without following the rules and principles of Articles 14 and 16 of the Constitution, therefore, even if the workman has completed 240 days of service, the said workman is not entitled to be reinstated and also for the grant of back wages. In M.P. Administration's case (supra), the Court held to the following effect:-
+6. "The question, however, which arises for consideration is as to whether in a situation of this nature, the learned Single Judge and consequently the Division Bench of the Delhi High Court should have directed reinstatement of the respondent with full back wages. Whereas at one point of time, such a relief used to be automatically granted, but keeping in view several other factors and in particular the doctrine of public employment and involvement of the public money, a change in the said trend is now found in the recent decisions of this Court. This Court in a large number of decisions in the matter of grant of relief of the kind distinguished between a daily wager who does not hold a post and a permanent employee. It may be that the definition of "workman" as contained in Section 2(s) of the Act is wide and takes within its embrace all categories of workmen specified therein, but the same would not mean that even for the purpose of grant of relief in an industrial dispute referred for adjudication, application of constitutional scheme of equality adumbrated under Articles 14 and 16 of the Constitution of India, in the light of a decision of a Constitution Bench of this Court in Secy., State of Karnataka v. Umadevi and other relevant factors pointed out by the Court in a catena of decisions shall not be taken into consideration.
+7. The nature of appointment, whether there existed any sanctioned post or whether the officer concerned had any authority to make appointment are relevant factors."
+The said observations are in the context of engagement of a workman engaged on temporary basis from time to time. It was held that the Industrial Court exercises its discretionary jurisdiction under Section 11A of the Act, when it directs the amount of compensation to be paid to the workman.
+In Mahboob Deepak's case (supra), the Court held to the following effect:-
+9. "Due to some exigency of work, although recruitment on daily wages or on an ad hoc basis was permissible, but by reason thereof an employee cannot claim any right to be permanently absorbed in service or made permanent in absence of any statute or statutory rules. Merely because an employee has completed 240 days of work in a year preceding the date of retrenchment, the same would not mean that his services were liable to be regularised."
+In Ghaziabad Development Authority's case (supra), the dispute referred to the Labour Court was regarding termination of daily wagers appointed on ad hoc basis. It was held to the following effect:-
+19. "A statutory authority is obligated to make recruitments only upon compliance with the equality clause contained in Articles 14 and 16 of the Constitution of India. Any appointment in violation of the said contitutional scheme as also the statutory recruitment rules, if any, would be void. These facts were required to the kept in mind by the Labour Court before passing an award of reinstatement.
+20. Furthermore, public interest would not be subserved if after such a long lapse of time, the first respondent is directed to be reinstated in service."
+Since the workman has no proof to have worked continuously as claimed by the workman, therefore, we are of the opinion that the workman is neither entitled to be reinstated or any back wages.
+In view of the above, we allow the present writ petition and the impugned award dated 05.06.2006 (Annexure P-5), is set aside.
+                                                    (Hemant Gupta)
+                                                        Judge
+
+
+26th November 2008.                                 (Nawab Singh)
+Monika                                                  Judge
+ 

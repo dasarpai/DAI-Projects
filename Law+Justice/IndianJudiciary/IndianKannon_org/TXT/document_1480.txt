@@ -1,0 +1,18 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1480/
+Cites: []
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Delhi
+Swastik Paper Industries vs Collector Of Central Excise on 6 December, 1989
+Equivalent citations: 1990 ECR 375 Tri Delhi, 1992 (60) ELT 662 Tri Del
+ORDER I.J. Rao, Member (T)
+1. We heard Shri Jain, Consultant in support of the 3 applications for rectification of mistakes and Shri Chakraborty in opposition. Shri Jain, the learned Consultant submitted that there are a number of errors in the impugned order and argued in detail about all of them. However, keeping in mind that when elaborate arguments are required on points, those cannot be errors apparent on the face of the record, we disregard the argumentative part of Shri Jain's submissions and we take up here only those alleged mistakes which at a glance can be verified from the record before us.
+2. The first error pointed out by Shri Jain is that in paragraphs 1,2,3(c) and (d) the Tribunal proceeded on the basis that Notification No. 264/67 was an independent Notification whereas it was in fact an amending Notification. Shri Jain invited our attention to paragraph 3 of the impugned order and submitted that Notification No. 264/67 reproduced therein was actually Notification No. 136/67 as amended by Notification No. 264/67 and not the latter Notification itself. Shri Jain submitted that by treating Notification No. 264/67 as an independent Notification, the Tribunal misdirected itself and that this was clearly a mistake apparent on the face of the record. The learned Consultant further submitted that in paragraph 6 the Tribunal recorded that "neither expressly nor by necessary implication was the latter Notification an amendment of the former". We verified the Notification No. 264/67 and found that in fact it was a Notification amending the earlier Notification No. 136/67. This error was accepted by the DR, Shri Chakraborty. Shri Chakraborty, however, argued that the error may not have influenced the outcome on merits.
+3. We have considered the rival submission carefully. In our opinion there was a basic error in the order of the Tribunal sought to be rectified when in turn it held that Notification No. 264/67 was an independent Notification. Paragraph 6 of the order is reproduced below:
+"Neither expressly, nor by necessary implication was the latter Notification an amendment of the former. On the contrary, they applied to different products altogether - the first to corrugated paper made exclusively out of kraft paper and the second to corrugated paper made out of any other variety of paper falling under Item 17 of the 1st Schedule to the Act, provided that it is a single sheet of fluted paper."
+4. It is difficult to hold that in view of the circumstances that this error did not go to the root of the matter or that it did not influence the outcome of the judgment. We, therefore, hold that the view taken on Notification No. 264/67 as recorded in the impugned order is an error apparent on the record.
+5. In this view we do not find it necessary to go into the other alleged errors on which arguments were heard. In the interests of justice we recall the impugned order and direct that it be placed before the appropriate Bench for fresh consideration and orders.
+6. This order disposes of all the three applications for rectification.

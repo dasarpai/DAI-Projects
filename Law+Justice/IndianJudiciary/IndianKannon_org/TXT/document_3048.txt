@@ -1,0 +1,19 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3048/
+Cites: ['Commissioner Of Income-Tax, ... vs Mahalakshmi Textile Mills on 5 May, 1967 : https://indiankanoon.org/doc/1027020/', 'Commissioner Of Income-Tax vs Atherton West And Co. Ltd. on 10 November, 1970 : https://indiankanoon.org/doc/1563802/', 'New Shorrock Spinning And ... vs Commissioner Of Income-Tax, ... on 16 March, 1950 : https://indiankanoon.org/doc/734835/', 'Commissioner Of Income-Tax vs Kanodia Cold Storage on 7 May, 1974 : https://indiankanoon.org/doc/180268/', 'Commissioner Of Income-Tax, ... vs Dehri Rohtas Light Railway Co. ... on 14 July, 1978 : https://indiankanoon.org/doc/1674770/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Commissioner Of Income-Tax, ... vs Eagle Theatres on 23 April, 1985
+Equivalent citations: 1987 165 ITR 93 Delhi
+Author: Kapur
+Bench: D Kapur, S Ranganathan
+JUDGMENT Kapur, J.
+1. The question referred to us for the assessment year 1969-70 is :
+"Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that the expenditure of Rs. 99,284 was revenue in nature ?"
+2. The facts set out by the Tribunal show that the assessed had purchased two cinema houses, one at New Delhi and one at Bombay. Substantial renovations and additions were made by the assessed to the Plaza Cinema, New Delhi, and this cost about Rs. 30,00,000. A substantial part of this was treated as capital expenditure by the assessed. This was the amount spent on the extension of the auditorium, construction of the new bathrooms and false ceiling and extension of the lobby. Some part of the expense was claimed to be of a revenue nature. Part of this claim was allowed by the Income-tax Officer and the rest was treated as capital expense. In appeal, the Appellate Assistant Commissioner gave some further relief. In appeal before the Tribunal, the question was whether the amount of Rs. 99,284 spent by the assessed in replacing the old electric wiring was revenue or capital. The Appellate Assistant Commissioner treated this as ''current repairs" and allowed the deduction. Reliance was placed on the Supreme Court's decision in CIT v. Mahalakshmi Textile Mills Ltd. [1967] 66 ITR 710. The claim of the Department was that the new wiring resulted in an enduring benefit to the assessed and hence this was a capital expense.
+3. The Tribunal followed the judgments of the Allahabad high court in CIT v. Atherton West and Co. Ltd. [1971] 82 ITR 352, the Patna High Court in CIT v. Dehri Rohtas Light Railway Co. Ltd. [1964] 51 ITR 300 and the Bombay High Court in New Shamrock Spinning and Manufacturing Co. Ltd. v. CIT [1956] 30 ITR 338, wherein there were similar cases of replacement of worn out fittings. Another case referred to was CIT v. Kanodia Cold Storage .
+4. We Agree that this line of cases is to be followed in this case also. The change of the electric wires was necessitated due to wearing out and did not in any way alter the cinema. The capital asset remained just as it was.
+5. We would accordingly answer the question referred to us in the affirmative, in favor of the assessed and against the Department, but we leave the parties to bear their own costs. Question answered in the affirmative

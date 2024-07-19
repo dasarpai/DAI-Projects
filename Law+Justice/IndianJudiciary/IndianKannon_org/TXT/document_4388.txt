@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4388/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 288(6) in The Income- Tax Act, 1995
+(6) Any order or direction under clause (b) of sub- section (4) or clause (b) of sub- section (5) shall be subject to the following conditions, namely:-
+(a) no such order or direction shall be made in respect of any person unless he has been given a reasonable opportunity of being heard;
+(b) any person against whom any such order or direction is made may, within one month of the making of the order or direction-, appeal to the Board to have the order or direction cancelled; and
+(c) no such order or direction shall take effect until the expiration of one month from the making thereof, or where an appeal has been preferred, until the disposal of the appeal.

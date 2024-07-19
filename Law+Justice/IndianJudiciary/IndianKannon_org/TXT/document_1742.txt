@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1742/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 16(a)(iv) in The Securities And Exchange Board Of India (Amendment) Act, 2002
+(iv) make payment of consideration to the shareholders who sold their shares pursuant to letter of offer,";

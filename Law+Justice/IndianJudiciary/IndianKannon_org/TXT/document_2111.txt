@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2111/
+Cites: ['Bank Of Baroda vs Fairgrowth Financial Services ... on 27 July, 1993 : https://indiankanoon.org/doc/1347165/', 'C B I vs K Dharampal (Abetted) And 10 Ors on 5 July, 2018 : https://indiankanoon.org/doc/45021257/', 'Usmanbhai Dawoodbhai Menon & Ors. ... vs State Of Gujarat on 14 March, 1988 : https://indiankanoon.org/doc/912700/', 'C B I vs B. C. Dalal And Ors on 30 January, 2019 : https://indiankanoon.org/doc/90876413/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 9(4) in The Special Courts Act, 1979
+(4) A Special Court may pass upon any person convicted by it any sentence authorised by law for the punishment of the offence of which such person is convicted.

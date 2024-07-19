@@ -1,0 +1,14 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4881/
+Cites: ['Cce vs Bhiwadi Cylinders Pvt. Limited on 18 February, 2008 : https://indiankanoon.org/doc/1996702/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Delhi
+Sunrays Engg. (P) Ltd. vs Commissioner Of Central Excise on 2 June, 1998
+Equivalent citations: 1999 (113) ELT 541 Tri Del
+ORDER J.H. Joglekar, Member (T)
+1. The assessees manufacture gas cylinders. The Gas Cylinder Rules, 1981 governed the manufacture of such cylinders. The rules required testing of the gas cylinders. Rule 43 provides for condemnation of cylinder which fails to pass the tests prescribed. This testing can be destructive rendering unfit for use the cylinders subjected to destructive testing. Such destructive testing is also undertaken for qualifying under ISI standards. On certain cylinders, so destroyed, duty was paid by the assessees, who subsequently, applied for refund. It was the claim of the assessees that such cylinders before testing were semi-finished and were not liable to duty. The Assistant Collector held that the goods were fully manufactured inasmuch as they were recorded in the RG 1 registers. He rejected the refund claim. The Collector, following the same line of reasoning upheld the denial resulting in the present appeal before me.
+2. Shri J.S. Agarwal, ld. Advocate relies upon the Tribunal judgment in the case of C.C.E., Guntur v. Sahuwale Cylinders Pvt. Ltd. reported in 1998 (98) E.L.T. 645 in which it was held that no duty was leviable on such goods in such circumstances. Shri A.M. Tilak, ld. DR defends the Collector's order.
+3. I have carefully considered the submissions made by both sides and have also seen the case law. To my mind, the assessees have unnecessarily raised the issue of "semi-finished cylinders". The lower authorities are correct in holding that once the goods are entered in the RG 1 register, they are deemed to be fully manufactured. I, however, find that whereas Rule 49 provides for clearance of goods in the BSR on payment of duty only, the first proviso to that rule permits the proper officer to waive such levy where it is shown that goods have been lost or destroyed by natural cause or by unavoidable accident during handling or storage. To my mind, destructive testing would be covered under the phrase "unavoidable accident". When the law permits waiver, the same law would authorise payment of refund where duty has been paid. Although, the cited judgment does not say so, the findings are the same. I, accordingly, find that the Collector was wrong in denying the refund claim. The orders are set aside, the appeal is allowed and appropriate relief is ordered.

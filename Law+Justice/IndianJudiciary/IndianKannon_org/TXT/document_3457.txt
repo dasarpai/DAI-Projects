@@ -1,0 +1,18 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3457/
+Cites: ['the Central Excise Act, 1944 : https://indiankanoon.org/doc/110162683/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Mumbai
+Commissioner Of Central Excise vs Aryl Pharmaceuticals on 5 April, 2005
+Equivalent citations: 2005 (189) ELT 320 Tri Mumbai
+Bench: S T S.S., T Anjaneyulu
+ORDER S.S. Sekhon, Member (T)
+1. This appeal has been filed by Revenue.
+2. After hearing both sides and considering the material it is found -
+a) The assessee was manufacturing Medicaments under Technical Collaboration/advice from M/s Lyka Labs Ltd. The Medicaments so manufactured were sold to M/s Lyka Lab.
+b) Revenue has aggrieved that the value for the purpose of assessment in this case has not been correctly determine by the lower authorities. The plea is that the price at which Lyka Labs sold the goods to be the assessable value and not the sale price of the assessee to Lyka Labs.
+c) The Commissioner (Appeals) has come to a finding that it was necessary for the department to charge and prove relationship and mutuality of interest between the appellant & M/s Lyka Labs under the provision of Section 4 (1) (a) (iii) of Central Excise Act, 1944 with corroborative evidence and manufacture of the goods under technical collaboration does not make the present proceedings to render the invocation of appellant to be a related person and that evidence has to be brought that the technical collaboration has resulted in extra commercial consideration to have depressed sale price of the assessee. No such material exist even in the grounds taken before us. We therefore do not find any merits in this appeal to upset the finding of the Commissioner (Appeals).
+3. In view of the finding herein above the Revenue appeal is dismissed.

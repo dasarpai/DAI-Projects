@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/478/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 29(1) in the Credit Information Companies (Regulation) Act, 2005
+(1) Every credit information company shall observe, except as otherwise required by law, the practices and usages customary among credit information companies and it shall not divulge any information relating to, or to the affairs of its members or specified users.

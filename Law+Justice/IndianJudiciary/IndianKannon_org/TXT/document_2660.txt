@@ -1,0 +1,18 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2660/
+Cites: []
++++++++++++++++++++++++++
+
+
+Karnataka High Court
+Mysore Cements Limited vs State Of Karnataka on 8 February, 1979
+Equivalent citations: 1985 59 STC 197 Kar
+Author: Andrashekhar
+Bench: D Chandrashekhar, E Venkataramiah
+JUDGMENT Andrashekhar, C.J.
+1. This revision petition is by an assessee. Shri K. R. Prasad, learned counsel for the assessee, contended that since no annual return had been filed by the assessee, the assessment for the year 1966-67 could be made only under section 12-A of the Karnataka Sales Act. 1957 (hereinafter referred to as "the Act") and that the time-limit of 5 years for initiating such proceedings had expired when the Commercial Tax Officer issued a notice to the assessee in November or December, 1974.
+2. Shri Prasad did not dispute that the assessee had filed quarterly returns showing both his total and taxable turnovers. But, Shri Prasad contended that such returns had been filed only for the purpose of payment of advance tax under section 12-B of the Act and that such returns could not be regarded as returns for the purpose of regular assessment. He maintained that unless the assessee elected under rule 21(1) of the Karnataka Sales Tax Rules, 1957 as it stood in the relevant assessment year, to file quarterly returns, he had to file annual returns, that in the present case the assessee had not exercised his option in writing to file quarterly returns and that in the absence of a return filed by the assessee, there could only be an assessment of escaped turnover under section 12-A.
+3. The Tribunal has expressly stated in para 2 of its order that in addition to quarterly returns the assessee filed on 3rd February, 1975 a revised return showing his total turnover as Rs. 3,72,26,267.67 and the taxable turnover as Rs. 2,52,86,768.54. In view of the express finding of the Tribunal that the assessee had filed an annual return, it is no longer open to the assessee to contend that he could be assessed only under section 12-A.
+4. Sub-rule (1) of rule 21 of the Karnataka Sales Tax Rules, as it stood in the relevant year, provided that in lieu of the method of assessment under section 12-B and rule 18, the method prescribed in sub-rules (2) to (5) of that rule might be adopted in the case of a dealer whose annual turnover exceeded Rs. 40,000, at his option which should be intimated to the assessing authority. In the present case, since the assessee himself filed quarterly returns, he must be regarded as having intimated to the assessing authority his option to be assessed according to the method prescribed in rule 21. No particular form had been prescribed for intimating such option of the assessee for adopting the method of filing quarterly returns. Hence, the quarterly returns filed by the assessee for the assessment year 1966-67 could form the basis for assessment otherwise than under section 12-A. As stated earlier, the assessee had also filed voluntarily his annual return for the year 1966-67. Hence, the time-limit specified under section 12-A of the Act, has no application to this case and the assessment cannot be said to be time-barred.
+5. In the result, we do not admit this petition but dismiss it.

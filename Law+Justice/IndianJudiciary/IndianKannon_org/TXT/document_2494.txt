@@ -1,0 +1,20 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2494/
+Cites: ['Ganesh Trading Co., Karnal vs State Of Haryana And Anr. on 25 April, 1973 : https://indiankanoon.org/doc/453569/', 'the Central Sales Tax Act, 1956 : https://indiankanoon.org/doc/1645178/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+D. Srinivasan Chettiar vs Secretary, Ramanathapuram ... on 15 July, 1976
+Equivalent citations: (1977) 1 MLJ 433
+Author: S Mohan
+ORDER S. Mohan, J.
+1. In this writ petition for certiorari, the petitioner seeks to quash the order of the respondent dated 27th May, 1976, wherein he is called upon, pursuant to the judgment of Natarajan, J., to take out a licence under section 6 of the Tamil Nadu Agricultural Produce Markets Act, 1939, hereinafter referred to as the Act.
+2. The contention of the petitioner is that he is merely hulling paddy in the rice mill called 'Srinivasa Rice Mill' at Manamadurai and no question of taking out a licence would arise. What Mr. G. Ramaswami, learned Counsel for the petitioner, contends is that the activity of the petitioner cannot be brought under the words "processing of any agricultural produce" under section 6 of the Act. Learned counsel for the petitioner develops his argument saying that having regard to the preamble and the purpose of the Act being to secure a fair price for the producer's agricultural produce and to avoid middle-men, unless the processing is in relation to the sale of that notified agricultural produce there is no obligation on his part to take out a licence. In this case, the notified agricultural produce is only paddy and not rice. If paddy and rice are two different commodities as held by the Supreme Court in Ganesh Trading Co. v. State of Haryana . there is no requirement to take out a licence. Under similar circumstances, the Mysore High Court has held in Gurumurthy v. Agricultural Producee Market Committee (1970; 2 Mys. L.J. 173. that the processing must be in relation to the agricultural produce for the purpose of purchase or sale.
+3. For a proper appreciation, of the argument, Section 6 of the Act may be extracted:
+No person shall, within a notified area, set up, establish, or use, or continue or allow to be continued, any place for the purchase or sale, storage, weighment, pressing or processing of any notified agricultural produce, except under and in accordance with conditions of a licence granted to him by the market committee.
+4. There are no qualifying words to say that the processing must be with reference to the agricultural produce. If the section were to be read as "No persons shall ...use any place for pressing or processing of any notified agricultural produce", much of the argument by the learned Counsel loses its force. The judgment of the Mysore High Court has no application since the language of that section is very different. Section 8 (1) (b) of that Act is as follows:
+No person shall, without, or otherwise than in conformity with the terms and conditions of a licence granted by the market committee in this behalf,... operate in the market area or in any market therein as a trader, commission agent, broker, processor, weighman, warehouseman, or in any other capacity in relation to the marketing of the notified agricultural produce.
+That section clearly contains the words "in relation to the marketing of any notified agricultural produce" which are absent under section 6.
+5. There is no quarrel about the proposition that paddy and rice are two different commodities. In fact, in dealing with a case arising under the Sales Tax Act, their Lordships of the Supreme Court have held so in very categorical terms. For these reason, I hold that there are no merits in the writ petition which will stand dismissed,

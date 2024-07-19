@@ -1,0 +1,192 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3744/
+Cites: ['Section 81 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 228', 'BANKING REGULATION ACT,1949\nCentral Government Act Cites 0 - Cited by 3492 - Full Document', 'Section 24 in The Government Securities Act, 2006 [Complete Act]\nCentral Government Act Cites 0 - Cited by 30', 'The Securities and Exchange Board of India Act, 1992\nCentral Government Act Cites 0 - Cited by 1381 - Full Document', 'Section 35 in BANKING REGULATION ACT,1949 [Complete Act]\nCentral Government Act Cites 0 - Cited by 135', 'Section 35A in BANKING REGULATION ACT,1949 [Complete Act]\nCentral Government Act Cites 0 - Cited by 223', 'The Companies Act, 1956\nCentral Government Act Cites 0 - Cited by 36297 - Full Document', 'Section 11 in The Companies Act, 1956 [Complete Act]\nCentral Government Act Cites 0 - Cited by 569']
++++++++++++++++++++++++++
+
+
+Madras High Court
+The Karur Vysya Bank Employees ... vs The Securities And Exchange on 29 August, 2007
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS 
+
+DATE : 29.08.2007
+
+CORAM
+
+THE HONOURABLE MR. JUSTICE S.J.MUKHOPADHAYA
+AND
+THE HONOURABLE MS. JUSTICE K.SUGUNA
+
+W.A. NO. 2121 OF 2004
+
+The Karur Vysya Bank Employees Union
+rep. by its President
+No.20, West Anjaneya Temple Road
+Basavangudi, Bangalore 560 004.    .. Appellant
+
+- Vs -
+
+1. The Securities and Exchange
+    Board of India
+    Earnest House, rep. by its Chairman
+    14th Floor, No.194, Nariman Point
+    Mumbai 400 021.
+
+2. The Reserve Bank of India
+    Central Office
+    Department of Banking Operations
+    & Development
+    Cuffee Parade, World Trade Centre
+    Centre-I, Mumbai 500 005.
+
+3. The Karur Vysya Bank Limited
+    rep. By its Chairman
+    Erode Road
+    Karur 639 002.
+
+4. Union of India
+    rep. by Secretary to Government
+    Ministry of Finance
+    New Delhi.      .. Respondents
+ Writ Appeal filed against the order dated 20th Sept., 2002, passed by the learned single Judge in W.P. No.11544 of 1995 as stated therein. 
+  For Appellant  : Mr. R.Yashod Vardhan, SC, for 
+       Mr. P.Vinod Kumar
+
+  For Respondents  : Mr.Shivakumar for R-1
+       Mr. C.Mohan for 
+       M/s.King & Paridge for R-2
+       Mr. S.L.Rajah for R-3
+       Mr. P.Wilson, Asst. Solicitor General for R-4
+JUDGMENT
+S.J.MUKHOPADHAYA, J.
+The Karur Vysya Bank Employees Union (hereinafter referred to as the 'Union') has preferred this appeal against the order dated 20th Sept., 2002, in W.P. No.11544/95 whereby and whereunder learned single Judge dismissed the writ petition on the ground that the said writ petition has become infructuous.
+2. The matter relates to issuance of shares of banks to their employees/workers. On 16th March, 1985, while introducing the Finance Bill in the Parliament, the Finance Minister also introduced a scheme called 'The Employees Stock Option Scheme'. The scheme was voluntary in nature on the part of the employer company as well as on the part of the employees irrespective of their nature of appointment. According to the petitioner, as per the Bill aforesaid, the employees were to be given free option of savings under the scheme and the saving was for a period of five years since joining of employee under the scheme. On completion of the fifth year, the amount would compulsorily get converted into equity shares and conversion will take place at a price determined in the year in which the scheme was introduced by the company. This would however be permissible only at 80% of the average market price of the company's equity shares or the fair value of the shares as determined by the Controller of Capital Issues, whichever is less, but not less than the fair value of the shares. The equity shares issued against the debentures would also have a lock-in period of three years from the date of issue.
+3. The guideline was issued by the Government of India on 1st Aug., 1985, circulating the 'Employees Stock Option Scheme' (ESOS). In regard to Issue of Capital  reservation for employees, following guideline was issued on 1st Aug., 1985, from the Ministry of Finance, Department of Economic Affairs, as quoted hereunder :-
+"Issue of Capital  Reservation for Employees  Guidelines dated 1.8.1995 The Finance Minister, while making his Budget Speech on 16th march, 1985, announced the introduction of Stock Option Scheme for employees as follows :-
+"The Government is also considering the introduction of a scheme of stock option to the employees and workers of companies to encourage their participation in management".
+1. Keeping in view the above announcement, companies are advised that while proposing a further issue of capital to the Controller of Capital Issues, they should make a reservation of 5 per cent of the further issue to their employees/workers on an equitable basis. In the case of public issues, the shares not taken up by employees/workers, would be added to the public issue. In the case of rights issue an additional offer to the employees should be made simultaneously with the offer to the existing shareholders at a price to be fixed by the Controller of Capital Issues. Right of renunciation need not be given to the employees and the unsubscribed portion would lapse if not taken up by the employees. Necessary resolutions under the provisions of Section 81 of the Companies Act, 1956 should be produced for reservation to employees while submitting the proposal to the Controller of Capital Issues."
+According to the petitioner, as far as banking companies are concerned, no bank had been permitted to issue debentures for raising further capital and the issue of further capital is only done through issue of equity shares. Hence, insofar as banking companies are concerned, the question of issue of convertible debentures would not arise, but 5% of the further capital to be released in the form of equity shares would be reserved for its employees. On 1st Dec., 1990, the erstwhile Controller of Capital Issues issued guideline on per cent of shares. It followed by a detailed guideline issued by Reserve Bank of India (hereinafter referred to as 'RBI'), Department of Banking Operations and Development on 17th June, 1994 vide DBOD No.BC 76/16.13.100/94. All Indian commercial banks in private sectors, including Karur Vysya Bank (hereinafter referred to as the 'Bank') were directed to follow such guideline in exercise of power conferred by Section 35 of the Banking Regulation Act, 1949. The following directions were issued :-
+"3. In view of the above mentioned factors and in exercise of the powers conferred under Section 35A of the Banking Regulation Act, 1949, the RBI having considered it necessary in public interest and in the interest of banking policy, issues the following directions :-
+i) Public Issues The pricing of shares to be issued by banks should not be less than that based on the net asset value according to the guidelines of erstwhile Controller of Capital Issues (CCI) in December, 1990. For the purpose of determining the profit earning capacity value, the capitalisation factor shall be taken as 10 per cent.
+ii) Preferential issue of shares While the preferential allotment of shares at preferential prices would generally be discouraged, the RBI may permit banks to make such allotment selectively to prevent the destabilisation of the existing well performing managements, subject to the following conditions :-
+a) The preferential allotment should be backed by the resolutions of the Board of Directors and the General Body.
+b) While approving the preferential allotment, the majority of the shareholders, excluding the beneficiaries, should support the preferential allotment at the preferential price.
+c) Every preferential allotment of shares by banks shall be at not less than the market value of the shares to be determined on the basis of their average price during the immediate preceding six months at the main listing centre calculated on the monthly average of high and low rates quoted for the shares at such centres. However, in the absence of a market price (as in the case of unlisted companies or where shares are not regularly traded) the value of shares should be not less than the value on the basis of the net asset value and earnings per share according to the guidelines of the erstwhile CCI in December, 1990, as explained at (i) above.
+iii) Rights issue and special allotment to employees In order to ensure that adequate reserves are built up, in the case of rights issue to all such shareholders or special allotment to employees, the price should not be less than half of the price fixed for the public issue determined according to the CCI formula of December, 1990.
+iv) Bonus issues The bank managements are free to take decisions on bonus issues provided such issues are made simultaneously with rights/public issues made under these directions and subject to banks following SEBI guidelines, as applicable."
+4. In the present case, we are concerned with the rights issue and special allotment to the employees as shown in the guideline dated 17th June, 1994 at clause (3) and quoted above.
+The bank in question, vide letter No.CS/FIM/382/94-95 dated 20th June, 1994, sought permission from RBI for issue of rights/bonus equity shares to its employees. The RBI, vide their letter DBOD No.16.01.065/94 dated 8th July, 1995, agreed and granted such permission subject to approval of Securities Exchange Board of India (hereinafter referred to as 'SEBI'), relevant portion of which is quoted hereunder :-
+"Dear Sir, Issue of Rights/Bonus Equity Shares Please refer to your letter No.CS/FIM/382/94-95 dated 20th June, 1994, on the above subject. We are agreeable to your bank's capital issues as under, subject to approval of SEBI and the bank complying with legal and other formalities in this regard.
+(a) Twenty lakhs rights shares of Rs.10/- each at a premium of Rs.25/- per share in the ratio of 1:1.
+(b) One lakh shares of Rs.10/- each at a premium of Rs.25/- per share to the permanent employees of the bank.
+(c) Twenty lakhs bonus shares in the ratio of 1:1. This will be excluded for the rights issue being offered now by the bank.
+2. Please note that the Reserve Bank of India does not in any manner undertake any responsibility for the financial soundness or otherwise of the issues.
+Yours faithfully, Deputy Chief Officer"
+5. With regard to rights issue and special allotment to employees, the RBI, in order to ensure that adequate resources are built up, decided that in the case of rights issue to all the share holders or special allotment to employees, the price should not be less than half of the price fixed for the public issue determined according to formula issued by the Controller of Capital Issues in December, 1990. It was also informed that the above requirement should be complied with and in addition to those prescribed guidelines of the SEBI insofar as the latter are not inconsistent with or contrary to the directions of the RBI.
+6. At the 75th Annual General Meeting of the Bank on 16th Sept., 1994, a resolution was passed to raise the authorised capital of the bank from Rs.3 Crores to Rs.12 Crores. A further resolution was passed in accordance with the provisions of Section 81 (1) (A) and subject to the approval of the RBI that 1,01,300 shares of Rs.10/= each should be offered to the permanent employees at a premium of Rs.25/= per share if they are on the rolls of the bank as on 23rd March, 1994. Each employee was entitled to 50 shares with a lock-in period of three years from the date of allotment. In the meantime, a special resolution at item No.12 of the members of the Bank was passed as held in its 75th Annual General Meeting, which is relevant, is as follows :-
+"12. To consider and, if thought fit, to pass the following resolution with or without modification, as a SPECIAL RESOLUTION.
+Resolved that in accordance with the provisions of Section 81 (A) and other applicable provisions, if any, of the Companies Act, 1956, and subject to approval of Reserve Bank of India and such other approvals, permissions and sanctions as may be necessary and subject to such condition and modification as may be imposed by SEBI and as may be considered necessary by the Board of Directors of the Bank or as may be prescribed in granting such approvals, permissions and sanctions which may be agreed to by the Board of Directors of the Bank, the consent of the Bank be and is hereby granted to the Board of Directors of the Bank to offer 1,01,300 shares of Rs.10.00 each at a premium of Rs.25.00 per share to the permanent employees who were on the rolls of the Bank as on 23.03.1994 and each employee is entitled to 50 (fifty only) shares with a lock in period of 3 years from the date of allotment.
+Resolved further that for the purpose of giving effect to the above, the Board of Directors be and are hereby authorised to do all things necessary for the purpose of issue of equity shares to the permanent employees of the Bank and to take such action or give such directions as may be necessary or desirable and to accept any modification in the proposal and terms of issue as may be considered by the Board of Directors as may be prescribed in granting approval to the issue which may be acceptable to the Board of Directors and to decide the basis of allotment and to settle any question of difficulty that may arise in regard to issue and allotment of equity shares to the permanent employees of the Bank."
+The RBI, by letter No. DBOD No.367/16.01.065/94 dated 1st Sept. 1994, granted approval for issue of 1,01,300/= shares of Rs.10/= each for cash at premium of Rs.25/= per share to the permanent employees of the bank as against 50 shares proposed earlier by bank subject to approval of SEBI and bank's compliance with the legal and other formalities. However when the matter was considered by SEBI, it, vide letter No.IMID/RM/194/195/95 dated 11th Jan., 1995, rejected such proposal on the ground that it is not in conformity with their circular No.7 dated 5th Aug., 1994. For proper appreciation of the case, the relevant portion of the letter dated 11th Jan., 1995, is extracted hereunder :
+"Our observations :
+CAPITAL STRUCTURE
+1) The Lead manager should ensure that the bonus shares shall be allotted, dispatched to the shareholders and listed before the opening of the issue and the ex-bonus and ex-rights price per share should be indicated in the offer document.
+2) With respect to the proposed preferential allotment to the employees of the bank the lead manager should note that such allotments are governed by SEBI Circular No.7 dated August 5, 1994 regarding preferential allotment to select group of persons and the present proposal is not in conformity with the above and hence the same shall be deleted from the offer document and corresponding charges shall be effected in the capital structure, financial projections, etc."
+7. As noticed earlier, in absence of any stay, shares having been sold, learned single Judge declared that the writ petition has become infructuous, but the appeal has been preferred by the employees Union, as according to them the question of law as was involved in the writ petition has not been decided, which requires determination for future allotment of shares.
+8. The only question that arises for consideration is whether the circular dated 5th Aug., 1994, issued by SEBI is applicable on private sector Indian commercial banks for the purpose of rights issue and special allotment to its employees.
+9. For determination of such issue, apart from the guidelines issued by RBI from time to time of which reference have been given and relevant portion quoted above, it is also necessary to notice the guideline dated 5th Aug., 1994, issued by SEBI of which reference has been given in their impugned letter dated 11th Jan., 1995.
+The aforesaid guideline dated 5th Aug., 1994, issued by SEBI relates to 'Disclosure of Investors Protection'. The need for protecting the interest of investors were mentioned in the covering letter, as quoted hereunder :-
+"Guidelines for Disclosure of Investor Protection Of late, the practice of making preferential allotments of shares etc., at a price unrelated to the prevailing market price of such instruments seems to be on the increase. Besides, companies have also been issuing warrants to select persons with a right to obtain shares in future at a price, not bearing a fair relation to the market. The development is particularly undesirable as the allaotments are made to select persons. Therefore, there appears to be a need for protecting the interest of the investors, who do not receive such preferential treatment by ensuring that the pricing of the preferential allotments is market related.
+SEBI has issued a press release dated August 4, 1994 giving guidelines governing the issue of shares or warrants/fully convertible debentures/partly convertible debentures or other financial instruments made on a preferential basis. A copy of the said press release is enclosed for your information and record."
+The press release with regard to preferential issues was circulated with the said guideline dated 5th Aug., 1994, whereby following guidelines were circulated :-
+"Guidelines for Disclosure of Investor Protection Of late, the practice of making preferential allotments of shares etc., at a price unrelated to the prevailing market price of such instruments seems to be on the increase. Besides, companies have also been issuing warrants to select persons with a right to obtain shares in future at a price, not bearing a fair relation to the market. The development is particularly undesirable as the allaotments are made to select persons. Therefore, there appears to be a need for protecting the interest of the investors, who do not receive such preferential treatment by ensuring that the pricing of the preferential allotments is market related.
+2. SEBI therefore issues the following guidelines governing the issue of shares or warrants/Fully convertible Debentures (FODs)/Partly Convertible Debentures (PCDs) or other financial instruments made on a preferential basis to a select group of persons under Section 81 (A) of the Companies Act, 1956. These guidelines are being issued in terms of Section 11 (1) read with Section 24 of the Securities and Exchange Board of India Act, 1992, for orderly development of the securities market and to protect the interest of the investors at large.
+3. All issues of capital by listed companies by way of shares/FCDs/PCDs/warrants/any other financial instruments on a preferential basis to any select group of persons, shall henceforth be subject to fulfilment of the requirements mentioned in the following paragraphs :-
+4. Pricing of the Issue The issue of shares on a preferential basis can be made at a price not less than the higher of the following :
+The average of the weekly high and low of the closing prices of the related shares quoted on the stock exchange during the six months preceding the relevant date OR the average of the weekly high and low of the closing prices of the related shares quoted on a stock exchange during the two weeks preceding the relevant date.
+* * * * * * * *
+12. Preferential allotment to FIIs :
+Preferential allotments, if any, to be made in favour of Foreign Institutional Investors shall also be governed by the guidelines issued by the Government of India/SEBI/Reserve Bank of India on the subject.
+13. Applicability :
+These guidelines will come into force with immediate effect. Cases of preferential issues approved by the General Body of shareholders at meetings held between 5th May, 1994 and 4th August, 1994 can be acted upon within a period of three months from the date of issue of these guidelines. However, all cases of preferential issues approved by resolutions of the general body of shareholders held prior to 5th May, 1994 would be governed by these guidelines, if they have not been acted upon by 4th August, 1994."
+By acknowledgement card contained in letter dated 11th Jan., 1995, SEBI, while informed the bank that the vetting of document by SEBI should not in any way be deemed or construed that the same has been cleared or approved by SEBI, under the impugned letter dated 11th Jan., 1995, enclosed as Annexure-III to the covering letter, SEBI refused to grant approval for rights issue of two lakhs equity shares of Rs.10/= each for cash at premium of Rs.25/= per share in favour of the employees of the bank.
+10. Counsel appearing on behalf of SEBI also referred to the circular No.7 dated 5th Aug., 1994, issued by SEBI and submitted that the proposal of the bank was not in conformity with the aforesaid circular, which relates to preferential allotment to selected group of persons.
+On the other hand, according to the learned counsel for the petitioner/appellant, the circular is not applicable to rights issue.
+11. We have noticed the different guidelines issued by Government of India, RBI and SEBI, relevant portions of which have been quoted above. If the guideline issued by Government of India, RBI and SEBI are read together, it will be evident that they cover different fields and are not contrary to each other. The guideline issued by the Ministry of Finance, Department of Economic Affairs, Government of India dated 1st Aug., 1985, relates to reservation of issue of capital in favour of the employees keeping in view the announcement made by the Finance Minister during his budget speech on 16th March, 1985. On introduction of stock option scheme for employees, it was decided by Government of India that while proposing a further issue of capital, they should make a reservation of 5% of the further issue to their employees/workers on an equitable basis.
+So far as the guideline issued by RBI dated 17th June, 1994 is concerned, it is binding on the bank, having issued in exercise of power conferred u/s 35-A of the Banking Regulation Act, 1959. Clause (i) of Para-3 relates to public issues, which should not be less than that based on the net asset value and profit earning capacity value according to the guidelines of erstwhile Controller of Capital Issues in December, 1990. Clause (ii) of Para-3 relates to preferential issue of shares, which has been discouraged, but could be permitted by banks to make such allotments selectively to prevent destabilisation of the well performing management with certain conditions as mentioned therein. Clause (iii) of Para-3 relates to "rights issue and special allotment to employees", as quoted hereunder :-
+iii) Rights issue and special allotment to employees In order to ensure that adequate reserves are built up, in the case of rights issue to all such shareholders or special allotment to employees, the price should not be less than half of the price fixed for the public issue determined according to the CCI formula of December, 1990.
+On the other hand, Clause (iv) of Para-3 relates to bonus issues and Para-4 relates to permission of RBI for determination of the price of various categories of shares.
+12. In the present case, we are not concerned with public issue or preferential issue of shares or bonus issue as contained in clauses (i), (ii) and (iv) of Para-3. The present case relates only to 'rights issue and special allotment to employees'. According to the guideline, in order to ensure that adequate resources are built up, in case of "rights issue" of share holders and special allotment to the employees, price should not be less than half of the price fixed for public issue, determined according to the CCI formula of December, 1990. It has nothing to do with "preferential issue", allotment to which cannot be made less than the market value of the shares to be determined on the basis of their average price during the immediate preceding six months at the main listing centres. The price of share is calculated for public issues, which is also applicable for rights issues and special allotment to employees. It is completely different than the mode of calculation of price of shares of preferential issues.
+The guideline of SEBI, No.7 dated 5th Aug., 1994, relates to pricing of issues of shares on 'preferential basis and preferential allotment to Foreign Institutional Investors' and are governed by the guidelines issued by the Government of India, SEBI and RBI. Clause (4), i.e., pricing of issues of shares on preferential basis is not concerned with rights issue and special allotment to the employees, which is based on public issues. Clause (12) of the said guideline of SEBI dated 5th Aug., 1994, also do not relate to employees of the bank but to foreign institutional investors.
+13. Learned counsel for SEBI could not lay hand on any provision to suggest how the guideline dated 5th Aug., 1994, is attracted in the case of rights issue and special allotment to employees of the bank, price of which is to be fixed as per public issue. He also could not point out how the mode of fixation of price of preferential issue of share has anything to do with rights issue and special allotment to employees, which is based on public issue.
+Therefore, it will be evident that the guideline issued by the Government of India dated 1st Aug., 1985, while relates to reservation of 5% of the further issues in favour of the employees/workers on equitable basis, the statutory guideline issued by RBI dated 17th June, 1994, which is also binding on the bank, clause (iii) of para-3 therein is applicable in the present case, which relates to rights issue and special allotment to employees. The guideline dated 5th Aug., 1994, issued by SEBI do not cover the field of rights issue and special allotment to employees and thus the rejection as made by SEBI while refusing approval by impugned letter dated 11th Jan., 1997, cannot be upheld, the reasons given therein being bad in law.
+14. Counsel for the parties brought to our notice the said guideline issued by the Reserve Bank of India on 20th March, 2002, vide letter Ref. DBOD. No.PSBS.BC.79/16.13.100/2001-2002. Therein giving reference to earlier guidelines dated 17th June, 1994 and 10th July, 1999, instructions have been given as to how pricing of shares of private sector banks, rights issue and preferential issue were to be fixed, as quoted hereunder :-
+"Issue and pricing of shares by private sector banks Please refer to our circulars DBOD.No.BC.76/16.13.100/94 dated June 17, 1994 and DBOD.No.PSBS.BC.72/16.13.100/98-99 dated July 10, 1998 respectively, in terms of which guidelines on issue and pricing of shares had been prescribed. In terms of extant instructions, banks in private sector, whose shares are not listed on the stock exchanges, are required to obtain prior approval of Reserve Bank of India (RBI) for issue of all types of shares, viz., public, preferential, rights/special allotment to employees and bonus shares. However, banks whose shares are listed on the stock exchanges need not seek prior approval of RBI for issue of shares except bonus shares, which is to be linked with rights/public issues by all the banks in private sector. The matter has since been reviewed and issue and pricing of shares by private sector banks would be governed by the following guidelines.
+* * * * * * * *
+3. Rights Issues :
+RBI approval would not be required for rights issues by both listed and unlisted banks.
+* * * * * * * *
+5. Preferential Issue :
+All preferential issues would require prior approval of RBI. Pricing of preferential issues by listed banks be as per SEBI formula, while for unlisted banks the fair value may be determined by a chartered accountant or a merchant banker."
+From the aforesaid guidelines issued by RBI, it will be clear that shares and special allotment can be made in favour of the employees of the bank, including bonus shares and prior approval of RBI is required only in case the bank is not listed on the stock exchange.
+15. Learned counsel appearing on behalf of the respondent/SEBI submitted that the notice which was published for issuance of shares have now been sold in favour of others and thus it was suggested that the writ petition has become infructuous, but we do not subscribe to such submission as the ratio laid down by us will cover the future allotment, if made by bank, which may make special allotment of shares and bonus shares in favour of its employees having regard to the guidelines issued by Government of India and RBI.
+We, accordingly, set aside the impugned letter dated 11th Jan., 1995, issued by SEBI and remit the case to the respondents for determination on grant of rights issue and special allotment of shares to its employees, if made in future, in accordance with reservation as made by Government of India and at a price to be fixed as per guidelines of the RBI. The writ appeal is allowed with aforesaid observation. However, there shall be no order as to costs.
+             (S.J.M.J.)      (K.S.A.J.)
+               29.08.2007
+Index     : Yes
+Internet : Yes
+GLN
+
+To
+1. The Chairman
+    Securities and Exchange Board of India
+    Earnest House
+    14th Floor, No.194
+    Nariman Point
+    Mumbai 400 021.
+
+2. The Reserve Bank of India
+    Central Office
+    Department of Banking Operations
+    & Development
+    Cuffee Parade, World Trade Centre
+    Centre-I, Mumbai 500 005.
+
+3. The Secretary to Government
+    Government of India
+    Ministry of Finance
+    New Delhi.
+
+             S.J. MUKHOPADHAYA, J.
+           AND
+                       K.SUGUNA, J.
+ 
+            GLN
+
+
+
+
+
+
+                    Pre-Delivery Judgment in
+                 W.A. NO. 2121 OF 2004 
+
+
+
+
+
+        
+
+   
+
+
+          Pronounced on
+               29.08.2007

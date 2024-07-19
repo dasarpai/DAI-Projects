@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/220/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 16(2)(f) in The Water (Prevention and Control of Pollution) Act, 1974
+(f) collect, compile and publish technical and statistical data relating to water pollution and the measures devised for its effective prevention and control and prepare manuals, codes or guides relating to treatment and disposal of sewage and trade effluents and disseminate information connected therewith;

@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3154/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 142(2) in The Merchant Shipping Act, 1958
+(2) A seaman or apprentice shall not be disentitled to claim wages for any period during which he has not performed his duty if he proves that he was incapable of doing so by reason of illness, hurt or injury, unless it be proved that,—
+(a) his illness, hurt or injury was caused by his own wilful act or default or his own misbehaviour; or
+(b) his illness was contracted or his hurt or injury was sustained at a proper return port and was not attributable to his employment; or
+(c) he has unreasonably refused to undergo medical or surgical treatment for his illness, hurt or injury involving no appreciable risk to his life.

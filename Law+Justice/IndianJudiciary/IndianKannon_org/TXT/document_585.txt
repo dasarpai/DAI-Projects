@@ -1,0 +1,86 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/585/
+Cites: ['Section 20 in The Specific Relief Act, 1963 : https://indiankanoon.org/doc/1009821/', 'Section 10 in The Indian Contract Act, 1872 : https://indiankanoon.org/doc/447653/']
++++++++++++++++++++++++++
+
+
+Kerala High Court
+D.Ponnamma vs Krishnan Nair on 28 October, 2009
+       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+SA.No. 536 of 1996()
+
+
+
+1. D.PONNAMMA
+                      ...  Petitioner
+
+                        Vs
+
+1. KRISHNAN NAIR
+                       ...       Respondent
+
+                For Petitioner  :SRI.R.RAJASEKHARAN PILLAI
+
+                For Respondent  :SRI.P.SUKUMARAN NAYAR(SR.)
+
+The Hon'ble MR. Justice P.BHAVADASAN
+
+ Dated :28/10/2009
+
+ O R D E R
+                              P. BHAVADASAN, J.
+                  - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                             S.A. No. 536 of 1996
+                  - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                Dated this the 28th day of October, 2009.
+
+                                    JUDGMENT
+The defendant in O.S. No.149 of 1989 before the Munsiff's Court, Kayamkulam, who sufferd a decree for specific performance at the hands of the first appellate court is the appellant. The parties and facts are hereinafter referred to as they were available before the trial court.
+2. The suit was based on Ext.A1 document, an agreement for sale, by which, according to the plaintiff, the defendant undertook to sell an extent of 14 cents of land with a building therein for a sum of Rs.9,600/-. Even though the entire amount was paid, the defendant did not execute the sale deed inspite of repeated demands. Hence the suit.
+3. The defendant resisted the suit. She denied the execution of the agreement as alleged in the plaint. She pointed out that the sale consideration shown is too low and the price of the property at the relevant time was Rs.10,000/- per cent. Ext.A1 document was executed by the defendant in a chitty transaction and there was no agreement to sell her property. She also denied execution of the agreement. On the basis of the above contention, she prayed for dismissal of the suit.
+4. The trial court raised necessary issues for consideration. The evidence consists of the testimony of P.Ws. 1 and 2 and Exts.A1 marked on the side of the plaintiff. The defendant examined herself as D.W.1 and Exts.B1 and B2 marked. The trial court found that Ext.A1 is a genuine document and infact executed by the defendant. However, the trial court came to the conclusion that the agreement for sale as claimed by the plaintiff was not proved and there was a lot of suspicion about the transaction. Holding so, the suit was dismissed. The plaintiff carried the matter in appeal as A.S. 129 of 1992 before the Additional District Court, Mavelikkara. By judgment dated 1.12.1995 the first appellate court granted specific performance in favour of the plaintiff and the suit was decreed. The said judgment and decree are assailed in this appeal.
+5. At the time of admission, notice was issued on the following questions of law:
+"(i) Can an Agreement which is perfectly legal going by the provisions of Section 10 of the Contract Act be enforced even if, it satisfy the conditions and circumstances provided under Sub Section (2)(a) to (2)
+(c) of Section 20 of the Specific Relief Act.
+(ii) The substantial variation of the evidence from the pleadings whether would entitle the plaintiff for a decree of specific performance?
+(iii) The non-prosecution of Ext.B2 suit notice whether would accentuate the defendant's case that Ext.A1 is only to secure the debt?
+(iv) Do the period of two days to performance stated in Ext.A1 and further extension of period for 10 days at the instance of the husband of the defendant, would create cloud on the genuineness of Ext.A1."
+6. The question that arises for consideration is whether the claim made by the appellant can be allowed.
+7. Both the courts below have concurrently found that Ext.A1 was infact executed by the defendant. Being a question of fact, the said finding does not call for any interference at all.
+8. The trial court came to the conclusion that there is no evidence to prove that the sum of Rs.9,600/- mentioned in the document has been paid by the plaintiff. The trial court also took note of the fact that the claim of the plaintiff was that the sale consideration was actually Rs.50,000/-, but in order to avoid stamp duty the sale consideration was shown as Rs.9,600/- in Ext.A1 document. The court below was of the view that the claim of the defendant that Ext.A1 was executed as a security for the chitty transaction is more acceptable. The appellate court on the other hand found that once the document is found to be genuine and in fact executed by the defendant, there is no reason to deny specific performance to the plaintiff.
+9. In this appeal, learned counsel appearing for the appellant mainly relied on Section 20 of the Specific Relief Act. According to the learned counsel, even assuming that Ext.A1 is a genuine document as held by the court below, the facts of the case are such that the lower court should not have granted specific performance in favour of the plaintiff. Learned counsel pointed out that on a reading of the judgment of the trial court, it could be seen that the trial court has analysed the matter in detail and has come to a just conclusion. Pointing out that even if the document is held to be genuine, all that the appellate court should have to do was to direct the appellant to return the amount mentioned in Ext.A1 document.
+10. Learned counsel appearing for the respondent on the other hand pointed out that the defendant has gone to the extent of denying the document itself. Attention of this court was drawn to the fact that at the time of evidence, she denied her signature in the summons and in the written statement as well. In the light of these facts, according to learned counsel no discretion needs to be exercised in favour of the defendant.
+11. Section 20 of the specific Relief Act reads as follows:
+"20. Discretion as to decreeing specific performance.- (1)The jurisdiction to decree specific performance is discretionary, and the Court is not bound to grant such relief merely because it is lawful to do so; but the discretion of the Court is not arbitrary but sound and reasonable, guided by judicial principles and capable of correction by a court of appeal (2) The following are cases in which the Court may properly exercise discretion not to decree specific performance-
+(a) where the terms of the contract or the conduct of the parties at the time of entering into the contract or the other circumstances under which the contract was entered into are such that the contract, though not voidable, gives the plaintiff n unfair advantage over he defendant; or
+(b) where the performance of the contract would involve some hardship on the defendant which he did not foresee, whereas its non-performance would involve no such hardship on the plaintiff;
+(c) where the defendant entered into the contract under circumstances which though not rendering the contract voidable, makes it inequitable to enforce specific performance.
+Explanation .1.- Mere inadequacy of consideration, or the mere fact that the contract is onerous to the defendant or improvident in its nature, shall not be deemed to constitute an unfair advantage within the meaning of clause (a) or hardship within the meaning of clause (b).
+Explanation 2.- The question whether the performance of a contract would involve hardship on the defendant within the meaning of clause (b) shall, except in cases where the hardship has resulted from any act of the plaintiff, subsequent to the contract, be determined with reference to the circumstances existing at the time of the contract.
+(3)The Court may properly exercise discretion to decree specific performance in any case where the plaintiff has done substantial acts or suffered losses in consequence of a contract capable of specific performance.
+(4) The Court shall not refuse to any party specific performance of a contract merely on the ground that the contract is not enforceable at the instance of the other party."
+12. It is well settled that specific relief cannot be claimed as a matter of right. However, the discretion has to be exercised judiciously. There must be convincing reasons for exercising discretion. It is not possible to enumerate factors, which can be taken into consideration for exercising the discretion. It depends upon the facts of each case. The Section does give some indication regarding the circumstances under which the discretion may be exercised. But they are not exhaustive. Merely because the price of a property has gone up or because the sale consideration is inadequate by themselves are not grounds to deny relief to the plaintiff. However, if on a consideration of the facts, it is found that the plaintiff had derived undue advantage of the situation as emerged from the evidence, the court should exercise its discretion in favour of the defendant.
+13. It will not be out of place to refer to the evidence of the plaintiff. According to him, the sale consideration was Rs.50,000/-. But the amount shown in Ext.A1 is Rs.9,600/-, to save stamp duty. The defendant had pointed out that the document was taken as a security for a chitty transaction. There is nothing to indicate as rightly pointed out by the court below that any amount has infact been paid by the plaintiff. The plaintiff had admitted that there was a chitty transaction between the parties, he has also pointed out that the amount due to him was not received from the chitty transaction. It is significant to notice that according to P.W.1 it was the defendant who had offered the property for sale. He claims that he offered a sum of Rs.40,000/- for the property, but the defendant refused to give the property below Rs.50,000/-.
+14. What is interesting is that the agreement was entered into on 16.4.1989, and the document was to be executed on or before 18.4.1989.
+15. The defendant has also produced Exts.B1 and B2, which would indicate that there was infact a chitty transaction between the parties. She would also deny that an amount of Rs.40,000/- was paid in two instalments. It is significant to notice that the plaintiff admits that no amount was paid at the time of sale agreement and he claims that the entire amount has been paid earlier.
+16. A reading of the evidence of P.W.1 is sufficient to show that the transaction claimed by the plaintiff is not above doubt. Whatever that be, it has been found by both the courts below that Ext.A1 document was infact executed by the defendant.
+17. One cannot omit to note the fact that the extent involved is 14 cents with a building therein. The defendant claims to be residing there with his family. Considering the various aspects, this appears to be a proper case where the discretion available under Section 20 should be exercised in favour of the defendant.
+In the result, the judgment and decree of the first appellate court in A.S.129 of 1992 granting specific relief to the plaintiff is set aside and a decree is passed on the following terms:
+i) The plaintiff is entitled to realise a sum of Rs.9,600/- with 6% interest from the date of suit till date of realisation personally from the defendant and from her assets.
+ii) The plaintiff is entitled to costs throughout.
+P. BHAVADASAN, JUDGE sb.
+S.A. 536/1996. 12 P. BHAVADASAN, J.
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+S.A. No. 536 of 1996
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+JUDGMENT 28.10.2009.

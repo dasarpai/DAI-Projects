@@ -1,0 +1,19 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2435/
+Cites: ['B.Bharathi vs The Joint Secretary (Psp) Cum on 19 April, 2022\nMadras High Court Cites 2 - Cited by 0 - Full Document', 'Teesta Chattoraj vs Union Of India on 30 March, 2012\nDelhi High Court Cites 20 - Cited by 3 - Full Document', 'Prahlad Gurjar vs Union Of Inida And Ors on 13 January, 2010\nRajasthan High Court Cites 17 - Cited by 0 - Full Document', 'J.R. Parikh vs The Director (Pv) Chief Passport ... on 17 April, 1970\nDelhi High Court Cites 11 - Cited by 0 - Full Document', 'Wassan Singh vs Union Of India & Ors on 24 January, 2023\nPunjab-Haryana High Court Cites 22 - Cited by 0 - Full Document', 'S.Muniasamy vs The Union Of India on 21 September, 2022\nMadras High Court Cites 13 - Cited by 0 - Full Document', 'Ashok Kumar Sharma vs The Regional Passport Officer And ... on 11 January, 2019\nDelhi High Court Cites 16 - Cited by 0 - Full Document', 'Farha Wife Of Salim Ibrahim Sikora ... vs State Of Gujarat on 9 June, 2017\nGujarat High Court Cites 60 - Cited by 0 - Full Document', '4 Whether This Case Involves A ... vs State Of Gujarat on 5 May, 2017\nGujarat High Court Cites 60 - Cited by 0 - Full Document', 'Prashant Bhushan vs Union Of India & Anr on 7 January, 2016\nDelhi High Court Cites 19 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 6(2) in The Passports Act, 1967
+(2) Subject to the other provisions of this Act, the passport authority shall refuse to issue a passport or travel document for visiting any foreign country under clause (c) of sub-section (2) of section 5 on any one or more of the following grounds, and on no other ground, namely:—
+(a) that the applicant is not a citizen of India;
+(b) that the applicant may, or is likely to, engage outside India in activities prejudicial to the sovereignty and integrity of India;
+(c) that the departure of the applicant from India may, or is likely to, be detrimental to the security of India;
+(d) that the presence of the applicant outside India may, or is likely to, prejudice the friendly relations of India with any foreign country;
+(e) that the applicant has, at any time during the period of five years immediately preceding the date of his application, been convicted by a court in India for any offence involving moral turpitude and sentenced in respect thereof to imprisonment for not less than two years;
+(f) that proceedings in respect of an offence alleged to have been committed by the applicant are pending before a criminal court in India;
+(g) that a warrant or summons for the appearance, or a warrant for the arrest, of the applicant has been issued by a court under any law for the time being in force or that an order prohibiting the departure from India of the applicant has been made by any such court;
+(h) that the applicant has been repatriated and has not reimbursed the expenditure incurred in connection with such repatriation;
+(i) that in the opinion of the Central Government the issue of a passport or travel document to the applicant will not be in the public interest.

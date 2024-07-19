@@ -1,0 +1,17 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1334/
+Cites: ['The Code Of Criminal Procedure, 1973\nCentral Government Act Cites 0 - Cited by 217563 - Full Document', 'The Indian Penal Code\nCentral Government Act Cites 0 - Cited by 313513 - Full Document', 'Section 210 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 663', 'Section 193 in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 2981', 'Section 209 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1958', 'Section 476 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 667', 'Aiyakannu Pillai vs Emperor on 21 September, 1908\nMadras High Court Cites 15 - Cited by 23 - Full Document', 'Section 196 in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 1109']
++++++++++++++++++++++++++
+
+
+Madras High Court
+In Re: Arumugam Pillai vs Unknown on 4 December, 1922
+Equivalent citations: 81 Ind Cas 219
+Author: Spencer
+Bench: Spencer
+JUDGMENT Spencer, J.
+1. The trial of Original Suit No. 88 of 1920 after the ex parte decree against the defendant was set aside may be regarded as the continuation of the trial of the same suit which first ended in a decree for the plaintiff.
+2. The definition of "judicial proceeding" in Section 4 (m), Criminal Procedure Code, is not opposed to this view.
+3. At the time of dismissing the suit, the District Munsif commenced to take action under Section 476, Criminal Procedure Code, by issuing notice to the petitioner to show cause against an order being passed under that section. Therefore, the decisions in Aiyakannu Pillai v. Emperor 1 Ind Cas. 597 : 32 M. 49 : 19 M.L.J. 42 : 4 M.L.T. 404 : 9 Cr. L.J. 41 and In re Padmabha liebbara 50 Ind. Cas. 485 : 42 M. 422 : 9 L.W. 315 : 36 M.L.J. 352 : 25 M.L.T. 296; (1919) M.W.N. 223 : 20 Cr. L.J. 309 are not applicable to the facts of this case. Whether the petitioner's acts amount to offences under Sections 209 and 210, Indian Penal Code, is not of consequence in these proceedings. It is sufficient, that as a witness he is liable to be tried for offences under Sections 193 and 196 of the Indian Penal Code, for which sanction has been accorded.
+4. The petition is dismissed.

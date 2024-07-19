@@ -1,0 +1,43 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4080/
+Cites: ['Section 111 in the Customs Act, 1962 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1394', 'Shyam Ambalal Siroya vs Union Of India And Others on 20 February, 1980\nSupreme Court of India Cites 3 - Cited by 65 - Full Document', 'Section 123 in the Customs Act, 1962 [Complete Act]\nCentral Government Act Cites 0 - Cited by 728', 'Section 131B in the Customs Act, 1962 [Complete Act]\nCentral Government Act Cites 0 - Cited by 249', 'The Collector Of Customs, Madras vs Nathella Sampathu Chetty And ... on 25 September, 1961\nSupreme Court of India Cites 49 - Cited by 186 - Full Document', 'Hiralal Sarawgi vs Collector Of Central Excise And ... on 8 August, 1961\nGauhati High Court Cites 5 - Cited by 3 - Full Document']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Delhi
+Merck Spares vs Collector Of Central Excise And ... on 31 March, 1983
+Equivalent citations: 1983 ECR 1473 D Tri Delhi, 1983 (13) ELT 1261 Tri Del
+ORDER I.J. Rao, Technical Member
+1. This is a revision application to the Government of India which has been transferred to the Tribunal and heard as an appeal pursuant to Section 131-B of the Customs Act, 1962.
+2. The learned counsel for the Appellant, Shri M. Ganesan, submitted in the course of his arguments that-
+(a) The appellant produced Bills/Invoices on 25-6-1976 in respect of the goods which were seized from his shop on 24-6-1976 on the ground that they were smuggled ;
+(b) accordingly, the Appellant should be deemed to have discharged the onus of proving the source of goods in question ;
+(c) On such discharge of the onus the burden of proof shifted on the Respondent to prove that the goods were smuggled ;
+(d) there is nothing in the evidence to show that the Revenue had discharged burden of requisite mens rea ;
+(e) no penalty could be levied in a case where the goods involved are not covered by Section 123 and in respect of which the initial onus of proving the same has been discharged by the Appellant ;
+(f) the proceedings are penal in character and it is fundamental to criminal jurisprudence and principles of natural justice that the onus of proving all the ingredients rested with the Revenue ;
+(g) the Revenue has failed to establish the requisite mens rea altogether ; and
+(h) in any view of the matter, the Appellant is concerned only with the release of 19 sets of Main Thin Walled Engine Bearings from confiscation and there is no finding at all in the orders of the Adjudication Officer as well as the Appellate Collector that these 19 sets have been acquired by the Appellant knowing or having reason to believe that they are liable to confiscation under Section 111 of the Customs Act, 1962.
+3. In the course of his submissions, the learned counsel for the Appellant relied upon the cases reported in -
+(i) A.I.R. 1961 S.C. 264 (Ambalal v. U.O.I.).
+(ii) A.I.R. 1962 S.C. 316 (Collector of Customs, v. Sampathu Chetty and Ors.).
+ 
+
+(iii)   A.I.R. 1962 Assam 39 (Hiralal Sarowgi v. CCE & Land Customs). (v!)   A.I.R.  1963 Mad. 337 (Rikhabdas Gaganraj v. CCE Madras),
+ 
+
+(v)    A.I.R.   1965  Cal.   507 (Mangla Prasad v. V.J. Manerikar).
+ 
+
+(vi)    A.I.R.   1968   Cal.   28 (Charandas    Malhotra   v.    Asstt.   Collector   of Customs).
+ 
+
+4.    We have heard the representative for the Revenue at length.
+ 
+
+5.    It is  axiomatic that the proceedings relating to the levy of penalty are  criminal  and penal in   character.    It is  also  a fundamental   principle of criminal jurisprudence that the requisite mens rea has to be proved before the Appellant could have been visited with a penalty.
+ 
+6. A perusal of the orders of the Adjudication Officer as well as the Appellate Collector would reveal that they had altogether failed to reveal that the requisite mens rea had been established. In the course of the arguments before us as well, the learned representative for the Revenue had not been able to establish any mens rea whatsoever.
+7. Admittedly, the Appellant had produced the relevant bills, if not at the time of the search, immediately thereafter. The Bills fully accounted for the entire lot. Even so, the Appellant, as per the statement of the Counsel, is not interested in the release of the goods covered by the first Bill from confiscation. The second bill relates to 19 set of Main Thin Walled Engine Bearings. There is no finding any where in the orders of the authorities below either that they were smuggled goods or that they were acquired by the Appellant who knew or had reason to believe that they are liable to confiscation under Section 111 of the Customs Act, 1962. In fact, the orders did not deal with the said 19 sets at all nor did they discuss the mens rea anywhere.
+8. In the premises, keeping in view the case law cited, we have no doubt, whatsoever, that the confiscation of the 19 sets as well as the levy of the penalty on the Appellant was unsustainable. We accordingly allow the appeal, order the release of the 19 sets of Main Thin Walled Engine Bearings confiscated and cancel the levy of the penalty on the Appellant.

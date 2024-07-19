@@ -1,0 +1,15 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4347/
+Cites: ['Lakhanpal National Limited vs Collector Of Customs on 15 November, 1996 : https://indiankanoon.org/doc/1479112/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Delhi
+Food Specialities Ltd. vs Collector Of Customs on 12 February, 1997
+Equivalent citations: 1997 (94) ELT 112 Tri Del
+ORDER Shiben K. Dhar, Member (T)
+1. The appellants imported one powder sifter consisting of V. Belt drive, main shaft, rivets, inlets and outlets, cylinders, inter-rings, screen deck, cleaning device and motor with spares. This sifter was used in one of the operations while manufacturing agglomerated coffee. It was, therefore, claimed that sifter was used in the production of a commodity and therefore, assessment was claimed under CTH 84.79 with benefit of exemption under Notification No. 59/87, dated 1-3-1987. This claim was rejected by lower authorities on the ground that merely sifting of coffee granules did not result in the production of a commodity.
+2. Arguing for the appellants, the ld. Advocate submits that the words 'production' and 'manufacture' were synonymous and therefore, following the interpretation of these expressions by the Supreme Court Agglomeration of coffee powder could be considered to have resulted in manufacture of a commodity.
+3. Arguing for the revenue, ld. DR submits that the machine only sifts coffee granules according to their sizes and does not produce a commodity. Ld. DR in this connection cites the case of Lakhanpal National Ltd. v. Collector of Customs, Bombay -1997 (18) RLT 217 in support of his contention that merely carrying out one of the processes in the course of manufacture of a commodity would not result in the production of a commodity.
+4. We have heard both sides. The admitted position is that the impugned machine only sifts coffee granules according to their sizes. It may be one of the process connected with production of a commodity but process does not by itself results in the production of a commodity. It merely helps in marketing a commodity. In this view of the matter, it is difficult to hold that a sifter which merely sifts coffee granules according to their sizes is a machine used for production of a commodity. In the case of Lakhanpal National Ltd. v. Collector of Customs, Bombay (supra), the Tribunal held that Paste Pouring machine, Bobbin insertion machine and capping machine used in manufacture of dry cell batteries are not entitled to benefit of this notification as these machines do not produce a commodity but perform one of the 10 processes carried out for production of batteries. Following the ratio of this judgment we reject the appeal.

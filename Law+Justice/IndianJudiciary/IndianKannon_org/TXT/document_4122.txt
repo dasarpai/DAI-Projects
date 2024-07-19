@@ -1,0 +1,31 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4122/
+Cites: ['Section 93 in The Railways Act, 1989 : https://indiankanoon.org/doc/1811598/', 'The Railways Act, 1989 : https://indiankanoon.org/doc/1022405/', 'Section 94 in The Railways Act, 1989 : https://indiankanoon.org/doc/27232/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Union Of India (Uoi) vs Hindustan Petroleum Corporation ... on 29 October, 2004
+Equivalent citations: I (2005) ACC 66, 115 (2004) DLT 552
+Author: R Sodhi
+Bench: R Sodhi
+JUDGMENT R.S. Sodhi, J.
+1. CM 13381/2004 :
+This is an application for early hearing. The same is allowed and disposed of. The matter is taken up for hearing today.
+2. FAO 209/2003 :
+This appeal is directed against the judgment dated 11th November, 2002 of the Railway Claims Tribunal, (Principal Bench) Delhi (for short ''the Tribunal''), whereby the learned Tribunal has directed the Railways to pay a sum of Rs. 4,99,056/- together with interest @9% per annum from the date of filing the application till realisation.
+3. The brief facts of this case, as has been noted by the Tribunal, are as under :
+"This claim for compensation by the applicant company for an amount of Rs. 4,99,056/- is based on allegations that the respondent railways delivered a consignment of Motor Spirit (Petrol) short by 25610 ltrs.
+2. The applicant company on 30.11.96 had booked 7 tank wagons vide Railway Receipt No. C-783277 Ex.Bajva-GP Siding, Koyali to Shakurbasti. The dispute relates to wagon No. WR-916553.
+3. The applicant has averred that the said tank wagon was loaded with 66760 ltrs. of Motor Spirit (Petrol) having dip measurement by volume at 255.5 Cms at the destination. The said tank wagon was received at the siding of the applicant at Shakurbasti at 13.00 hrs. on 3.12.96. A receiving dip measurement was conducted which was found to be 161 cms. Amounting to 41150 ltrs. and thus there was shortage of 25610 ltrs. The wagon did not have top and bottom seals at the time of placement and it was leaking rom bottom flange. The applicant therefore preferred claim for Rs. 4,99,056/- at the DGSandD rate of Rs. 19,486.76 per KL. but the respondent repudiated the same on the grounds that there was no delay in transit and that seals were not provided at the forwading station. Hence this application.
+4. The case of the respondent is total denial of the responsibility for the shortage as alleged by the applicant. The respondent, by way of preliminary objection stated that the application is not signed, verified and filed by a duly authorised person and sought protection under Sec.93/97/98 of the Railway Act 1989 (for short the 'Act'). It is further alleged that the loading and sealing of the wagon was not supervised by the railway staff and therefore if there was any leakage it was due to the fault and negligence on the part of the employees of the applicant. This defense is further repeated on merits in reply to other averments of the applicant. In reply to para 7 (b) and (c) of the claim application pertaining to the dip measurement at the receivig station and condition of the wagon, the respondent merely repeated that the consignment was in good condition and that the loading and sealing was not supervised by its staff. However it was not specifically controverter that there was any leakage to the wagon.
+5. Based on these pleadings, following issues have been settled and our findings thereon are recorded as follows :
+1. Whether the application has been filed by a duly authorised and competent person?
+2. Whether there has been short supply of Motor Spirit (Petrol) booked with the Respondent railway administration?
+3. Whether a valid notice u/s 106 of the Railways Act was served upon the respondent?
+4. To what amount, if any, the applicant is entitled to as compensation?
+5. Relief.
+4. Counsel for the appellant submits that the Railways are protected under Sections 93 and 94 of the Railways Act inasmuch it was the duty of the respondent to ensure that the consignment entrusted to the Railways was properly secured and to prove that damage was caused during transit. The question whether the consignment was properly secured at the time of placement with the Railways is one of fact. The Tribunal finds that there is no evidence on record to show that the Railways can claim protection under Section 93 by insinuating that the consignments were not properly sealed and/or handed over in defective condition. On the contrary, there is positive evidence on record to show that the sealed were checked when the container moved into the yard as a so was examined by the Railway staff for any leakage of wagon. In that event of the matter, the Railways can hardly claim protection under Section 93 of the Railways Act. I find no infirmity in the judgment under challenge.
+5. I may point out that the Supreme Court in ONGC case has directed the setting up of a Committee of Secretaries to resolve disputes inter se Public Sector Undertakings and the Government of India. In the present case, orders had been mede on 12th March, 2004, to resolve the matter in accordance with the aforesaid judgment of the Supreme Court. which obviously has not been done and has unnecessarily taken up judicial time.
+6. As discussed above, I find no merit in the appeal. FAO 209/2003 is dismissed.

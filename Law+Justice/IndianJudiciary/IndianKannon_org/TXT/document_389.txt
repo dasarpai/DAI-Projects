@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/389/
+Cites: ['Mrs. Prema P. Shah And Sanjiv P. ... vs Income-Tax Officer on 29 November, 2005 : https://indiankanoon.org/doc/358673/', 'Commissioner Of Income Tax vs K.C. John on 28 January, 2003 : https://indiankanoon.org/doc/481787/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 115D(2)(a) in The Income- Tax Act, 1995
+(a) the gross total income consists only of investment income or income by way of long- term capital gains or both, no deduction shall be allowed to the assessee 1 2 under Chapter VIA and nothing contained in the provisions of the second proviso to section 48 shall apply to income chargeable under the head" Capital gains]];

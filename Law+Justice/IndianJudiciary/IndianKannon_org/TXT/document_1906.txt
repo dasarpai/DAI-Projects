@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1906/
+Cites: ['Kamlesh Singh & Others vs State Of U.P. on 2 February, 2017\nAllahabad High Court Cites 32 - Cited by 0 - Full Document', 'Bhoora Singh vs State Of U.P. on 12 July, 1991\nAllahabad High Court Cites 51 - Cited by 4 - Full Document', 'Tulsi Prasad And Another vs State Of Chhattisgarh on 15 September, 2022\nChattisgarh High Court Cites 18 - Cited by 0 - Full Document', 'Bichhu Rawani vs The State Of Jharkhand on 8 August, 2018\nJharkhand High Court Cites 20 - Cited by 0 - Full Document', 'Nagendra Kumar & Others vs The State on 3 February, 2017\nAllahabad High Court Cites 23 - Cited by 0 - Full Document', 'Sahdeo Sahu @ Sahdeo Sao @ Sahdeo ... vs The State Of Jharkhand on 10 May, 2023\nJharkhand High Court Cites 22 - Cited by 0 - Full Document', 'Shiv Kumar vs State on 24 April, 2018\nAllahabad High Court Cites 24 - Cited by 0 - Full Document', 'Pramod Kumar Sharma & Others vs State on 14 September, 2018\nAllahabad High Court Cites 14 - Cited by 0 - Full Document', 'Smt. Beila Devi & Another vs State Of U.P. on 19 February, 2016\nAllahabad High Court Cites 20 - Cited by 0 - Full Document', 'Sudhakar Singh vs State on 18 July, 2014\nDelhi High Court Cites 26 - Cited by 1 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 113B in The Indian Evidence Act, 1872
+1[113B. Presumption as to dowry death.—When the question is whether a person has committed the dowry death of a woman and it is shown that soon before her death such woman has been subjected by such person to cruelty or harassment for, or in connection with, any demand for dowry, the Court shall presume that such person had caused the dowry death. Explanation.—For the purposes of this section, “dowry death” shall have the same meaning as in section 304B, of the Indian Penal Code, (45 of 1860).]

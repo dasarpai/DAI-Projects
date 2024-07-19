@@ -1,0 +1,37 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2985/
+Cites: ['Section 14A in The Telecom Regulatory Authority of India Act, 1997 : https://indiankanoon.org/doc/94409064/', 'Section 14 in The Telecom Regulatory Authority of India Act, 1997 : https://indiankanoon.org/doc/1398174/', 'Section 2 in the Cable Television Networks (Regulation) Act, 1995 : https://indiankanoon.org/doc/758574/', 'Asc Enterprises Ltd. And Anr. And ... vs Mtv India Pvt. Ltd. And Set ... on 10 February, 2006 : https://indiankanoon.org/doc/1330517/']
++++++++++++++++++++++++++
+
+
+Telecom Disputes Settlement Tribunal
+Mewar Channel vs Star India Private Limited And ... on 24 February, 2005
+Bench: D Wadhwa, V Vaish, D Sehgal
+ORDER
+1. In this petition under Section 14 and 14A of the Telecom Regulatory Authority of India Act, 1997, the petitioner a Cable operator as defined in clause (aa) of Section 2 of Cable Television Networks (Regulation) Act, 1995, seeks the following reliefs:
+"A. Direct the respondent No.1 ( Start India Pvt. Ltd - broadcaster) to produce before this Hon'ble Tribunal the agreements/contracts entered into between itself and respondent no.2 (M/s. Dev Vision - MSO) and the subscription agreement executed between the respondent no.1 and the petitioner along with other relevant records with respect to distributorship of its TV Channels in the territory of Udaipur; and upon perusal of the same B. Set aside/Quash the Agreement/Contract entered into between the respondent no.1 and respondent no.2 holding the same to be violative of and contrary to notification dated 10.12.2004 issued by respondent no.3 (Telecom Regulatory Authority of India);
+C. Pass any other order (s) as this Hon'ble Tribunal may deem fit and proper in the facts and circumstances of the case".
+2. Petitioner also filed a Miscellaneous Application seeking interim relief.
+3. It is not that the petitioner is not getting signal from the MSO, the second respondent. On 13th January, 2005, respondent No.1 - Star India Pvt. Ltd. informed the petitioner by their letter that respondent No.2 - Dev Vision has since been appointed distributor of Star channels in Udaipur w.e.f. 1st December, 2004. It would be MSO who is responsible for all issues pertaining to subscription and distribution of Star channels in the territory. Petitioner was advised to enter into a subscription agreement with the second respondent as the earlier agreement between Star and the petitioner stood assigned to the second respondent. A public notice was also issued to the same effect by the second respondent.
+4. We issued notice to the respondents. Both Star India Pvt. Ltd. and Dev Vision have filed their replies .
+5. In clause 3.3 of the Regulation dated 10th December, 2004 issued by Telecom Regulatory Authority of India, broadcaster could provide signals through its MSO as well.
+6. We have considered the replies. We have heard Mr. K.T.S. Tulsi, learned Senior Advocate appearing on behalf of the petitioner; Mr. Gopal Jain learned Advocate for Star India Pvt. Ltd. and Mr. Amar Gupta, learned Advocate for Dev Vision. There is no bar to the signals being provided to the petitioner, the cable operator by the second respondent-MSO. After some discussion we find that dispute boils down to the precise issue and that is that while the petitioner does not want whole bouquet of Star channels which consists of:
+Subscribed Channels             Existing Channels
+   1.                            STAR Plus
+   2.                            STAR Gold
+   3.                            STAR Movies
+   4.                            STAR World
+   5.                            STAR News
+   6.                           Channel [V]
+   7.                         National Geographic Channel
+   8.                           The History Channel
+   9.                               Vijay
+  10.                             STAR Ustav
+                                 New Channels
+   11.                             Hungama
+   12.                             Star One 
+ 
+ 
+7. Petitioner says he only wants certain selected channels as other channels would be of no use to the subscribers and therefore, does not wish to pay for all the channels. But then both the respondents insist that the petitioner, a cable operator, will have to get the whole bouquet of the channels or none at all. It is a dispute which we cannot decide in terms of the Regulations issued by the TRAI. It would be for the TRAI to come up with a set of new Regulations providing for right of the cable operator to choose any particular channel from the bouquet of channels of the broadcaster/MSO. This type of grievance we have been hearing in a number of petitions and we do hope that TRAI would come up with some Regulations or otherwise in this respect. Mr. Tulsi says a direction may be issued to the TRAI for the purpose. We do not think we should adopt such a course. It is for the TRAI to make Regulations consistent with the provisions of law and the need of the consumers. But we do hope TRAI will take an early decision in the matter.
+8. We are afraid, we cannot grant any relief to the petitioner as prayed However, with these observations this petition and the MA are disposed of. Parties shall bear their own costs.

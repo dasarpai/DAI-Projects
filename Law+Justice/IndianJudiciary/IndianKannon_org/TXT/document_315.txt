@@ -1,0 +1,98 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/315/
+Cites: ['Article 4 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 3 - Cited by 1675', 'Article 17 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 11 - Cited by 1437', 'Article 16 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 12 - Cited by 6831', 'Article 3 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 13 - Cited by 2435', 'Article 2 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 9 - Cited by 2831', 'Article 30 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 3 - Cited by 1493']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Delhi
+Toyota Kirloskar Motor Pvt. Ltd. vs Cc on 7 December, 2005
+Bench: S Kang, Vice, N T C.N.B.
+ORDER C.N.B. Nair, Member (T)
+1. Both Revenue and assessee are in appeal against the same order (Order-in-Appeal No. C3/162/0/2003-Sea dated 31.10.2003) passed by the Commissioner of Customs (Appeals), Chennai. Accordingly, both appeals were heard together and are disposed under this common order.
+2. The appellant manufactures Toyota brand automobiles in India under a collaboration agreement with Toyota Motor Corporation, Japan. The said Toyota Motor Corporation is also the major shareholder in the appellant company.
+3. The present dispute arose in regard to valuation of capital goods and parts imported by the appellant from M/s Toyota Motor Corporation, Japan for the manufacture of automobiles in India. Under the impugned order Commissioner has held that royalty for "ordinary assistance" and lump-sum payment for "additional assistance" paid by the appellant to M/s Toyota Motor Corporation should form part of the assessable value of the imported goods.
+4. Even though the orders noted that the appellant importer and the foreign supplier are related parties, the order itself has not been passed taking into account the effect of relationship; but in terms of Rule 9(1)(c) of the Customs Valuation Rules 1988. This rule relates to addition of "royalties and licence fees" to the price paid for the imported goods for the purpose of determining the transaction value! because customs duty is to be assessed on the transaction value. We may read the subject Rule for ease of discussion :
+1. Cost and Services - (1) In determining the transaction value, these shall be added to the price actually paid or payable for the imported goods-
+(2)...
+(b)...
+royalties and licence fees related to the imported goods that the buyer is required to pay, directly or indirectly, as a condition of the sale of the goods being valued, to the extent that such royalties and fees are not included in the price actually paid or payable
+5. The dispute has arisen in the contest of the agreement dated 1st April 1998 between the appellant and the supplier for "technical assistance agreement for Toyota utility vehicle". As the effect of the agreement on the prices of imported goods depends on the terms of this agreement, during the hearing of the case, both sides have taken us through the provisions of this agreement in detail. Royalty payment is in terms of Article 3(a). This article reads as under:
+ORDINARY ASSISTANCE:
+(a) The Licensor shall in accordance with the formalities and conditions separately prescribed by it, furnish the Licensee, upon its request, with such technical know-how, information, data, etc. relating to the Licensed Products in written verbal or any other form, as then are or were used by the Licensor and are then in the hand of and freely disposable by the Licensor and as are then considered necessary and applicable by the Licensor for the manufacture of the Licensed Products from among those stipulated in Appendix 'C' attached hereto.
+The appendix 'C' (2) of the Article mentions the items covered by this arricle, we read that appendix:
+2. For manufacturing of Local Parts (1) Local contents list (2) Production drawings (3) Request for design & development of parts (if any) (4) CAD data (5) Engineering change instructions (if any) (6) Toyota engineering standards (7) Technical instruction sheet (8) Color combination instruction (9) Color samples (10) Grain samples (11) Sample parts ( 1 set) (For the purpose of complementing the production drawings of Local Parts).
+6. The quantification of the royalty is to be found in Article 16 and 17. We may read those articles also.
+Article 16-Royalty:
+(a) The Licensee shall pay the Licensor royalty on all of the Licensed Products manufactured by the Licensee while this Agreement is effective under Article 30 hereof, in consideration of the license to use the technical know-how, information, data etc. furnished by the Licensor under Article 3 hereof. The amount of the royalty shall be fixed in accordance with paragraphs (a) and (b) of Article 17 hereof.
+(b) The Licensee may deduct from the royally payments hereunder any withholding taxes which the Licensee is required under the law of the Territory to pay for the account of the Licensor, provided that the Licensee shall pay such taxes on behalf of and in the name of the Licensor and furnish the Licensor with proper certificates for the same from the authorities concerned, to enable the Licensor to obtain credit therefore against its Japanese taxes. Handling fees or any other expenses incurred in remitting the amount of royalty shall be for the account of the Licensee, and shall not be deducted from the royalty payments.
+Article 17 Calculation of Royalty
+(a)(1) With respect to the Licensed Vehicles manufactured by the Licensee during each calender quarter, the Licensee shall pay the Licensor royalty at the rate of (i) five percent (5%) of the "Local Value Added" of those Licensed Vehicles for domestic sales in the Territory and (ii) six percent (6%) of the "Local Value Added" of those Licensed Vehicles for export outside the Territory subject to paragraph (a) of Article 2 hereof. For this purpose, the number of the Licensed Vehicles subject to royalty shall be determined at the time of their line-off at the factory where they are manufactured, and the "Local Value Added" shall be the Licensee's wholesale price of those Licensed Vehicles, minus the following costs and tax, if included therein:
+(i) all costs for the KD Parts which are incurred until such KD Parts have been brought into the above-mentioned factory;
+(ii) all costs for such Local Parts as are standard bought-out components as used to manufacture those Licensed Vehicles and as listed in Appendix H attached hereto, which are equivalent to the Licensee's cost of production thereof if those are manufactured by the Licensee itself or the Licensee's purchase price thereof if those are purchased by the Licensee from third parties; and
+(iii) Sales tax, excise tax, commodity tax or any other tax of similar nature (other than any of such taxes to be refunded to the Licensee) imposed directed on the manufacture, sale or delivery by the Licensee of those Licensed Vehicles.
+(2) With respect to the unit Local Parts (such as engines, transmissions, steering links and axles), as separately agreed upon by the parties hereto, manufactured by the Licensee itself during each calendar quarter for sale (i) as spare parts for the Licensed Vehicles and, or (ii) as original equipment parts and/or spare parts for other vehicles than the Licensed Vehicles, the Licensee shall pay the Licensor royalty equivalent to three percent (3%) of the "Local Value Added" of those unit Local Parts. For this purpose, the number of the unit Local Parts subject to royalty shall be determined at the time of their line-off at the factory where they are manufactured, and the ''Local Value Added" shall be the Licensee's wholesale or selling prices of those unit Local Parts, minus the following costs and tax, if included therein:
+(i) all costs for the KD Parts which are incurred until such KD parts have been brought into the above mentioned factory;
+(ii) all costs for such Local Parts as are standard bought out components as used to manufacture those unit Local Parts and as listed in Appendix H attached hereto, which are equivalent to the Licensee's cost of production thereof if those are manufactured by the Licensee itself or the Licensee's purchase prices thereof if those are purchased by the Licensee from third parties; and
+(iii) sales tax, excise tax, commodity tax or any other tax of similar nature (other than any of such taxes to be refunded to the Licensee) imposed directly on the manufacture, sale or delivery by the Licensee of those unit Local Parts.
+(b) With respect to the Local Parts (except the unit Local Parts) sold by the Licensee during each calendar quarter, the Licensee shall pay the Licensor royalty at the rate of three percent (3%) of the Licensee's wholesale or selling prices of those sold (i) as spare parts for the Licensed Vehicles and/or (ii) as original equipment parts and/or spare parts for other vehicles than the Licensed Vehicles. However, such Local Parts as listed in Appendix H attached hereto shall not be subject to the royalty under this paragraph
+(c) The Licensee shall keep accurate records and statement of accounts relating to the Licensed Products manufactured by the Licensee.
+(d) The Licensor may inspect the records and statement of accounts stated in the precedin paragraph (c), at any time during the term of this Agreement and one (1) year thereafter.
+7. The second payment in dispute namely lump-sum payment are in terms of Article 4 relating to additional assistance. That article reads as under:
+Article 4 Additional Assistance:
+(a) At the Licensee's written request, the Licensor may furnish the Licensee with manufacturing, engineering and other know-how and information relating to the Licensed Products which are not readily available in the Licensor's records but which the Licensor is willing to develop especially for the Licensee, and which shall be furnished through such documents and assistance as designed at the discretion of the Licensor from among those stipulated in Appendix D attached hereto and any other documents and assistance from time to time designated by the Licensor.
+(b) In the event of the preceding paragraph (a), the Licensee shall pay the Licensor all fees, and all costs and expenses incurred by the Licensor in developing and furnishing such know-how, information, documents and or assistance.
+(c) If the assistance rendered under paragraph (a) hereof is technical assistance or engineering assistance concerning the production preparation for the Licensed Products, such assistance will be provided in accordance with the procedures and conditions set forth in Appendix F. attached hereto.
+8. Appendix 'D' to the agreement mentions the items covered by this Article. We read that appendix also:
+Appendix 'D' - Additional Assistance The documents and assistance to be furnished by the Licensor to the Licensee under Article 4 hereof are those as separately designed by the Licensor from among those stated below and any other documents and assistance from time to time designated by the Licensor:
+1. For construction of the plant (1) Basic planning and layout of the plant (2) Specifications relating to the building, utilities and attachments.
+2. For production preparation (1) Basic planning of production preparation.
+(2) Detailed planning of various processes and line-layout (3) Planning of specifications of the equipment (4) Planning of the sources of the equipment (5) Planning of the schedule and method concerning the installation, testing and adjustment of the equipment.
+(6) Planning of the production instruction, the logistics inside the plant and the control of materials and wastes.
+3. For pilot production and production model (1) Adjustment of pilot production schedule (2) Inspection and test of initial products (3) Checking production quality.
+9. The rate at which the technical assistance fees is to be paid is to be found in Annexure E(2) in their agreement. That Annexure reads as under:
+Annex E-2 Technical Assistance Fee The per month amount of the Technical Assistance Fee which is used for the calculation under Section 3 of Appendix E to this Agreement and which is applied to any employee of the Licensor who works for each project to provide the Licensee with the Technical Assistance shall be 1,110,000.
+The parties hereto agreed that this per month amount was decided by multiplying the per diem amount thereof 55,500 by twenty (20) days, regardless of actual number of working days in a month.
+The above amount may be changed from time to time upon agreement between the parties hereto.
+A summary of estimated payments under the technical assistance agreement may also be reproduced for understanding the controversy.
+  
+
+SCHEDULE 'D'
+ 
+
+PAYMENTS UNDER TECHNICAL ASSISTANCE AGREEMENT
+ 
+S.No.  Particulars     Per            No. of       Total 
+                       Month          man months
+                                      estimated 
+ 1     1. Payment for 
+       Engineering     JPY  1110000   800           888000000 
+       Services -
+       Annexure E-2 of USE     8538                   6830769 
+       the T/A         Rs.   341538                 273230769 
+ 2.    Payment for 
+       despatch of the 
+       Licensor's 
+       Instructors -   JPY  1920000   600          1152000000 
+       Appendix G of   USD    14769                   8861538 
+       the T/A         Rs.   590769                 354461538 
+ 3.    Payment for 
+       training of 
+       Licensees' 
+       Personnel       JPY  673000    600           403800000 
+       -Annexure F     USD    5177                    3106154 
+                       Rs.  207077                  124246154 
+       TOTAL           JPY  2443800000            *2443800000 
+                       USD    18798462               18798462 
+                       Rs.   751938462              751938462 
+                                      *Gross       subject to 
+                                      deduction    of tax at 
+                                      source
+ 
+9. The contention of the learned Counsel for the appellant is that the addition contemplated in Rule 9(1)(c) is only in regard to royalties and license fees related to the imported goods (emphasis added). It is his contention that a perusal of the agreement made it clear that the royalties and lump-sum payment in the present case have no relation whatsoever to the sale of the capital goods and components. Nor are the sales of imported goods in any way conditional to the payment of royalties and licence tees. The payment are for entirely different and separate set of assistance. The learned Counsel has therefore submitted that the payments in the present case do not come within the additions contemplated under Rule 9.
+10. Learned SDR would submit that as the appellant was using the imported goods exclusively for production in terms of the agreement, foreign supplier is his only source of supply and since the foreign supplier's approval was required for use of even the indigenously manufactured parts the Commissioner was right in holding that royalty and licence fee related to the imported goods and their values were required to be added to the price paid.
+11. Even though much case law has been cited by both sides, given the nature of dispute, the same is to be determined in terms of the relevant clauses in agreement in question. As regards royalty which goes under "ordinary assistance" relevant article of the agreement stipulates that upon request the foreign supplier shall furnish to the importer such technical know-how, information, data relating to the licenced products. The licenced products are the automobile to be manufactured in India under the agreement as well as specific parts. It is to be seen that the technical know-how, information etc. to be furnished are for studying the feasibility of Local Parts manufacturing, for manufacturing of local parts, for production preparation of licensed products etc. What is important is that none of assistance is in relation to the goods under import. Further, royalty is to be computed at the agreed percentage of local value addition of vehicle manufactured under licence or unit local parts manufactured and sold or exported. Thus, the computation also has no bearing upon the imported goods or their value. In these circumstances, we are of the view that the royalty in question does not satisfy the requirement of being "related to the imported goods". In the agreement under question or the import of the goods, there is nothing indicating that royalty payment is a condition of the sale of the imported goods. Thus, the requirement of royalty being a condition of sale also is not satisfied. In view of these, we are of the opinion that there is no requirement in the present case for adding royalty payment to the price payable for the purpose of determining the transaction value of the imported parts.
+12. In regard to lump-sum payments, it is noticed from the agreement that this assistance is in the area of manufacturing the licenced products. Appendix 'D' to the agreement specify the know-how assistance. It is to be seen from that Appendix that the assistance is in the areas of construction of the plant, for production preparation and for pilot production and production model. Each of the items mentions in detail under these three headings also make it clear that the payments are in no way related to the imported goods; but are for planning of layout of the plant, detailed planning of various processes and line layout, adjustment of pilot production schedule, inspection and test of initial products, checking production quality etc. Technical assistance fee is included in Appendix E(2). This is in terms of "any employee of the licensor who works for each project to provide the licencee with the technical assistance". The payments are on monthly terms for man days worked. Further, it is to be seen from summary of estimated payments that these are towards Payment for Engineering Services, Payment for despatch of the licensor's instructors and Payment for training of Licensee's personal. In sum, all payments are towards assistance rendered in India for setting up the plant. None of this is in relation to the goods under import. Thus, the payments under "lump-sum payments heading" also do not satisfy the requirement under Rule 9D(c) of the payments being "related to the imported goods" or being a condition of sale of the goods being value. Thus, there is no legal sanction for adding this payment also to the price paid in order to arrive at the transaction value.
+13. In view of what is stated above, we hold that the additions made under the impugned order are not sustainable under the relevant valuation rules. Accordingly, they are set aside and the appeal No. C/231/04 of the appellant -importer is allowed. There is no merit in the claim of the revenue for including the aforesaid items in the assessable value of the imported goods. Therefore, their Appeal No. C/949/04 is rejected.
+14. Both the appeals are ordered accordingly.
+[Pronounced & dictated in the open Court].

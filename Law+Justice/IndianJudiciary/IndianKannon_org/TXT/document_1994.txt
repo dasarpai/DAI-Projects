@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1994/
+Cites: ['Gulu G. Thadani vs Inspecting Assistant ... on 31 October, 1991\nIncome Tax Appellate Tribunal - Allahabad Cites 6 - Cited by 0 - Full Document', 'Gulu G. Thadani (Huf) vs Inspecting Assistant ... on 3 March, 1984\nAllahabad High Court Cites 13 - Cited by 1 - Full Document', 'Clive Buildings (Calcutta) Ltd. vs Commissioner Of Income-Tax on 28 June, 1988\nCalcutta High Court Cites 9 - Cited by 0 - Full Document', 'Commissioner Of Income-Tax vs Central Bank Executor And Trustee ... on 23 October, 1992\nBombay High Court Cites 13 - Cited by 4 - Full Document', 'H.H. Goswami Shri Gokulnathji ... vs Thirteenth Income-Tax Officer on 6 April, 1981\nIncome Tax Appellate Tribunal - Mumbai Cites 5 - Cited by 0 - Full Document', 'Sunandamma vs Commissioner Of Income-Tax on 6 June, 1986\nKarnataka High Court Cites 6 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 27(iv) in The Income- Tax Act, 1995
+(iv) " annual charge" means a charge to secure an annual liability, but does not include any tax in respect of property or income from property imposed by a local authority, or the Central or a State Government;

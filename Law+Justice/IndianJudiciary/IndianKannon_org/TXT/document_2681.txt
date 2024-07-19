@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2681/
+Cites: ['Eli Research India Pvt Ltd., New ... vs Dcit, Circle-1, Faridabad on 27 September, 2022 : https://indiankanoon.org/doc/42146006/', 'Reliance Infrastructure Ltd, ... vs Acit 14(1)(2) , Mumbai on 23 March, 2023 : https://indiankanoon.org/doc/135594791/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 92(3) in The Insurance Act, 1938
+(3) The liquidator shall within fifteen days of his appointment send notice by post to all persons who appear to him to be creditors of the society that a meeting of the creditors of society will be held on a date not being less than twenty-one or more than twenty-eight days after his appointment, and at a place and hour to be specified in the notice, and shall also advertise notice of the meeting once in the local Official Gazette and once at least in two newspapers circulating in the State in which the society is situated.

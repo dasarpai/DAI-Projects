@@ -1,0 +1,23 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/275/
+Cites: ['Brakes India Ltd. vs Commissioner Of Customs on 24 January, 2007 : https://indiankanoon.org/doc/1969136/', 'Hello Mineral Water P. Ltd. vs Commissioner Of C. Ex. on 1 October, 2003 : https://indiankanoon.org/doc/1200726/', 'Commissioner Of C. Ex. vs Madhya Bharat Paper Mills on 28 November, 2000 : https://indiankanoon.org/doc/181751/', 'Ecoplast (P) Ltd. vs Collector Of Customs on 24 February, 1992 : https://indiankanoon.org/doc/898271/', '4 Whether This Case Involves A ... vs Union Of India & 2 on 3 December, 2015 : https://indiankanoon.org/doc/41140560/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Bangalore
+Andhra Pradesh Paper Mills Ltd. ... vs The Commissioner Of Central ... on 15 February, 2007
+Equivalent citations: 2007 (118) ECC 114, 2007 ECR 114 Tri Bangalore
+Bench: S Peeran, J T T.K.
+ORDER S.L. Peeran, Member (J)
+1. The issue in both these appeals is common and hence, they are taken up together for disposal as per law.
+E/375/2006 This appeal arises from OIO No. 2/2006(VR) dated 25.01.2006 passed by the Commissioner of Central Excise & Customs, Visakhapatnam, confirming duty amounts on the ground that the Paper, Paper Board and Articles thereto, which are final products, fall under CSH 4823.90 of the Tariff and the same is not mentioned in Rule 6(3) of the Cenvat Credit Rules and hence they are not eligible to avail the Modvat credit. The appellant's contention that they had maintained separate records and that the Item falls under Tariff Heading 4801 which appears in Rule 6(3) has not been accepted. The appellants' matter on this very issue came up for hearing before this bench and this Bench, by Final order No. 1069/2006 dated 18.05.2006, clearly held that the final goods manufactured by them fall under Heading 4801.00 which appears in Rule 6(3). The issue is fully covered in assessees' favour. Therefore, on this ground, the stay application was allowed by Stay Order No. 852/2006 dated 14.08.2006.
+2. The learned JDR has nothing to say on this matter and leaves the decision to the discretion of this Bench in view of the Final Order passed in assessees' case.
+3. The learned Senior Counsel submits that they had maintained separate accounts in respect of the dutiable and non-dutiable goods and they had not taken credit on inputs used for exempted final products. Therefore, the impugned order is not correct in the light of the Final order rendered in their own case cited supra.
+4. On a careful consideration, we notice that the issue is fully covered in assessees' favour by Final Order No. 1069/2006 dated 18.05.2006 rendered in their own case. The product in question falls under CSH 4801.00 of the Tariff which appears in Rule 6(3) of the CENVAT Credit Rules. They had maintained separate accounts and had not taken credit in respect of inputs used in exempted goods in terms of the documents produced before us. Therefore, the impugned order is not correct in law. Respectfully following the ratio of the Final Order rendered in assessees' own case, the impugned order is set aside and the appeal is allowed with consequential relief, if any.
+E/1186/2005 & E/197/2006
+5. In these cases, the issue is identical to the one decided supra. The learned Counsel Shri B.V. Kumar submits that the above order would apply to the facts of the present cases also. He also points out from record about the appellants maintaining separate accounts and not utilising credit in respect of the inputs utilised in exempted products. Therefore, he submits that the issue is fully covered and the appeal may be allowed.
+6. The learned JDR reiterates the findings.
+7. On a careful consideration, we find that the facts and circumstances of these cases are identical to the one which has been decided in the A.P. Paper Mills. The appellants have been maintaining separate accounts in respect of manufacture of exempted and dutiable goods. They have not availed credit in respect of the inputs used in the exempted goods. Therefore, the classification of the product has been held in assessees' favour under CH 4801.00 which appears in Rule 6(3) of the Cenvat Credit Rules. Therefore, they are eligible for availing the credit. There is no merit in the impugned orders and the same are set aside by allowing the appeals in terms of the above noted judgment.
+7.1 All these appeals pertaining to classification and availment of Cenvat Credit are allowed.
+(Pronounced and dictated in open Court)

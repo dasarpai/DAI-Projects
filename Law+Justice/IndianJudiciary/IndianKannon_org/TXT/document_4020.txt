@@ -1,0 +1,18 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4020/
+Cites: ['the Court-fees Act, 1870 : https://indiankanoon.org/doc/138097064/', 'Section 44 in The Indian Evidence Act, 1872 : https://indiankanoon.org/doc/1326950/', 'Om Prakash Mohta vs Steel Equipment And Construction ... on 3 May, 1966 : https://indiankanoon.org/doc/823959/', 'Matu Ram (Since Deceased) vs Joint Director Panchayats And ... on 3 February, 2012 : https://indiankanoon.org/doc/63545545/', 'Jangir Singh vs The Joint Director on 21 October, 2013 : https://indiankanoon.org/doc/121054010/', 'Jamiraddin vs Khadejanessa Bibi And Ors. on 26 March, 1928 : https://indiankanoon.org/doc/1915677/', "Sewa International Fashions And ... vs Employees' Provident Fund ... on 21 February, 2007 : https://indiankanoon.org/doc/561970/"]
++++++++++++++++++++++++++
+
+
+Calcutta High Court
+Aswini Kumar Samaddar vs Banamali Chakrabarty And Ors. on 24 July, 1916
+Equivalent citations: 40 Ind Cas 607
+Bench: D Chatterjee, Newbould
+JUDGMENT
+1. This is an appeal against a suit to set aside an ex parte rent-decree on the ground of fraud.
+2. In order that the plaintiff may succeed in this suit, it is necessary for him to show that an earlier decree obtained in the High Court is also invalid on the ground of fraud.
+3. Both the lower Courts have held that the plaintiff cannot maintain this suit without first setting aside the High Court decree by a suit framed for this purpose. The learned Subordinate Judge based his decision on the ground that the plaintiff was no party to the High Court decree. But this is no reason why the plaintiff should not show that the High Court decree was obtained by fraud or collusion under Section 44 of the Evidence Act.
+4. In Woodroffe and Ameer Ali's Law of Evidence, 5th edition, it is remarked: With regard to the parties who may show fraud, it is clear that a stranger to a judgment, against whom such judgment is used as evidence, may impeach it on the ground of fraud in the suit in which it is so used." The plaintiff here is a stranger to the judgment and if the judgment is used against him as evidence, he is entitled under the section to impeach it. Both the lower Courts were, therefore, wrong in holding that the suit is not maintainable.
+5. The case is sent back to the Court of first instance for decision on the other issues.
+6. The appellant will get the usual certificate under the Court Fees Act for the refund of his Court-fee. The other costs will abide the result.

@@ -1,0 +1,15 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/544/
+Cites: ['The Companies Act, 1956 : https://indiankanoon.org/doc/1353758/', 'Section 230 in The Companies Act, 1956 : https://indiankanoon.org/doc/1018499/', 'Section 171 in The Companies Act, 1956 : https://indiankanoon.org/doc/173278/']
++++++++++++++++++++++++++
+
+
+Calcutta High Court
+In Re: Damagoria Coal Co. Ltd. vs Unknown on 18 May, 1931
+Equivalent citations: AIR 1932 Cal 430, 137 Ind Cas 870
+Author: Buckland
+JUDGMENT Buckland, J.
+1. This is an ex parte application, made at the instance of the Mines Board of Health, Asansol, for leave under Section 171, Companies Act, to levy execution upon a certificate issued by the Certificate Officer, Asansol, for the recovery of a sum of Rs. 1,955, said to be recoverable as a public demand, on account of the applicant's duos under the Mining Settlement Act 2 of 1912.
+2. It is stated that this is a debt due to the Grown, which I will assume to be correct, and a question arises as to the prerogative right of the Crown to payment in priority to other creditors. The certificate is dated 30th July 1930, the winding up order was made on 18th August 1930, and an official liquidator has been appointed. No notice has been given to the official liquidator and in consequence the matter has not been fully argued. But Mr. Susil Sen who appears on behalf of the applicant has drawn my attention to a judgment of Page, J., in In the matter of West Laikdih Coal Co., Ltd. A.I.R. 1926 Cal. 781 who, after hearing learned Counsel on both sides, followed. In re Henley & Co. [1878] 9 Ch. D. 469 and In re Oriental Bank Corporation, ex parte The Crown [1884] 28 Ch. D. 643 in each of which it was decided that the Grown was not bound by the Companies Act, and accordingly held that Section 171, Companies Act, did not restrict any of the rights to recover debts due to it which the Grown might possess in virtue of its prerogative. Mr. Sen has however very properly invited my attention to a later authority which does not appear to have been cited before my learned brother, and that is in re II. J. Webb & Co. {Smith/field, London), Ltd. [1922] 2 Ch. 369 in which In re Henley & Co. [1878] 9 Ch. D. 469 and the Oriental Bank case [1884] 28 Ch. D. 643 were held to be no longer applicable to the case of a winding up of a company by reason of the later Companies Act which, as was explained at length, contained provisions overriding the prerogative by which the Grown was bound. On appeal, [Food Controller v. Cork [1923] A.C. 647] the judgment of the Court of appeal was upheld and, in the words of Lord Wren-bury, the Grown is bound "to a statutory scheme of administration wherein the prerogative right of the Grown to priority no longer exists."
+3. No reasons have been advanced why the petitioner Board should proceed in execution and any question of priority under Section 230 should be decided in the winding up. The application must be refused.

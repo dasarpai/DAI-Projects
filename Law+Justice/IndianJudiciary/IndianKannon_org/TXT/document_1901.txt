@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1901/
+Cites: ['Shri D.K. Ariwalla, Shri M.V. ... vs Commissioner Of Central Excise ... on 20 April, 2001 : https://indiankanoon.org/doc/409638/', 'Drugs Inspector vs Chimanlal And Co. And Ors. on 19 March, 1965 : https://indiankanoon.org/doc/436125/', 'Sri Murari Lal Goyal vs State Of U.P. And Another on 16 May, 2016 : https://indiankanoon.org/doc/3761885/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 4(1) in the Drugs (Control) Act, 1950
+(1) The Chief Commissioner may, by notification in the Official Gazette, fix in respect of any drug—
+(a) the maximum price or rate which may be charged by a dealer or producer;
+(b) the maximum quantity which may at any one time be possessed by a dealer or producer;
+(c) the maximum quantity which may, in any one transaction be sold to any person.

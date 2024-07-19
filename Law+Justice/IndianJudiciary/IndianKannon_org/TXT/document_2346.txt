@@ -1,0 +1,65 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2346/
+Cites: ['Section 55 in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1704110/', 'Commissioner Of Income-Tax vs Markapakula Agamma on 20 January, 1987 : https://indiankanoon.org/doc/1313856/', 'The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/', 'Commissioner Of Income-Tax vs H.H. Maharaja Sahib Shri Lokendra ... on 6 January, 1986 : https://indiankanoon.org/doc/495219/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+Commissioner vs H.H.(Late) on 25 October, 2005
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS           
+
+Dated: 25/10/2005 
+
+Coram 
+
+The Hon'ble Mr.Justice P.D.DINAKARAN   
+and 
+The Hon'ble Mr.Justice N.KANNADASAN     
+
+T.C.(A)No.877 of 2005
+
+Commissioner  
+of Income-Tax-I,
+Tiruchirapalli                          ...                     Appellant
+
+-Vs-
+
+H.H.(Late)
+Sri Raja Rajagopala Thondaiman 
+by L.R. Shri Rajagopala thondaiman,
+Pudukkottai Palace, 
+Cantonment, 
+Trichy - 620 001.                       ...                     Respondent
+
+        The  above  T.C.(Appeal)  is  preferred  under  Section  260A  of  the
+Income-Tax  Act,  1961 against the order of the Income Tax Appellate Tribunal,
+Madras 'D' Bench, dated 14.2.2005 made in ITA No.1526/Mds/1 999.  
+
+!For Appellant          :  Mr.N.Muralikumaran
+
+^For Respondent         :       ---
+
+:J U D G M E N T 
+(Judgment of the Court was made by P.D.DINAKARAN, J.) The above tax case appeal is directed against the order of the Income-tax Appellate Tribunal in ITA.No.1526/Mds/1999, dated 14.2.200 5.
+2. The Revenue is the appellant. The assessment year involved is 1 996-1997. The assessee is an ex-ruler of Pudukkottai Samasthanam. The assessment has been made on Rajagopala Thondaiman as legal representative of the deceased assessee H.H.Raja Rajagopala Thondaiman.
+3. The case of the revenue is that during the year of account, the assessee had sold his old Palace at Pudukkottai for a consideration of Rs.17,76,020/- and claimed exemption on the sale proceeds. The Assessing Officer, on the ground that in the earlier years the claim of the assessee has not been accepted and that the matter is under appeal at different stages, brought the sum of Rs.17,76,020/- to assessment as long term capital gains.
+4. The assessee, not satisfied with the assessment, preferred an appeal before the Commissioner of Income Tax (Appeals) contending that he had become owner of the property under the Merger Agreement with the Indian Union in the year 1947 and he had not incurred any cost in acquiring the property. The Commissioner of Income Tax (Appeals) placing reliance on the decision of Madhya Pradesh High Court, reported in 162 ITR 93 (Commissioner of Income-tax Vs. H.H.Maharaja Sahib Shri Lokendra Singhji) wherein it is held that in a case where cost could not be ascertained, the fair market value could not be taken into consideration since the very basis of capital gains was that at some point of time, the person who initially acquired the property did so at some cost in terms of money, deleted the addition on account of capital gains.
+5. It is against this decision, the Revenue moved the Income Tax Appellate Tribunal, Chennai Bench. Before the Tribunal, both the assessee and the Revenue conceded that similar issue in assessee's own case for the assessment year 1984-85 to 1986-87 has been decided in favour of the assessee, holding that the palace was allotted to the assessee by an order of the Government and he had not incurred any cost for acquisition of the palace and hence no capital gain arises for taxation in respect of transfer of such property. Consequently the appeal preferred by the Revenue was dismissed by the Tribunal.
+6. Aggrieved by the same, the Revenue has preferred the present appeal raising the following substantial question of law:
+"Whether on the facts and in the circumstances of the case, the Income Tax Appellate Tribunal was right in holding that there was no capital gains assessable in respect of the transfer of the site and palace at Pudukkottai belonging to the assessee for a consideration of Rs.17,76,020/- on the ground that there was no cost of acquisition and the capital gains could not be computed, ignoring the fact that the property in question was obtained in consideration of his estate at Pudukkottai merging with erstwhile State of Madras and the cost of acquisition was determinable in accordance with the provisions of Section 55(b)(2)?"
+7. Admittedly in the present case the assessee was an ex-ruler of Pudukkottai Samasthanam and the palace in question was allotted to the assessee by an order of the Government, and that, the assessee has not incurred any cost for acquisition of the palace. In these circumstances, the sale proceeds of the old palace cannot be brought under capital gains as held in the decision reported in 162 ITR 93, which is followed by the authorities below. The Tribunal also followed the decision reported in 128 ITR 294 (Commissioner of Income-tax Vs. B.C. Srinivasa Setty), wherein the Supreme Court, while dealing with a similar issue regarding capital gains, after referring to various sections, held as under, "... None of the provisions pertaining to the head "Capital gains" suggests that they include an asset in the acquisition of which no cost at all can be conceived. Yet there are assets which are acquired by way of production in which no cost element can be identified or envisaged. From what has gone before, it is apparent that the goodwill generated in a new business has been so regarded. The elements which create it have already been detailed. In such a case, when the asset is sold and the consideration is brought to tax, what is charged is the capital value of the asset and not any profit or gain."
+8. At this juncture, we also feel it relevant to refer to another decision of Madhya Pradesh High Court reported in 232 ITR 754 ( Commissioner of Income-tax Vs. Pushpraj Singh), wherein it is held as under, "... the tribunal held that no capital gain was exigible on the transfer of shares and bonds on the ground that the assets in the form of shares and bonds belonged to the Government of India and subsequently half of the shares were transferred to the assessee not as a right but only by way of moral gesture on its part and according to the Tribunal, the assessee did not become the owner of the assets. The Tribunal held that the cost of acquisition of shares and securities was nil to the assessee and, therefore, no capital gains tax could be levied thereon. The Tribunal had approached the matter and rightly held in the light of decisions in the case of CIT v. H.H.Maharaja Sahib Lokendra Singhji (1986) 162 ITR 93 and CIT v. Markapakula Agamma (198 7) 165 ITR 386. No question of law arose from its order as the question which had been agitated in this reference had already been answered by the Madhya Pradesh High Court."
+9. In view of the above stated propositions and in the light of the facts and circumstances of the case, we answer the question in the affirmative against the revenue and hold that the Tribunal was right in holding that there was no capital gains assessable in respect of the transfer of the site and palace at Pudukkottai belonging to the assessee for a consideration of Rs.17,76,020/- on the ground that there was no cost of acquisition and the capital gains could not be computed ignoring the fact that the property in question was obtained in consideration of his estate at Pudukkottai merging with erstwhile State of Madras and the cost of acquisition was determinable in accordance with the provisions of section 55(b)(2) of the Income Tax Act.
+10. Consequently, we do not see any merit in the appeal and hence the same is dismissed. No costs.
+Index : Yes Website: Yes vr.
+To The Commissioner of Income Tax, Chennai.
+

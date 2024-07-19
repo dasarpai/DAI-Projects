@@ -1,0 +1,16 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2027/
+Cites: ['Indian Cable Co. Ltd vs C.C.E on 20 September, 1994 : https://indiankanoon.org/doc/621572/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Mumbai
+Commr. Of Cus. & C. Ex., ... vs Manan Chemicals Pvt. Ltd. on 2 January, 2002
+Equivalent citations: 2002 (142) ELT 357 Tri Mumbai
+Bench: S T Gowri
+ORDER Gowri Shankar, Member (T)
+1. The respondent filed a declaration under Rule 57A for taking Modvat credit of duty paid on napthalene which it in turn utilised in the manufacture of dye intermediates. The department noted that napthalene was not specified as an input in Notification 177/86 issued under Rule 57A and therefore the duty paid on it could not be taken as credit. Notice was issued to the respondent proposing to deny credit in future, and recover the credit that is already taken. In response to the notice the respondent submitted that it had wrongly claimed Modvat credit under Rule 57A and it intended to claim the benefit contained in Notification 432/86 which inter alia grants exemption from duty to the extent of dye intermediates duty paid on napthalene used in their manufacture. Adjudicating on the notice the Assistant Collector accepted this contention and dropped proceedings. The department appealed this order again on the ground that the assessee had not followed the procedure prescribed for claiming the exemption contained in Notification 432/86. The Commissioner (Appeals) did not accept this contention and declined to interfere. Hence, the appeal.
+2. The same grounds as raised before the Commissioner (Appeals) are now raised before me. The ground essentially is that for availing credit Notification 432/86, an account of inputs and finished products which should have been maintained has not been kept. A register other than the register in form RG-23A which had been maintained for the Modvat purposes was required to be maintained. It is also claimed that the procedure laid down in the Trade Notice 77/92 has not been followed.
+3. In its decision in Indian Petrochemicals Ltd. v. CCE - 1992 (61) E.L.T. 138 the Tribunal held that the appellant before it could not be denied exemption contained in Notification 225/85 solely for the reason that it had not maintained a register, referred to as "set off register". It noted that notification did not make it a condition that such a register should be maintained. It noted that the provisions of Trade Notice 176/86, which it was alleged had not been followed by the assessee was not issued for enforcing compliance with the requirement of that notification. That reasoning would equally apply to the facts before me too. There is no requirement in the Notification 432/86 for maintaining any particular register. Trade Notice 77/92 from the department's own averment appears to have been issued in connection with the regulating proforma credit under Rule 57A and not for the purpose of Notification 432/92. I, therefore, see no reason to interfere.
+4. Appeal dismissed.

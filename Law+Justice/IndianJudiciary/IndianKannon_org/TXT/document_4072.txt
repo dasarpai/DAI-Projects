@@ -1,0 +1,72 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4072/
+Cites: ['Section 7(6) in The Right To Information Act, 2005 : https://indiankanoon.org/doc/383252/', 'The Right To Information Act, 2005 : https://indiankanoon.org/doc/671631/']
++++++++++++++++++++++++++
+
+
+Central Information Commission
+Shri.V.Stanley Paulus vs Reserve Bank Of India on 15 September, 2011
+                      CENTRAL INFORMATION COMMISSION
+                          Club Building (Near Post Office)
+                        Old JNU Campus, New Delhi - 110067
+                               Tel: +91-11-26161796
+
+                                                    Decision No. CIC/SM/A/2010/001540/SG/14606
+                                                           Appeal No. CIC/SM/A/2010/001540/SG
+
+Relevant facts emerging from the Appeal:
+
+Appellant                            :     Mr. V. Stanley Paulus,
+                                           A/11, Shalom
+                                           Tennis Club Enclave,
+                                           Jawahar Nagar, Kowdiar,
+                                           Trivandrum-695003.
+
+Respondent                           :     Mr. K. K. Srivastava
+                                           PIO & Dy. General Manager
+                                           Foreign Exchange Department, Central Office,
+                                           Reserve Bank of India,
+                                           Central Office Building,
+                                           Shahid Bhagat Singh Marg, P.B. No. 1055,
+                                           Mumbai-400001.
+
+RTI application filed on             :      22/07/2010
+PIO replied on                       :      12/08/2010
+First Appeal filed on                :      27/08/2010
+First Appellate Authority order on   :      19/10/2010
+Second Appeal received on            :      30/10/2010
+
+Information Sought:
+A company (service provider) is getting money as cash from the client as reimbursement as per the
+contract. Whether the beneficiary is eligible to get Foreign Inward Remittance Certificate from
+authorized dealer stating the purpose declared by the customer.
+
+Reply of the PIO:
+A Forward Inward Remittance Certificate is issued when a Foreign Inward Remittance is received
+through the normal banking channel. The matter relating to issuance of Foreign Inward Remittance
+Certificate is governed by the guidelines issued by Foreign Exchange Dealers Association of India.
+
+Grounds for the First Appeal:
+The CPIO provided his comments instead of the information sought. The correct information was not
+provided by the CPIO to the Appellant.
+
+Order of the First Appellate Authority (FAA):
+The CIC observed as follows:
+"Any information, therefore, including 'opinion & advice' that is held in recorded form is, therefore,
+accessible under the RTI Act. This will include documents like file noting, this does not allow for
+CPIO to manufacture or create or indeed divulge a personally held opinion or advice on the subject
+matter at issue."
+The CIC found no fault with the reply of the CPIO , FED. He did not find that the CPIO should have
+forwarded a copy or extract of guidelines issued by FEDAI, regarding FIRC, to the Appellant.
+
+Grounds of the Second Appeal:
+The CPIO has not provided the correct information to the Appellant.
+ Relevant Facts
+emerging during Hearing:
+The following were present Appellant: Absent;
+Respondent: Ms. Niranjana Patil, Legal Officer and Mr. K. K. Srivastava, PIO & Dy. General Manager on video conference from NIC-Mumbai Studio; The PIO states that he has provided information as per available records. The appellant has stated that since the rules are framed by the Foreign Exchange Dealers Association of India the respondent should have transferred the RTI application to them. The PIO states that the said association is not a government organization and most probably not a public authority and hence the RTI application could not be transferred to them.
+Decision:
+The Appeal is disposed.
+The information available on the records appears to have been provided. This decision is announced in open chamber. Notice of this decision be given free of cost to the parties. Any information in compliance with this Order will be provided free of cost as per Section 7(6) of RTI Act.
+Shailesh Gandhi Information Commissioner 15 September 2011 (In any correspondence on this decision, mention the complete decision number.) (Ank)

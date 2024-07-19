@@ -1,0 +1,17 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1362/
+Cites: ['The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/', 'Section 256(2) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1979131/', 'Section 250(2) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1920301/', 'Section 256(1) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1940213/', 'Hotel Dhanolti vs Deputy Commissioner Of Income Tax on 17 April, 2002 : https://indiankanoon.org/doc/554037/']
++++++++++++++++++++++++++
+
+
+Gauhati High Court
+Commissioner Of Income-Tax vs Smt. Shun Chui Ai on 3 February, 1994
+Bench: S Phukan, M Sharma
+JUDGMENT
+1. This is an application under Section 250(2) of the Income-tax Act, 1961, filed by the Revenue against the order dated November 22, 1990, passed by the Income-tax Appellate Tribunal, Gauhati Bench, Gauhati, in R.A. No. 75/(Gau) of 1990 in I. T. A. No. 433/(Gau) of 1987 for the assessment year 1982-83 rejecting the reference application filed by the Revenue under Section 256(1) of the Income-tax Act, 1961. In this application, the Revenue seeks to refer the following three questions staled to be questions of law for opinion :
+"(1) Whether the finding of the Tribunal that after the accounts were drawn up and a statement of liabilities and assets was prepared, the assessee apparently noticed that some assets, etc., were to be included and she, therefore, filed her revised return was not contrary to the records when the assessee did not include any new asset or assets, in the revised balance-sheet, rather the assessee had reduced the value of certain assets and hence perverse ?
+(2) Whether under the facts and circumstances of the case, the decision of the Tribunal is not based on proper appreciation of facts and accordingly not sustainable in law ?
+(3) Whether the Tribunal did not err in fact as well as in law in cancelling the penalty under Section 271(1)(c) of the Income-tax Act ?"
+2. The Revenue is represented before us whereas the assessee appears to be not represented. We have perused the records and we find that a notice in registered cover with A/D was sent to the assessee from this court on November 13, 1991. Since 30 (thirty) days have expired from the date of issue of this notice, we accept the notices as served and we proceed to hear the matter in the absence of the assessee.
+3. We have heard Mr. D.K. Talukdar, learned counsel appearing for the Revenue, who has strenuously taken us through the orders passed by the learned Tribunal and also the income-tax authorities. Mr. Talukdar has also submitted that the questions sought for reference to this court for its opinion are questions of law. On a perusal of the records of the case and also the three questions proposed by the Revenue, we, however, cannot agree to the submissions made by learned counsel representing the Revenue. In our opinion, the findings and conclusion of the Tribunal are pure questions of fact to the effect that the imposition of penalty in the case of the assessee was not justified. The aforesaid conclusion of facts does not give rise to any question of law. Hence, in our opinion, it is not a fit case to exercise our jurisdiction under Section 256(2) of the Income-tax Act, 1961, and accordingly, we reject this application. We make no order as to costs.

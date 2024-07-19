@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3922/
+Cites: ['D.Kamalavathi vs P.Balasundaram (Deceased) on 31 January, 2011\nMadras High Court Cites 18 - Cited by 1 - Full Document', 'Anusuya vs D.Selvaraj on 13 November, 2019\nMadras High Court Cites 4 - Cited by 0 - Full Document', 'Mohideen Sahib vs A. Amena Bi on 18 December, 2006\nMadras High Court Cites 13 - Cited by 3 - Full Document', 'Khanderao vs Bharatbai on 23 March, 2009\nBombay High Court Cites 10 - Cited by 0 - Full Document', 'Gomi Bai And Ors. vs Uma Rastogi And Anr. on 29 December, 2004\nAndhra High Court Cites 71 - Cited by 1 - Full Document', '8 D. Naveen Premkumar vs 2 M.E. Mariappan\nMadras High Court Cites 28 - Cited by 0 - Full Document', 'Gowrammal vs Kasthuri .. 2Nd on 21 January, 2019\nMadras High Court Cites 11 - Cited by 0 - Full Document', 'Nitin Gandhi And Anr vs Dinyar Pheroz Dubash And 4 Ors on 9 October, 2014\nBombay High Court Cites 17 - Cited by 0 - Full Document', 'M/S.Shree Kamal Constructions & ... vs Shri Kamlakar Jiwan Patil & Ors. : on 9 April, 2013\nBombay High Court Cites 7 - Cited by 2 - Full Document', '5 Whether It Is To Be Circulated To ... vs Thakorbhai Ashabhai Patel & on 11 June, 2014\nGujarat High Court Cites 5 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 19(a) in The Specific Relief Act, 1963
+(a) either party thereto;

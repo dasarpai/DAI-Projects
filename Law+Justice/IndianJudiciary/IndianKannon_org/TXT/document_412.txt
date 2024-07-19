@@ -1,0 +1,53 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/412/
+Cites: ['Section 41 in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 635', 'The Code Of Criminal Procedure, 1973\nCentral Government Act Cites 0 - Cited by 217563 - Full Document', 'Section 41 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1110', 'Section 120B in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 64635', 'Section 406 in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 52824', 'Section 420 in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 87014', 'Section 438 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 73335', 'The Indian Penal Code\nCentral Government Act Cites 0 - Cited by 313513 - Full Document', 'Section 506 in The Indian Penal Code [Complete Act]\nCentral Government Act Cites 0 - Cited by 69524']
++++++++++++++++++++++++++
+
+
+Allahabad High Court
+Ragib Rana vs State Of U.P. And 2 Others on 26 September, 2022
+Bench: Suresh Kumar Gupta
+HIGH COURT OF JUDICATURE AT ALLAHABAD
+ 
+ 
+
+?Court No. - 72
+ 
+
+ 
+Case :- CRIMINAL MISC ANTICIPATORY BAIL APPLICATION U/S 438 CR.P.C. No. - 7858 of 2022
+ 
+
+ 
+Applicant :- Ragib Rana
+ 
+Opposite Party :- State Of U.P. And 2 Others
+ 
+Counsel for Applicant :- Sumit Daga
+ 
+Counsel for Opposite Party :- G.A.,Akhilesh Kumar Pandey
+ 
+
+ 
+Hon'ble Suresh Kumar Gupta,J.
+1. Heard learned counsel for applicant, the learned Additional Government Advocate for the State as well as the counsel for the first informant and perused the material available on record.
+2. The present anticipatory bail application under Section 438 Cr.P.C. has been filed for grant of anticipatory bail as the accused-applicant is apprehending her arrest in connection with Case Crime No. 324 of 2021, under Sections 420/406/120-B/506 IPC, Police Station- Janakpuri, District- Saharanpur.
+3. Learned counsel for the applicant has submitted that the applicant is innocent and has been falsely implicated in the present case. The applicant has never committed any offence as alleged in the impugned FIR. As per allegation in the FIR, on the pretext of the applicant the complainant paid Rs. 8 lacs to Mohatram as premium for purchasing of land but after taking this money they denied to issue any receipt for the same and also denied to execute any agreement to sale of the land in question. The counsel for the applicant submits that no sale agreement was done between the first informant and Mohatram. The applicant has no concern with the alleged incident. Thus, no disclosed offence is made out against the applicant.
+4. Further submission is that the applicant is having no previous criminal history and he is ready to cooperate in the investigation. During arguments, learned counsel for the applicant has submitted that since all the offences are punishable with less than seven years of imprisonment, therefore, ratio of law laid down by Supreme Court in case of Arnesh Kumar Vs. State of Bihar, (2014) 8 SCC 273 should have been invoked.
+5. On the other hand, learned AGA as well as the counsel for the first informant states that the applicant concealed his name. During investigation, actual name of the applicant was disclosed as Ragib Rana and as such the applicant hatched conspiracy which caused wrongful loss to the first informant. Prima facie offence is made out against the applicant. It is further stated that after rejection of anticipatory bail vide order dated 2.8.2022 by the court below, process U/s 82 CrPC was issued against the applicant. It is further stated that however, the offence allegedly committed by the applicant entail a sentence up to seven years. In such circumstances, the investigating officer shall ensure compliance of provisions of Section 41 and Section 41-A of the Code of Criminal Procedure as provided by Hon'ble Supreme Court of India in Arnesh Kumar (supra).
+6. Section 41 of the Code deals with the power of the police officer investigating the commission of a cognizable offence, to arrest a person without an order from the Magistrate and without a warrant.
+7. Section 41-A of the Code inserted vide Act 5 of 2009 w.e.f. 1-11-2010, reads as follows:
+"41-A. Notice of appearance before police officer.-(1) The police officer shall, in all cases where the arrest of a person is not required under the provisions of sub-section (1) of section 41, issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice.
+(2) Where such a notice is issued to any person, it shall be the duty of that person to comply with the terms of the notice.
+(3) Where such person complies and continues to comply with the notice, he shall not be arrested in respect of the offence referred to in the notice unless, for reasons to be recorded, the police officer is of the opinion that he ought to be arrested.
+(4) Where such person, at any time, fails to comply with the terms of the notice or is unwilling to identify himself, the police officer may, subject to such orders as may have been passed by a competent Court in this behalf, arrest him for the offence mentioned in the notice."
+8. A perusal of Section 41 shows that there is no absolute bar against arresting a person accused of an offence punishable with imprisonment for a term which may be less than seven years or which may extend up to seven years with or without fine. Section 41(1)(a), however, provides that an investigating officer shall not arrest a person accused of such offences in a routine manner and the arrest be made, only after following the restrictions imposed under Section 41(1)(b).
+9. In Arnesh Kumar (supra), the Apex Court while dealing with the power of the police to arrest a person under Section 41 of the Code, has held that the said power is to be exercised only after the conditions enumerated in the said Section are satisfied. The relevant paragraph of the above said judgement is extracted below:
+"From a plain reading of the aforesaid provision, it is evident that a person accused of an offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years with or without fine, cannot be arrested by the police officer only on his satisfaction that such person had committed the offence punishable as aforesaid. A police officer before arrest, in such cases has to be further satisfied that such arrest is necessary to prevent such person from committing any further offence; or for proper investigation of the case; or to prevent the accused from causing the evidence of the offence to disappear; or tampering with such evidence in any manner; or to prevent such person from making any inducement, threat or promise to a witness so as to dissuade him from disclosing such facts to the court or the police officer; or unless such accused person is arrested, his presence in the court whenever required cannot be ensured. These are the conclusions, which one may reach based on facts. The law mandates the police officer to state the facts and record the reasons in writing which led him to come to a conclusion covered by any of the provisions aforesaid, while making such arrest. The law further requires the police officers to record the reasons in writing for not making the arrest. In pith and core, the police officer before arrest must put a question to himself, why arrest? Is it really required? What purpose it will serve? What object it will achieve? It is only after these questions are addressed and one or the other conditions as enumerated above is satisfied, the power of arrest needs to be exercised. In fine, before arrest first the police officers should have reason to believe on the basis of information and material that the accused has committed the offence. Apart from this, the police officer has to be satisfied further that the arrest is necessary for one or the more purposes envisaged by sub-clauses (a) to (e) of clause (1) of Section 41 Cr.P.C."
+10. Thus, it is mandatory on the part of the investigating officer to record reasons for making arrest as well as for not making arrest in respect of a cognizable offence for which the maximum sentence is up to seven years.
+11. However, arrest is not required to be made under Sub-Clause (1) of the amended Section 41 of the Code, the police is bound to issue a notice of appearance to the accused person. Even in such a case, failure to comply with the notice of appearance or unwillingness to identify himself may be grounds for the police to arrest a person to whom a notice under Section 41-A of the Code has been issued.
+12. The statutory protection under Section 41 and 41-A of the Code is already available, which the police authorities are bound to comply in this case also.
+13. Considering the facts and circumstances of the case, the present anticipatory bail application is disposed of directing the Investigating Officer to strictly comply with the provisions of Section 41 and Section 41-A of the Code of Criminal Procedure as provided by Hon'ble Supreme Court of India in Arnesh Kumar (supra).
+14. The anticipatory bail application is finally disposed of with the above noted directions.
+Order Date :- 26.9.2022 Shravan    

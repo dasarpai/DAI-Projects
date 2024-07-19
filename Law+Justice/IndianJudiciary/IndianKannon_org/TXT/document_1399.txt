@@ -1,0 +1,24 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1399/
+Cites: ['Sales Tax Officer & Anr vs M/S. Shree Durga Oil Mills & Anr on 15 December, 1997 : https://indiankanoon.org/doc/1732840/', 'M/S Larsen & Toubro Limited vs State Of Orissa & Others ... Opp. ... on 4 March, 2011 : https://indiankanoon.org/doc/186935418/', 'Pavitra C M vs Centralised Admission Cell For B ... on 20 February, 2009 : https://indiankanoon.org/doc/906374/']
++++++++++++++++++++++++++
+
+
+Orissa High Court
+Modern Water Products A ... vs State Of Orissa, Represented ... on 7 February, 2002
+Equivalent citations: 2002 127 STC 70 Orissa
+Author: P Balasubramanyan
+Bench: P Balasubramanyan, A Naidu
+JUDGMENT P.K. Balasubramanyan, C.J.
+1. The prayer made in this writ petition is for striking down the decision of the Joint Director of Industries (S.S.) - Opposite party No. 2 declaring that mineral water will come within the category of soft drink. The said decision of opposite party No. 2 is filed as Annexure - 3, which is a communication to opposite party No. 4. Pursuant to the said correspondence, opposite party No. 4 informed the writ petitioner that in view of the clarification issued by the Joint Director of Industries (S.S.), Cuttack, the Unit of the petitioner was not eligible to Sales Tax exemption with effect from 1.8.1999. Therefore, the eligibility for sales tax exemption issued by that office by letter dated 31.1.2000 was withdrawn with effect from 1.8.1999.
+2. According to the writ petitioner, opposite party No. 2 was not justified in issuing Annexure - 3 intimating opposite party No. 4 that mineral water came under the category of soft drink, and that the writ petitioner was not entitled to any incentives with effect from 1.8.1999.
+3. The learned counsel for the writ petitioner contended that 'mineral water' cannot be said to be either aerated water or soft drink. The learned counsel brought to our notice Appendix - B of the prevention of Food Adulteration Rules, 1955, where at A. 32 the definition of 'mineral water' has been given. Mineral water means all kinds of mineral water or natural mineral water by whatever name it is called and sold.
+4. Learned counsel for writ petitioner with reference to Annexure-5 notification dated 4.9.2000 submitted that the said notification excludes from the privilege of exemption, a Unit manufacturing fruit juice base, aerated water and soft drink, excepting the units manufacturing fruit pulp and juice out of it. Therefore, soft drink does not take in mineral water.
+5. The learned Standing Counsel for the Commercial Taxes Department brought to our notice the meaning given to 'mineral water' in Webster's Third New International Dictionary. The meaning as given is 'water naturally or artificially impregnated with mineral salts'. Even going by the meaning given to 'soft drink' in Encyclopaedia Britannica cited by learned counsel for the petitioner, it may not be possible to say that mineral water does not come within the meaning of the expression 'soft drink', it may be possible to say that mineral water comes within the category of soft drink. In this situation, we are satisfied that any interference in Annexure-4 will not be justified in this writ petition.
+6. Moreover, in view of the decision of the Supreme Court in Sales Tax Officer and Anr. v. Shree Durga Oil Mills ana Anr., AIR 1998 SC 591, even if there be any intended benefit as per the Industrial Policy Resolution, the assessee can get the benefit only if there is a notification in terms of Section 6 of the Orissa Sales Tax Act. In the notification issued under that Act, namely, S.R.O. No. 469/76, Item 39 in the Exemption List is shown as follows :
+"Water but not aerated or mineral water sold in bottles or sealed containers."
+Thus, the position is that mineral water sold in bottle or sealed container does not qualify for exemption under the Orissa Sales Tax Act. In this situation, in view of the decision in Larsen & Toubro Ltd. v. State of Orissa and Ors., (2000) 117 STC 64, this Court cannot direct that the exemption should be given even though the exemption as provided for in the Orissa Sales Tax Act does not include mineral water sold in bottle. In this situation, we are satisfied that there is no justification in interfering with Annexure-4 communication.
+The writ petition is hence dismissed.
+A.S. Naidu, J.
+7. I agree.

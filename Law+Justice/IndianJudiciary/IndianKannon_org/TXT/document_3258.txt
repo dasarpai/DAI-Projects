@@ -1,0 +1,28 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3258/
+Cites: ['Memon Abdul Karim Haji Tayab vs Deputy Custodian General, New ... on 19 February, 1964 : https://indiankanoon.org/doc/1315480/', 'The Salt Cess Act, 1953 : https://indiankanoon.org/doc/53524/', 'Section 35P in the Central Excise Act, 1944 : https://indiankanoon.org/doc/47778755/', 'Madras Port Trust vs Hymanshu International By Its ... on 3 January, 1979 : https://indiankanoon.org/doc/1749252/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Delhi
+India Cements Ltd. vs Collector Of Central Excise on 25 July, 1984
+Equivalent citations: 1996 (82) ELT 140 Tri Del
+ORDER M. Gouri Shankar Murthy, Member (T)
+1. The facts, in so far as material, in this proceeding transferred to the Tribunal and heard as an Appeal, in terms of Section 35P of the Central Excises & Salt Act, 1944 (the Act for short), are -
+(a)The Appellant manufactures superfine cement and referred a claim on or about 26-3-1980 for refund of an amount of Rs. 22,43,002.09 alleged to be duty paid on packing charges of the aforesaid product between 4-7-1974 to 1-3-1975;
+(b) On receipt of the aforesaid claim, a notice dated 16-4-1980 to show cause as to why it should not be rejected was issued to the Appellant and, in response, the Appellant contended before the Asstt. Collector of Central Excise, Tirunelveli, inter alia, that
+(i) Rule 11 of the Central Excise Rules (hereinafter referred to as the Rules) did not apply to the facts of the instant case, inasmuch as, the amount in question was not paid erroneously or inadvertently. The amount was collected from the Appellant illegally and without authority of law;
+(ii) Even if limitation under Rule 11 is applicable the same should not be applied in genuine cases [reliance on 1979 (4) E.L.T. (J 396) (SC) - Madras Port Trust v. Hymanshu International];
+(iii) The question about the legality of the levy of duty on packing was raised by the Appellant earlier but not accepted by the excise authorities, notwithstanding that the Madras Collectorate had, by the issue of a Trade Notice No. 232/79, dated 29-10-1979, categorically stated that cost of packing is not to be included in the assessable value for superfine cement;
+(c) In adjudication, it was held that the claim for refund was barred by limitation in terms of Rule 11 of the Rules, inasmuch as, the payment of duty during the relevant period was not under protest;
+(d) In Appeal, the aforesaid order was confirmed;
+(e) The instant proceeding transferred to the Tribunal and heard by us as an Appeal is the sequel.
+2. Before us, the only question argued was the question of limitation. It was urged that the letter dated 11-6-1974 amounted to a protest so that the period of limitation prescribed in Rule 11 of the Rules ceased to be applicable
+3. It would appear to us on the submissions made and in the facts of the case that -
+(a) Rule 11 of the Rules was enacted on or about 6-8-1977 and provided, inter alia, for a period of six months from the date of payment of duty for an application claiming refund of any duty paid, provided that such bar of limitation does not apply if the payment was initially made under protest;
+(b) It is Rule 11 that, indisputably, applies for an application for refund filed on 26-3-1980 i.e. subsequent to its enactment, notwithstanding that the said Rule was not in operative force during the period when a claim for refund of duty may be said to have arisen (between 4-7-1974 and 1-3-1975). Limitation is procedural in character and "procedural amendment to a law apply, in the absence of anything to the contrary, retrospectively in the sense that they apply to all actions after the date they come into force, even though the actions may have begun earlier or the claim on which the actions may be based may be of an anterior date". [AIR 1964 SC 1256 - Memmon Abdul Karim Haji-Tayab v. Dy. Custodian General, New Delhi and Ors.];
+(c) Unless, therefore, the payment of duty during the relevant period was under protest, a claim for refund would appear to have been barred by limitation in terms of the said Rule;
+(d) The letter dated 11-6-1974, relied upon to establish a protest, does not, in reality, spell out any protest whatsoever. After answering certain queries it merely asserts that packing charges are not included in the price and proceeds further to say that if the Department felt that the duty is leviable on packing charges, they have no option. In our opinion there is absolutely no hint even of a protest anywhere in the said letter;
+(e) Accordingly, we have necessarily to hold that the claim for refund was barred by limitation.
+4. In the premises the Appeal is dismissed.

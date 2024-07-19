@@ -1,0 +1,12 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/399/
+Cites: ['R. Govindaswamy vs The State (Circle Inspector Of ... on 4 August, 1959\nAndhra High Court Cites 30 - Cited by 3 - Full Document', 'Deepa Singh vs State on 3 March, 1998\nDelhi High Court Cites 25 - Cited by 3 - Full Document', 'R. Govindaswamy vs The State (Circle Inspector Of ... on 4 August, 1959\nAndhra High Court Cites 34 - Cited by 0 - Full Document', 'Maqbool vs The State Of Madhya Pradesh on 15 November, 2022\nMadhya Pradesh High Court Cites 6 - Cited by 0 - Full Document', 'Maqbool vs The State Of Madhya Pradesh on 2 December, 2022\nMadhya Pradesh High Court Cites 6 - Cited by 0 - Full Document', 'Maheshbhai Bachubhai Patel & 3 vs State Of Gujarat & on 20 October, 2015\nGujarat High Court Cites 34 - Cited by 0 - Full Document', 'Rishi S/O Nakatu Pustode And 2 ... vs The State Of Maharashtra, Thr. ... on 18 January, 2023\nBombay High Court Cites 14 - Cited by 0 - Full Document', 'Mohd. Salim vs State on 10 March, 2010\nDelhi High Court Cites 52 - Cited by 26 - Full Document', 'Fakruddin And Ors. vs State Police, Nirmal on 3 August, 1961\nAndhra High Court Cites 33 - Cited by 5 - Full Document', '2 vs Unknown on 15 November, 2022\nAndhra Pradesh High Court - Amravati Cites 18 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 332 in The Code Of Criminal Procedure, 1973
+332. Procedure on accused appearing before Magistrate or Court.
+(1) If, when the accused appears or is again brought before the Magistrate or Court, as the case may be, the Magistrate or Court considers him capable of making his defence, the inquiry or trial shall proceed.
+(2) If the Magistrate or Court considers the accused to be still in capable of making his defence, the Magistrate or Court shall act accordIng to the provisions of section 328 or section 329, as the case may be, and if the accused is, found to be of unsound mind and consequently incapable of, making his defence, shall deal with such accused in accordance with the provisions of section 330.

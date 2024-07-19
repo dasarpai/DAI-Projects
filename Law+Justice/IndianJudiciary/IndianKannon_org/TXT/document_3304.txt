@@ -1,0 +1,27 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3304/
+Cites: []
++++++++++++++++++++++++++
+
+
+Karnataka High Court
+Smt. Appiamma vs Lawrance D'Souza on 11 February, 2000
+Equivalent citations: AIR 2000 Kant 246
+Author: T Vallinayagam
+Bench: T Vallinayagam
+ORDER T.N. Vallinayagam, J.
+1. This revision petition is against an order passed on I. A. 12 by the trial Court directing break open the lock if the lock is found to be put on the portion to be delivered in the execution of a decree for possession.
+2. Prima facie I feel that the C. R. P. is not maintainable against such an order. Section 115, reads as follows :
+"Revision.-- (1) The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal is thereto, and if such subordinate Court appears--
+(a) to have exercised a jurisdiction not vested in it by law, or
+(b) to have failed to exercise a jurisdiction so vested, or
+(c) to have acted in the exercise of its jurisdiction illegally or with material irregularity;
+the High Court may make such order in the case as it thinks fit :
+Provided that the High Court shall not under this section, vary or reverse any order made, or any order deciding an issue, in the course of a suit or other proceeding, except where --
+(a) the order, if it had been made in favour of the party applying for revision, would have finally disposed of the suit or other proceeding, or
+(b) the order, if allowed to stand, would occasion a failure of justice or cause irreparable injury to the party against whom it was made.
+(2) The High Court shall, not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate there."
+3. The wordings used is any case decided ordering break open is certainly not a case to be decided and it is not a decree at all. It is only a formal procedural order to give effect to a decree for possession already passed and which decree has become final. So long as the decree remains, the executing court is bound to direct delivery of possession and if the judgment debtor thinks that he can avoid delivery of possession by putting a lock over the premises, it is like trying to hide from the sun within the umbrella. The Court cannot see method being adopted to nullify the decree passed and nullity the delivery warrant. Naturally and necessarily therefore break open of the lock is permitted and directed by the executing Court. So also the grant of police help to execute the decree. In fact, Rule 220 Sub-clause (2) of the Karnataka Civil Rules of Practice prescribes the method of execution and if any resistance was made to remove such resistance even with the help of the police. Rule 220 sub-clause (2) reads as follows :
+"In execution proceedings if any warrant is returned unexecuted with an endorsement that police help is required, the Court may consider the same and pass suitable orders, and in case, the Court directs that police help is to be given it should be the duty of the police authorities concerned to give needful help promptly."
+4. In this view, I find there is absolutely no merit in the revision and holding that the revision petition itself is not maintainable, the revision petition is dismissed.

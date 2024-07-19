@@ -1,0 +1,15 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3557/
+Cites: ['B. Manmohan Lal And Ors. vs B. Raj Kumar Lal And Ors. on 31 October, 1945 : https://indiankanoon.org/doc/283850/', 'Purohit Swarupnarain vs Gopinath And Anr. on 15 April, 1953 : https://indiankanoon.org/doc/942176/', 'Pyarchand And Ors. vs Dungar Singh on 18 July, 1952 : https://indiankanoon.org/doc/1310939/', 'A.H. Ghaznavi And Anr. vs Sardar Gurcharan Singh on 3 May, 1937 : https://indiankanoon.org/doc/1295490/', 'Marwadi Doolaji Siremal vs Nasuvali Kulusum Bee And Anr. on 7 May, 1934 : https://indiankanoon.org/doc/538518/']
++++++++++++++++++++++++++
+
+
+Allahabad High Court
+Bani Madho Ram vs (Pandit) Mahadeo Pandey on 23 April, 1930
+Equivalent citations: AIR 1930 All 604 a
+Author: Sulaiman
+JUDGMENT Sulaiman, J.
+1. This is an application in revision from a decree of the Munsif in a suit for ejectment of the defendant from a house and for recovery of rent. The defendant in his written statement had taken a number of pleas, but on the date fixed for hearing he got the case adjourned to another date. On this date although the plaintiff and his pleader were present, the defendant and his pleader were absent. This was not a case where the pleader appeared and applied for adjournment and then withdrew when the adjournment was refused but a case where the pleader did not appear at all. The learned Judge examined the plaintiff and passed an ex parte order against the defendant. The defendant did not choose to appeal from this decree to the District Judge but applied to the Munsif for setting aside the ex parte decree. This application was refused. He then appealed from the order refusing to set aside the decree to the District Judge and his appeal failed. He now applies to the High Court for revision from the original decree passed by the Munsif.
+2. It seems to us that no revision lies under Section 115, Civil P.C. It was clearly a case of a decree which could have been appealed against to the District Judge from whose decree a second appeal could have been filed to this High Court, It is therefore not a case in which no appeal lies to the High Court at all although no appeal could have been filed from the original decree of the first Court direct. In our opinion there is no ground for restricting the scope of the words "in which no appeal lies thereto" to cases where no appeal lies from the order sought to be revised. So long as the party has a right to come up to the High Court by way of an appeal and has failed to avail himself of that opportunity by first going up to the District Judge and then coming up to the High Court, he cannot ask the High Court to interfere in revision.
+3. It also appears to us that there is absolutely no ground for interference in revision. It is not a case where the Munsif acted without jurisdiction or failed to exercise jurisdiction or acted with any illegality or material irregularity in the exercise of his jurisdiction. The application is accordingly dismissed with costs.

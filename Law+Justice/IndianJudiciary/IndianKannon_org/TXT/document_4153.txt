@@ -1,0 +1,12 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4153/
+Cites: ['The Jupiter General Insurance Co. ... vs Rajagopalan And Anr. on 20 June, 1951 : https://indiankanoon.org/doc/386835/', 'The Tropical Insurance Co. Ltd. & ... vs The Union Of India & Another(And ... on 22 September, 1955 : https://indiankanoon.org/doc/1996616/', '190Th Report On Revision Of Insurance Act : https://indiankanoon.org/doc/147322504/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 52G in The Insurance Act, 1938
+1[52G. Protection of action taken under sections 52A to 52D.—
+(1) No suit, prosecution or other legal proceeding shall lie against an Administrator for anything which is in good faith done or intended to be done in pursuance of 2[section 52A, section 52B, section 52BB or section 52C].
+(2) No suit or other legal proceeding shall lie against the Central Government or the 3[Authority] for any damage caused or likely to be caused by anything which is in good faith done or intended to be done under section 52A, section 52B, or section 52D.]

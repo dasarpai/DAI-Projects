@@ -1,0 +1,76 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2746/
+Cites: ['The Reserve Bank of India Act, 1934 : https://indiankanoon.org/doc/462219/', 'Article 19(1)(g) in The Constitution Of India 1949 : https://indiankanoon.org/doc/935769/', 'The Management Of M/S Mahalakshmi vs A.Govindaswamy on 27 January, 2004 : https://indiankanoon.org/doc/1038149/', 'Article 226 in The Constitution Of India 1949 : https://indiankanoon.org/doc/1712542/', 'Management Of Devi Press vs S. Selvaraj on 12 June, 2000 : https://indiankanoon.org/doc/614183/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+Masilamani vs The Deputy Commissioner Of ... on 29 October, 2004
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED:  29/10/2004
+
+CORAM
+
+THE HONOURABLE MR. JUSTICE P.K. MISRA
+
+WRIT PETITION No.8013 OF 1997
+
+
+1.  Masilamani, S/o.Kuppan
+
+2. Poongavanam,
+   S/o. Masilamani                      ..  Petitioners
+
+-Vs-
+
+1.  The Deputy Commissioner of Labour-I, Madras 6.
+
+2. Annammal,
+   W/o. Manavalan                       ..  Respondents
+
+        Petition filed under Article 226 of the Constitution of India for
+the issuance of Writ of declaration as stated therein.
+
+For Petitioner :  Mr.P.  Mani
+
+For Respondent-1       :  Mr.P.  Rathinavelu
+                        Govt.  Advocate
+
+
+Respondent-2    :  No Appearance
+                   Mr.P.V.S. Giridhar
+                   Amicus Curiae
+
+
+:J U D G M E N T
+In the present writ petition, the petitioners have prayed for a declaration that Section 4-A(3) of the Workmens Compensation Act, 1923 (hereinafter referred to as the Act) is ultra vires against public interest and offends Article 19(1)(g) of the Constitution of India and the order dated 3.7.1996 passed by the Deputy Commissioner of Labour-I (Respondent No.1) pursuant to the aforesaid Act is illegal, void and unenforceable.
+2. The facts in brief are as follows :Respondent No.2 herein had filed W.C.No.83 of 1995 before the Respondent No.1 claiming compensation for the death of her husband alleging that the latter had died in an accident arising out of and in course of his employment under the petitioners on 24.4.1993. The first respondent under the impugned order, allowed the claim and directed : to remit the amount of Rs.65,541/- (Rupees sixty five thousand five hundred and forty one only) within 30 days from the date of receipt of the order by way of Demand Draft in favour of the Deputy Commissioner of Labour-I, Madras 6, failing which 50% penalty and 6% interest from the date of accident on the amount of Rs.65,541/- would be ordered to be recovered.
+3. In the present writ petition, the validity of the provisions contained in Section 4-A(3) of the Workmens Compensation Act, 1923 has been challenged. Since there was no appearance on behalf of Respondent No.2, Thiru P.V.S. Giridhar was appointed as Amicus Curiae.
+4. Even though in the writ petition the legality of the order of the Commissioner has been challenged on merits by contending that the accident had not arisen out of and in course of employment, learned counsel for the petitioners has not pursued such a submission at the time of hearing of the writ petition, obviously because such question cannot be raised in the writ petition and has to be challenged only in the regular appeal as contemplated under Section 30 of the Act. Learned counsel for the petitioners has raised the question of the validity of Section 4-A(3) of the Act. In the alternative, he has submitted that at any rate, the Commissioner should not have directed payment of 50% of the compensation amount as penalty, without giving opportunity of hearing to the present petitioners on that aspect as envisaged under 4-A(3) of the Act.
+5. The provisions contained in Section 4-A(3) of the Act are as follows :-
+4-A. Compensation to be paid when due and penalty for default. (1) ... (2) ... (3) Where any employer is in default in paying the compensation due under this Act within one month from the date it fell due, the Commissioner shall (a) direct that the employer shall, in addition to the amount of the arrears, pay simple interest thereon at the rate of twelve per cent per annum or at such higher rate not exceeding the maximum of the lending rates of any scheduled bank as may be specified by the Central Government, by notification in the Official Gazette, on the amount due; and (b) if, in his opinion, there is no justification for the delay, direct that the employer shall, in addition to the amount of the arrears and interest thereon, pay a further sum not exceeding fifty per cent of such amount by way of penalty:
+Provided that an order for the payment of penalty shall not be passed under clause (b) without giving a reasonable opportunity to the employer to show cause why it should not be passed.
+Explanation.- For the purposes of this sub-section, scheduled bank means a bank for the time being included in the Second Schedule to the Reserve Bank of India Act, 1934 (2 of 1934). (3-A) The interest payable under sub-section (3) shall be paid to the workman or his dependant, as the case may be, and the penalty shall be credited to the State Government.
+6. A mere perusal of the aforesaid provision makes it clear that before passing any order regarding penalty, the Commissioner is required to give a reasonable opportunity to the employer to show cause as to why such an order regarding payment of penalty should not be passed. This is very clear from the proviso to Section 4-A(3). As a matter of fact, this position has also been emphasised by Justice K.P. Sivasubramaniam in 2000 (1) LLJ 137 (MANAGEMENT OF DEVI PRESS, MADRAS v. S. SELVARAJ). The said decision of the learned single Judge has also been cited with approval by a Division Bench of this Court reported in 2004(2) L.L.N. 401 (MANAGEMENT OF M/s. MAHALAKSHMI BUILDERS, MADRAS v. A. GOVINDASAMY).
+7. In the present case, admittedly before giving the direction in the main order itself, no opportunity to show cause, as already indicated, has been given. The direction regarding payment of penalty is therefore unsustainable.
+8. Mr.P.V.S. Giridhar, the learned Amicus Curiae, has submitted that the writ petition itself is not maintainable. Law is well settled that a writ petition may not be entertained when an alternative remedy is available. In the present case, there being alternative remedy available, it is the contention of the learned Amicus Curiae that the writ petition itself is not maintainable.
+9. Even though, as a matter of fact, as a general rule, the writ petition is not maintainable as there is an alternative remedy in the present case, because of two special features, I am not dismissing the writ petition on the ground that the alternative remedy has not been availed.
+10. First of all, learned counsel appearing for the petitioners has challenged the validity of Section 4-A(3) of the Act. Such a question obviously could not have been raised in the appeal. Therefore, filing of the writ petition cannot be faulted. It is another matter that at the time of hearing of the writ petition, learned counsel for the petitioners was not able to point out any valid reason as to why the provision contained in Section 4-A(3) should be declared as ultra vires. The legislative competence to enact the provision is not in dispute. Even though it is contended that such a provision is a restriction on fundamental right under Article 19(1)(g), I do not think such a sweeping submission can be accepted. The Act has provided sufficient guidelines for exercise of power in the matter relating to imposition of penalty. Such order itself is made appealable. The provision does not give any arbitrary or unguided power to the Commissioner. Challenge on the ground of invalidity of the provision has to be negatived.
+11. A similar view has been expressed by the Punjab & Haryana High Court in 1984 LAB.I.C. 80 (BARU RAM v. THE LABOUR OFFICER, SONEPAT AND OTHERS) and it is not necessary to replicate the reasons indicated in the said decision.
+12. The other reason for not dismissing the writ petition on the ground of availability of alternative remedy is that the writ petition itself has been entertained and kept pending for all these years. If such an objection would have been raised at the threshold, the petitioners would have thought of availing the alternative remedy. Moreover, in the present case, the main contention is that the first respondent had not given opportunity to show cause as envisaged in the Statute itself. Where the principles of natural justice, particularly enshrined in the Statute itself are not followed, existence of an alternative remedy is not considered as an absolute bar and the High Court in its discretion, can entertain such matters notwithstanding the availability of alternative remedy. Moreover, for considering the question, no factual dispute is involved and on the admitted facts, appearing from the impugned order itself, the order of penalty is passed without complying with the statutory provision.
+13. Learned Amicus Curiae has suggested that the matter relating to payment of penalty can be reconsidered by the first respondent after complying with the provisions of the Act. It is apparent from the provision itself that penalty if any, is to be collected and credited to the State Government and the claimant would not be the beneficiary. Since the defect relating to the imposition of penalty has been committed by a quasi-judicial authority and the claimant would not be benefited in any manner, I do not think it proper at this distant point of time to remand the matter for fresh enquiry into the matter. It is however made clear that if the amount is not deposited by the petitioners within four weeks, it would be open to Respondent No.1 to initiate proceeding for imposition of penalty.
+14. For the aforesaid reasons, the writ petition is allowed in part and the direction regarding payment of penalty is quashed. The other direction regarding compensation amount, including payment of interest, as observed by the first respondent, is confirmed. The petitioners shall deposit the necessary amount before the appropriate authority within four weeks.
+16. I must place on record my appreciation for the valuable assistance rendered by Mr.P.V.S. Giridhar, Advocate.
+17. The office is directed to communicate the result of this writ petition to Respondent No.2. Respondent No.1 shall take steps to implement the order, if the compensation is not paid by the petitioners.
+Internet: Yes To The Deputy Commissioner of Labour-I, Madras 6.
+

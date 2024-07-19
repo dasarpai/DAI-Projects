@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4066/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 20(2) in The Bengal, Agra And Assam Civil Courts Act, 1887
+(2) An appeal shall not lie to the High Court from a decree or order of an Additional Judge in any case in which, if the decree or order had been made by the District Judge, an appeal would not lie to that Court.

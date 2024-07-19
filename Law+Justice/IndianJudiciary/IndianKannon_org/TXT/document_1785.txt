@@ -1,0 +1,23 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1785/
+Cites: ['Section 6 in The Societies Registration Act, 1860 : https://indiankanoon.org/doc/1215324/', 'The Societies Registration Act, 1860 : https://indiankanoon.org/doc/1700055/']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+Tarsem Lal And Ors. vs Dharamshala Janj Ghar (Harijan) on 18 February, 2003
+Equivalent citations: (2003) 134 PLR 721
+Author: M Kumar
+Bench: M Kumar
+JUDGMENT M.M. Kumar, J.
+1. This is defendants second appeal filed against the concurrent findings of fact recorded by both the Courts below decreeing the suit of the plaintiff-respondents for mandatory injunction directing the defendant-appellants to remove Beer of Sh. Granth Sahib and to remove the Nishan Sahib from the building of the Jain Ghar/Dharamshala fully detailed in the plaint.
+2. Learned Additional District Judge, Jalandhar vide his judgment dated 8.10.2002 has affirmed the findings of fact recorded by the Civil Judge (Sr. Division), Phillaur. The Civil Judge vide his judgment dated 20.8.1999 has held that there is a separate Janj Ghar and separate Gurudwara in Pati Pakhopur for ad-dharmies and there was no question of shifting the Gurudwara to Janj Ghar. It has further been held that the grant has been received from the Government for construction of Janj Ghar on the land allotted by Rehabilitation Department, Punjab, ft has also been held that there is a managing committee to look after the management of the Janj Ghar and, therefore, the use of the property cannot be changed without the resolution or permission of the managing committee. The land allotted by the Rehabilitation Department was for the purpose of Janj Ghar and not for construction of Gurudwara. It has been further held that the Government fund cannot be utilised for religious purpose and placing of the Beer on the first floor of the Janj Ghar amounts to change of user of the suit property. The compromise which has been set up by the defendant-appellants has also been dealt with in detail. It has been held that the compromise was made under undue influence and was not ratified by the managing committee. Therefore, no sanctity could be attached to such a compromise.
+3. Mr. Satinder Khanna, learned counsel for the defendant-appellants has argued that under Section 6 of the Societies Registration Act, 1860 (for brevity '1860 Act') the plaintiff-respondents-a society- is required to be registered and in the absence of registration it does not have legal entity entitled to sue by instituting a suit.
+4. The arguments raised by Mr. Khanna does not deserve any derailed examination because no such argument was raised before the first Appellate Court and secondly, the plaintiff-respondents have got registration effected after the filing of the suit on 15.4.1994. The objection that the Suit was not originally instituted by a registered society cannot be deemed to have been filed by an unregistered society. Even that objection has been overcome. Therefore, the appeal is liable to be dismissed.
+Even otherwise there is nothing in Section 6 of the 1860 Act which creates a bar on an unregistered society to institute a suit. Section 6 of the 1860 Act reads as under:
+"6. Suits by and against societies.- Every society registered under this Act may sue or be sued in the name of the president, chairman, or principal secretary, or trustees, as shall be determined by the rules and regulations of the society, and, in default of such determination, in the name of such person as shall be appointed by the governing body for the occasion;
+Provided that it shall be competent for any person having a claim or demand against the society, to sue the president or chairman, or principal, secretary or the trustees thereof, if on application to the governing body some other officer or person be not nominated to be the defendant."
+Similar view has been taken by Andhra Pradesh High Court in the case of Sivaji Rao v. S.B. Bhakhtha Samajam, (1981) 2 Andhra Weekly Reporter 103, The views of the learned Judge of this question reads as under :-
+"What becomes manifest from the provisions is that non-registration of any association or society is of no significance and it would not therefore, prevent any Society from enforcing their rights by tiling a suit in a Court of law nor is there any provision under the Societies Registration Act which forbids or inhibits on non-registered society or association from enforcing any claim by filing a suit, in a Court of law against any society or association so registered."
+For the reasons stated above, I find no merit in the present appeal and the same is dismissed.

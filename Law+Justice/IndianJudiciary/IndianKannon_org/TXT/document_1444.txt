@@ -1,0 +1,25 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1444/
+Cites: ['the Competition Act, 2002 : https://indiankanoon.org/doc/1113485/', 'Section 4 in the Competition Act, 2002 : https://indiankanoon.org/doc/1780194/', "Section 30 in The Workmen' S Compensation Act, 1923 : https://indiankanoon.org/doc/307321/", 'Mst. Chhatiya Devi Gowalin And ... vs Rup Lal Sao And Anr. on 11 March, 1978 : https://indiankanoon.org/doc/186559/', 'Mankunwarbai vs Kusumlatabai And Anr. on 21 January, 1988 : https://indiankanoon.org/doc/1761945/', 'Mulla Md. Abdul Wahid vs Abdul Rahim And Anr. on 9 February, 1993 : https://indiankanoon.org/doc/951367/', 'Mulla Md. Abdul Wahid vs Abdul Rahim And Anr. on 9 February, 1993 : https://indiankanoon.org/doc/1076631/', 'Manager- United India Insurance ... vs Thakor Parbatbhai Alias Parvatji ... on 5 August, 2014 : https://indiankanoon.org/doc/22699830/']
++++++++++++++++++++++++++
+
+
+Orissa High Court
+Balabhadra Patra And Ors. vs Chief Engineer And Ors. on 30 October, 1986
+Equivalent citations: 1987 (54) FLR 14, (1995) IIILLJ 591 Ori
+Author: S Mohapatra
+Bench: S Mohapatra
+JUDGMENT S.C. Mohapatra, J.
+1. This appeal by the claimants is under Section 30 of the Workmen's Compensation Act, 1923 (in short 'the Act'), challenging the quantum of compensation awarded by the Commissioner under the Act.
+2. No appeal having been preferred the finding regarding the death of the workman in course of employment, his monthly wage, the right of the claimants to compensation and the liability of the employer-respondent to the extent awarded has become final. Accordingly, the facts out of which the claim arose are not necessary to be stated.
+3. On the death of the workman, the claimants filed an application in the prescribed Form-G, wherein serial No. 6, it was stated as follows:
+"The applicants are accordingly entitled to receive lump sum payment of Rs. 7,000/-."
+The Commissioner held that the claimants are entitled to Rs. 13,500/- but the claim being for Rs. 7,000/- only the higher amount to which the claimants are entitled is not to be awarded. He confined the award to Rs. 7,000/- only. This part of the order is assailed in this appeal. It is not disputed that the claimants are entitled to Rs. 13,500/-as determined by the Commissioner.
+4 The short question, therefore, to be decided is:-
+"Whether the claimant has a right to receive the compensation at the rate prescribed in the schedule to the Act when he has claimed a lesser amount ?"
+5. The Act provides in Section 4 that the amount of compensation shall be as provided in the schedule. The Act is a benevolent statute to give benefit to the workmen. The construction of the statute shall be such that it does not act to the prejudice of the persons to be benefited. Therefore, the mandatory word "shall" have its full effect and no discretion is left to the Commissioner to reduce the same while giving the award on the basis of the claim. The principle of waiver or acquiescence has no application to such cases.
+6. Mention of Rs. 7,000/- in Serial No. 6 of the application in form 'G' is also not a reduced claim. The word 'accordingly' indicates that it is only an inference with reference to the other facts mentioned. When on the facts found or stated, the inference becomes wrong, the facts mentioned shall prevail and not the inference deduced therefrom. The claimants are not to suffer on account of wrong inference or wrong calculation. The basic facts would govern the compensation. Therefore, I am of the firm view that the claimants have a right to receive the compensation as per Section 4 notwithstanding the mention of a lesser sum in serial No. 6 of the application in Form-'G'. My conclusion is also supported by the conclusion arrived at in a decision Mostt. Chhatiya Devi Gowal and Anr. v. Rup Lal Sao and Anr. 1978 Lab. I.C. 1368.
+7. The learned counsel for the respondents strenuously submitted that the Court should not render assistance to a person who has himself reduced the claim. The principle applicable to civil suits would not be attracted to benevolent statute like the Act.
+8. In conclusion, the order of the Commissioner is modified and the claimants are entitled to the compensation of Rs. 13,500/-which the Commissioner found to be the real amount to which they are entitled.
+9. In the result, the appeal is allowed. There shall be no order as to costs.

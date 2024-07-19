@@ -1,0 +1,74 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1475/
+Cites: ['The Finance Commission (Miscellaneous Provisions) Act, 1951 : https://indiankanoon.org/doc/269107/', 'Section 11 in The Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 : https://indiankanoon.org/doc/1652022/', 'The State Bank of India Act, 1955 : https://indiankanoon.org/doc/1443301/', 'the Central Excise Act, 1944 : https://indiankanoon.org/doc/110162683/']
++++++++++++++++++++++++++
+
+
+Kerala High Court
+Nisamudheen vs The Joint Regional Transport ... on 27 July, 2009
+       
+
+  
+
+  
+
+ 
+ 
+  IN THE HIGH COURT OF KERALA AT ERNAKULAM
+
+WP(C).No. 691 of 2007(G)
+
+
+1. NISAMUDHEEN, S/O. HASANKOYA,
+                      ...  Petitioner
+
+                        Vs
+
+
+
+1. THE JOINT REGIONAL TRANSPORT OFFICER,
+                       ...       Respondent
+
+2. THE RECOVERY OFFICER,
+
+                For Petitioner  :SRI.K.V.GOPINATHAN NAIR
+
+                For Respondent  :SRI.JOY THATTIL ITOOP, SC, EPF ORGANISA
+
+The Hon'ble MR. Justice S.SIRI JAGAN
+
+ Dated :27/07/2009
+
+ O R D E R
+                         S. SIRI JAGAN, J
+               ...............................................
+                   W.P(C) No. 691 of 2007
+              .................................................
+            Dated this the 27th day of July, 2009
+
+                         J U D G M E N T
+The 2nd respondent, the Recovery Officer of the Employees' Provident Fund Organisation, attached a DCM Toyota Mini Lorry, 1990 model, belonging to a company which defaulted payment of contributions under the Employees' Provident Funds and Miscellaneous Provisions Act and Rules and Regulations thereunder for recovery of arrears of contributions. The same was sold in public auction. The petitioner participated in the auction and purchased the vehicle paying the amount quoted by him. The 2nd respondent issued necessary certificates in this regard and handed over the vehicle to the petitioner along with all documents. The petitioner submitted an application for transfer of ownership of this vehicle under Rule 57 of the Central Motor Vehicles Rules before the 1st respondent. He produced Exts.P2, P3 and P5 certificates received form the Provident Fund Organisation in accordance with the said rule. But by Ext.P6, the 1st respondent directed the petitioner to pay arrears of motor vehicle tax under the Kerala Motor Vehicle Taxation Act, in respect of the vehicle in question. Aggrieved by the said action, the petitioner has filed this writ petition seeking the following reliefs:
+"i) to call for the records leading to the case and quash Exhibit P6 by the issuance of a writ of certiorari or any other appropriate writ, direction or order;
+ii) to issue a writ of mandamus or any other appropriate writ, direction or order directing the first respondent to effect the transfer of ownership of the vehicle covered by Exhibits P3 and P5 without insisting clearance of arrears of tax if any before the auction sale, forthwith, in the interest of justice;
+iii) to issue an interim direction directing the first respondent to transfer the ownership of the vehicle covered by Exhibits P3 and P5 in favour of the petitioner without insisting clearance of arrears of tax if any before the auction sale, provisionally, pending disposal of the Writ Petition;"
+2. The contention raised by the petitioner is that he purchased the vehicle in public auction and transfer of ownership of the vehicle purchased in public auction is governed by Rule 57 of the Central Motor Vehicles Rules, 1989, which does not prescribe any condition regarding payment of arrears of motor vehicle tax in respect of the vehicle.
+3. The 2nd respondent has filed a statement in which all the statements of the petitioner are admitted. The 1st respondent would contend that under Section 9(1) of the Kerala Motor Vehicles Taxation Act, the transferee of a motor vehicle in arrears of Motor Vehicle Tax is liable to pay the tax. According to him sale by public auction is also a transfer of ownership to which Section 9(1) is applicable and therefore the petitioner is liable to pay the arrears of tax.
+4. I have considered the rival contentions in detail.
+5. Section 11(2) of the Employees Provident Fund and Miscellaneous Provisions Act, 1952, reads thus:
+"1 *** *** *** ***
+2. Without prejudice to the provisions of sub-section (1), if any amount is due from an employer [whether in respect of the employee's contribution (deducted from the wages of the employee) or the employer's contribution], the amount so due shall be deemed to be the first charge on the assets of the establishment, and shall, notwithstanding anything contained in any other law for the time being force, be paid in priority to all other debts."
+6. Even assuming that, Section 9(1) of the Kerala Motor Vehicle Taxation Act would be subject to Section 11(2) of the Employees Provident Funds and Miscellaneous provisions Act, 1952, in so far as the same is a Central Act and the Kerala Motor Vehicles Taxation Act is only a State Act. The section contains a non-obstante clause also and operates notwithstanding anything contained in any other law for the time being in force. It would be a travesty of justice if the persons participating in public auction conducted for realisation of first charge in respect of a movable asset is to pay off other creditors after paying the value of the vehicle, that too when he has not even been apprised of any other charge in the property. When the charge under the Employees Provident Funds and Miscellaneous Provisions Act, 1952 overrides all other charges, a sale in exercise of that charge must be deemed to be free from all other charges. Only if the sale proceeds are in excess of the amounts secured by the charge, any other creditor can lay any claim in that respect, that too only against the balance amounts of the sale proceeds remaining after satisfying the first charge. I am of opinion that Section 9(1) would be applicable only to voluntary transfer by the original owner and not to distress sale for realisation of statutory charge by instrumentalities of State, especially for recovery of statutory dues. In fact the transfer in this case is not by the owner, but by the Provident Fund Organisation who has compulsory taken over the vehicle and has sold the same. If the contention of the respondents is accepted by virtue of Section 9(2) the Provident Fund Organisation would also be liable to pay the arrears of tax, which interpretation would lead to anomalous results, which has to be avoided. That is exactly why a separate procedure is prescribed in Rule 57 of the Central Motor Vehicles Rules, for transfer of ownership of vehicle purchased in public auction. Further in respect of voluntary transfer, when the tax is recovered from the transferee he can proceed against the transferor for realisation of the same. But in case of public auction he may not be able to.
+7. Apart from the same, Rule 57 of the Central Motor Vehicles Rules, 1989 does not contemplate discharge of arrears of vehicles tax also for transfer of ownership of vehicle purchased in public auction. Rule 57 reads thus:
+"57. Transfer of ownership of vehicle purchased in public auction.- (1) The person who has acquired or purchased a motor vehicle at a public auction conducted by or on behalf of the Central Government or a State Government, shall make an application in Form 32 within thirty days of taking possession of the vehicle to the registering authority accompanied by-
+(a) the appropriate fee as specified in Rule 81;
+(b) the certificates of registration and insurance;and
+(c) the certificate or order confirming the sale of the vehicle in his favour duly signed by the person authorised to conduct the auction; and
+(d) certified copy of the order of the Central Government or State Government authorising the auction of the vehicle.
+(2) Where the vehicle auctioned is a vehicle without any registration mark, or with a registration mark which on verification is found to be false, the registering authority shall, subject to the provisions of Section 44, assign a new registration mark to the vehicle in the name of the Department of the Central Government or State Government auctioning the vehicle and thereafter record the entries of transfer of ownership of the vehicle giving the name and address of the person to whom the vehicle is sold.
+[Provided that motor vehicle in the name of the Central Government or State Government shall not be transferred by the concerned registering authority without verifying the proceeding of the auction or disposal of the concerned vehicle]"
+For that reason also, I am satisfied that the 1st respondent cannot now proceed against the vehicle in question for realisation of arrears of vehicle tax in respect of the vehicle. Their remedy lies in proceeding against the original owner who was in default.
+8. The learned Government Pleader relies on the decision of this court in Abraham Joesph v. Regional Transport Officer, Kottayam ILR 1976(1) Kerala 256, in support of his contention that a purchaser in revenue auction is liable for arrears of tax due on the vehicle prior to the purchase. That is a case were the sale of the vehicle is subject to other encumbrances thereon. I have already held that since the sale herein is in enforcement of a first charge under Section 11(2), it must be deemed to be free from all encumbrances on the vehicle. Otherwise Section 11(2) has no meaning, if the other creditor viz. the State Government can still proceed against the purchaser for realisation of the arrears of vehicle tax on the vehicle, especially when the purchaser is not put on notice regarding such arrears and he bonafide purchases the same believing that there is no other liability in respect of the same. It is not as if the 1st respondent has no other remedy for realisation of arrears of vehicle tax. Their remedy against defaulter owner is still open.
+9. For all the above reasons I am satisfied that the petitioner is entitled to the reliefs prayed for.
+Accordingly the writ petition is allowed and the 1st respondent is directed to transfer the ownership of the vehicle in the name of the petitioner, as expeditiously as possible, at any rate, within one month from the date of receipt of a copy of this judgment, if all other conditions under Rule 57 of the Central Motor Vehicles Rules are satisfied. The condition in the registration certificate of the vehicle incorporated as per interim order dated 15.2.2007 to the effect that vehicle shall not be transferred to 3rd parties without permission of the 1st respondent shall be cancelled by the 1st respondent, on production of the same.
+S. SIRI JAGAN, JUDGE rhs

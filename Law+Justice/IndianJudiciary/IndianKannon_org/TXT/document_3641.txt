@@ -1,0 +1,84 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3641/
+Cites: ['State Of Mysore vs Associate Cement Companies Ltd. ... on 15 March, 1984 : https://indiankanoon.org/doc/569840/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+M/S. Eternit Everest Ltd vs The State Of Tamil Nadu on 10 November, 2010
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED: 10.11.2010
+
+CORAM
+
+THE HONOURABLE MR. JUSTICE F.M.IBRAHIM KALIFULLA
+and
+THE HONOURABLE MR. JUSTICE N.KIRUBAKARAN
+
+TAX CASE REVISION No.1906 of 2008
+and
+M.P.No.1 of 2008
+
+M/s. Eternit Everest Ltd.,
+S.No.587, Kurichi Village
+Podhanur (PO), Coimbatore.          .. Petitioner
+
+ 
+                           Versus
+
+The State of Tamil Nadu
+represented by
+the Deputy Commissioner of Commercial Taxes
+Coimbatore Division,
+Coimbatore.           .. Respondent
+
+ The Tax Case Revision has been filed under Section 38 of the TNGST Act, 1959 read with Rule 30 of TNGST Rules,1 1959 praying to revise the order of the Tamil Nadu Sales Tax Appellate Tribunal (Additional Bench), Coimbatore in C.T.S.A.No.434/01 dated 30.06.2008.
+
+             For Petitioner           :  Mr.R.L.Ramani, Senior Counsel
+        for
+         M/s.B.Raveendran
+   
+   For Respondent         :  Mr. Haja Naziruddin
+       Special Government Pleader
+     ORDER
+(Order of the court was made by F.M.IBRAHIM KALIFULLA , J.) The assessee seeks to challenge the order of the Appellate Tribunal dated 30.06.2008 passed in State Appeal No.434 of 2001. Assessment year pertains to 1997-1998.
+2. The questions of law raised for consideration are as under :-
+a) Whether in the facts and circumstances of the case, the Appellate Tribunal is right in restoring the levy of purchase tax on the purchase consideration of Rs.6,35,917/- paid by the petitioner on the purchase of fly ash from TNEB by shifting the point of levy from the point of first sale to the point of purchase ?
+b) Whether in the facts and circumstances of the case, the Appellate Tribunal is right in restoring the levy of purchase tax on the sum of Rs.40,02,498/- being the expenses incurred by the petitioner for transporting the fly ash to their factory, when the condition of sale by TNEB was ex-works and the transportation charges were post purchase expenditure ?
+c) Whether in the facts and circumstances of the case, the Appellate Tribunal is right in restoring the penalty levied under Section 23 of the Act when neither Section 3(3) of the Act nor the declarations contained in Form XVII declaration required that the petitioner must sell the manufactured goods with the State; and
+d) Whether branch transfer of manufactured goods to branches / depots and sales thereafter would amount to contravention of provisions of Section 3(3) of the Act and misuse of Form XVII declarations attracting the provisions of Section 23 and Section 45(2)(e) of the Act when the manufacturing activity takes place with the State and tax is paid under Section 3(4) of the Act on the proportionate turnover?"
+3. As far as question No. (a) is concerned, the learned counsel for the petitioner fairly concedes that the petitioner has accepted the order and is willing to pay the tax determined. The said question is, therefore, answered against the petitioner.
+4. As far as the question No. (b) is concerned, the same is covered by the decision of the Hon'ble Division Bench of this Court reported in (2010) 29 VST 153 (State of Tamil Nadu ..vs. Associated Cement Companies Ltd.,). This Court following the decision of the Orissa High Court reported in (1971) 27 STC 176 (P.R.Tata & Co., ..v.. Sales Tax Officer, Koraput I Circle) as well as the earlier decision of this Court reported in (1982) 49 STC 73 (Gwalior Rayon Silk Manufacturing and Weaving Co., Ltd., ..v.. State of Tamil Nadu) held that the transport charges incurred by the petitioner would not form part of the purchase price paid and consequently the payment of purchase tax on such transport charges would not lie. The Division Bench has held as under in paragraph 11:-
+"11. ...... . Therefore, the findings rendered in the above decision in paragraph Nos.5 and 6 squarely applied to the facts of the present case. Paragraph Nos. 5 and 6 of the said judgment are extracted hereunder (at page 178 of 27 STC) :
+5. In the present case herida was either on the tree or was to come subsequently. The seller did not incur any expenses towards anything done at the time of or before delivery of the herida. The purchaser himself was to pluck the herida, collect, transport and crush the same. None of these things was done by the seller and was accordingly not to be included in the purchase price.
+6. The taxing authorities therefore exercised their jurisdiction wrongly and acted contrary to law in holding that the purchase price included collection, transport and crushing charges incurred by the petitioner."
+Furthermore, factually also, both the authorities have given a categorical and clear finding, and therefore, there is no necessity to cause our interference in this regard."
+Following the said decision, the said question No. (b) is also answered in favour of the petitioner.
+5. As far as the question No. (c) is concerned, it pertains to the levy of penalty under Section 23 of TNGST Act for the alleged misuse of Form XVII. The petitioner is a manufacturer of Asbestos Cement Sheets. For the purpose of manufacturing, it purchased the raw materials of cement and fibre. For the purchase of the said raw materials, it used Form XVII to avail the concessional rate of tax at 3% under Section 3(3) of TNGST Act. After the manufacture, apart from local sales of the manufactured products, the petitioner also stated to have made some stock transfer to its branches situated in other States. In respect of such stock transfer, as the petitioner was liable to pay the tax prescribed under Section 3(4) of the TNGST Act, necessary returns were filed. In the course of the proceedings before the Assessing Authority, the petitioner also brought to the notice certain amounts of turn over of the stock transfer left out to the value of Rs.38,09,557/- (Rupees thirty eight lakhs nine thousand five hundred and fifty seven only). The Assessing Authority in his order dated 07.03.2000 took note of the said omission which was pointed out by the petitioner himself and ultimately arrived at the turn over both on fibre as well as cement for the levy of tax under section 3(4) of the TNGST Act in a sum of Rs.2,00,45,867 /- (Rupees two crores forty five thousand eight hundred and sixty seven only). However, the Assessing Authority proceeded further and imposed a penalty under section 23 of the Act. For that purpose, the Assessing Authority held that there was mis-declaration in Form-XVII relating to stock transfer to the depots of the petitioner outside the State. The only reasoning as could be noted in the Assessing Authority's order on this aspect reads as under :-
+"As such the dealer issuing Form XVII has to give declaration in all ways as required in Form XVII. Here in the case the dealers have fulfiled the first two conditions. But in respect of third condition they failed to maintain the declaration by way of having despatched the products on stock transfer to the depots outside the State. Such transfer amounts to disposal of goods other than by way of direct sale. Having been failed to maintain the declaration so, they have given false and wrong declarations in Form XVII which resulted in misuse of Form XVII. Further, they are not new to the trade. They are having conditions standing in these transactions. It is also seen from the returns that they are regularly availing 3% concession rate of tax under Form XVII and are regularly paying 2% under section 3(4) of the Act also. Thus, they have saved the money from payment of tax as follows:-
+ Rate on cement  : 16%
+ (-) paid 3% by Form XVII :   3%
+ Balance    :  13%
+ (-) paid 2% u/s.3(4)  :    2%
+ Balance (ie.,) Savings
+   by dealer  :   11%  
+By this modus aperandi, they were practicing to save 11% of tax which is payable to seller who in turn remit it to Government. So, it cannot be said that they have issued false declarations by ignorance of law. They adopted this as a legal way to avail payment of tax to Government either by themselves or through seller. Having been knowingly wilfully intentionally issue such false and wrong Form XVII declarations they have committed the offence of misuse of Form XVII under Section 45(2)(e) on the TNGST Act '59 for which penalty under section 29 is prescribed. The Commissioner of Commercial Taxes reference in Act Cell No.I.105508/94, dated 23.11.94 which is subsequent than the one cited by the dealer in reply clarified that there are no provisions in the Act to condone penalty for transfer tax payment under Section 3(4)."
+6. The appellate Assistant Commissioner however rightly held that the petitioner was entitled for the invocation of Section 3(4) of the TNGST Act in respect of the stock transfer effected by it. Inasmuch as whatever stock transfer made was rightly brought to tax under Section 3(4) of the Act, there was no scope to levy any penalty under section 23 of the Act. However, the Tribunal proceeded to hold that the Assessing Authority's view of misdeclaration call for levy of penalty under Section 23 of the Act. The Tribunal has not given any supportive reason for arriving at a conclusion that there was suppression of taxable turnover or such suppression was a deliberate one. From the extracted part of the order of the Assessing Authority, we do not find what is the nature of misdeclaration or suppression indulged in by the petitioner in respect of either Form XVII or in regard to the extent of stock transfer declared by him. Therefore, in the absence of any legally acceptable reasons in regard to any misdeclaration or stock transfer, we do not find any justification at all in the action of the Assessing Authority in imposing penalty under Section 23 of the Act. More so, whatever value of stock transfer which was not originally declared was subsequently brought to the notice of the Assessing Authority by the petitioner itself as could be seen from the order of the Assessing Authority, while passing the ultimate order of assessment. Therefore, in the absence of any specific misdeclaration in regard to the value of stock transfer made by the petitioner, we do not find any basis at all for the Tribunal to hold that imposition of penalty under Section 23 was warranted in this case. We are not, therefore, convinced to sustain the said part of the order of the Tribunal. The question of law raised in ground 'C' therefore answered in favour of the petitioner and the order of the Tribunal on that account stands set aside.
+7. In the light of the conclusions reached above on the question 'c' and having regard to the fact that the petitioner has complied with the requirements of the tax liability under Section 3(4) of the Act, we do not find any contravention of provisions of Section 3(3) of the Act. Consequently, the question of law raised in ground 'd' is answered in favour of the petitioner.
+8. The Tax Case Revision stands allowed to extent indicated above. Consequently, connected Miscellaneous Petition is closed. No costs.
+(F.M.I.K.J.,) (N.K.K.J.,) 10.11.2010 Index : Yes/No.
+Internet: Yes/No.
+mra To
+1. The Tamil Nadu Sales Tax Appellate Tribunal (Additional Bench), Coimbatore.
+2. The Deputy Commissioner of Commercial Taxes Coimbatore Division, Coimbatore.
+F.M.IBRAHIM KALIFULLA,J and N.KIRUBAKARAN,J mra TAX CASE REVISION No.1906 of 2008 and M.P.No.1 of 2008 10.11.2010

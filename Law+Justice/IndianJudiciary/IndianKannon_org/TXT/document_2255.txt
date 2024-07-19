@@ -1,0 +1,11 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2255/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 6(ii) in The Cost And Works Accountants (Amendment) Act, 2006
+(ii) in case of misconduct falling under the Second Schedule of this Act, for a period of six years, from the completion of the period of removal of name from the Register or payment of fine, as the case may be;
+(b) not more than five persons nominated in the specified manner by the Central Government.";

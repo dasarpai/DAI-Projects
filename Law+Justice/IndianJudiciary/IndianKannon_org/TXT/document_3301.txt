@@ -1,0 +1,11 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3301/
+Cites: []
++++++++++++++++++++++++++
+
+
+Lok Sabha Debates
+Need To Bring Internet Protocol Television (Iptv) Under Fcc Rules. on 29 August, 2007
+> Title: Need to bring Internet Protocol Television (IPTV) under FCC Rules.
+SHRI PRABODH PANDA (MIDNAPORE): Hon. Deputy-Speaker Sir, I would like to draw the attention of the Government to a matter which is related to the Internet Protocol Television (IPTV) and FCC regulations on broadcasters and cable operators. The FCC rules require broadcasters and cable operators to transmit close caption to viewers to ensure that captions are included when they deliver the programmes.[r71]  But it seems that the rules do not apply to IPTV services like Star Z-Ticket, Akimbo or Movie Link.  All the programmes carried by IPTV services are same as the programme carried by cable television.  But there are allegations from different corners that IPTV video used to deliver over a separate dedicated network instead of Internet like SBC.  It is a matter of concern with regard to the security of our country, and also the matter relates to adult content.  They are broadcasting pornography.  Not only that, more than 300 plus channels from unknown broadcasters have been permitted.    Their origins are unknown.  So, credibility and credential of the entire activity is now jeopardised. I think, the Government should take this matter seriously and should take appropriate steps in this regard. Thank you.

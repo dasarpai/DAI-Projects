@@ -1,0 +1,40 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4582/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Electricity Regulatory Commission
+Subhash Kabini Power Corporation ... vs Madhya Pradesh State Electricity ... on 5 September, 2007
+Bench: B Bhushan, R Krishnamoorthy
+ORDER
+1. The application has been made for adjudication of disputes between the petitioner and the respondent arising out of sale of electricity by the former to the latter during the period 1.1.2006 to 31.3.2006.
+2. The petitioner, an electricity trader agreed to supply power to respondent at the rate of Rs. 3.33/kWh during the period 1.1.2006 to 31.3.2006. When the contract for supply of power was under execution, the Commission, through a notification published on 27.1.2006 (the notification) fixed trading margin of 4 paise/kWh, chargeable by an electricity trader. Consequent to issue of the notification, the respondent contended that the petitioner could not charge trading margin exceeding 4 paise/kWh for supply of electricity from 27.1.2006 onwards. Therefore, the respondent unilaterally started deducting 10% from the petitioner's bills while releasing payments to the petitioner for supply of electricity, and also kept deducting the rebate of 2% admissible on timely payment even when the payments were delayed. According to the petitioner, the respondent also withheld payments on account of open access charges deposited for reservation of transmission corridor for conveyance of electricity to the respondent. It has also transpired that after receipt of bills from the petitioner for all payments by 22.4.2006, the respondent made part-payments of the amounts claimed by the petitioner during April 2006 and retained an amount of Rs. 37,63,702/-, on the ground that the amount claimed was in excess of the trading margin payable in terms of the notification. This amount was finally paid on 16.12.2006.
+3. The petitioner filed a petition (No.40/2006) contending that the notification being prospective in operation, did not apply to the contracts concluded prior thereto and the respondent was under an obligation to pay the settled price of Rs. 3.33/kWh. In addition, the petitioner claimed interest at the rate of 18% on the amount delayed or withheld by the respondent. The petition was disposed of by order dated 27.10.2006 wherein the Commission decided that the notification did not govern the agreements entered into prior to the date of its publication in the Official Gazette and would apply to the agreements signed thereafter. The Commission, however, did not give any direction for payment of any specific amount and it was left to the parties concerned to decide the amount due in terms of the agreement between them.
+4. In the present petition filed on 23.2.2007, the petitioner claimed the following amounts:
+  Srl. No.   Amount  (in Rs.)     Remarks
+1.            1,87,031          Interest for the period upto 
+                                22.4.2006 on payments delayed 
+2.            3,84,207          Interest on late payment of trading 
+                                margin of Rs.37,63,702/-
+3.            9,17,650          Interest on account of delay in 
+                                payment of energy bills or on the 
+                                rebate amount deducted from 
+                                energy bills 
+4.              64,467          Interest on delay in payment of 
+                                open access charges 
+5.              57,538          Interest on amount due for the 
+                                period 16.11.2006 to 15.12.2006 
+Total        16,10,893
+ 
+5. Initially the petitioner had claimed interest at the rate of 18%, for the period upto 15.11.2006 in respect of the items 3 and 4 in the above table since it expected that the amounts due would be released by that date. Since the amount claimed was not released by the respondent, the petitioner claimed an additional amount of Rs. 57,538/- on account of interest for the period 16.11.2006 to 15.12.2006 and filed the present application for adjudication of the dispute.
+6. The application was kept pending at the instance of the petitioner since it was in the process of negotiating the matter with the respondent for out-of-court settlement. The petitioner by its letter dated 19.6.2007 informed that a meeting was held on 29.3.2007 between the parties, when the petitioner agreed to accept a payment of Rs. 5.41 lakh against its claim of Rs. 16.1 lakh in case the payment was released by 20.4.2007. In the said letter it has been alleged that the respondent failed to honour the commitment and did not make payment of the amount agreed to between them. Accordingly, the petitioner sought to pursue the application.
+7. The respondent in its written reply has denied its liability to pay any interest for the period prior to 27.10.2006 in view of the bonafide dispute between the parties in regard to applicability of the notification, and on the ground that in the proceedings in Petition No. 40/2006 this relief, though claimed, was not granted by the Commission and, therefore, it should be deemed to have been rejected. It has been further stated that an amount of Rs. 1,34,519 was paid on 29.5.2007 in full and final settlement of the petitioner's claim, including its claim for interest. According to the respondent, at best it was liable to pay interest for the period 27.10.2006 (date of order in Petition No. 40/2006) and upto 15.12.2007 (date of payment of sum of Rs. 37,63,702/-). It has been stated that interest is payable at the rate of 6% per annum for this period. The respondent has also stated that in the meeting held on 29.3.2007, the petitioner had agreed to charge interest at the rate of 15%.
+8. We heard the learned Counsel for the parties, who at the first instance re-iterated their respective stand taken in the pleadings. After arguing the matter for sometime, the learned Counsel for the petitioner agreed that the petitioner was ready to accept an amount of Rs. 5.41 lakh as decided at the meeting held on 29.3.2007, subject to payment of interest by the respondent at the rate of 18% per annum for the delay in making payment of this amount. Learned Counsel for the respondent accepted that an oral agreement had been reached by the parties on 29.3.2007, and under instructions from the representatives of MPPTCL present at the hearing, agreed to pay the amount of Rs. 5.41 lakh, but insisted that interest should be payable at the rate of 6% per annum. Subsequently, however, he agreed to pay interest at the rate of 15% per annum. The learned Counsel for the petitioner accepted the offer made. In view of this, the petitioner becomes entitled to the following claims:
+(a) An amount of Rs. 4.065 lakh (the amount outstanding after adjusting payment of Rs. 1.345 lakh made on 29.5.2007).
+(b) Simple interest at the rate of 15% per annum for the period from 21.4.2007 to 28.5.2007 on the admitted amount of Rs. 5.41 lakh.
+(c) Simple interest at the rate of 15% per annum for the period 29.5.2007 till the date of payment of the amount of Rs. 4.065 lakh, as per (a) above.
+9. The parties shall remain bound by the above understanding reached by them. We, however, direct that the total outstanding amount agreed to be paid shall be liquidated latest by 30.9.2007. In case the respondent fails to make the payment of the entire amount by the said date, it shall be liable to pay interest at the rate of 18% from 5 1.10.2007 on the amount outstanding, including the interest payable as per para 8 above, on that date.
+10. We commend the parties for the understanding shown by them for the amicable settlement of the dispute. We also make it clear that since the matter has been resolved mutually by the parties, this will not be a precedent for adjudication of any dispute of similar or any other nature.
+11. With the above directions, the petition stands disposed of.

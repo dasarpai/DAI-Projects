@@ -1,0 +1,22 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1156/
+Cites: ['Jagmohan Ram Ram Chandra vs Cit on 25 August, 2004 : https://indiankanoon.org/doc/1857871/']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+Commissioner Of Income Tax vs Metal And Metals Of India on 6 November, 2006
+Equivalent citations: (2007) 208 CTR P H 457
+Bench: A K Goel, R Bindal
+ORDER
+1. This appeal has been preferred by the Revenue against the order dt. 25th Oct., 2005 of Tribunal, Chandigarh Bench 'B', Chandigarh in ITA No. 507/Chd/2003 proposing following substantial questions of law:
+Whether, the Tribunal is right in law and facts of the case, in deleting the addition treating the unexplained accretion in the capital account of the partner as his income and not of the firm, when his explanation with regard to source of funds has been held to be unsatisfactorily?
+2. During the course of assessment, the AO doubted the entry regarding investment of Rs. 6,10,000 by the partner of the firm Suresh Bhandari, who claimed to have made deposit with the firm out of the amount he received as gift from NRIs. The AO rejected the claim of gift and made addition to the income on the amount claimed to have been deposited by the partner with the firm.
+3. On appeal, the CIT(A) accepted the genuineness of the claim.
+On further appeal by the Revenue, the Tribunal set aside the finding of CIT(A) with regard to validity of the gift, but in para 7 of its order, the Tribunal noticed that the partner admitted to have made investment to the firm and the said partner had been duly assessed to the tax. It was held that in such a situation, addition to the income of the firm was not called for.
+4. Learned Counsel for the Revenue relies upon the judgment of Allahabad High Court in Jagmohan Ram Ram Chandra v. CIT , wherein it was observed that if the firm fails to give explanation regarding source of deposit, the firm was liable to be taxed.
+5. In the present case, the firm has given explanation about the source namely Suresh Bhandari, partner, who himself is an assessee. The said partner has admitted having made deposit with the firm. Thus, as far as the firm is concerned, even if the gift claimed to have been received by Suresh Bhandari is to be rejected, the said Suresh Bhandari may be liable to be taxed by treating the said amount as undisclosed income, but the firm cannot be subjected to tax on that ground.
+Thus, the view taken by the Tribunal cannot be held to be erroneous.
+6. In view of above, no substantial question of law arises for consideration.
+The appeal is dismissed.

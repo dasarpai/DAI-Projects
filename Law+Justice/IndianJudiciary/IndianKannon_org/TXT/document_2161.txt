@@ -1,0 +1,86 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2161/
+Cites: ['Article 75(4) in The Constitution Of India 1949 : https://indiankanoon.org/doc/1752614/', 'Virjiram Sutaria vs Nathalal Premji Bhavadia And Ors. on 4 November, 1968 : https://indiankanoon.org/doc/47298242/', 'Article 32 in The Constitution Of India 1949 : https://indiankanoon.org/doc/981147/', 'Article 173 in The Constitution Of India 1949 : https://indiankanoon.org/doc/614870/', 'Jagmohan Singh Bhatti vs Union Of India And Others on 16 November, 2019 : https://indiankanoon.org/doc/86894004/', 'Nirdesh Kumar Dixit And Ors. vs Smt. Renuka Choudhury And Ors. on 10 February, 2005 : https://indiankanoon.org/doc/1150731/', 'Devidas S/O Venkatrao Pawar vs Shri Gopinath Mundhe And Others on 28 July, 1995 : https://indiankanoon.org/doc/599172/', 'P. Venkatesh vs State Of Karnataka on 31 May, 1993 : https://indiankanoon.org/doc/911320/', 'Dr.Sekhar S Iyer (Party In Person) vs Chief Secretary on 29 June, 2018 : https://indiankanoon.org/doc/116938658/']
++++++++++++++++++++++++++
+
+
+Supreme Court of India
+K.M. Sharma vs Devi Lal & Ors on 9 January, 1990
+Equivalent citations: 1990 AIR 528, 1990 SCR (1) 1
+Author: M Rangnath
+Bench: Misra Rangnath
+           PETITIONER:
+K.M. SHARMA
+
+ Vs.
+
+RESPONDENT:
+DEVI LAL & ORS.
+
+DATE OF JUDGMENT09/01/1990
+
+BENCH:
+MISRA RANGNATH
+BENCH:
+MISRA RANGNATH
+PUNCHHI, M.M.
+
+CITATION:
+ 1990 AIR  528    1990 SCR  (1)   1
+ 1990 SCC  (1) 438   JT 1990 (1)   5
+ 1990 SCALE  (1)1
+
+
+ACT:
+    Constitution of India, 1950: Article 75(4) and  Schedule
+111  Forms I and II--Oath/Affirmation by  Minister--Descrip-
+tion  of  person as Deputy  Prime  Minister--Whether  valid,
+legal and constitutional.
+
+
+
+HEADNOTE:
+    The petitioner challenged the appointment of  Respondent
+No.  1 as Deputy Prime Minister of India on the ground that
+the  oath  administered to him as such was not the  oath  in
+accordance with the prescription of the Constitution.
+    The  petition was contested by Respondent No. 1 and  the
+Union  of  India. It was contended for the latter  that  de-
+scribing  Respondent  No.  1 as Deputy Prime  Minister  was
+descriptive and for all purposes he was a Minister, that the
+form  of oath prescribed in the Third Schedule pursuant  to
+the requirement of Article 75(4) of the Constitution is only
+for a Minister of the Union, and that there was no  separate
+form even for the Prime Minister.
+    It was  further submitted that the prescribed  oath  is
+susceptible  of  division into two  parts,  descriptive  and
+substantial, and as long as the substantial part is properly
+followed, as in the instant case, a mere mistake or error in
+the descriptive part would not vitiate the oath.
+Dismissing the writ petition,
+    HELD:  Respondent  No. 1 is just a Minister  like  other
+Members  of  the  Council of Ministers though  he  has been
+described  as Deputy Prime Minister. The description of  him
+as Deputy Prime Minister does not confer on him any power of
+Prime Minister. It cannot, therefore, be said that the oath
+administered  to  him as Deputy Prime Minister was  not  the
+oath
+in  accordance with the prescription of  the  Constitution.
+[3E, 2D]
+
+
+
+JUDGMENT:
+ORIGINAL JURISDICTION: Writ Petition (C) No. 1269 of 1989.
+(Under Article 32 of the Constitution of India). K.M. Sharma petitioner-in-person.
+Soli J. Sorabjee, Attorney General, Santosh Hegde, Additional Solicitor General, A.K. Sen, Manbir Singh, Girish Chandra and Ms. A. Subhashini for the Respondents. The Court delivered the following order:
+ORDER Two contentions were raised by the petitioner in this writ petition challenging the appointment of Respondent No. 1, Shri Devi Lal as Deputy Prime Minister of India:
+(i) that the oath administered to him as Deputy Prime Minister was not the oath in accordance with the prescrip- tion of the Constitution; and
+(ii) he was still functioning as the Chief Minister of Haryana when the oath of office of his new assignment was administered to him.
+Pursuant to notice, two affidavits have been filed--one by the Respondent No. 1 and the other on behalf of the Union of India. In the affidavit of Respondent No. 1 certain precedents have been relied upon and the practice which has been followed eversince the Constitution came into force has been referred to.
+Learned Attorney General appearing on behalf of the Union of India has stated that the form prescribed in the Third Schedule pursuant to the requirement of Article 75(4) of the Constitution is only for a Minister of the Union and there is no separate form even for the Prime Minister. Since the Prime Minister is also a member of the Council of Minis- ters, he takes the same oath as the other ministers are required to take. He maintains that yet in view of the fact that the Constitution describes him as the Prime Minister, while being sworn into office, he describes himself as Prime Minister and this practice is in vogue eversince 1950. The oath register is by the incumbent signed as Prime Minister and all other ministers sign as Ministers. He further indi- cates that describing Shri Devi Lal as Deputy Prime Minister is descriptive only and for all purposes he is a Minister and there is no constitutional sanction for the post of Deputy Prime Minis- ter as such.
+Relying on a bench decision of this Court in the case of Virji Ram Sutaria v. Nathalal Premji Bhavadia & Ors., [1969] 2 SCR 627, learned Attorney General further contends that the prescribed oath should be divided into two parts, one which is descriptive and the other which contains the sub- stantial part. And according to him, as long as the substantial part is properly followed, a mere mistake or error in the --descriptive part would not vitiate the oath. This Court in the reported decision said: "In this case, as we have already noted, the essential requirement of Article 173 read with Form VII-A was that the person taking the oath or making the affirmation would bear true faith and allegiance to the Constitution and uphold the sovereignty and integrity of India. The words which precede this portion are merely descriptive of the person and of his nomination as a candidate."
+In view of the clear statement. made by the learned Attorney General that Respondent No. 1 is just a Minister like other members of the Council of Ministers though he has been described as Deputy Prime Minister but the description of him as Deputy Prime Minister does not confer on him any powers of the Prime Minister, along with his other submis- sions, we think the first contention raised by the petition- er has no force. So far as the second contention is con- cerned, the petitioner himself does not press it. We accordingly reject the writ petition for the reasons indicated above. No costs.
+P.S.   S         Petition
+dismissed.

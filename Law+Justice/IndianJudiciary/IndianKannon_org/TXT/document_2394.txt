@@ -1,0 +1,120 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2394/
+Cites: ['Article 16 in The Constitution Of India 1949 [Constitution]\nCentral Government Act\nCites 12 - Cited by 6831', 'Article 311 in The Constitution Of India 1949 [Constitution]\nCentral Government Act\nCites 3 - Cited by 5257', 'Article 32 in The Constitution Of India 1949 [Constitution]\nCentral Government Act\nCites 19 - Cited by 8389', 'Article 14 in The Constitution Of India 1949 [Constitution]\nCentral Government Act\nCites 0 - Cited by 34602', 'Union Of India vs Col. J. N. Sinha And Anr on 12 August, 1970\nSupreme Court of India\nCites 7 - Cited by 349 - Full Document', 'Shivacharana Singh T.G. & Ors vs State Of Mysore on 13 March, 1964\nSupreme Court of India\nCites 7 - Cited by 34 - Full Document', 'Hukumchand Mills Ltd vs The State Of Madhya Bharat And ... on 20 February, 1964\nSupreme Court of India\nCites 8 - Cited by 39 - Full Document', 'Krishan Chander Nayar vs The Chairman, Central Tractor ... on 23 August, 1961\nSupreme Court of India\nCites 3 - Cited by 29 - Full Document', 'Shyam Lal vs 1. The State Of Uttar Pradesh2. The ... on 30 March, 1954\nSupreme Court of India\nCites 11 - Cited by 150 - Full Document', 'B. Narayana Murthy & Ors. Etc vs State Of Andhra Pradesh Etc on 6 May, 1971\nSupreme Court of India\nCites 7 - Cited by 12 - Full Document']
++++++++++++++++++++++++++
+
+
+Supreme Court of India
+P. Radhakrishna Naidu & Others vs Government Of Andhra Pradesh And ... on 9 December, 1976
+Equivalent citations: 1977 AIR 854, 1977 SCR (2) 365
+Author: A Ray
+Bench: Ray, A.N. (Cj)
+           PETITIONER:
+P. RADHAKRISHNA NAIDU & OTHERS
+
+ Vs.
+
+RESPONDENT:
+GOVERNMENT OF ANDHRA PRADESH AND OTHERS
+
+DATE OF JUDGMENT09/12/1976
+
+BENCH:
+RAY, A.N. (CJ)
+BENCH:
+RAY, A.N. (CJ)
+BEG, M. HAMEEDULLAH
+
+CITATION:
+ 1977 AIR  854    1977 SCR  (2) 365
+ 1977 SCC  (1) 561
+
+
+ACT:
+     Constitution of India, Articles 16, 32 and 311,  Govern-
+ ment servant's compulsory retirement, whether violates Art.
+ 16--Ban  on  re-employment by  semiGovernment  Institutions,
+ whether within the scope of Art. 32--Availability of  alter-
+ native remedy.
+
+
+
+HEADNOTE:
+     On the completion of their 25 years of qualifying  serv-
+ ice,  the  appellants were compulsorily  retired  in  public
+ interest,  and were to receive 3 months salary in  lieu  of
+ notice.   Thereafter,  the respondent  Government  passed  a
+ general  order forbidding  re-employment  of compulsorily
+ retired  persons  in   semi-Government institutions.  The
+ appellants  filed, writ petitions under Art. 32 of the Con-
+ stitution  challenging the compulsory retirement  orders  as
+ violative of Art. 16 and the ban on such re-employment as  a
+ stigma under Art. 311.
+ Dismissing the petitions, the Court,
+     HELD: (1) Article 16 does not prohibit the prescription
+ of  reasonable rules for compulsory retirement.  The  provi-
+ sion for compulsory retirement in public interest after  the
+ completion  of a certain period of  qualifying  service  or
+ attainment  of a  certain age, applies  to  all  Government
+ servants  and  as such it is not open  to  challenge  either
+ under Art. 14 or under Art. 16, and the individual  applica-
+ tion  of  the order in a given case cannot offend  Art.  16.
+ [367-D-H]
+ T. C. Shivacharana Singh V. State of Mysore A.I.R. 1965 S.C.
+ 280, applied.
+     Union  of  India  v. Col. J.N. Sinha, &  Anr.  [1971]  1
+ S.C.R. 791;  Tara Singh etc. v. State of Rajasthan  & Ors.
+ [19753 3 S.C.R. 1002, and  B.  Narayana Murthy &  Ors.  v.
+ State  of   Andhra  Pradesh etc. [1971]  Supp. S.C.R. 741,
+ referred to.
+     (2) The Government order forbidding  re-appointment   of
+ compulsorily retired persons as a stigma within the  meaning
+ of Article 311 is not an infringement of fundamental rights,
+ and  the enforcement of violation of  Article  311 does  not
+ come within the scope of Article 32.  The ban is not against
+ anyone individually  and has a reasonable  basis  and some
+ relation to the suitability for employment or appointment to
+ an office.  [367A-B,369 A-B]
+     Krishna  Chander  Nayar  v.  Chairman,  Central  Tractor
+ Organisation & Ors. [1962] 3 S.C.R. 187; Shyam Lal v.  State
+ of  U.P. [1955] 1 S.C.R.  26;  Tata Engineering and  Locomo-
+ tive  Company Ltd. v. Assistant Commissioner  of  Commercial
+ Taxes  & Anr. [1967] 2 S.C.R. 751 and Hukumchand Mills Ltd.
+ v.  The State of Madhya Bharat & Anr. [1964] 6 S.C.R. 857,
+ referred to.
+     (3) The Government of Andhra Pradesh has by an  adminis-
+ trative   order  constituted  a review committee  for each
+ department to review orders of retirement it public interest
+ and to revoke and modify the same, if necessary. petitioners
+ made  representations to the review committee, and  are  not
+ justified in applying to this Court.  [370A-B]
+
+
+
+JUDGMENT:
+ORIGINAL JURISDICTION: Petition No. 97 of 1976. (Under Article 32 of the Constitution of India).
+S. Ramchandra Rao and B. Kanta Rao for the appellants in W.P. No. 97/76.
+S. Ramachandra Rao and ,A. Subba Rao, for the appel- lants in W.P. No. 114/76.
+Niren De, Attorney General, P.p. Rao, Sr. Advocate and T.V.S. Narasimhachari, for the respondents in W.P. No. 97/76.
+P. Parmeshwara Rao, and G. Narayana Rao, for respond- ents in W.P. No. 114/76.
+The Judgment of the Court was delivered by RAY, C.J. These writ petitions challenge the compulsory retirement of the petitioners. The petitioners were retired compulsorily under order dated 23 September, 1975. The order dated 23 September 1975 in the case of the first petitioner in writ petition No. 97 of 1976 may be referred to as typical of orders in the case of other peti- tioners. This order stated first that the said first peti- tioner completed 25 years of qualifying service on 24th July, 1975. The order next stated that the Commissioner of Police being the authority to make a substantive appointment to the post of Inspector of Police is of opinion that it is in public interest to retire the persons mentioned in the order.
+The order thereafter states that in exercise of the powers conferred by Clause (a) of sub-rule (2)/sub-rule 2(A) read with Clause (a) of sub-rule (2) of rule 3 of the Andhra Pradesh Liberalised Pension Rules, 1961/sub-rule (1) of rule 2/rule 3 read with sub-rule (1) of rule 2 of the Andhra Pradesh Government Servants Premature Retirement Rules, 1975, the Commissioner of Police directs that the person mentioned in the order shall retire in public inter- est from service with effect from the date of service of the order and that he shall be paid a sum equivalent to the amount pay and allowances for 3 months in lieu of notice calculated at the same rate at which he was drawing immedi- ately before the date on which the order is served on him. The Government of Andhra Pradesh passed a general order dated 28 November, 1975. In that Government order it is stated that in several Government orders recited therein, orders for the premature retirement of the Government serv- ants in public interest had been issued in those cases after giving 3 months previous notice in writing or after giving 3 months salary in lieu of such notice. The 28 November, 1975 order next states that an instance came to the notice of the Government that a Government servant after compulsory re- tirement as per orders mentioned above was re-appointed in a cooperative institution as executive officer. Though the reappointment of the incumbent was in the Semi-Govern- ment Institution, his re-appointment was stated to be irreg- ular and contrary to the intention of the Government in retiring corrupt and inefficient persons. The Government order directed that all the Departments of the Secretariat, all Heads of Department, and all Collectors etc., should ensure that on no account persons who are retired premature- ly in pursuance of orders issued by the Government should be re-instated or re-appointed in any Semi-Government or Quasi-Government Institutions.
+The petitioners challenged the compulsory retirement orders as violation of Article 16. The petitioners also challenged the Government order forbidding re-appointment of compulsorily retired persons in Semi-Government or Quasi- Government Institutions as a stigma within the meaning of Article 311.
+At the outset it should be stated that enforcement of violation of Article 311 does not come within the scope of Article 32. The challenge to the Government order forbid- ding re-appointment of compulsorily retired persons as a stigma within the meaning of Article 311 is, therefore, not an infringement of fundamental rights.
+The petitioners challenged the orders of compulsory retirement as an infraction 0f Article 16. It is not known how the petitioners have been discriminated against other persons because no such person is impleaded as a respondent and there are no allegations to that effect. During the subsistence of the Presidential Order issued under Article 359(1 ) it is not competent to invoke Article 14 for enforcement of any fundamental rights. Articles 14 and 16 are to a certain extent overlapping in regard to rights of equality.
+Equality of opportunity for all citizens in matters relating to employment is not violated by provisions for compulsory retirement of Government servants in public interest after the completion of a certain period of quali- fying service or attainment of a certain age. This Court has consistently taken the view that compulsory retirement does not involve any civil consequences. See Union of India v. Col. J. N. Sinha and Another(1) and Tara Singh etc. v. State of Rajasthan and Ors.(3) A writ petition under Article 32 can lie only for in- fringement of fundamental rights. See B. Narayana Murthy and Ors. etc. v. State of Andhra Pradesh etc.(3) The general order for compulsory retirement is applicable to all employees. The individual application of the order in a given case cannot offend Article 16. It cannot be suggested that an order for compulsory retirement in the case of one person is denial of equality of opportunity relating to employment because another person in employment has not been compulsorily retired.
+Article 16 does not prohibit the prescription of reason- able rules for compulsory retirement. A question arose in T.C. Shivacharana Singh v. State of Mysore (4) whether a rule providing for compulsory premature retirement from Government service violates Article 16. This Court said that the law in relation to the validity of rules permitting compulsory premature retirement from Government ser- (1) [1971] 1 S.C.R. 791. (2) [1975] 3 S.C.R. 1002. (3) [1971] Supp S.C.R. 741. (4) A.I.R. 1965 S.C. 280.
+vice is well-settled by prior decision of this Court which does not require to be reconsidered. The ratio is that the provision for compulsory retirement in public interest applies to all Government servants and as such it is not open to challenge either under Article 14 or under Article
+16. In Shyam Lal v. Stale of U.P.(1) the appellant had been compulsorily retired. The order was challenged as violating Article 311. This Court held that there is no stigma in- volved in compulsory retirement. Compulsory retirement does not amount to a dismissal or removal and, therefore, it is not within the vice of Article 311.
+One of the petitioners, namely, the first in writ peti- tion No. 97 of 1976, challenged the order of compulsory retirement on the ground that he did not complete 25 years of service. He alleged that he was appointed on 10 Sep- tember, 1952 and, therefore, the order of compulsory retire- ment dated 23 September, 1975 is bad. The State on the other hand contends that the correct date of appointment of the first petitioner is 25 July, 1950. In writ petitions the Court does not go into disputed questions of fact, like date of appointment as in the present case. In Tata Engi- neering and Locomotive Company Ltd. v. Assistant Commission- er of Commercial Taxes & Anr. (a) this Court said that the exercise of jurisdiction in writ matters is not desirable if facts have to be found on evidence. This Court has also said that there may be exceptions. One such exception is when action is taken under an invalid law or arbitrarily without the sanction of law. In the present case there is no aspect of either kind.
+Further it has to be observed that in the present writ petitions several petitioners have combined as petitioners. Their causes of action are separate and independent. Each is alleged to be an instance of individual assertion of constitutional right in regard to facts and circumstances of each case. Where several petitioners combine for alleged violation of their rights, it is difficult for court to go into each and every individual case. In the present case the affidavit evidence on behalf of the State is preferred and, therefore, the first petitioner cannot agitate the question of disputed date of appointment. In Krishna Chandra Nayar v. Chairman, Central Tractor Organization and Others(3) this Court considered the imposi- tion of a ban against one man, namely, the petitioner in that case from being ever taken into Government service. He was a temporary servant and his services were terminated by giving him pay and allowances in lieu of notice for one month. This Court found that case to be one of arbitrary imposition of ban against the employment or appointment one individual to an office.
+(1) [1955] 1 S.C.R. 26. (2) [1967] 2 S.C.R. 751. (3) [1962] 3 S.C.R. 187.
+Krishna Chander's case (supra) is of no aid to the petitioners in the present case. The ban is not challenged here. In Krishna Chander's case (supra) the ban was chal- lenged as an arbitrary act against one individual. In the present case the ban is not against anyone individually but it is not to employ in Quasi-Government service or Semi- Government service, persons who are compulsorily retired from Government service. The ban has a reasonable basis and has some relation to the suitability for employment or appointment to an office. When compulsory retirement is made in public interest it will be an exercise in futility if Government servants who are compulsorily retired are again employed in Government service or Semi-Government service or Quasi-Government service.
+The petitioners challenged the orders for compulsory retirement also on the ground that reference to so many rules was made and, therefore, it was not possible for the petitioners to know under what provision the orders for compulsory retirement had been made. It is not open to the petitioners to challenge the orders on that ground. The orders specifically mention that compulsory retirement is made in public interest. The State affidavit evidence is that petitioners No. 4 and 5 in writ petition No. 97 of 1976 are governed by Hyderabad Civil Service Regulations and the rest of the petitioners are governed by Andhra Pradesh Liberalised Pension Rules, 1961. Rule 292 of the Hyderabad Civil Service Regulations and sub-rule (2) (a) of rule B of the Andhra Pradesh Liberalised Pension Rules, 1961 are similar. Both the rules confer power on the authority to require Government servant to retire in the public interest from service on the date on which he completes 25 years of qualifying service or attains 50 years of age. Rule 2(1) of the Andhra Pradesh Government Servants' Premature Retirement Rules, 1975 is also worded in similar language. The word- ing of the rules relating to retirement in public interest is identical in all the three sets of rules mentioned above. The mere fact that three different rules. were mentioned in the impugned orders without scoring out the rules which are not applicable to a petitioner in one case cannot be any grievance for the reason that in each case the relevant rule is identically worded. The omission on the part of the officers competent to retire the petitioners in not scoring out the rules which are inapplicable to a particular individual does not render the order bad. The reason is that one of the rules is applicable to him and the omission to strike out the rules which are not applicable will not in any manner affect the applicability of the rule mentioned. Further this Court has taken the view that a wrong reference to power will not vitiate any action if it can be justified under some other power under which the Government can law- fully do the act. See Hukumchand Mills Ltd. v. The State of Madhya Bharat and Another(1). In the present case the valid rule is mentioned in each case.
+(1) [1964] 6 S.C.R. 857.
+The Government of Andhra Pradesh has by an administra- tive order constituted a review committee for each depart- ment to review orders of retirement in public interest and to revoke and modify the same, if necessary. The petition- ers made representations to the review committee. The petitioners yet choose to come to this court. The petition- ers are not justified in applying to this court. The petitioners obtained rules in these two cases during the vacation. A similar matter came before this Court on 29 April, 1976 and this Court did not issue any rule. If the attention of this Court had been drawn to that order, perhaps no rule would have been issued in these matters.
+The Andhra Pradesh Administrative Tribunal Order, 1975 confers power on the Tribunal to exercise jurisdiction with respect to appointment, allotment or promotion and other conditions of service of such persons. It is open to a person who complains about an order of compulsory retirement to approach the Tribunal in a given case.
+For the foregoing reasons, the writ petitions are dis- missed. There will be no order as to costs.
+ M.R.         Petitions
+ dismissed.

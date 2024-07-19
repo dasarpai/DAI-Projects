@@ -1,0 +1,102 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3718/
+Cites: ['Article 32 in The Constitution Of India 1949 : https://indiankanoon.org/doc/981147/', 'Article 47 in The Constitution Of India 1949 : https://indiankanoon.org/doc/1551554/', 'Akhil Bharatiya Soshit ... vs Union Of India And Ors on 14 November, 1980 : https://indiankanoon.org/doc/1111529/', 'Article 37 in The Constitution Of India 1949 : https://indiankanoon.org/doc/76375/', 'Rustom Cavasjee Cooper vs Union Of India on 10 February, 1970 : https://indiankanoon.org/doc/513801/', 'B. Krishan vs Union Of India (Uoi) And Ors. on 21 September, 2005 : https://indiankanoon.org/doc/1161747/', 'Khadeeja Nargees vs State Of Kerala on 17 August, 2020 : https://indiankanoon.org/doc/43876438/', 'Smt. Mala Banerjee vs The State Of West Bengal And Ors. on 8 January, 2008 : https://indiankanoon.org/doc/1596677/', 'Dhiraj Kumar And Ors. vs State Of Bihar And Ors. on 6 August, 1992 : https://indiankanoon.org/doc/1254806/', 'A.P. Dalit Mahasabha vs Govt. Of A.P. And Ors. on 4 March, 1999 : https://indiankanoon.org/doc/316709/']
++++++++++++++++++++++++++
+
+
+Supreme Court of India
+B. Krishna Bhat vs Union Of India And Ors on 19 March, 1990
+Equivalent citations: 1990 SCR (2) 1, 1990 SCC (3) 65
+Author: S Mukharji
+Bench: Mukharji, Sabyasachi (Cj)
+           PETITIONER:
+B. KRISHNA BHAT
+
+ Vs.
+
+RESPONDENT:
+UNION OF INDIA AND ORS.
+
+DATE OF JUDGMENT19/03/1990
+
+BENCH:
+MUKHARJI, SABYASACHI (CJ)
+BENCH:
+MUKHARJI, SABYASACHI (CJ)
+PUNCHHI, M.M.
+
+CITATION:
+ 1990 SCR  (2)  1   1990 SCC  (3)  65
+ JT 1990 (2) 34   1990 SCALE  (1)653
+
+
+ACT:
+    Constitution  Of  India, 1950: Articles  32  &  37--Writ
+Petition  for  direction to State of  Karnataka  to  enforce
+total prohibition--Whether maintainable.
+    Karnataka  Excise (Sale of Indian and  Foreign  Liquors)
+Rules, 1968: Rule 3(11)(b) as amended by  Amendment  Rules,
+1989  "Distributor  licence--Monopoly  conferred  on  State-
+Whether constitutionally valid--Writ Petition under Art.  32
+of  Constitution for enforcement of policy  of prohibition.
+Whether maintainable.
+
+
+
+HEADNOTE:
+    Clause  (b)  of sub-rule (11) rule 3  of  the  Karnataka
+Excise (Sale of Indian and Foreign Liquors) Rules, 1968  as
+amended  by  the Amendment Rules, 1989, requires  the  State
+Government to issue distributor licence only to such company
+owned or controlled by it as may be specified.
+    The  petitioner assailed the constitutional validity  of
+clause (b) on the ground that the policy of prohibition  was
+not  being  implemented  as enjoined by Article  47  of  the
+Constitution  inasmuch as the State of Karnataka instead  of
+bringing total prohibition in the State, had evinced  inter-
+est  in taking up the responsibility of selling  liquors  to
+the general public, and sought a direction to the Union  and
+other  State  Governments  to enforce the  policy  of  total
+prohibition.
+Dismissing the writ petition, the Court,
+    HELD:  1. There is no direct or casual violation of  any
+fundamental  right of which the petitioner can legitimately
+claim enforcement.
+    2. Article 47 is in Part IV of the  Constitution  which
+contains  Directive Principles of State Policy.  Article  37
+enjoins  that the provisions of this part shall not  be  en-
+forceable  by any court. Article 32 gives the Supreme  Court
+the  power to enforce rights which are fundamental  rights.
+Fundamental rights are justifiable, Directive Principles are
+not.
+2
+Directive Principles are aimed at securing certain values or
+enforcing  certain  attitudes in the law making and  in  the
+administration of law. Directive Principles cannot  in  the
+very nature of things be enforced in a court of law.
+    Akhil  Bharatiya  Soshit Karamchari Sangh  v.  Union  of
+India, [1981] 1 SCC 246, referred to.
+    3. Whether a law should be made embodying the principles
+of  Directive Principles depends on the legislative will  of
+the  legislature. In the instant case, what  the  petitioner
+sought to achieve by his application was to inject a  sense
+of priority and urgency in that legislative will.  Determin-
+ing  the  choice of priorities and  formulating  perspective
+thereof,  is a matter of policy. Article 32 is not  the  ma-
+chinery  through which policy preferences or priorities  are
+determined.  It  is  not the nest for all the  bees  in  the
+bonnet of 'public spirited persons'.
+    Rustom  Cavasjee Cooper v. Union of India, [1970] 3  SCR
+550, referred to.
+
+
+
+JUDGMENT:
+CIVIL ORIGINAL JURISDICTION: Writ Petition (Civil) No. of 1990.
+(Under Article 32 of the Constitution of India) N.D.R. Ramachandra Rao and Vineet Kumar for the petitioner. The Judgment of the Court was delivered by SABYASACHI MUKHARJI, CJ. This is a petition under article 32 of the Constitution of India. The petitioner claims to be "a public spirited individual". He further claims to be a person aggrieved and seeks to assail the constitutional validity of the State of Karnataka and the Union of India not promoting, enforcing and carrying out the policy of prohibition i.e. manufacturing, sale and consump- tion of intoxicating drinks and drugs throughout the coun- try--India--Bharat, and also assails the constitutional validity of clause (b) of sub-rule 1 of rule 3 of the Karnataka Excise (Sale of Indian and Foreign Liquors) Rules, 1968 as amended by the Karnataka Excise (Sale of Indian and Foreign Liquors) (Amendment) Rules, 1989 which came into fore on 10th September, 1989.
+The petitioner refers to the Preamble to the Constitution which, according to him, explains the general purpose behind the general provisions of the Constitution. He refers to Mahatma Gandhi and his commitment to prohibition. According to the petitioner, manufacture, sale and consumption of intoxicat- ing drinks and drugs have become a stumbling block and a dangerous dragon to the progress and stability of the nation as a whole. The petitioner states that unless this dragon is completely destroyed the country could never think of achieving the objects of the Constitution and justice--social, economic and political. People are flouting the laws of this country, therefore, the petitioner objects that the State should take upon the business of selling liquors. He has asserted that the State of Karnataka instead of bringing total prohibition in the State, has evinced interest in taking up the responsibility of selling liquors to the general public. Hence, it is bad and contrary to the Constitution, and he challenges the amendment which pre- scribes the licence for sale shall be issued to only such company owned or controlled by the State Government as the State Govt. may specify. According to the petitioner, such a rule is unconstitutional. He draws our attention to Article 47 of the Constitution of India which indicates directive principles.
+In the aforesaid view of the matter he claims that this Court should direct the Union of India and other State Governments to enforce the policy of total prohibition throughout the country including the State of Karnataka and to impose restrictions on manufacture, sale and consumption of intoxicating drinks and to declare rule 3 of the these rules as void and unconstitutional.
+We are unable to entertain this writ petition under article 32 of the Constitution. The petition of the peti- tioner is that the policy of prohibition is not being imple- mented as enjoined by article 47 of the Constitution. In our opinion, it is not entertainable. Article 47 of the Consti- tution, which is part of our Directive Principles of State Policy enjoins that the State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties and, in particular, the State shall endeavour to bring about prohibition of the consumption except for medicinal purposes of intoxicating drinks and of drugs which are injurious to health. Article 47 is in Part IV of the Constitution which contains Directive Principles of State Policy. Article 37 enjoins that the provisions of this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the gover- nance of the country and it shall be the duty of the State to apply these principles in making laws. It has to be borne in mind that Article 32 of the Constitution gives the Supreme Court the power to enforce rights which are fundamental rights. Fundamental rights are justifiable, Directive Principles are not. Direc- tive Principles are aimed at securing certain values or enforcing certain attitudes in the law making and in the administration of law. Directive Principles cannot in the very nature of things be enforced in a court of law. See in this connection the observations of this Court in Akhil Bharatiya Soshit Karamchari Sangh v. Union of India, [1981] 1 SCC 246. Whether a law should be made embodying the prin- ciples of Directive Principles depends on the legislative will of the legislature. What the petitioner seeks to achieve by this application is to inject a sense of priority and urgency in that legislative will. Determining the choice of priorities and formulating perspective thereof, is a matter of policy. Article 32 is not the machinery through which policy preferences or priorities are determined and this Court is not the forum where the conflicting claims of policies or priorities should be debated. See the observa- tions of this Court in Rustom Cavasjee Cooper v. Union of India, [1970] 3 SCR 530 at p. 584.
+We find no direct or casual violation of any fundamental right of which the petitioner can legitimately claim en- forcement in this application. To make the State accept a particular policy, desirable and necessary as the policy might be is not the function of Article 32 of the Constitu- tion. Article 32 of the Indian Constitution is not the nest for all the bees in the bonnet of 'public spirited persons'. In the aforesaid view of the matter, we decline to entertain this application and the same is accordingly dismissed.
+P.S.S.      Petition dismissed.

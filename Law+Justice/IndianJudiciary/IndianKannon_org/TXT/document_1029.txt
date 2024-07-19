@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1029/
+Cites: ['Attar Singh vs Municipal Corporation Of Delhi ... on 8 July, 1986 : https://indiankanoon.org/doc/517182/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 32(3) in The Indian Electricity Act, 1910
+(3) Where the operator makes default in complying with the requirements of this section, he shall make full compensation for any loss or damage incurred by reason thereof, and, where any difference or dispute arises as to the amount of such compensation, the matter shall be determined by arbitration. Explanation.—For the purposes of this section, a telegraph-line shall be deemed to be injuriously affected if telegraphic, telephonic or electric-signalling communication by means of such line is, whether through induction or otherwise, prejudicially interfered with by an electric supply-line or work or by any use made thereof.

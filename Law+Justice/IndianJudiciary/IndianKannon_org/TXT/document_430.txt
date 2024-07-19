@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/430/
+Cites: ['U.O.I. & Ors vs K.Subramaniam Ex. J.C on 11 April, 2001\nSupreme Court of India Cites 2 - Cited by 6 - Full Document', 'Janak Raj vs Union Of India (Uoi) on 10 February, 2003\nJammu & Kashmir High Court Cites 12 - Cited by 7 - Full Document', 'Nar Bahadur Gurang vs Union Of India And Others on 28 April, 1998\nAllahabad High Court Cites 8 - Cited by 0 - Full Document', 'Niranjan Singh vs Union Of India on 7 August, 1997\nDelhi High Court Cites 7 - Cited by 1 - Full Document', 'Ex Nb Risaldar Dilbag Singh vs Union Of India & Ors on 3 March, 2020\nDelhi High Court Cites 8 - Cited by 0 - Full Document', 'Romesh Kumar Sharma vs Union Of India & Ors on 1 August, 2006\nSupreme Court of India Cites 10 - Cited by 18 - Full Document', 'Upras Vidyalaya And Anr vs Director Of Education And Anr on 24 December, 2014\nDelhi High Court Cites 48 - Cited by 0 - Full Document', 'Jagir Singh vs Union Of India And Ors on 6 December, 2005\nJammu & Kashmir High Court Cites 4 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 20(1) in The Army Act, 1950
+(1) 1 The Chief of the Army Staff] may dismiss or remove from the service any person subject to this Act other than an officer.

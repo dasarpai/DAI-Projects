@@ -1,0 +1,126 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1281/
+Cites: ['Article 226 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 5 - Cited by 205202', 'Article 133 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 10 - Cited by 1168', 'Section 10A in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 463', 'The Industrial Disputes Act, 1947\nCentral Government Act Cites 0 - Cited by 29418 - Full Document', 'Ramesh And Another vs Seth Gendalal Motilal Patni And ... on 6 January, 1966\nSupreme Court of India Cites 7 - Cited by 68 - Full Document', 'Section 17 in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 860', 'Section 17A in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 365', 'The Constitution Of India 1949\nCentral Government Act Cites 6 - Cited by 13535 - Full Document']
++++++++++++++++++++++++++
+
+
+Supreme Court of India
+Asbestos Cement Ltd vs P.D. Sawarkar & Ors on 23 February, 1970
+Equivalent citations: 1971 AIR 100, 1970 SCR (3) 752
+Author: Shelat
+Bench: Shelat, J.M.
+           PETITIONER:
+ASBESTOS CEMENT LTD.
+
+ Vs.
+
+RESPONDENT:
+P.D. SAWARKAR & ORS.
+
+DATE OF JUDGMENT:
+23/02/1970
+
+BENCH:
+SHELAT, J.M.
+BENCH:
+SHELAT, J.M.
+MITTER, G.K.
+
+CITATION:
+ 1971 AIR  100    1970 SCR  (3) 752
+ 1970 SCC  (1) 475
+ CITATOR INFO :
+ R     1972 SC1598  (12)
+
+
+ACT:
+Constitution  of  India,  Arts. 133(1) &  226-Final  order-
+Interim award by arbitrators under Industrial Disputes Act,
+1947 deciding one of several issues-Other issues left to  be
+decided later-Award published in Gazette under s. 17 of Act-
+Such  award  whether  an  interlocutory  order-High  Court's
+decision dismissing writ petition against such award whether
+a 'final order,'.
+
+
+
+HEADNOTE:
+The  4th  respondent was a union of workmen in one  of  the
+factories ,owned by the appellant company.  By an  agreement
+between  the  4th respondent and the company  a  charter  of
+workmen's   demands   was  referred   to   adjudication   by
+arbitrators  under  s. 1OA of the Industrial  Disputes Act,
+1947.  The arbitrators decided first the dispute relating to
+dearness allowance, leaving other disputes to be  considered
+later.  This Part I award was published in  the  Government
+Gazette under s. 17 of the Act.  Aggrieved by the said award
+the  company  filed a writ petition under  Art.  226-of  the
+Constitution.  The petition was dismissed by the High Court.
+The company applied to the High Court for leave to appeal to
+this  Court.   This  was  refused on  the  ground  that  the
+arbitration  was  not completed and  therefore neither  the
+award in question nor the High Court's order dismissing  the
+writ  petition was a final order within the meaning of Art.
+133(1) of the Constitution.  Against the High Court's  order
+refusing  leave. the company, by special leave,  applied  to
+this Court.
+     HELD  : (i) Under sub-s. 4 of s. 10-A, the  arbitrators
+submitted the Part I Award duly signed by all of them to the
+Government.   As  required by s. 17(1), the  said.   Part  I
+Award  was published in the manner prescribed  therefore  by
+the State Government and thereupon under s. 17(2) it  became
+final  and could not be called in question in any  court  in
+any  manner  whatsoever.  Under s. 17A(1) the  award  became
+enforceable  on the expiry of 30 days from the date  of  its
+publication.   Therefore so far as the question of  dearness
+allowance among other disputes, was concerned, Part I  Award
+became final  and binding on the parties.  It was  not  an
+interlocutory  order in the sense of any dispute in  respect
+of its subject matter remaining to be finally adjudicated by
+the  arbitrators  or the rights of the parties in  relation
+thereto remaining pending any further determination. [755 B-
+E]
+     (ii) The petition filed by the appellant-company for  a
+writ  of certiorari and for quashing the said Part  I  Award
+under  Art. 226 was a proceeding independent of the  dispute
+between  the  parties. Such a writ proceeding was  not  an
+interlocutory  proceeding  nor the order  dismissing  it  an
+interlocutory order leaving any question raised in the writ
+petition  to be determined at any later stage. The)  effect
+of the dismissal of the writ petition by the High Court  was
+that  the said Part I Award, Subject to any appeal  to this
+Court, was  not  liable to be questioned  on the  grounds
+alleged  in  that writ petition  and  the  appellant-company
+would  be bound to pay to its workmen dearness allowance  at
+the  rates provided in that award.  The controversy  between
+the  parties on questions raised in the writ  petition -was
+finally determined and brought to an end as a result of  the
+order ,dismissal.  In view of the decision of this Court  in
+Ramesh v. Seth Genadadal
+753
+the  High Court must be said to be in error in holding that
+its order dismissing the writ petition was not a final order
+within the  meaning  of Art. 133(1)  and  that  no  appeal,
+therefore, lay therefrom in this Court. [755 F-G; 766 B-C]
+     Ramesh v. Seth Gendadal [1966] 3 S.C.R. 198, applied.
+     Mohanlal Maganlal Thacker v. State of Gujarat, [19681 2
+S.C.R. 685, referred to.
+
+
+
+JUDGMENT:
+CIVIL APPELLATE JURISDICTION : Civil Appeal No. 2448 of1969.
+Appeal by special leave from the order dated November 25, 1968 of the Bombay High Court in Supreme Court Civil Application No. 2687 of 1968.
+V. M. Tarkunde, P. N. Tiwari, and O. C. Mathur, for the appellant.
+B. Sen and S. K. Dholakia, for respondent No. 4. The Judgment of the Court was delivered by Shelat, J. This appeal, by special leave, raises the question as to whether an order dismissing a writ petition challenging the validity of an industrial award, which disposes of one of the items of a charter of demands by workmen but leaves the rest of the demands to be adjudicated by a, subsequent award, is a final order in a civil proceeding of a High Court within the meaning of Art. 133(i) of the Constitution.
+The following are the relevant facts The appellant-company conducts factories at Mulund in Greater Bombay, Kymore, Calcutta and Podanur. The present dispute relates to the factory at Mulund where the company employs more than 1700 workmen and has its Head Office also. On September 21, 1962 the 4th respondent union on behalf of the workmen of the Mulund factory submitted a charter of demands consisting of 20 items including the demand for increased dearness allowance. By an agreement dated November 26, 1964 between the appellant-company and the 4th respondent union made under S. 10-A of the Industrial Disputes Act, 1947, the said demands were referred for adjudication to a board of arbitrators consisting of respondents I to 3. A notification dated December 5, 1964 referring the said disputes to respondents 1 to 3 was issued by the Maharashtra Government and published in the Government Gazette. Demand No. 1A in the said charter of demands related to dearness allowance to be paid to both monthly and daily rated workmen at the rates threin set out. The arbitrators decided to hear and dispose of, first, the dispute as to dearness 'allowance -and then to deal with the rest of the disputes relating to other demands. Accordingly, the parties were heard and ultimately the arbitrators gave their award which they called Part 1 Award dated March 27, 1965. The said award was a majority decision in the sense that one of the arbitrators dissented from the opinion of the other two. So far as the present appeal is concerned, it is not necessary to set out the contents of the award. The said Part I award was thereafter published in the Government Gazette dated April 15, 1965 and became enforceable under s. 17-A of the Act on the expiry of 30 days from the date of its publication. If the Appellant-company were to be right, the said award imposed a burden of about Rs. 40 lacs by way of arrears, the award having been made retrospective in operation, and Rs. 5.58 lacs as and by way of recurring liability every year.
+Aggrieved by the said award the appellant-company filed a writ petition under Art. 226 of the Constitution being Special Civil Application No. 824 of 1965 in the High Court of Bombay for quashing the said award on diverse grounds. The writ petition came up for hearing before a Division Bench and was dismissed on merits by an order dated April 10, 1968. The appellant-company thereupon filed an application being Supreme Court Civil Application No. 2687 of 1968 for leave to appeal to this Court. That application was rejected by an order dated November 25, 1968 which stated "No application lies under article 226 of the Con- stitution as there is further arbitration." It appears that the words "Art. 226" were mentioned in the said order through inadvertence. What was meant was that as the arbitration proceedings were still pending and the board of arbitrators had yet to adjudicate on the rest of the reference, the disputes between the parties could not be said to have been finally disposed of, and that therefore, the said Part I award was an interlocutory order. Consequently, neither that award nor the order dismissing the writ petition against that award was a final order within the meaning of Art. 133(1). This appeal challenges the correctness of this order.
+The only question arising in this appeal, is whether the High Court's order dated November 25, 1968 dismissing the writ petition is a final order within the meaning of Art. 133(1). There is no dispute that the question of dearness allowance along with several other questions was, by agreement between the parties, referred to the arbitration of respondents 1 to 3 as provided by s. 10-A of the Act and that a copy thereof was published in the Government Gazette as required by sub-s. 3 of that section. There is similarly no dispute that the -arbitrators, instead of determining all the disputes at one time, first took up the question of' dearness allowance, deciding to take up the rest of the disputes at a subsequent stage and gave their award calling it Part 1, Award. Under sub-s. 4 of S. 10-A, the arbitrators submitted the said Part I Award duly signed by- all of them to the Government. As required by s. 17(1), the said Part I Award was. published in the manner prescribed therefore by the State Government and thereupon under S. 17(2) it became final and could' not be called in question by any court in any manner whatsoever. Under S. 17A(1), the award became enforceable on the expiry of 30 days from the date of its publication under S. 17-in the present case, as from May 15, 1965. Therefore, so far as the question of dearness allowance, among other disputes, was concerned, Part I Award became final and binding on the parties and nothing further remained to be done or determined in respect of the controversy between the parties on the question of dearness allowance. The award, therefore, was not an interlocutory order in the, sense of any dispute in respect of its subject matter remaining to be finally adjudicated by the arbitrators or the rights of the parties in relation thereto remaining pending any further determination. In this sense there can be no doubt that so far as the dispute as to dearness allowance was concerned, the arbitrators by the said Part I Award finally adjudicated it and gave their decision leaving nothing to be adjudicated or decided upon at any subsequent stake of the arbitration.
+Quite apart from this consideration, the petition filed by the appellant-company for a writ of certiorari and for quashing the said Part I Award under Art. 226 was 'a proceeding independent on the dispute between the parties. Such a writ proceeding was not an interlocutory proceeding nor was the order dismissing it an interlocutory order leaving any question raised in the writ petition to be determined at any later stage. Once the High Court dismissed the writ petition, the controversy between the parties raised therein was finally determined and therefore came to an end. In Ramesh v. Seth Gendalal(1) a similar question arose for consideration and this Court held that a writ petition under Art. 226 is a civil proceeding of a High Court, that such a proceeding is quite independent of the original controversy between the parties and that a decision in exercise of jurisdiction under that article, whether interfering with the proceedings impugned or declining to do 'so, is a final decision in so far as the High Court is concerned, if the effect is to terminate the controversy before it and the order must in that case be (1) [1966] 3 S.C.R. 198.
+regarded as final for the purpose of an appeal to the Supreme Court. (See also Mohanlal Maganlal Thacker v. State of Gjarat(1).
+It is clear that the effect of the dismissal of the writ petition by the High Court was that the said Part I Award, subject to any appeal to this Court, was not liable to be questioned on the grounds alleged in that writ petition and the appellant-company would be bound to pay to its workmen dearness allowance at the rates provided in that award. The controversy between the parties on questions raised in the writ petition was finally determined and brought to an end as a result of the order of dismissal. In view of the decision in Ramesh v. Seth Gendalal(2) the High Court must be said to be in error in holding that its order dismissing the writ petition was not a final order within the meaning of Art. 133(1) and that no appeal, therefore, lay therefrom to this Court.
+The appeal succeeds. The High Court's order dated November 25, 1968 is set aside and the case is sent back to the High Court for disposal in accordance with law. In the circumstances of the case there will be no order as to costs. The Special Leave Petition No. 148 of 1969 filed against the High Court's judgment and order dated April 10, 1968 dismissing the said writ petition is allowed to be withdrawn. Stay granted by this Court will continue for ten days from today.
+G.C. Appeal allowed.
+(1) [1968] 2. S.C.R. 685.
+(2) [1966] 3 S.C.R. 198.

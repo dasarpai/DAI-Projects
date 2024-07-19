@@ -1,0 +1,160 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/75/
+Cites: ['Section 10A in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1904729/', 'The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/']
++++++++++++++++++++++++++
+
+
+Gujarat High Court
+Commissioner vs Unknown on 19 October, 2011
+Author: Akil Kureshi, Gokani,
+  
+ Gujarat High Court Case Information System 
+    
+  
+    
+
+ 
+ 
+           
+         
+     
+     Print
+              
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+ 
+
+
+  
+
+TAXAP/98/2011  4/ 4 ORDER 
+ 
+ 
+
+ 
+
+ 
+
+IN
+THE HIGH COURT OF GUJARAT AT AHMEDABAD
+ 
+
+ 
+
+
+ 
+
+TAX
+APPEAL No. 98 of 2011
+ 
+
+ 
+ 
+=========================================================
+
+ 
+
+COMMISSIONER
+OF INCOME TAX-I - Appellant(s)
+ 
+
+Versus
+ 
+
+M/S
+MARUTI PACKAGING - Opponent(s)
+ 
+
+=========================================================
+ 
+Appearance
+: 
+MRS
+MAUNA M BHATT for
+Appellant(s) : 1, 
+None for Opponent(s) :
+1, 
+=========================================================
+
+
+ 
+   
+  
+   
+   
+    
+
+CORAM
+   : 
+   
+  
+   
+    
+
+HONOURABLE
+   MR.JUSTICE AKIL KURESHI
+  
+ 
+  
+   
+   
+    
+
+and
+  
+ 
+  
+   
+   
+    
+
+HONOURABLE
+   MS JUSTICE SONIA GOKANI
+  
+ 
+
+ 
+
+ 
+ 
+
+
+ 
+
+Date
+: 19/10/2011 
+
+ 
+
+ 
+ 
+ORAL
+ORDER
+(Per : HONOURABLE MR.JUSTICE AKIL KURESHI) Revenue is in appeal against judgement of the Tribunal dated 11.8.2010 raising following questions for our consideration :
+Whether the Appellate Tribunal is right in law and on facts in canceling the penalty of Rs.6,56,990/- levied u/s.271(1)(c) of the Act?
+Issue pertains to penalty levied by the Assessing Officer under Section 271(1)(c) of the Income Tax Act, 1961.
+Assessee filed income of returns. While processing such returns, the Assessing Officer found that assessee's claim for exemption under Section 10A of the Act was not justified since the assessee did not export any article or thing. There were certain other disallowances also made by the Assessing Officer. On this ground, penalty proceedings were initiated. Ultimately, the Assessing Officer imposed penalty of Rs.6,56,000/- under Section 271(1)(c) of the Act.
+The assessee carried the issue in appeal before the CIT(Appeals) . With respect to claim under Section 10A of the Act, assessee contended that its unit was located in Kandla Special Economic Zone (SEZ for short). As per EXIM policy of Government of India, sales made by the assessee to other units located in the said area were treated to be deemed export. On that basis assessee had made claim for exemption under Section 10A of the Act. CIT(Appeals) however, was of the opinion that such export was wholly far-fetched. Provision under Section 10A requires actual exports and would not cover deemed exports. He was of the opinion that the concept of deemed export contained in EXIM policy cannot be imported for the purpose of Section 10A exemption which did not contain any such concept. He observed as under :
+"(cg) The appellant might have had its own understanding for claiming exemption in respect of deemed export. As per it, its unit was granted permission under EXIM policy. So, whatever sales it made to other unit in the same zone should be taken as discharge of export obligation as per the policy. The term Export' was not defined in the Income Tax Act, but that does not mean that the appellant could import some definition which could suit its need. The Income Tax Act never stated in Section 10A by way of any explanation or a proviso that an assessee could adopt the meaning of 'Export' as defined in the EXIM policy. That means, the appellant has got only one option, that is, to follow the true meaning conveyed in Section 10A of the Act. Section 10A stipulated certain condition as per which, an assessee could claim exemption under Section 10A. They were very clear and mandatory. The appellant cannot introduce its own meaning for the word 'Export' and it cannot go to an extent of saying that the goods manufactured and sold by it and exported (not by appellant) by other inter-zone units should also be considered as 'Exports' as though the appellant exported the material. On the top of it, the appellants claim that the money received in foreign exchange by the other units on the sales made of the goods manufactured and supplied by the appellants should also be considered as thought the appellant satisfied the conditions of Section 10A is not acceptable."
+Resultantly, CIT(Appeals) dismissed the appeal. On further appeal by the assessee, the Tribunal deleted the penalty holding that admittedly the assessee had not given any information in returns which was found to be inaccurate or incorrect. Assessee therefore, cannot be stated to have furnished inaccurate particulars. With respect to the Revenue's stand that assessee had raised an incorrect claim, the Tribunal was of the opinion that assessee can be imposed to penalty only if case is strictly covered by provisions of Section 271(1)(c). Tribunal observed that assessee had made claim for exemption under Section 10A with respect to certain amount with supporting documents produced on record. Such claim however, was not found allowable by the Assessing Officer. That by itself would not be sufficient to impose penalty. Tribunal noted that as per the policy of the Government, unit of the assessee was situated in SEZ and assessee was not allowed to sell its product in local market but had to sell to other unit of SEZ who in turn exported the final product and earned foreign exchange on such exports. On this basis, Tribunal deleted the penalty.
+With respect to other ground of penalty, Tribunal found that Assessing Officer had only estimated gross profit by increasing the profit rate to 27% which was later on reduced by the CIT(Appeals) to 20%. On such estimation, penalty was not justified. We do not find any question of law arising. Tribunal found that assessee had not supplied any inaccurate particulars. Explanation of assessee for the claim made was reasonable. Assessee has based its claim for exemption under Section 10A on it being located in SEZ and its sale to other unit of SEZ being treated as deemed exports. The assessee had formed a bona fide belief that its claim was sustainable under Section 10A of the Act.
+We see not reason to interfere. Appeal is therefore, dismissed.
+(Akil Kureshi,J.) (Ms.
+Sonia Gokani,J.) (raghu)     Top

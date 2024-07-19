@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/288/
+Cites: ['Kp Sanghvi And Sons Llp & Anr. vs Directorate Of Enforcement on 27 October, 2021 : https://indiankanoon.org/doc/180528916/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 55(a) in The Prevention of Money-Laundering Act, 2002
+(a) "contracting State" means any country or place outside India in respect of which arrangements have been made by the Central Government with the Government of such country through a treaty or otherwise;

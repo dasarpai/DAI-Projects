@@ -1,0 +1,26 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2351/
+Cites: ['Regional Director, E.S.I Corpn. ... vs Francis De Costa And Anr on 5 May, 1992 : https://indiankanoon.org/doc/1587160/', 'Travancore Titanium Products ... vs Jerro on 18 December, 1999 : https://indiankanoon.org/doc/44161/', "Section 75 in The Employees' State Insurance Act, 1948 : https://indiankanoon.org/doc/1243820/", 'Against The Judgment In As 27/2012 ... vs P.J.Mathew on 24 May, 2012 : https://indiankanoon.org/doc/167899141/', "Section 51C in The Employees' State Insurance Act, 1948 : https://indiankanoon.org/doc/807687/"]
++++++++++++++++++++++++++
+
+
+Kerala High Court
+E.S.I. Corporation vs Purushothaman on 3 July, 2001
+Equivalent citations: 2002 ACJ 678, 2001 (91) FLR 148, (2001) IILLJ 988 Ker
+Author: V Mohankumar
+Bench: V Mohankumar, R R Babu
+JUDGMENT V.P. Mohankumar, J.
+1. The E.S.I. Corporation has filed this appeal. The only question is whether the employee sustained injuries int eh course of employment, who claim it be an employment injury and claim compensation. The applicant, on 3.9.1994 was travelling in the bus belonging to the employer after work hour and suffered an injury causing a temporary disablement from 4.9.1994 to 4.2.1995. Thereupon an application under S. 75 of the Employees State Insurance Act was made by the employee to claim compensation for employment injury. The contention of the ?Corporation was that the injury sustained by the worker is not an employment injury, in that he did not satisfy the requirement of S.2(8) of the Act, ie., suffering of the injury caused out of and in the course of employment and, therefore, they are not liable to pay compensation for the injury sustained. Overruling the objections, the Employees Insurance Court passed the impugned award, which is challenged in the appeal.
+2. We have heard Smt. T.D. Rajalakshmi, the learned counsel appearing for the appellant and Sri. Johnson Manayani, the learned counsel appearing for the worker/respondent.
+3. It is not disputed the fact that the worker was travelling in the transport provided by the employer and he suffered the injury while in transit from the place of employment to his residence. As such the learned counsel appearing for the Corporation relying on the decision of the Hon'ble Supreme Court in Regional Director, E.S.I Corporation v. Francis De Costa (AIR 1997 SC 432) and Travancore Titanium Products Ltd. v. Jerro (2001 (1) KLT 643) contended that the injury sustained was not out of and in the course of employment and as such it is not an employment injury to attract the provisions of the E.S.I. Act. But S. 51-C is an answer to this contention.
+4. S. 51-C of the Statute as hereunder:
+"51-C. Accidents happening while travelling in employer's transport.- (1) An accident happening while an insured person is, with the express or implied permission of his employer, travelling as a passenger by any vehicle to or from his place of work shall, notwithstanding that he is under no obligation to his employer to travel by that vehicle, be deemed to arise out of and in the course of his employment, if-
+(a) the accident would have been deemed so to have arisen had he been under such obligation; and
+(b) at the time of the accident, the vehicle-
+(i) is being operated by or on behalf of his employer of some other person by whom it is provided in pursuance of arrangements made with his employer, and.
+(ii) is not being operated in the ordinary course of public transport service.
+(2) In this section "vehicle" includes a vessel and an aircraft".
+It means that when an accident takes place while the employee is travelling as a passenger in any vehicle provided by the employer for commonly from the place of employment to the residence or vice versa to the place of employment, the injury sustained would be treated as one suffered in the course of employment.
+5. Employees' Insurance Court has been constituted not to deprive the legitimate or reasonable compensation for a worker for the injury sustained by him in the cause of employment. No one can resit such claim by fictitious defence when the Statute itself categorically declared that the injury sustained by the worker are employment injury. If so the claim necessarily they should be upheld.
+6. There are no grounds to call for the interference of this Court in this appeal. The appeal is dismissed accordingly.

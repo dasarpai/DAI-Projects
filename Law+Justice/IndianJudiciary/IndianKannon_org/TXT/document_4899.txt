@@ -1,0 +1,25 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4899/
+Cites: ['Thomson Press (India) Ltd vs Nanak Builders & Investrs.P.Ltd & ... on 21 February, 2013\nSupreme Court of India\nCites 29 - Cited by 81 - Full Document', 'Dinonath Ghose vs Auluck Moni Dabee And Ors. on 21 July, 1881\nCalcutta High Court\nCites 11 - Cited by 6 - Full Document', 'Kafiladdin And Ors. vs Samiraddin And Ors. on 24 February, 1930\nCalcutta High Court\nCites 6 - Cited by 26 - Full Document', 'Parmeshwar Mandal vs Mahendra Nath Tewari And Ors. on 27 October, 1960\nPatna High Court\nCites 7 - Cited by 5 - Full Document', 'Himatlal Motilal vs Vasudeo Ganesh Mhashar on 12 March, 1912\nBombay High Court\nCites 4 - Cited by 25 - Full Document', 'Thrissur Dated 30-09-2 vs G Damodaran And Others [Air 2015 ... on 30 September, 2010\nKerala High Court\nCites 33 - Cited by 0 - Full Document', 'Raj Kumari Chaudharain vs Ratan Kumar Mishra & Anr on 18 March, 2016\nPatna High Court - Orders\nCites 15 - Cited by 0 - Full Document', 'Thrissur Dated 30-09-2 vs G Damodaran And Others [Air 2015 ... on 30 September, 2010\nKerala High Court\nCites 33 - Cited by 0 - Full Document', 'C Raja Ram S/O Naryanappa ... vs Saroja W/O Mallikarjun Ubhale on 5 October, 2018\nKarnataka High Court\nCites 33 - Cited by 0 - Full Document', 'Bishwamitra Bhagat And Ors vs Xprithvi Chand on 7 August, 2020\nPatna High Court - Orders\nCites 17 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Calcutta High Court
+Chunder Kant Roy vs Krishna Sunder Roy on 1 May, 1884
+Equivalent citations: (1884) ILR 10 Cal 710
+Bench: R Garth, Beverley
+JUDGMENT Richard Garth, C.J. and Beverley, J.
+1. We think there is no ground for this appeal.
+2. It is contended, that as this case does not come within Section 48 of the Registration Act (III of 1877), the Court has no right to enforce the agreement of the 20th of February 1881 as against the defendant. It is said that, although the agreement was prior to the purchase by the defendant, still as the agreement was not accompanied by possession, the title under the defendant's registered deed ought to prevail.
+3. But this argument entirely ignores the doctrine of notice. It is clear law, both in England and in this country, that where a bond fide contract, whether oral or written, is made for the sale of property, and another party afterwards buys the property with notice of the contract, the title of the party claiming under the contract prevails against the subsequent purchaser, although his purchase may have been registered, and although he has obtained possession under his purchase.
+4. This has been decided by Mitter and Maclean, JJ., in the case of Nemai Churn Dhalal v. Kokil Bag I.L.R. 6 Cal. 535 : 7 C.L.R. 487 to which the provisions of Section 27 of the Specific Relief Act I of 1877 did not apply.
+5. But the present case comes clearly within the purview of Sub-section (b) of Section 27 of that Act.
+6. That section enacts--"Except as otherwise provided by this chapter, specific performance of a contract may be enforced against-
+(a) either party to the contract; or
+(b) any other persons claiming under either party to a contract by a title arising subsequently to the contract, except a transferee for value who has paid his money in good faith, and without notice of the original contract.
+7. This shows, that where a party has notice of a prior contract for sale, he cannot, by any purchase that he may subsequently make, override it.
+8. We think, therefore, that the decision of the Court below is right, with the exception of the latter portion of the decretal order, which directs, that "if on the receipt of the above sum of Rs. 84 from the plaintiff, the defendant No. 1 do not execute the said kobala, this decree shall, to all intents and purposes, be deemed a kobala to the plaintiff for the property in dispute."
+9. The lower Courts had no right to make an order of this kind.
+10. We, therefore, set aside that portion of the decree, and direct that in the event of the defendant No. 1 failing or refusing to comply with the decree, the Court shall proceed to exercise the powers which are given by Sections 261 and 262 of the Code of Civil Procedure for the purpose of carrying out the conveyance.
+11. The appeal is dismissed with costs.

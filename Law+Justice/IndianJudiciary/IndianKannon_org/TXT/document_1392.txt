@@ -1,0 +1,17 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1392/
+Cites: []
++++++++++++++++++++++++++
+
+
+Madras High Court
+Muthu Chettiar And Anr. vs Govindas Waminaidu And Ors. on 18 January, 1929
+Equivalent citations: 116 Ind Cas 823
+Bench: Phillips, Wallace
+JUDGMENT
+1. The petitioners who are the trustees of a temple filed a suit for certain reliefs in the District Munsif's Court, Chidambaram. Objection was taken that the suit was beyond the pecuniary jurisdiction of the District Munsif and evidence and arguments on the point were heard. Before the District Munsif arrived at a decision, the petitioners applied for leave to withdraw a portion of their claim and for a consequent amendment of the plaint in order to bring the suit within the pecuniary jurisdiction of the District Munsif. The petition purported to be filed under Section 151 and Order XVII of the Civil Procedure Code. Order XVII is clearly inapplicable and must have been inserted by mistake, but from a note in the District Munsif's own hand, it would appear that it was regarded as a petition under Order XXIII, Rule 1. The District Munsif rejected the petition on the ground that it was filed too late. Order XXIII, Rule 1 runs:
+At any time after the institution of a suit the plaintiff may, as against all or any of the defendants, withdraw his suit or abandon part of his claim.
+2. This gives him right to abandon a portion of his claim at any time during the pendency of the suit. The District Munsif a order, therefore, refusing to allow the petition on the ground that it was filed too late is clearly wrong and is one which he could not pass under Order XXIII, Rule 1, which gives the plaintiff the right to present such an application at any time during the pendency of the suit.
+3. It is contended for the respondents, that although this order may be wrong, this Court will not interfere in revision when the petitioners have alternative remedy, the alternative remedy in this case being the representation of the plaint which was ordered to be returned to them. A difficulty, however, arises if this course is taken and that is that the petitioners obtained an injunction in the Munsif's Court which would enure during the pendency of the suit filed by them. That injunction will be dissolved, by the return of the plaint and might or might not be re-granted on presentation of another plaint or of the same plaint in another form, This alternative remedy would, therefore, leave them in a very much worse position than if they attain their end by the allowing of the revision petition, because, if that is allowed, the injunction which has been continued up to the present time would still continue in force. That ground for refusing to interfere in revision cannot be accepted.
+4. The order of the District Munsif rejecting the application must, therefore, be set aside and the application returned to him for fresh disposal. The petitioners have presented an appeal against the final order of the District Munsif in the suit and that has been transferred to this Court. That appeal is not now pressed and is dismissed. In the circumstances, the proper order as to costs will be that each party do bear his own costs.

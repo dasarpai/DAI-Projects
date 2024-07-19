@@ -1,0 +1,14 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4608/
+Cites: ['Cement Corporation Of India Ltd. ... vs The Regional Labour Commissioner ... on 21 March, 2007\nKarnataka High Court Cites 14 - Cited by 1 - Full Document', 'Malanpur Steel Ltd. And Mr. S. ... vs Gannon Dunkerley & Co. Ltd. And Mr. ... on 30 May, 2002\nDelhi High Court Cites 11 - Cited by 0 - Full Document', 'Dewal Singhal vs State Of Maharashtra on 17 October, 2000\nBombay High Court Cites 6 - Cited by 7 - Full Document', 'Raheja Universal Limited vs Nrc Limited And Ors on 7 February, 2012\nSupreme Court of India Cites 79 - Cited by 22 - Full Document', 'Sivananda Steels Ltd. And Anr. vs India Cements Capital Finance ... on 11 November, 2003\nMadras High Court Cites 27 - Cited by 0 - Full Document', 'M/S Prerna Construction Pvt. Ltd. vs Hakim Singh Yadav And Another on 7 January, 2016\nAllahabad High Court Cites 16 - Cited by 0 - Full Document', 'M/S. Modi Industries Ltd,, Uttar ... vs Dcit, New Delhi on 24 August, 2017\nIncome Tax Appellate Tribunal - Delhi Cites 70 - Cited by 0 - Full Document', 'Asstt Commissioner Special ... vs M/S Mangalam Cement Ltd on 23 April, 2019\nRajasthan High Court Cites 35 - Cited by 0 - Full Document', 'Asstt Commissioner Special ... vs M/S Mangalam Cement Ltd on 23 April, 2019\nRajasthan High Court Cites 35 - Cited by 0 - Full Document', 'Asstt Commissioner Special ... vs M/S Mangalam Cement Ltd on 23 April, 2019\nRajasthan High Court Cites 35 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 22(4) in The Sick Industrial Companies (Special Provisions) Act, 1985
+(4) Any declaration made under sub-section (3) with respect to a sick industrial company shall have effect notwithstanding anything contained in the Companies Act, 1956 (1 of 1956), or any other law, the memorandum and articles of association of the company or any instrument having effect under the said Act or other law or any agreement or any decree or order of a court, tribunal, officer or other authority or of any submission, settlement or standing order and accordingly,—
+(a) any remedy for the enforcement of any right, privilege, obligation and liability suspended or modified by such declaration, and all proceedings relating thereto pending before any court, tribunal, officer or other authority shall remain stayed or be continued subject to such declaration; and
+(b) on the declaration ceasing to have effect—
+(i) any right, privilege, obligation or liability so remaining suspended or modified, shall become revived and enforceable as if the declaration had never been made; and
+(ii) any proceeding so remaining stayed shall be proceeded with, subject to the provisions of any law which may then be in force, from the stage which had been reached when the proceedings became stayed.

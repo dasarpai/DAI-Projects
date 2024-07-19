@@ -1,0 +1,501 @@
+create database hpt_db;
+use hpt_db;
+
+--Required for Table Creation
+ADD JAR /opt/cloudera/parcels/CDH/lib/hive/lib/hive-hcatalog-core-1.1.0-cdh5.11.2.jar;
+
+-- Required for TABLE PARTITIONING
+SET hive.exec.max.dynamic.partitions=100000;
+SET hive.exec.max.dynamic.partitions.pernode=100000;
+
+--/*Create External Table from the HDFS File*/
+drop table if exists nyc_taxi;
+
+CREATE TABLE if not exists nyc_taxi(
+VendorID int, tpep_pickup_datetime string, tpep_dropoff_datetime string,
+passenger_count int, trip_distance double, RatecodeID int,                 
+store_and_fwd_flag string, PULocationID int, DOLocationID int,         
+payment_type int, fare_amount  double, extra double, mta_tax  double,             
+tip_amount  double,  tolls_amount  double, improvement_surcharge  double)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION '/common_folder/nyc_taxi_data'
+tblproperties ("skip.header.line.count"="1");
+
+select * from nyc_taxi limit 5;
+
+/*Create External Partition Table.
+Creating timestamp type field for pickup and dropoff datetime.
+And dropping original fields.
+Creating TripDuration_Seconds field.
+Creating Pickup_yyyymm field.
+Partition created on pickup_year and pickup_month*/
+
+drop table if exists nyc_taxi_year_month_partition;
+
+create external table if not exists nyc_taxi_year_month_partition
+(VendorID int,
+Pickup_datetime timestamp,
+Dropoff_datetime timestamp,
+TripDuration_Seconds int,
+pickup_yyyymm string,
+passenger_count int, trip_distance double, RatecodeID int,                 
+store_and_fwd_flag string, PULocationID int, DOLocationID int,         
+payment_type int, fare_amount double, extra double, mta_tax double,             
+tip_amount double,  tolls_amount double, improvement_surcharge double
+)
+partitioned by (pickup_year int, pickup_month int)
+location '/user/hive/warehouse/nyc_taxi_year_month_partition_hpt';
+
+/*Insert data in External Partition Table from the External Table*/
+insert overwrite table nyc_taxi_year_month_partition partition(pickup_year, pickup_month)
+select VendorID,
+date_format(tpep_pickup_datetime,"yyyy-MM-dd HH:mm:ss") as Pickup_datetime,
+date_format(tpep_dropoff_datetime,"yyyy-MM-dd HH:mm:ss") as Dropoff_datetime,
+unix_timestamp(tpep_dropoff_datetime)-unix_timestamp(tpep_pickup_datetime) as TripDuration_Seconds,
+
+concat_ws("-",
+cast(year(date_format(tpep_pickup_datetime,"yyyy-MM-dd HH:mm:ss")) as string),
+cast(month(date_format(tpep_pickup_datetime,"yyyy-MM-dd HH:mm:ss")) as string))
+as pickup_yyyymm,
+
+passenger_count , trip_distance , RatecodeID,                 
+store_and_fwd_flag, PULocationID, DOLocationID,
+payment_type, fare_amount, extra, mta_tax,             
+tip_amount,  tolls_amount, improvement_surcharge,
+year(date_format(tpep_pickup_datetime,"yyyy-MM-dd HH:mm:ss")) as `Pickup_Year`,
+month(date_format(tpep_pickup_datetime,"yyyy-MM-dd HH:mm:ss")) as `Pickup_Month`
+from nyc_taxi
+
+/*Check sample of rows. Data is correctly imported or not*/
+select * from nyc_taxi_year_month_partition limit 10;
+
+/*=============== Basic Data Quality Checks==============================*/
+/**************************************************
+1. How many records has each TPEP provider provided? Write a query that summarises the number of records of each provider.*/
+
+select vendorid, count(*) as `Vendor Records` from nyc_taxi_year_month_partition group by vendorid;
+
+-- Comment: Vendor 1: 527386 (45%), Vendor 2: 647183 (55%)
+
+/**************************************************
+2. The data provided is for months November and December only. Check whether the data is consistent, and if not, identify the data quality issues.
+Mention all data quality issues in comments.*/
+
+select distinct month(pickup_datetime) as `Pickup_Month` ,
+       year(pickup_datetime) as `Pickup_Year`,
+       month(dropoff_datetime) as `Dropoff_Month`,
+       year(dropoff_datetime) as `Dropoff_Year` from nyc_taxi_year_month_partition;
+
+/*Comment: Data for following year's pickup is also available 2003, 2008, 2009, 2018. However, it should be only for 2017.
+Data for following month's pickup is also available 1,4,10.  However, it should be only for 11, 12. */
+
+/**************************************************
+3. You might have encountered unusual or erroneous rows in the dataset. Can you conclude which vendor is doing a bad job in
+providing the records using different columns of the dataset? Summarise your conclusions based on every column where these errors are present. For example,  
+There are unusual passenger count, i.e. 0 which is unusual.*/
+
+/**************************************************
+Analysing Which Given Data is Beyond the scope of our Analysis.
+We don not know whether this data is correct or incorrect. Assuming Pickup date is correct and it is beyond the scope of our analysis so we need to drop these records*/
+
+select vendorid, pickup_yyyymm,count(*) from nyc_taxi_year_month_partition
+where pickup_yyyymm!='2017-11' and pickup_yyyymm!='2017-12'
+group by vendorid,pickup_yyyymm;
+
+/*Comments: 14 Records from Vendor 2 which has date other than 2017- Nov / Dec for Pickup */
+
+/*=============== Analysing Trip Duration Data==============================*/
+
+/********************************************************
+Min, Max, Avg Trip Duration
+*********************************************************/
+
+select min(TripDuration_Seconds) as `MinTrip_Duration`, max(TripDuration_Seconds) as `MaxTrip_Duration`,
+round(avg(TripDuration_Seconds),2) as `AvgTrip_Duration` from nyc_taxi_year_month_partition;
+/*
+mintrip_duration	maxtrip_duration	avgtrip_duration
+	-3360	            45466260	    1088.7*/
+
+/***************************
+Assumption Nobody will take taxi for 2 minute ride- so that trip data is wrong.
+We need to remove these records before our analysis
+****************************/
+
+select vendorid, count(*) as `Records` from nyc_taxi_year_month_partition
+where TripDuration_Seconds < 120 group by vendorid;
+
+/*Comment: 16443 Records = 8212 from vendor 1 & 8231 from Vednor*/
+
+/***************************
+Assumption Nobody will take taxi ride for 24 hours- so that trip data is wrong.
+We need to remove these records before our analysis
+****************************/
+
+select vendorid,  count(*) from nyc_taxi_year_month_partition
+where TripDuration_Seconds > 3600*24 group by vendorid;
+
+/*Comment: 1 Record from Vendor 1*/
+
+/*=============== Analysing Trip Fare Data==============================*/
+
+/*******************************************************
+Min, Max, Avg Trip Fare
+********************************************************/
+
+select vendorid, min(fare_amount) as `MinTrip_Fare`, max(fare_amount) as `MaxTrip_Fare`,
+round(avg(fare_amount),2) as `AvgTrip_Fare` from nyc_taxi_year_month_partition group by vendorid;
+
+/*Comment
+vendorid	mintrip_fare	maxtrip_fare	avgtrip_fare
+2	            -200	        488.5	    13.18
+1	               0	        650	        12.77*/
+
+/*********************
+Records with Negative fare*/
+
+select vendorid, count(*) from nyc_taxi_year_month_partition where fare_amount<0 group by vendorid;
+
+/*558 Records with negative fare. All records from Vendor 2
+Assumption: It is possible some reference bonus is given or last wrong charge is reversed.
+But for the analysis, I will remove these records. Because I am not sure about this fact*/
+
+/*****************************************************
+Records with Zero fare
+******************************************************/
+
+select vendorid, count(*) from nyc_taxi_year_month_partition where fare_amount=0 group by vendorid;
+
+/*81 Records from Vendor 2, 231 Records from Vendor 1*/
+
+/*Assumption: It is possible that because of some commitment issues taxi go cancelled so zero distance zero fare. It is also possible that because of some argument like taxi condition, driver behaviour etc passenger left the vechicle within 1mile so zero fare. But it looks error that trip_distnace is more than 1 mile and fare is zero.
+Before analysis I will revemoe these records as well*/
+
+select vendorid, count(*) `Wrong_Fare_Trips` from nyc_taxi_year_month_partition where
+fare_amount=0 and trip_distance>1 group by vendorid;
+
+/*Total 110 Trips with zero fare and more than 1miles travel.
+Vendor 1 has 105 and Vendor 2 has 5 such trips*/
+
+/*****************************************************
+Records with $ 200+ fare
+******************************************************/
+
+select vendorid, count(*) `Expensive_Trips` from nyc_taxi_year_month_partition where fare_amount>200 group by vendorid;
+
+/* 53 trips of vendor 2 and 28 trips of vendor 1 has fare_amount more than $200*/
+/* Analyse these records with full detail*/
+
+select * from nyc_taxi_year_month_partition where fare_amount>200;
+
+/**************************************************
+Analyse Rate of trips
+***************************************************/
+
+select vendorid, round(min(fare_amount/trip_distance),2) `Min_Rate`,
+round(max(fare_amount/trip_distance),2) `Max_Rate`,
+round(avg(fare_amount/trip_distance),2) `Avg_Rate`
+from nyc_taxi_year_month_partition where fare_amount>0 group by vendorid;
+
+/*Min: Max: Avg:
+Vendor Min     Max     Avg
+    2    0    20000    7.58
+    1    0    1500     6.53
+On an average Trips of Vendor 2 are costly*/
+
+/*Trips with >50 $/Miles. It looks incorrect data*/
+
+select vendorid, count(*) `Abrnormal_Rate_Trips`
+from nyc_taxi_year_month_partition where fare_amount>0 and fare_amount/trip_distance > 50 group by vendorid;   
+
+/*1990 Records:
+Vendor #Trips
+2        1570
+1        372
+Before analysis I will remove these records*/
+
+/**************************************************
+Analyse Wrong Charges
+***************************************************/
+
+select vendorid, count(*) from nyc_taxi_year_month_partition where fare_amount>0
+and trip_distance<0 group by vendorid;
+
+/*No trips like this*/
+
+/*=============== Analysing Passenger Data==============================*/
+/***********************************************************
+Min Passengers, Max Passengers, Avg Passenger Count/Trip
+************************************************************/
+
+select min(passenger_count) as `Min_Passengers`, max(passenger_count) as `Max_Paasengers`,
+round(avg(passenger_count),2) as `Avg_Passengers` from nyc_taxi_year_month_partition;
+
+/*Min Passengers =0, Max Passengers =9 Avg Passenger Count: 1.6*/
+
+select vendorid, min(passenger_count) as `Min_Passengers`, max(passenger_count) as `Max_Paasengers`,
+round(avg(passenger_count),2) as `Avg_Passengers` from nyc_taxi_year_month_partition group by vendorid;
+
+/*Comment: Average Passengers / Trip for Vendor 1 is 1.9 and for Vendor 2 is 1.3*/
+
+/************************************************************
+Generally Taxi cannot taxi cannot take more than 7 people
+*************************************************************/
+
+select vendorid, count(*) as `Number_of_Trips` from nyc_taxi_year_month_partition where passenger_count>7 group by vendorid;
+
+/*Comment: Vendor2 reported 4 trip where number of passengers in each trip is more than 7
+Before analysis I will remove these 4 trips*/
+
+/*=============== Analysing Trip Distance Data==============================*/
+/***********************************************************
+Min Distance, Max Distance, Avg Distance/Trip
+************************************************************/
+
+select min(trip_distance) as `Min_Distance`, max(trip_distance) as `Max_Distance`,
+round(avg(trip_distance),2) as `Avg_Distance` from nyc_taxi_year_month_partition;
+
+/*Comment: Min Passengers =0, Max Passengers =126.4 Avg Passenger Count: 2.87*/
+
+select vendorid, min(trip_distance) as `Min_Distance`, round(max(trip_distance),2) as `Max_Distsance`, 
+round(avg(trip_distance),2) as `Avg_Distance` from nyc_taxi_year_month_partition group by vendorid;
+
+/*Comment: Average Passengers / Trip for Vendor 1 is 2.7 and for Vendor 2 is 2.9 Almost same*/
+
+/**********************************************************
+Trip with zero distance
+***********************************************************/
+select vendorid, count(*) as `Number_of_Trips` from nyc_taxi_year_month_partition where trip_distance=0 group by vendorid;
+
+/*Comment: Vendor 2 reported 3185 trip where trip_distance is 0
+  Vendor 1 report 4217 trip where trip_distnace is 0.
+Assumption: Trip with zero distance looks cancenlled trip. In absolute terms more trips are getting cancelled with Vendor 1*/
+
+/**********************************************************
+Trip with negative distance
+**********************************************************/
+
+select vendorid, count(*) as `Number_of_Trips` from nyc_taxi_year_month_partition where trip_distance<0 group by vendorid;
+
+/*No trip of neg distance*/
+
+/*=============== Analysing Tip Amount Data==============================*/
+
+/**********************************************************
+Min Tip, Max Tip, Avg Tip/Trip
+**********************************************************/
+
+select min(tip_amount) as `Min_Tip`, max(tip_amount) as `Max_Tip`,
+round(avg(tip_amount),2) as `Avg_Tip` from nyc_taxi_year_month_partition;
+
+/*Comment: Min Tip =-1.16, Max Tip =450 Avg Tip : 1.85*/
+
+select vendorid, round(min(tip_amount),2) as `Min_Tip`, round(max(tip_amount),2) as `Max_Tip`, 
+round(avg(tip_amount),2) as `Avg_Tip` from nyc_taxi_year_month_partition group by vendorid;
+
+/*Comment:
+  Average Tip=> vendor 2: 1.90, vendor 1: 1.81
+  Min Tip    => vendor 2:-1.16  vendor 1: 0
+  Max Tip    => vendor 2:  450  vendor 1: 265*/
+
+/***************************************************
+Trip with zero Tip
+****************************************************/
+
+select vendorid, count(*) as `#Trips` from nyc_taxi_year_month_partition where tip_amount=0 group by vendorid;
+
+/*Comment:
+  Vendor 2 reported 233708 trip where tip_amount is 0
+  Vendor 1 reported 184127 trip where tip_amount is 0. */
+
+/*================================================================================*/
+/*Analysis-I  Preperation*/
+/*Create ORC Table*/
+drop table if exists nyc_taxi_year_month_partition_orc;
+
+create external table if not exists nyc_taxi_year_month_partition_orc
+(VendorID int, Pickup_datetime timestamp,
+Dropoff_datetime timestamp,TripDuration_Seconds int,
+pickup_yyyymm string,
+passenger_count int, trip_distance double, RatecodeID int,                 
+store_and_fwd_flag string, PULocationID int, DOLocationID int,         
+payment_type int, fare_amount double, extra double, mta_tax double,             
+tip_amount double,  tolls_amount double, improvement_surcharge double)
+
+partitioned by (pickup_year int, pickup_month int)
+stored as orc location '/user/hive/warehouse/nyc_taxi_year_month_partition_orc_hpt'
+tblproperties ("orc.compress"="SNAPPY");
+
+/*Insert data into ORC Partition Table from Ordinary Partition Table*/
+insert overwrite table nyc_taxi_year_month_partition_orc partition (pickup_year, pickup_month)
+select VendorID, Pickup_datetime,
+Dropoff_datetime, TripDuration_Seconds,
+pickup_yyyymm,
+passenger_count , trip_distance , RatecodeID,                 
+store_and_fwd_flag, PULocationID, DOLocationID,
+payment_type, fare_amount, extra, mta_tax,             
+tip_amount,  tolls_amount, improvement_surcharge,
+year(pickup_datetime) as `Pickup_Year`,
+month(pickup_datetime) as `Pickup_Month`
+from nyc_taxi_year_month_partition where
+(pickup_yyyymm='2017-11' or pickup_yyyymm='2017-12') and  --Nov & Dec 17 Trips
+  (TripDuration_Seconds >= 120 and TripDuration_Seconds <= 3600*24) and --3 min to 24 hours trip
+  ((fare_amount=0 and trip_distance=0)  or --Cancelled
+   (fare_amount=0 and trip_distance<=1) or --Disputed/Argument
+   (fare_amount>=0 and trip_distance>0) ) and --Some distance travled and some fare charged
+  (fare_amount>0 and fare_amount/trip_distance <= 50) and
+  passenger_count<=7
+
+select count(*) from nyc_taxi_year_month_partition_orc; --11,55,862
+/*Vendorid #Trips
+2        647183
+1        527386*/
+
+
+/*===========================Analysis-I===============================================*/
+
+/*********************************************************
+1. Compare the overall average fare per trip for November and December.
+**********************************************************/
+
+select month(pickup_datetime) `Month`, round(avg(fare_amount),2) as `Overall_Average_Fare`
+from nyc_taxi_year_month_partition_orc group by month(pickup_datetime);
+
+/*Comments
+month    overall_average_fare
+11      13.09
+12        12.89/*
+
+/******************************************************
+2. Explore the ‘number of passengers per trip’ - how many trips are made by each level
+of ‘Passenger_count’? Do most people travel solo or with other people?
+*******************************************************/
+
+select month(pickup_datetime) `Month`, round(avg(passenger_count),2) as `Avg_Passenger`
+from nyc_taxi_year_month_partition_orc group by month(pickup_datetime);
+
+/*Comments
+month    avg_passenger
+11        1.61
+12        1.63*/
+
+
+/**************************************************
+3. Which is the most preferred mode of payment?
+***************************************************/
+select payment_type, count(payment_type) `#Trips` from nyc_taxi_year_month_partition_orc group by payment_type;
+
+/*Comment:
+    payment_type    #trips
+    1                782588
+    2                367712
+    3                  4280
+    4                  1282
+Credit Card is most preferred method fllowed by JKF./*
+
+/******************************************************
+4. What is the average tip paid per trip? Compare the average tip with the 25th,
+50th and 75th percentiles and comment whether the ‘average tip’ is a
+representative statistic (of the central tendency) of ‘tip amount paid’.
+Hint: You may use percentile_approx(DOUBLE col, p): Returns an approximate
+pth percentile of a numeric column (including floating point types) in the group.
+*******************************************************/
+
+select round(avg(tip_amount),2) `avg_tip`,
+round(percentile_approx(tip_amount, 0.25),2) `tip_25percentile`,
+round(percentile_approx(tip_amount, 0.50),2) `tip_50percentile`,
+round(percentile_approx(tip_amount, 0.75),2) `tip_75percentile`
+from nyc_taxi_year_month_partition_orc where tip_amount>0;
+
+/*Comment:
+    avg_tip    tip_25percentile    tip_50percentile    tip_75percentile
+      2.86        1.45                2.05                3.16
+      
+      Average tip is more than 50_Percentile. Right skewed distribution*/
+
+/***************************************************
+5. Explore the ‘Extra’ (charge) variable - what fraction of total trips have an extra charge is levied?
+****************************************************/
+
+select count(*) from nyc_taxi_year_month_partition_orc -- 1155894
+select count(*) from nyc_taxi_year_month_partition_orc where extra>0 --535468
+
+/*Comment: 46% of trips has extra charge levied*/
+
+select round(sum(extra)/sum(fare_amount + extra + mta_tax+ tip_amount +
+tolls_amount + improvement_surcharge) ,2)*100 `Extra_in_Percentage`
+from nyc_taxi_year_month_partition_orc;
+
+/*Extra fare is 2% of total fare*/
+
+/*====================Analysis-II===============================================*/
+/****************************************************
+1. What is the correlation between the number of passengers on any given trip, and the tip paid per trip? Do multiple
+travellers tip more compared to solo travellers? Hint: Use CORR(Col_1, Col_2)
+*****************************************************/
+
+--Visualize the relationship on using scatter plot.
+select passenger_count, tip_amount from nyc_taxi_year_month_partition_orc;
+
+select corr(passenger_count, tip_amount) from nyc_taxi_year_month_partition_orc;
+
+/* -0.0046 => Almost No relationship between number of passenger and tip amount*/
+
+/****************************************************
+2. Segregate the data into five segments of ‘tip paid’: [0-5), [5-10), [10-15) , [15-20) and >=20. Calculate the percentage
+share of each bucket (i.e. the fraction of trips falling in each bucket).
+*****************************************************/
+drop table if exists Tip_groups_sum;
+
+create table if not exists Tip_groups_sum as
+select tip_groups, count(tip_groups) `Trips` from
+        (select (case when tip_amount >=0 and tip_amount<5 then "G1"
+            when tip_amount>=5 and tip_amount<10 then "G2"
+            when tip_amount>=10 and tip_amount<15 then "G3"
+            when tip_amount>=15 and tip_amount<20 then "G4"
+            else "G5"
+        end) as `tip_groups` from nyc_taxi_year_month_partition_orc) a
+    group by tip_groups
+
+SELECT tip_groups,
+round(trips/ sum(trips) over (order by tip_groups rows BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING)*100,2) `PercentShare`
+FROM Tip_groups_sum
+
+/*Comments:
+tip_groups    percentshare
+    G1        92.17
+    G2        5.69
+    G3        1.83
+    G4        0.22
+    G5        0.09*/
+
+/****************************************************
+3. Which month has a greater average ‘speed’ - November or December? Note that the variable ‘speed’ will have to be
+derived from other metrics. Hint: You have columns for distance and time.
+****************************************************/
+select pickup_yyyymm, round(avg(trip_distance/(TripDuration_Seconds/3600)),2)
+`Speed_Miles/Hr` from nyc_taxi_year_month_partition_orc group by pickup_yyyymm;
+
+/*pickup_yyyymm    speed_miles/hr
+2017-11            10.87
+2017-12            10.95
+December was more average speed*/
+
+
+/****************************************************
+4. Analyse the average speed of the most happening days of the year, i.e. 31st December (New year’s eve) and 25th December (Christmas) and compare it with the overall average.
+*****************************************************/
+select Day_Type, round(avg(Speed),2) `Avg_Speed` from
+        (select round(trip_distance/(TripDuration_Seconds/3600),2) `Speed`,
+            (
+            case when (day(pickup_datetime)=25 and month(pickup_datetime)=12) or
+                      (day(pickup_datetime)=31 and month(pickup_datetime)=12) then "Specialday"
+                else "Normal"
+            end) as `Day_Type` from nyc_taxi_year_month_partition_orc) a
+    group by Day_Type
+
+/*Comment
+day_type    avg_speed
+Normal        10.85
+Specialday    13.82
+Yes On Special Days Speed is Higher*/

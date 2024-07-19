@@ -1,0 +1,1807 @@
+﻿Sno,Group,Unicode,Browser,ShortName
+1,face-smiling,U+1F600,😀,grinning face
+2,face-smiling,U+1F603,😃,grinning face with big eyes
+3,face-smiling,U+1F604,😄,grinning face with smiling eyes
+4,face-smiling,U+1F601,😁,beaming face with smiling eyes
+5,face-smiling,U+1F606,😆,grinning squinting face
+6,face-smiling,U+1F605,😅,grinning face with sweat
+7,face-smiling,U+1F923,🤣,rolling on the floor laughing
+8,face-smiling,U+1F602,😂,face with tears of joy
+9,face-smiling,U+1F642,🙂,slightly smiling face
+10,face-smiling,U+1F643,🙃,upside-down face
+11,face-smiling,U+1F609,😉,winking face
+12,face-smiling,U+1F60A,😊,smiling face with smiling eyes
+13,face-smiling,U+1F607,😇,smiling face with halo
+14,face-affection,U+1F970,🥰,smiling face with hearts
+15,face-affection,U+1F60D,😍,smiling face with heart-eyes
+16,face-affection,U+1F929,🤩,star-struck
+17,face-affection,U+1F618,😘,face blowing a kiss
+18,face-affection,U+1F617,😗,kissing face
+19,face-affection,U+263A,☺,smiling face
+20,face-affection,U+1F61A,😚,kissing face with closed eyes
+21,face-affection,U+1F619,😙,kissing face with smiling eyes
+22,face-affection,U+1F972,🥲,⊛ smiling face with tear
+23,face-tongue,U+1F60B,😋,face savoring food
+24,face-tongue,U+1F61B,😛,face with tongue
+25,face-tongue,U+1F61C,😜,winking face with tongue
+26,face-tongue,U+1F92A,🤪,zany face
+27,face-tongue,U+1F61D,😝,squinting face with tongue
+28,face-tongue,U+1F911,🤑,money-mouth face
+29,face-hand,U+1F917,🤗,hugging face
+30,face-hand,U+1F92D,🤭,face with hand over mouth
+31,face-hand,U+1F92B,🤫,shushing face
+32,face-hand,U+1F914,🤔,thinking face
+33,face-neutral-skeptical,U+1F910,🤐,zipper-mouth face
+34,face-neutral-skeptical,U+1F928,🤨,face with raised eyebrow
+35,face-neutral-skeptical,U+1F610,😐,neutral face
+36,face-neutral-skeptical,U+1F611,😑,expressionless face
+37,face-neutral-skeptical,U+1F636,😶,face without mouth
+38,face-neutral-skeptical,U+1F60F,😏,smirking face
+39,face-neutral-skeptical,U+1F612,😒,unamused face
+40,face-neutral-skeptical,U+1F644,🙄,face with rolling eyes
+41,face-neutral-skeptical,U+1F62C,😬,grimacing face
+42,face-neutral-skeptical,U+1F925,🤥,lying face
+43,face-sleepy,U+1F60C,😌,relieved face
+44,face-sleepy,U+1F614,😔,pensive face
+45,face-sleepy,U+1F62A,😪,sleepy face
+46,face-sleepy,U+1F924,🤤,drooling face
+47,face-sleepy,U+1F634,😴,sleeping face
+48,face-unwell,U+1F637,😷,face with medical mask
+49,face-unwell,U+1F912,🤒,face with thermometer
+50,face-unwell,U+1F915,🤕,face with head-bandage
+51,face-unwell,U+1F922,🤢,nauseated face
+52,face-unwell,U+1F92E,🤮,face vomiting
+53,face-unwell,U+1F927,🤧,sneezing face
+54,face-unwell,U+1F975,🥵,hot face
+55,face-unwell,U+1F976,🥶,cold face
+56,face-unwell,U+1F974,🥴,woozy face
+57,face-unwell,U+1F635,😵,dizzy face
+58,face-unwell,U+1F92F,🤯,exploding head
+59,face-hat,U+1F920,🤠,cowboy hat face
+60,face-hat,U+1F973,🥳,partying face
+61,face-hat,U+1F978,🥸,⊛ disguised face
+62,face-glasses,U+1F60E,😎,smiling face with sunglasses
+63,face-glasses,U+1F913,🤓,nerd face
+64,face-glasses,U+1F9D0,🧐,face with monocle
+65,face-concerned,U+1F615,😕,confused face
+66,face-concerned,U+1F61F,😟,worried face
+67,face-concerned,U+1F641,🙁,slightly frowning face
+68,face-concerned,U+2639,☹,frowning face
+69,face-concerned,U+1F62E,😮,face with open mouth
+70,face-concerned,U+1F62F,😯,hushed face
+71,face-concerned,U+1F632,😲,astonished face
+72,face-concerned,U+1F633,😳,flushed face
+73,face-concerned,U+1F97A,🥺,pleading face
+74,face-concerned,U+1F626,😦,frowning face with open mouth
+75,face-concerned,U+1F627,😧,anguished face
+76,face-concerned,U+1F628,😨,fearful face
+77,face-concerned,U+1F630,😰,anxious face with sweat
+78,face-concerned,U+1F625,😥,sad but relieved face
+79,face-concerned,U+1F622,😢,crying face
+80,face-concerned,U+1F62D,😭,loudly crying face
+81,face-concerned,U+1F631,😱,face screaming in fear
+82,face-concerned,U+1F616,😖,confounded face
+83,face-concerned,U+1F623,😣,persevering face
+84,face-concerned,U+1F61E,😞,disappointed face
+85,face-concerned,U+1F613,😓,downcast face with sweat
+86,face-concerned,U+1F629,😩,weary face
+87,face-concerned,U+1F62B,😫,tired face
+88,face-concerned,U+1F971,🥱,yawning face
+89,face-negative,U+1F624,😤,face with steam from nose
+90,face-negative,U+1F621,😡,pouting face
+91,face-negative,U+1F620,😠,angry face
+92,face-negative,U+1F92C,🤬,face with symbols on mouth
+93,face-negative,U+1F608,😈,smiling face with horns
+94,face-negative,U+1F47F,👿,angry face with horns
+95,face-negative,U+1F480,💀,skull
+96,face-negative,U+2620,☠,skull and crossbones
+97,face-costume,U+1F4A9,💩,pile of poo
+98,face-costume,U+1F921,🤡,clown face
+99,face-costume,U+1F479,👹,ogre
+100,face-costume,U+1F47A,👺,goblin
+101,face-costume,U+1F47B,👻,ghost
+102,face-costume,U+1F47D,👽,alien
+103,face-costume,U+1F47E,👾,alien monster
+104,face-costume,U+1F916,🤖,robot
+105,cat-face,U+1F63A,😺,grinning cat
+106,cat-face,U+1F638,😸,grinning cat with smiling eyes
+107,cat-face,U+1F639,😹,cat with tears of joy
+108,cat-face,U+1F63B,😻,smiling cat with heart-eyes
+109,cat-face,U+1F63C,😼,cat with wry smile
+110,cat-face,U+1F63D,😽,kissing cat
+111,cat-face,U+1F640,🙀,weary cat
+112,cat-face,U+1F63F,😿,crying cat
+113,cat-face,U+1F63E,😾,pouting cat
+114,monkey-face,U+1F648,🙈,see-no-evil monkey
+115,monkey-face,U+1F649,🙉,hear-no-evil monkey
+116,monkey-face,U+1F64A,🙊,speak-no-evil monkey
+117,emotion,U+1F48B,💋,kiss mark
+118,emotion,U+1F48C,💌,love letter
+119,emotion,U+1F498,💘,heart with arrow
+120,emotion,U+1F49D,💝,heart with ribbon
+121,emotion,U+1F496,💖,sparkling heart
+122,emotion,U+1F497,💗,growing heart
+123,emotion,U+1F493,💓,beating heart
+124,emotion,U+1F49E,💞,revolving hearts
+125,emotion,U+1F495,💕,two hearts
+126,emotion,U+1F49F,💟,heart decoration
+127,emotion,U+2763,❣,heart exclamation
+128,emotion,U+1F494,💔,broken heart
+129,emotion,U+2764,❤,red heart
+130,emotion,U+1F9E1,🧡,orange heart
+131,emotion,U+1F49B,💛,yellow heart
+132,emotion,U+1F49A,💚,green heart
+133,emotion,U+1F499,💙,blue heart
+134,emotion,U+1F49C,💜,purple heart
+135,emotion,U+1F90E,🤎,brown heart
+136,emotion,U+1F5A4,🖤,black heart
+137,emotion,U+1F90D,🤍,white heart
+138,emotion,U+1F4AF,💯,hundred points
+139,emotion,U+1F4A2,💢,anger symbol
+140,emotion,U+1F4A5,💥,collision
+141,emotion,U+1F4AB,💫,dizzy
+142,emotion,U+1F4A6,💦,sweat droplets
+143,emotion,U+1F4A8,💨,dashing away
+144,emotion,U+1F573,🕳,hole
+145,emotion,U+1F4A3,💣,bomb
+146,emotion,U+1F4AC,💬,speech balloon
+147,emotion,"U+1F441,U+FE0F,U+200D,U+1F5E8,U+FE0F",👁️‍🗨️,eye in speech bubble
+148,emotion,U+1F5E8,🗨,left speech bubble
+149,emotion,U+1F5EF,🗯,right anger bubble
+150,emotion,U+1F4AD,💭,thought balloon
+151,emotion,U+1F4A4,💤,zzz
+152,hand-fingers-open,U+1F44B,👋,waving hand
+153,hand-fingers-open,U+1F91A,🤚,raised back of hand
+154,hand-fingers-open,U+1F590,🖐,hand with fingers splayed
+155,hand-fingers-open,U+270B,✋,raised hand
+156,hand-fingers-open,U+1F596,🖖,vulcan salute
+157,hand-fingers-partial,U+1F44C,👌,OK hand
+158,hand-fingers-partial,U+1F90C,🤌,⊛ pinched fingers
+159,hand-fingers-partial,U+1F90F,🤏,pinching hand
+160,hand-fingers-partial,U+270C,✌,victory hand
+161,hand-fingers-partial,U+1F91E,🤞,crossed fingers
+162,hand-fingers-partial,U+1F91F,🤟,love-you gesture
+163,hand-fingers-partial,U+1F918,🤘,sign of the horns
+164,hand-fingers-partial,U+1F919,🤙,call me hand
+165,hand-single-finger,U+1F448,👈,backhand index pointing left
+166,hand-single-finger,U+1F449,👉,backhand index pointing right
+167,hand-single-finger,U+1F446,👆,backhand index pointing up
+168,hand-single-finger,U+1F595,🖕,middle finger
+169,hand-single-finger,U+1F447,👇,backhand index pointing down
+170,hand-single-finger,U+261D,☝,index pointing up
+171,hand-fingers-closed,U+1F44D,👍,thumbs up
+172,hand-fingers-closed,U+1F44E,👎,thumbs down
+173,hand-fingers-closed,U+270A,✊,raised fist
+174,hand-fingers-closed,U+1F44A,👊,oncoming fist
+175,hand-fingers-closed,U+1F91B,🤛,left-facing fist
+176,hand-fingers-closed,U+1F91C,🤜,right-facing fist
+177,hands,U+1F44F,👏,clapping hands
+178,hands,U+1F64C,🙌,raising hands
+179,hands,U+1F450,👐,open hands
+180,hands,U+1F932,🤲,palms up together
+181,hands,U+1F91D,🤝,handshake
+182,hands,U+1F64F,🙏,folded hands
+183,hand-prop,U+270D,✍,writing hand
+184,hand-prop,U+1F485,💅,nail polish
+185,hand-prop,U+1F933,🤳,selfie
+186,body-parts,U+1F4AA,💪,flexed biceps
+187,body-parts,U+1F9BE,🦾,mechanical arm
+188,body-parts,U+1F9BF,🦿,mechanical leg
+189,body-parts,U+1F9B5,🦵,leg
+190,body-parts,U+1F9B6,🦶,foot
+191,body-parts,U+1F442,👂,ear
+192,body-parts,U+1F9BB,🦻,ear with hearing aid
+193,body-parts,U+1F443,👃,nose
+194,body-parts,U+1F9E0,🧠,brain
+195,body-parts,U+1FAC0,🫀,
+196,body-parts,U+1FAC1,🫁,
+197,body-parts,U+1F9B7,🦷,tooth
+198,body-parts,U+1F9B4,🦴,bone
+199,body-parts,U+1F440,👀,eyes
+200,body-parts,U+1F441,👁,eye
+201,body-parts,U+1F445,👅,tongue
+202,body-parts,U+1F444,👄,mouth
+203,person,U+1F476,👶,baby
+204,person,U+1F9D2,🧒,child
+205,person,U+1F466,👦,boy
+206,person,U+1F467,👧,girl
+207,person,U+1F9D1,🧑,person
+208,person,U+1F471,👱,person: blond hair
+209,person,U+1F468,👨,man
+210,person,U+1F9D4,🧔,man: beard
+211,person,"U+1F468,U+200D,U+1F9B0",👨‍🦰,man: red hair
+212,person,"U+1F468,U+200D,U+1F9B1",👨‍🦱,man: curly hair
+213,person,"U+1F468,U+200D,U+1F9B3",👨‍🦳,man: white hair
+214,person,"U+1F468,U+200D,U+1F9B2",👨‍🦲,man: bald
+215,person,U+1F469,👩,woman
+216,person,"U+1F469,U+200D,U+1F9B0",👩‍🦰,woman: red hair
+217,person,"U+1F9D1,U+200D,U+1F9B0",🧑‍🦰,person: red hair
+218,person,"U+1F469,U+200D,U+1F9B1",👩‍🦱,woman: curly hair
+219,person,"U+1F9D1,U+200D,U+1F9B1",🧑‍🦱,person: curly hair
+220,person,"U+1F469,U+200D,U+1F9B3",👩‍🦳,woman: white hair
+221,person,"U+1F9D1,U+200D,U+1F9B3",🧑‍🦳,person: white hair
+222,person,"U+1F469,U+200D,U+1F9B2",👩‍🦲,woman: bald
+223,person,"U+1F9D1,U+200D,U+1F9B2",🧑‍🦲,person: bald
+224,person,"U+1F471,U+200D,U+2640,U+FE0F",👱‍♀️,woman: blond hair
+225,person,"U+1F471,U+200D,U+2642,U+FE0F",👱‍♂️,man: blond hair
+226,person,U+1F9D3,🧓,older person
+227,person,U+1F474,👴,old man
+228,person,U+1F475,👵,old woman
+229,person-gesture,U+1F64D,🙍,person frowning
+230,person-gesture,"U+1F64D,U+200D,U+2642,U+FE0F",🙍‍♂️,man frowning
+231,person-gesture,"U+1F64D,U+200D,U+2640,U+FE0F",🙍‍♀️,woman frowning
+232,person-gesture,U+1F64E,🙎,person pouting
+233,person-gesture,"U+1F64E,U+200D,U+2642,U+FE0F",🙎‍♂️,man pouting
+234,person-gesture,"U+1F64E,U+200D,U+2640,U+FE0F",🙎‍♀️,woman pouting
+235,person-gesture,U+1F645,🙅,person gesturing NO
+236,person-gesture,"U+1F645,U+200D,U+2642,U+FE0F",🙅‍♂️,man gesturing NO
+237,person-gesture,"U+1F645,U+200D,U+2640,U+FE0F",🙅‍♀️,woman gesturing NO
+238,person-gesture,U+1F646,🙆,person gesturing OK
+239,person-gesture,"U+1F646,U+200D,U+2642,U+FE0F",🙆‍♂️,man gesturing OK
+240,person-gesture,"U+1F646,U+200D,U+2640,U+FE0F",🙆‍♀️,woman gesturing OK
+241,person-gesture,U+1F481,💁,person tipping hand
+242,person-gesture,"U+1F481,U+200D,U+2642,U+FE0F",💁‍♂️,man tipping hand
+243,person-gesture,"U+1F481,U+200D,U+2640,U+FE0F",💁‍♀️,woman tipping hand
+244,person-gesture,U+1F64B,🙋,person raising hand
+245,person-gesture,"U+1F64B,U+200D,U+2642,U+FE0F",🙋‍♂️,man raising hand
+246,person-gesture,"U+1F64B,U+200D,U+2640,U+FE0F",🙋‍♀️,woman raising hand
+247,person-gesture,U+1F9CF,🧏,deaf person
+248,person-gesture,"U+1F9CF,U+200D,U+2642,U+FE0F",🧏‍♂️,deaf man
+249,person-gesture,"U+1F9CF,U+200D,U+2640,U+FE0F",🧏‍♀️,deaf woman
+250,person-gesture,U+1F647,🙇,person bowing
+251,person-gesture,"U+1F647,U+200D,U+2642,U+FE0F",🙇‍♂️,man bowing
+252,person-gesture,"U+1F647,U+200D,U+2640,U+FE0F",🙇‍♀️,woman bowing
+253,person-gesture,U+1F926,🤦,person facepalming
+254,person-gesture,"U+1F926,U+200D,U+2642,U+FE0F",🤦‍♂️,man facepalming
+255,person-gesture,"U+1F926,U+200D,U+2640,U+FE0F",🤦‍♀️,woman facepalming
+256,person-gesture,U+1F937,🤷,person shrugging
+257,person-gesture,"U+1F937,U+200D,U+2642,U+FE0F",🤷‍♂️,man shrugging
+258,person-gesture,"U+1F937,U+200D,U+2640,U+FE0F",🤷‍♀️,woman shrugging
+259,person-role,"U+1F9D1,U+200D,U+2695,U+FE0F",🧑‍⚕️,health worker
+260,person-role,"U+1F468,U+200D,U+2695,U+FE0F",👨‍⚕️,man health worker
+261,person-role,"U+1F469,U+200D,U+2695,U+FE0F",👩‍⚕️,woman health worker
+262,person-role,"U+1F9D1,U+200D,U+1F393",🧑‍🎓,student
+263,person-role,"U+1F468,U+200D,U+1F393",👨‍🎓,man student
+264,person-role,"U+1F469,U+200D,U+1F393",👩‍🎓,woman student
+265,person-role,"U+1F9D1,U+200D,U+1F3EB",🧑‍🏫,teacher
+266,person-role,"U+1F468,U+200D,U+1F3EB",👨‍🏫,man teacher
+267,person-role,"U+1F469,U+200D,U+1F3EB",👩‍🏫,woman teacher
+268,person-role,"U+1F9D1,U+200D,U+2696,U+FE0F",🧑‍⚖️,judge
+269,person-role,"U+1F468,U+200D,U+2696,U+FE0F",👨‍⚖️,man judge
+270,person-role,"U+1F469,U+200D,U+2696,U+FE0F",👩‍⚖️,woman judge
+271,person-role,"U+1F9D1,U+200D,U+1F33E",🧑‍🌾,farmer
+272,person-role,"U+1F468,U+200D,U+1F33E",👨‍🌾,man farmer
+273,person-role,"U+1F469,U+200D,U+1F33E",👩‍🌾,woman farmer
+274,person-role,"U+1F9D1,U+200D,U+1F373",🧑‍🍳,cook
+275,person-role,"U+1F468,U+200D,U+1F373",👨‍🍳,man cook
+276,person-role,"U+1F469,U+200D,U+1F373",👩‍🍳,woman cook
+277,person-role,"U+1F9D1,U+200D,U+1F527",🧑‍🔧,mechanic
+278,person-role,"U+1F468,U+200D,U+1F527",👨‍🔧,man mechanic
+279,person-role,"U+1F469,U+200D,U+1F527",👩‍🔧,woman mechanic
+280,person-role,"U+1F9D1,U+200D,U+1F3ED",🧑‍🏭,factory worker
+281,person-role,"U+1F468,U+200D,U+1F3ED",👨‍🏭,man factory worker
+282,person-role,"U+1F469,U+200D,U+1F3ED",👩‍🏭,woman factory worker
+283,person-role,"U+1F9D1,U+200D,U+1F4BC",🧑‍💼,office worker
+284,person-role,"U+1F468,U+200D,U+1F4BC",👨‍💼,man office worker
+285,person-role,"U+1F469,U+200D,U+1F4BC",👩‍💼,woman office worker
+286,person-role,"U+1F9D1,U+200D,U+1F52C",🧑‍🔬,scientist
+287,person-role,"U+1F468,U+200D,U+1F52C",👨‍🔬,man scientist
+288,person-role,"U+1F469,U+200D,U+1F52C",👩‍🔬,woman scientist
+289,person-role,"U+1F9D1,U+200D,U+1F4BB",🧑‍💻,technologist
+290,person-role,"U+1F468,U+200D,U+1F4BB",👨‍💻,man technologist
+291,person-role,"U+1F469,U+200D,U+1F4BB",👩‍💻,woman technologist
+292,person-role,"U+1F9D1,U+200D,U+1F3A4",🧑‍🎤,singer
+293,person-role,"U+1F468,U+200D,U+1F3A4",👨‍🎤,man singer
+294,person-role,"U+1F469,U+200D,U+1F3A4",👩‍🎤,woman singer
+295,person-role,"U+1F9D1,U+200D,U+1F3A8",🧑‍🎨,artist
+296,person-role,"U+1F468,U+200D,U+1F3A8",👨‍🎨,man artist
+297,person-role,"U+1F469,U+200D,U+1F3A8",👩‍🎨,woman artist
+298,person-role,"U+1F9D1,U+200D,U+2708,U+FE0F",🧑‍✈️,pilot
+299,person-role,"U+1F468,U+200D,U+2708,U+FE0F",👨‍✈️,man pilot
+300,person-role,"U+1F469,U+200D,U+2708,U+FE0F",👩‍✈️,woman pilot
+301,person-role,"U+1F9D1,U+200D,U+1F680",🧑‍🚀,astronaut
+302,person-role,"U+1F468,U+200D,U+1F680",👨‍🚀,man astronaut
+303,person-role,"U+1F469,U+200D,U+1F680",👩‍🚀,woman astronaut
+304,person-role,"U+1F9D1,U+200D,U+1F692",🧑‍🚒,firefighter
+305,person-role,"U+1F468,U+200D,U+1F692",👨‍🚒,man firefighter
+306,person-role,"U+1F469,U+200D,U+1F692",👩‍🚒,woman firefighter
+307,person-role,U+1F46E,👮,police officer
+308,person-role,"U+1F46E,U+200D,U+2642,U+FE0F",👮‍♂️,man police officer
+309,person-role,"U+1F46E,U+200D,U+2640,U+FE0F",👮‍♀️,woman police officer
+310,person-role,U+1F575,🕵,detective
+311,person-role,"U+1F575,U+FE0F,U+200D,U+2642,U+FE0F",🕵️‍♂️,man detective
+312,person-role,"U+1F575,U+FE0F,U+200D,U+2640,U+FE0F",🕵️‍♀️,woman detective
+313,person-role,U+1F482,💂,guard
+314,person-role,"U+1F482,U+200D,U+2642,U+FE0F",💂‍♂️,man guard
+315,person-role,"U+1F482,U+200D,U+2640,U+FE0F",💂‍♀️,woman guard
+316,person-role,U+1F977,🥷,⊛ ninja
+317,person-role,U+1F477,👷,construction worker
+318,person-role,"U+1F477,U+200D,U+2642,U+FE0F",👷‍♂️,man construction worker
+319,person-role,"U+1F477,U+200D,U+2640,U+FE0F",👷‍♀️,woman construction worker
+320,person-role,U+1F934,🤴,prince
+321,person-role,U+1F478,👸,princess
+322,person-role,U+1F473,👳,person wearing turban
+323,person-role,"U+1F473,U+200D,U+2642,U+FE0F",👳‍♂️,man wearing turban
+324,person-role,"U+1F473,U+200D,U+2640,U+FE0F",👳‍♀️,woman wearing turban
+325,person-role,U+1F472,👲,person with skullcap
+326,person-role,U+1F9D5,🧕,woman with headscarf
+327,person-role,U+1F935,🤵,person in tuxedo
+328,person-role,"U+1F935,U+200D,U+2642,U+FE0F",🤵‍♂️,⊛ man in tuxedo
+329,person-role,"U+1F935,U+200D,U+2640,U+FE0F",🤵‍♀️,⊛ woman in tuxedo
+330,person-role,U+1F470,👰,person with veil
+331,person-role,"U+1F470,U+200D,U+2642,U+FE0F",👰‍♂️,
+332,person-role,"U+1F470,U+200D,U+2640,U+FE0F",👰‍♀️,
+333,person-role,U+1F930,🤰,pregnant woman
+334,person-role,U+1F931,🤱,breast-feeding
+335,person-role,"U+1F469,U+200D,U+1F37C",👩‍🍼,
+336,person-role,"U+1F468,U+200D,U+1F37C",👨‍🍼,
+337,person-role,"U+1F9D1,U+200D,U+1F37C",🧑‍🍼,
+338,person-fantasy,U+1F47C,👼,baby angel
+339,person-fantasy,U+1F385,🎅,Santa Claus
+340,person-fantasy,U+1F936,🤶,Mrs. Claus
+341,person-fantasy,"U+1F9D1,U+200D,U+1F384",🧑‍🎄,
+342,person-fantasy,U+1F9B8,🦸,superhero
+343,person-fantasy,"U+1F9B8,U+200D,U+2642,U+FE0F",🦸‍♂️,man superhero
+344,person-fantasy,"U+1F9B8,U+200D,U+2640,U+FE0F",🦸‍♀️,woman superhero
+345,person-fantasy,U+1F9B9,🦹,supervillain
+346,person-fantasy,"U+1F9B9,U+200D,U+2642,U+FE0F",🦹‍♂️,man supervillain
+347,person-fantasy,"U+1F9B9,U+200D,U+2640,U+FE0F",🦹‍♀️,woman supervillain
+348,person-fantasy,U+1F9D9,🧙,mage
+349,person-fantasy,"U+1F9D9,U+200D,U+2642,U+FE0F",🧙‍♂️,man mage
+350,person-fantasy,"U+1F9D9,U+200D,U+2640,U+FE0F",🧙‍♀️,woman mage
+351,person-fantasy,U+1F9DA,🧚,fairy
+352,person-fantasy,"U+1F9DA,U+200D,U+2642,U+FE0F",🧚‍♂️,man fairy
+353,person-fantasy,"U+1F9DA,U+200D,U+2640,U+FE0F",🧚‍♀️,woman fairy
+354,person-fantasy,U+1F9DB,🧛,vampire
+355,person-fantasy,"U+1F9DB,U+200D,U+2642,U+FE0F",🧛‍♂️,man vampire
+356,person-fantasy,"U+1F9DB,U+200D,U+2640,U+FE0F",🧛‍♀️,woman vampire
+357,person-fantasy,U+1F9DC,🧜,merperson
+358,person-fantasy,"U+1F9DC,U+200D,U+2642,U+FE0F",🧜‍♂️,merman
+359,person-fantasy,"U+1F9DC,U+200D,U+2640,U+FE0F",🧜‍♀️,mermaid
+360,person-fantasy,U+1F9DD,🧝,elf
+361,person-fantasy,"U+1F9DD,U+200D,U+2642,U+FE0F",🧝‍♂️,man elf
+362,person-fantasy,"U+1F9DD,U+200D,U+2640,U+FE0F",🧝‍♀️,woman elf
+363,person-fantasy,U+1F9DE,🧞,genie
+364,person-fantasy,"U+1F9DE,U+200D,U+2642,U+FE0F",🧞‍♂️,man genie
+365,person-fantasy,"U+1F9DE,U+200D,U+2640,U+FE0F",🧞‍♀️,woman genie
+366,person-fantasy,U+1F9DF,🧟,zombie
+367,person-fantasy,"U+1F9DF,U+200D,U+2642,U+FE0F",🧟‍♂️,man zombie
+368,person-fantasy,"U+1F9DF,U+200D,U+2640,U+FE0F",🧟‍♀️,woman zombie
+369,person-activity,U+1F486,💆,person getting massage
+370,person-activity,"U+1F486,U+200D,U+2642,U+FE0F",💆‍♂️,man getting massage
+371,person-activity,"U+1F486,U+200D,U+2640,U+FE0F",💆‍♀️,woman getting massage
+372,person-activity,U+1F487,💇,person getting haircut
+373,person-activity,"U+1F487,U+200D,U+2642,U+FE0F",💇‍♂️,man getting haircut
+374,person-activity,"U+1F487,U+200D,U+2640,U+FE0F",💇‍♀️,woman getting haircut
+375,person-activity,U+1F6B6,🚶,person walking
+376,person-activity,"U+1F6B6,U+200D,U+2642,U+FE0F",🚶‍♂️,man walking
+377,person-activity,"U+1F6B6,U+200D,U+2640,U+FE0F",🚶‍♀️,woman walking
+378,person-activity,U+1F9CD,🧍,person standing
+379,person-activity,"U+1F9CD,U+200D,U+2642,U+FE0F",🧍‍♂️,man standing
+380,person-activity,"U+1F9CD,U+200D,U+2640,U+FE0F",🧍‍♀️,woman standing
+381,person-activity,U+1F9CE,🧎,person kneeling
+382,person-activity,"U+1F9CE,U+200D,U+2642,U+FE0F",🧎‍♂️,man kneeling
+383,person-activity,"U+1F9CE,U+200D,U+2640,U+FE0F",🧎‍♀️,woman kneeling
+384,person-activity,"U+1F9D1,U+200D,U+1F9AF",🧑‍🦯,person with white cane
+385,person-activity,"U+1F468,U+200D,U+1F9AF",👨‍🦯,man with white cane
+386,person-activity,"U+1F469,U+200D,U+1F9AF",👩‍🦯,woman with white cane
+387,person-activity,"U+1F9D1,U+200D,U+1F9BC",🧑‍🦼,person in motorized wheelchair
+388,person-activity,"U+1F468,U+200D,U+1F9BC",👨‍🦼,man in motorized wheelchair
+389,person-activity,"U+1F469,U+200D,U+1F9BC",👩‍🦼,woman in motorized wheelchair
+390,person-activity,"U+1F9D1,U+200D,U+1F9BD",🧑‍🦽,person in manual wheelchair
+391,person-activity,"U+1F468,U+200D,U+1F9BD",👨‍🦽,man in manual wheelchair
+392,person-activity,"U+1F469,U+200D,U+1F9BD",👩‍🦽,woman in manual wheelchair
+393,person-activity,U+1F3C3,🏃,person running
+394,person-activity,"U+1F3C3,U+200D,U+2642,U+FE0F",🏃‍♂️,man running
+395,person-activity,"U+1F3C3,U+200D,U+2640,U+FE0F",🏃‍♀️,woman running
+396,person-activity,U+1F483,💃,woman dancing
+397,person-activity,U+1F57A,🕺,man dancing
+398,person-activity,U+1F574,🕴,person in suit levitating
+399,person-activity,U+1F46F,👯,people with bunny ears
+400,person-activity,"U+1F46F,U+200D,U+2642,U+FE0F",👯‍♂️,men with bunny ears
+401,person-activity,"U+1F46F,U+200D,U+2640,U+FE0F",👯‍♀️,women with bunny ears
+402,person-activity,U+1F9D6,🧖,person in steamy room
+403,person-activity,"U+1F9D6,U+200D,U+2642,U+FE0F",🧖‍♂️,man in steamy room
+404,person-activity,"U+1F9D6,U+200D,U+2640,U+FE0F",🧖‍♀️,woman in steamy room
+405,person-activity,U+1F9D7,🧗,person climbing
+406,person-activity,"U+1F9D7,U+200D,U+2642,U+FE0F",🧗‍♂️,man climbing
+407,person-activity,"U+1F9D7,U+200D,U+2640,U+FE0F",🧗‍♀️,woman climbing
+408,person-sport,U+1F93A,🤺,person fencing
+409,person-sport,U+1F3C7,🏇,horse racing
+410,person-sport,U+26F7,⛷,skier
+411,person-sport,U+1F3C2,🏂,snowboarder
+412,person-sport,U+1F3CC,🏌,person golfing
+413,person-sport,"U+1F3CC,U+FE0F,U+200D,U+2642,U+FE0F",🏌️‍♂️,man golfing
+414,person-sport,"U+1F3CC,U+FE0F,U+200D,U+2640,U+FE0F",🏌️‍♀️,woman golfing
+415,person-sport,U+1F3C4,🏄,person surfing
+416,person-sport,"U+1F3C4,U+200D,U+2642,U+FE0F",🏄‍♂️,man surfing
+417,person-sport,"U+1F3C4,U+200D,U+2640,U+FE0F",🏄‍♀️,woman surfing
+418,person-sport,U+1F6A3,🚣,person rowing boat
+419,person-sport,"U+1F6A3,U+200D,U+2642,U+FE0F",🚣‍♂️,man rowing boat
+420,person-sport,"U+1F6A3,U+200D,U+2640,U+FE0F",🚣‍♀️,woman rowing boat
+421,person-sport,U+1F3CA,🏊,person swimming
+422,person-sport,"U+1F3CA,U+200D,U+2642,U+FE0F",🏊‍♂️,man swimming
+423,person-sport,"U+1F3CA,U+200D,U+2640,U+FE0F",🏊‍♀️,woman swimming
+424,person-sport,U+26F9,⛹,person bouncing ball
+425,person-sport,"U+26F9,U+FE0F,U+200D,U+2642,U+FE0F",⛹️‍♂️,man bouncing ball
+426,person-sport,"U+26F9,U+FE0F,U+200D,U+2640,U+FE0F",⛹️‍♀️,woman bouncing ball
+427,person-sport,U+1F3CB,🏋,person lifting weights
+428,person-sport,"U+1F3CB,U+FE0F,U+200D,U+2642,U+FE0F",🏋️‍♂️,man lifting weights
+429,person-sport,"U+1F3CB,U+FE0F,U+200D,U+2640,U+FE0F",🏋️‍♀️,woman lifting weights
+430,person-sport,U+1F6B4,🚴,person biking
+431,person-sport,"U+1F6B4,U+200D,U+2642,U+FE0F",🚴‍♂️,man biking
+432,person-sport,"U+1F6B4,U+200D,U+2640,U+FE0F",🚴‍♀️,woman biking
+433,person-sport,U+1F6B5,🚵,person mountain biking
+434,person-sport,"U+1F6B5,U+200D,U+2642,U+FE0F",🚵‍♂️,man mountain biking
+435,person-sport,"U+1F6B5,U+200D,U+2640,U+FE0F",🚵‍♀️,woman mountain biking
+436,person-sport,U+1F938,🤸,person cartwheeling
+437,person-sport,"U+1F938,U+200D,U+2642,U+FE0F",🤸‍♂️,man cartwheeling
+438,person-sport,"U+1F938,U+200D,U+2640,U+FE0F",🤸‍♀️,woman cartwheeling
+439,person-sport,U+1F93C,🤼,people wrestling
+440,person-sport,"U+1F93C,U+200D,U+2642,U+FE0F",🤼‍♂️,men wrestling
+441,person-sport,"U+1F93C,U+200D,U+2640,U+FE0F",🤼‍♀️,women wrestling
+442,person-sport,U+1F93D,🤽,person playing water polo
+443,person-sport,"U+1F93D,U+200D,U+2642,U+FE0F",🤽‍♂️,man playing water polo
+444,person-sport,"U+1F93D,U+200D,U+2640,U+FE0F",🤽‍♀️,woman playing water polo
+445,person-sport,U+1F93E,🤾,person playing handball
+446,person-sport,"U+1F93E,U+200D,U+2642,U+FE0F",🤾‍♂️,man playing handball
+447,person-sport,"U+1F93E,U+200D,U+2640,U+FE0F",🤾‍♀️,woman playing handball
+448,person-sport,U+1F939,🤹,person juggling
+449,person-sport,"U+1F939,U+200D,U+2642,U+FE0F",🤹‍♂️,man juggling
+450,person-sport,"U+1F939,U+200D,U+2640,U+FE0F",🤹‍♀️,woman juggling
+451,person-resting,U+1F9D8,🧘,person in lotus position
+452,person-resting,"U+1F9D8,U+200D,U+2642,U+FE0F",🧘‍♂️,man in lotus position
+453,person-resting,"U+1F9D8,U+200D,U+2640,U+FE0F",🧘‍♀️,woman in lotus position
+454,person-resting,U+1F6C0,🛀,person taking bath
+455,person-resting,U+1F6CC,🛌,person in bed
+456,family,"U+1F9D1,U+200D,U+1F91D,U+200D,U+1F9D1",🧑‍🤝‍🧑,people holding hands
+457,family,U+1F46D,👭,women holding hands
+458,family,U+1F46B,👫,woman and man holding hands
+459,family,U+1F46C,👬,men holding hands
+460,family,U+1F48F,💏,kiss
+461,family,"U+1F469,U+200D,U+2764,U+FE0F,U+200D,U+1F48B,U+200D,U+1F468",👩‍❤️‍💋‍👨,"kiss: woman, man"
+462,family,"U+1F468,U+200D,U+2764,U+FE0F,U+200D,U+1F48B,U+200D,U+1F468",👨‍❤️‍💋‍👨,"kiss: man, man"
+463,family,"U+1F469,U+200D,U+2764,U+FE0F,U+200D,U+1F48B,U+200D,U+1F469",👩‍❤️‍💋‍👩,"kiss: woman, woman"
+464,family,U+1F491,💑,couple with heart
+465,family,"U+1F469,U+200D,U+2764,U+FE0F,U+200D,U+1F468",👩‍❤️‍👨,"couple with heart: woman, man"
+466,family,"U+1F468,U+200D,U+2764,U+FE0F,U+200D,U+1F468",👨‍❤️‍👨,"couple with heart: man, man"
+467,family,"U+1F469,U+200D,U+2764,U+FE0F,U+200D,U+1F469",👩‍❤️‍👩,"couple with heart: woman, woman"
+468,family,U+1F46A,👪,family
+469,family,"U+1F468,U+200D,U+1F469,U+200D,U+1F466",👨‍👩‍👦,"family: man, woman, boy"
+470,family,"U+1F468,U+200D,U+1F469,U+200D,U+1F467",👨‍👩‍👧,"family: man, woman, girl"
+471,family,"U+1F468,U+200D,U+1F469,U+200D,U+1F467,U+200D,U+1F466",👨‍👩‍👧‍👦,"family: man, woman, girl, boy"
+472,family,"U+1F468,U+200D,U+1F469,U+200D,U+1F466,U+200D,U+1F466",👨‍👩‍👦‍👦,"family: man, woman, boy, boy"
+473,family,"U+1F468,U+200D,U+1F469,U+200D,U+1F467,U+200D,U+1F467",👨‍👩‍👧‍👧,"family: man, woman, girl, girl"
+474,family,"U+1F468,U+200D,U+1F468,U+200D,U+1F466",👨‍👨‍👦,"family: man, man, boy"
+475,family,"U+1F468,U+200D,U+1F468,U+200D,U+1F467",👨‍👨‍👧,"family: man, man, girl"
+476,family,"U+1F468,U+200D,U+1F468,U+200D,U+1F467,U+200D,U+1F466",👨‍👨‍👧‍👦,"family: man, man, girl, boy"
+477,family,"U+1F468,U+200D,U+1F468,U+200D,U+1F466,U+200D,U+1F466",👨‍👨‍👦‍👦,"family: man, man, boy, boy"
+478,family,"U+1F468,U+200D,U+1F468,U+200D,U+1F467,U+200D,U+1F467",👨‍👨‍👧‍👧,"family: man, man, girl, girl"
+479,family,"U+1F469,U+200D,U+1F469,U+200D,U+1F466",👩‍👩‍👦,"family: woman, woman, boy"
+480,family,"U+1F469,U+200D,U+1F469,U+200D,U+1F467",👩‍👩‍👧,"family: woman, woman, girl"
+481,family,"U+1F469,U+200D,U+1F469,U+200D,U+1F467,U+200D,U+1F466",👩‍👩‍👧‍👦,"family: woman, woman, girl, boy"
+482,family,"U+1F469,U+200D,U+1F469,U+200D,U+1F466,U+200D,U+1F466",👩‍👩‍👦‍👦,"family: woman, woman, boy, boy"
+483,family,"U+1F469,U+200D,U+1F469,U+200D,U+1F467,U+200D,U+1F467",👩‍👩‍👧‍👧,"family: woman, woman, girl, girl"
+484,family,"U+1F468,U+200D,U+1F466",👨‍👦,"family: man, boy"
+485,family,"U+1F468,U+200D,U+1F466,U+200D,U+1F466",👨‍👦‍👦,"family: man, boy, boy"
+486,family,"U+1F468,U+200D,U+1F467",👨‍👧,"family: man, girl"
+487,family,"U+1F468,U+200D,U+1F467,U+200D,U+1F466",👨‍👧‍👦,"family: man, girl, boy"
+488,family,"U+1F468,U+200D,U+1F467,U+200D,U+1F467",👨‍👧‍👧,"family: man, girl, girl"
+489,family,"U+1F469,U+200D,U+1F466",👩‍👦,"family: woman, boy"
+490,family,"U+1F469,U+200D,U+1F466,U+200D,U+1F466",👩‍👦‍👦,"family: woman, boy, boy"
+491,family,"U+1F469,U+200D,U+1F467",👩‍👧,"family: woman, girl"
+492,family,"U+1F469,U+200D,U+1F467,U+200D,U+1F466",👩‍👧‍👦,"family: woman, girl, boy"
+493,family,"U+1F469,U+200D,U+1F467,U+200D,U+1F467",👩‍👧‍👧,"family: woman, girl, girl"
+494,person-symbol,U+1F5E3,🗣,speaking head
+495,person-symbol,U+1F464,👤,bust in silhouette
+496,person-symbol,U+1F465,👥,busts in silhouette
+497,person-symbol,U+1FAC2,🫂,⊛ people hugging
+498,person-symbol,U+1F463,👣,footprints
+499,hair-style,U+1F9B0,🦰,red hair
+500,hair-style,U+1F9B1,🦱,curly hair
+501,hair-style,U+1F9B3,🦳,white hair
+502,hair-style,U+1F9B2,🦲,bald
+503,animal-mammal,U+1F435,🐵,monkey face
+504,animal-mammal,U+1F412,🐒,monkey
+505,animal-mammal,U+1F98D,🦍,gorilla
+506,animal-mammal,U+1F9A7,🦧,orangutan
+507,animal-mammal,U+1F436,🐶,dog face
+508,animal-mammal,U+1F415,🐕,dog
+509,animal-mammal,U+1F9AE,🦮,guide dog
+510,animal-mammal,"U+1F415,U+200D,U+1F9BA",🐕‍🦺,service dog
+511,animal-mammal,U+1F429,🐩,poodle
+512,animal-mammal,U+1F43A,🐺,wolf
+513,animal-mammal,U+1F98A,🦊,fox
+514,animal-mammal,U+1F99D,🦝,raccoon
+515,animal-mammal,U+1F431,🐱,cat face
+516,animal-mammal,U+1F408,🐈,cat
+517,animal-mammal,"U+1F408,U+200D,U+2B1B",🐈‍⬛,
+518,animal-mammal,U+1F981,🦁,lion
+519,animal-mammal,U+1F42F,🐯,tiger face
+520,animal-mammal,U+1F405,🐅,tiger
+521,animal-mammal,U+1F406,🐆,leopard
+522,animal-mammal,U+1F434,🐴,horse face
+523,animal-mammal,U+1F40E,🐎,horse
+524,animal-mammal,U+1F984,🦄,unicorn
+525,animal-mammal,U+1F993,🦓,zebra
+526,animal-mammal,U+1F98C,🦌,deer
+527,animal-mammal,U+1F9AC,🦬,
+528,animal-mammal,U+1F42E,🐮,cow face
+529,animal-mammal,U+1F402,🐂,ox
+530,animal-mammal,U+1F403,🐃,water buffalo
+531,animal-mammal,U+1F404,🐄,cow
+532,animal-mammal,U+1F437,🐷,pig face
+533,animal-mammal,U+1F416,🐖,pig
+534,animal-mammal,U+1F417,🐗,boar
+535,animal-mammal,U+1F43D,🐽,pig nose
+536,animal-mammal,U+1F40F,🐏,ram
+537,animal-mammal,U+1F411,🐑,ewe
+538,animal-mammal,U+1F410,🐐,goat
+539,animal-mammal,U+1F42A,🐪,camel
+540,animal-mammal,U+1F42B,🐫,two-hump camel
+541,animal-mammal,U+1F999,🦙,llama
+542,animal-mammal,U+1F992,🦒,giraffe
+543,animal-mammal,U+1F418,🐘,elephant
+544,animal-mammal,U+1F9A3,🦣,
+545,animal-mammal,U+1F98F,🦏,rhinoceros
+546,animal-mammal,U+1F99B,🦛,hippopotamus
+547,animal-mammal,U+1F42D,🐭,mouse face
+548,animal-mammal,U+1F401,🐁,mouse
+549,animal-mammal,U+1F400,🐀,rat
+550,animal-mammal,U+1F439,🐹,hamster
+551,animal-mammal,U+1F430,🐰,rabbit face
+552,animal-mammal,U+1F407,🐇,rabbit
+553,animal-mammal,U+1F43F,🐿,chipmunk
+554,animal-mammal,U+1F9AB,🦫,
+555,animal-mammal,U+1F994,🦔,hedgehog
+556,animal-mammal,U+1F987,🦇,bat
+557,animal-mammal,U+1F43B,🐻,bear
+558,animal-mammal,"U+1F43B,U+200D,U+2744,U+FE0F",🐻‍❄️,⊛ polar bear
+559,animal-mammal,U+1F428,🐨,koala
+560,animal-mammal,U+1F43C,🐼,panda
+561,animal-mammal,U+1F9A5,🦥,sloth
+562,animal-mammal,U+1F9A6,🦦,otter
+563,animal-mammal,U+1F9A8,🦨,skunk
+564,animal-mammal,U+1F998,🦘,kangaroo
+565,animal-mammal,U+1F9A1,🦡,badger
+566,animal-mammal,U+1F43E,🐾,paw prints
+567,animal-bird,U+1F983,🦃,turkey
+568,animal-bird,U+1F414,🐔,chicken
+569,animal-bird,U+1F413,🐓,rooster
+570,animal-bird,U+1F423,🐣,hatching chick
+571,animal-bird,U+1F424,🐤,baby chick
+572,animal-bird,U+1F425,🐥,front-facing baby chick
+573,animal-bird,U+1F426,🐦,bird
+574,animal-bird,U+1F427,🐧,penguin
+575,animal-bird,U+1F54A,🕊,dove
+576,animal-bird,U+1F985,🦅,eagle
+577,animal-bird,U+1F986,🦆,duck
+578,animal-bird,U+1F9A2,🦢,swan
+579,animal-bird,U+1F989,🦉,owl
+580,animal-bird,U+1F9A4,🦤,
+581,animal-bird,U+1FAB6,🪶,⊛ feather
+582,animal-bird,U+1F9A9,🦩,flamingo
+583,animal-bird,U+1F99A,🦚,peacock
+584,animal-bird,U+1F99C,🦜,parrot
+585,animal-amphibian,U+1F438,🐸,frog
+586,animal-reptile,U+1F40A,🐊,crocodile
+587,animal-reptile,U+1F422,🐢,turtle
+588,animal-reptile,U+1F98E,🦎,lizard
+589,animal-reptile,U+1F40D,🐍,snake
+590,animal-reptile,U+1F432,🐲,dragon face
+591,animal-reptile,U+1F409,🐉,dragon
+592,animal-reptile,U+1F995,🦕,sauropod
+593,animal-reptile,U+1F996,🦖,T-Rex
+594,animal-marine,U+1F433,🐳,spouting whale
+595,animal-marine,U+1F40B,🐋,whale
+596,animal-marine,U+1F42C,🐬,dolphin
+597,animal-marine,U+1F9AD,🦭,
+598,animal-marine,U+1F41F,🐟,fish
+599,animal-marine,U+1F420,🐠,tropical fish
+600,animal-marine,U+1F421,🐡,blowfish
+601,animal-marine,U+1F988,🦈,shark
+602,animal-marine,U+1F419,🐙,octopus
+603,animal-marine,U+1F41A,🐚,spiral shell
+604,animal-bug,U+1F40C,🐌,snail
+605,animal-bug,U+1F98B,🦋,butterfly
+606,animal-bug,U+1F41B,🐛,bug
+607,animal-bug,U+1F41C,🐜,ant
+608,animal-bug,U+1F41D,🐝,honeybee
+609,animal-bug,U+1FAB2,🪲,
+610,animal-bug,U+1F41E,🐞,lady beetle
+611,animal-bug,U+1F997,🦗,cricket
+612,animal-bug,U+1FAB3,🪳,
+613,animal-bug,U+1F577,🕷,spider
+614,animal-bug,U+1F578,🕸,spider web
+615,animal-bug,U+1F982,🦂,scorpion
+616,animal-bug,U+1F99F,🦟,mosquito
+617,animal-bug,U+1FAB0,🪰,
+618,animal-bug,U+1FAB1,🪱,
+619,animal-bug,U+1F9A0,🦠,microbe
+620,plant-flower,U+1F490,💐,bouquet
+621,plant-flower,U+1F338,🌸,cherry blossom
+622,plant-flower,U+1F4AE,💮,white flower
+623,plant-flower,U+1F3F5,🏵,rosette
+624,plant-flower,U+1F339,🌹,rose
+625,plant-flower,U+1F940,🥀,wilted flower
+626,plant-flower,U+1F33A,🌺,hibiscus
+627,plant-flower,U+1F33B,🌻,sunflower
+628,plant-flower,U+1F33C,🌼,blossom
+629,plant-flower,U+1F337,🌷,tulip
+630,plant-other,U+1F331,🌱,seedling
+631,plant-other,U+1FAB4,🪴,⊛ potted plant
+632,plant-other,U+1F332,🌲,evergreen tree
+633,plant-other,U+1F333,🌳,deciduous tree
+634,plant-other,U+1F334,🌴,palm tree
+635,plant-other,U+1F335,🌵,cactus
+636,plant-other,U+1F33E,🌾,sheaf of rice
+637,plant-other,U+1F33F,🌿,herb
+638,plant-other,U+2618,☘,shamrock
+639,plant-other,U+1F340,🍀,four leaf clover
+640,plant-other,U+1F341,🍁,maple leaf
+641,plant-other,U+1F342,🍂,fallen leaf
+642,plant-other,U+1F343,🍃,leaf fluttering in wind
+643,food-fruit,U+1F347,🍇,grapes
+644,food-fruit,U+1F348,🍈,melon
+645,food-fruit,U+1F349,🍉,watermelon
+646,food-fruit,U+1F34A,🍊,tangerine
+647,food-fruit,U+1F34B,🍋,lemon
+648,food-fruit,U+1F34C,🍌,banana
+649,food-fruit,U+1F34D,🍍,pineapple
+650,food-fruit,U+1F96D,🥭,mango
+651,food-fruit,U+1F34E,🍎,red apple
+652,food-fruit,U+1F34F,🍏,green apple
+653,food-fruit,U+1F350,🍐,pear
+654,food-fruit,U+1F351,🍑,peach
+655,food-fruit,U+1F352,🍒,cherries
+656,food-fruit,U+1F353,🍓,strawberry
+657,food-fruit,U+1FAD0,🫐,⊛ blueberries
+658,food-fruit,U+1F95D,🥝,kiwi fruit
+659,food-fruit,U+1F345,🍅,tomato
+660,food-fruit,U+1FAD2,🫒,⊛ olive
+661,food-fruit,U+1F965,🥥,coconut
+662,food-vegetable,U+1F951,🥑,avocado
+663,food-vegetable,U+1F346,🍆,eggplant
+664,food-vegetable,U+1F954,🥔,potato
+665,food-vegetable,U+1F955,🥕,carrot
+666,food-vegetable,U+1F33D,🌽,ear of corn
+667,food-vegetable,U+1F336,🌶,hot pepper
+668,food-vegetable,U+1FAD1,🫑,
+669,food-vegetable,U+1F952,🥒,cucumber
+670,food-vegetable,U+1F96C,🥬,leafy green
+671,food-vegetable,U+1F966,🥦,broccoli
+672,food-vegetable,U+1F9C4,🧄,garlic
+673,food-vegetable,U+1F9C5,🧅,onion
+674,food-vegetable,U+1F344,🍄,mushroom
+675,food-vegetable,U+1F95C,🥜,peanuts
+676,food-vegetable,U+1F330,🌰,chestnut
+677,food-prepared,U+1F35E,🍞,bread
+678,food-prepared,U+1F950,🥐,croissant
+679,food-prepared,U+1F956,🥖,baguette bread
+680,food-prepared,U+1FAD3,🫓,⊛ flatbread
+681,food-prepared,U+1F968,🥨,pretzel
+682,food-prepared,U+1F96F,🥯,bagel
+683,food-prepared,U+1F95E,🥞,pancakes
+684,food-prepared,U+1F9C7,🧇,waffle
+685,food-prepared,U+1F9C0,🧀,cheese wedge
+686,food-prepared,U+1F356,🍖,meat on bone
+687,food-prepared,U+1F357,🍗,poultry leg
+688,food-prepared,U+1F969,🥩,cut of meat
+689,food-prepared,U+1F953,🥓,bacon
+690,food-prepared,U+1F354,🍔,hamburger
+691,food-prepared,U+1F35F,🍟,french fries
+692,food-prepared,U+1F355,🍕,pizza
+693,food-prepared,U+1F32D,🌭,hot dog
+694,food-prepared,U+1F96A,🥪,sandwich
+695,food-prepared,U+1F32E,🌮,taco
+696,food-prepared,U+1F32F,🌯,burrito
+697,food-prepared,U+1FAD4,🫔,⊛ tamale
+698,food-prepared,U+1F959,🥙,stuffed flatbread
+699,food-prepared,U+1F9C6,🧆,falafel
+700,food-prepared,U+1F95A,🥚,egg
+701,food-prepared,U+1F373,🍳,cooking
+702,food-prepared,U+1F958,🥘,shallow pan of food
+703,food-prepared,U+1F372,🍲,pot of food
+704,food-prepared,U+1FAD5,🫕,⊛ fondue
+705,food-prepared,U+1F963,🥣,bowl with spoon
+706,food-prepared,U+1F957,🥗,green salad
+707,food-prepared,U+1F37F,🍿,popcorn
+708,food-prepared,U+1F9C8,🧈,butter
+709,food-prepared,U+1F9C2,🧂,salt
+710,food-prepared,U+1F96B,🥫,canned food
+711,food-asian,U+1F371,🍱,bento box
+712,food-asian,U+1F358,🍘,rice cracker
+713,food-asian,U+1F359,🍙,rice ball
+714,food-asian,U+1F35A,🍚,cooked rice
+715,food-asian,U+1F35B,🍛,curry rice
+716,food-asian,U+1F35C,🍜,steaming bowl
+717,food-asian,U+1F35D,🍝,spaghetti
+718,food-asian,U+1F360,🍠,roasted sweet potato
+719,food-asian,U+1F362,🍢,oden
+720,food-asian,U+1F363,🍣,sushi
+721,food-asian,U+1F364,🍤,fried shrimp
+722,food-asian,U+1F365,🍥,fish cake with swirl
+723,food-asian,U+1F96E,🥮,moon cake
+724,food-asian,U+1F361,🍡,dango
+725,food-asian,U+1F95F,🥟,dumpling
+726,food-asian,U+1F960,🥠,fortune cookie
+727,food-asian,U+1F961,🥡,takeout box
+728,food-marine,U+1F980,🦀,crab
+729,food-marine,U+1F99E,🦞,lobster
+730,food-marine,U+1F990,🦐,shrimp
+731,food-marine,U+1F991,🦑,squid
+732,food-marine,U+1F9AA,🦪,oyster
+733,food-sweet,U+1F366,🍦,soft ice cream
+734,food-sweet,U+1F367,🍧,shaved ice
+735,food-sweet,U+1F368,🍨,ice cream
+736,food-sweet,U+1F369,🍩,doughnut
+737,food-sweet,U+1F36A,🍪,cookie
+738,food-sweet,U+1F382,🎂,birthday cake
+739,food-sweet,U+1F370,🍰,shortcake
+740,food-sweet,U+1F9C1,🧁,cupcake
+741,food-sweet,U+1F967,🥧,pie
+742,food-sweet,U+1F36B,🍫,chocolate bar
+743,food-sweet,U+1F36C,🍬,candy
+744,food-sweet,U+1F36D,🍭,lollipop
+745,food-sweet,U+1F36E,🍮,custard
+746,food-sweet,U+1F36F,🍯,honey pot
+747,drink,U+1F37C,🍼,baby bottle
+748,drink,U+1F95B,🥛,glass of milk
+749,drink,U+2615,☕,hot beverage
+750,drink,U+1FAD6,🫖,
+751,drink,U+1F375,🍵,teacup without handle
+752,drink,U+1F376,🍶,sake
+753,drink,U+1F37E,🍾,bottle with popping cork
+754,drink,U+1F377,🍷,wine glass
+755,drink,U+1F378,🍸,cocktail glass
+756,drink,U+1F379,🍹,tropical drink
+757,drink,U+1F37A,🍺,beer mug
+758,drink,U+1F37B,🍻,clinking beer mugs
+759,drink,U+1F942,🥂,clinking glasses
+760,drink,U+1F943,🥃,tumbler glass
+761,drink,U+1F964,🥤,cup with straw
+762,drink,U+1F9CB,🧋,⊛ bubble tea
+763,drink,U+1F9C3,🧃,beverage box
+764,drink,U+1F9C9,🧉,mate
+765,drink,U+1F9CA,🧊,ice
+766,dishware,U+1F962,🥢,chopsticks
+767,dishware,U+1F37D,🍽,fork and knife with plate
+768,dishware,U+1F374,🍴,fork and knife
+769,dishware,U+1F944,🥄,spoon
+770,dishware,U+1F52A,🔪,kitchen knife
+771,dishware,U+1F3FA,🏺,amphora
+772,place-map,U+1F30D,🌍,globe showing Europe-Africa
+773,place-map,U+1F30E,🌎,globe showing Americas
+774,place-map,U+1F30F,🌏,globe showing Asia-Australia
+775,place-map,U+1F310,🌐,globe with meridians
+776,place-map,U+1F5FA,🗺,world map
+777,place-map,U+1F5FE,🗾,map of Japan
+778,place-map,U+1F9ED,🧭,compass
+779,place-geographic,U+1F3D4,🏔,snow-capped mountain
+780,place-geographic,U+26F0,⛰,mountain
+781,place-geographic,U+1F30B,🌋,volcano
+782,place-geographic,U+1F5FB,🗻,mount fuji
+783,place-geographic,U+1F3D5,🏕,camping
+784,place-geographic,U+1F3D6,🏖,beach with umbrella
+785,place-geographic,U+1F3DC,🏜,desert
+786,place-geographic,U+1F3DD,🏝,desert island
+787,place-geographic,U+1F3DE,🏞,national park
+788,place-building,U+1F3DF,🏟,stadium
+789,place-building,U+1F3DB,🏛,classical building
+790,place-building,U+1F3D7,🏗,building construction
+791,place-building,U+1F9F1,🧱,brick
+792,place-building,U+1FAA8,🪨,⊛ rock
+793,place-building,U+1FAB5,🪵,⊛ wood
+794,place-building,U+1F6D6,🛖,
+795,place-building,U+1F3D8,🏘,houses
+796,place-building,U+1F3DA,🏚,derelict house
+797,place-building,U+1F3E0,🏠,house
+798,place-building,U+1F3E1,🏡,house with garden
+799,place-building,U+1F3E2,🏢,office building
+800,place-building,U+1F3E3,🏣,Japanese post office
+801,place-building,U+1F3E4,🏤,post office
+802,place-building,U+1F3E5,🏥,hospital
+803,place-building,U+1F3E6,🏦,bank
+804,place-building,U+1F3E8,🏨,hotel
+805,place-building,U+1F3E9,🏩,love hotel
+806,place-building,U+1F3EA,🏪,convenience store
+807,place-building,U+1F3EB,🏫,school
+808,place-building,U+1F3EC,🏬,department store
+809,place-building,U+1F3ED,🏭,factory
+810,place-building,U+1F3EF,🏯,Japanese castle
+811,place-building,U+1F3F0,🏰,castle
+812,place-building,U+1F492,💒,wedding
+813,place-building,U+1F5FC,🗼,Tokyo tower
+814,place-building,U+1F5FD,🗽,Statue of Liberty
+815,place-religious,U+26EA,⛪,church
+816,place-religious,U+1F54C,🕌,mosque
+817,place-religious,U+1F6D5,🛕,hindu temple
+818,place-religious,U+1F54D,🕍,synagogue
+819,place-religious,U+26E9,⛩,shinto shrine
+820,place-religious,U+1F54B,🕋,kaaba
+821,place-other,U+26F2,⛲,fountain
+822,place-other,U+26FA,⛺,tent
+823,place-other,U+1F301,🌁,foggy
+824,place-other,U+1F303,🌃,night with stars
+825,place-other,U+1F3D9,🏙,cityscape
+826,place-other,U+1F304,🌄,sunrise over mountains
+827,place-other,U+1F305,🌅,sunrise
+828,place-other,U+1F306,🌆,cityscape at dusk
+829,place-other,U+1F307,🌇,sunset
+830,place-other,U+1F309,🌉,bridge at night
+831,place-other,U+2668,♨,hot springs
+832,place-other,U+1F3A0,🎠,carousel horse
+833,place-other,U+1F3A1,🎡,ferris wheel
+834,place-other,U+1F3A2,🎢,roller coaster
+835,place-other,U+1F488,💈,barber pole
+836,place-other,U+1F3AA,🎪,circus tent
+837,transport-ground,U+1F682,🚂,locomotive
+838,transport-ground,U+1F683,🚃,railway car
+839,transport-ground,U+1F684,🚄,high-speed train
+840,transport-ground,U+1F685,🚅,bullet train
+841,transport-ground,U+1F686,🚆,train
+842,transport-ground,U+1F687,🚇,metro
+843,transport-ground,U+1F688,🚈,light rail
+844,transport-ground,U+1F689,🚉,station
+845,transport-ground,U+1F68A,🚊,tram
+846,transport-ground,U+1F69D,🚝,monorail
+847,transport-ground,U+1F69E,🚞,mountain railway
+848,transport-ground,U+1F68B,🚋,tram car
+849,transport-ground,U+1F68C,🚌,bus
+850,transport-ground,U+1F68D,🚍,oncoming bus
+851,transport-ground,U+1F68E,🚎,trolleybus
+852,transport-ground,U+1F690,🚐,minibus
+853,transport-ground,U+1F691,🚑,ambulance
+854,transport-ground,U+1F692,🚒,fire engine
+855,transport-ground,U+1F693,🚓,police car
+856,transport-ground,U+1F694,🚔,oncoming police car
+857,transport-ground,U+1F695,🚕,taxi
+858,transport-ground,U+1F696,🚖,oncoming taxi
+859,transport-ground,U+1F697,🚗,automobile
+860,transport-ground,U+1F698,🚘,oncoming automobile
+861,transport-ground,U+1F699,🚙,sport utility vehicle
+862,transport-ground,U+1F6FB,🛻,
+863,transport-ground,U+1F69A,🚚,delivery truck
+864,transport-ground,U+1F69B,🚛,articulated lorry
+865,transport-ground,U+1F69C,🚜,tractor
+866,transport-ground,U+1F3CE,🏎,racing car
+867,transport-ground,U+1F3CD,🏍,motorcycle
+868,transport-ground,U+1F6F5,🛵,motor scooter
+869,transport-ground,U+1F9BD,🦽,manual wheelchair
+870,transport-ground,U+1F9BC,🦼,motorized wheelchair
+871,transport-ground,U+1F6FA,🛺,auto rickshaw
+872,transport-ground,U+1F6B2,🚲,bicycle
+873,transport-ground,U+1F6F4,🛴,kick scooter
+874,transport-ground,U+1F6F9,🛹,skateboard
+875,transport-ground,U+1F6FC,🛼,⊛ roller skate
+876,transport-ground,U+1F68F,🚏,bus stop
+877,transport-ground,U+1F6E3,🛣,motorway
+878,transport-ground,U+1F6E4,🛤,railway track
+879,transport-ground,U+1F6E2,🛢,oil drum
+880,transport-ground,U+26FD,⛽,fuel pump
+881,transport-ground,U+1F6A8,🚨,police car light
+882,transport-ground,U+1F6A5,🚥,horizontal traffic light
+883,transport-ground,U+1F6A6,🚦,vertical traffic light
+884,transport-ground,U+1F6D1,🛑,stop sign
+885,transport-ground,U+1F6A7,🚧,construction
+886,transport-water,U+2693,⚓,anchor
+887,transport-water,U+26F5,⛵,sailboat
+888,transport-water,U+1F6F6,🛶,canoe
+889,transport-water,U+1F6A4,🚤,speedboat
+890,transport-water,U+1F6F3,🛳,passenger ship
+891,transport-water,U+26F4,⛴,ferry
+892,transport-water,U+1F6E5,🛥,motor boat
+893,transport-water,U+1F6A2,🚢,ship
+894,transport-air,U+2708,✈,airplane
+895,transport-air,U+1F6E9,🛩,small airplane
+896,transport-air,U+1F6EB,🛫,airplane departure
+897,transport-air,U+1F6EC,🛬,airplane arrival
+898,transport-air,U+1FA82,🪂,parachute
+899,transport-air,U+1F4BA,💺,seat
+900,transport-air,U+1F681,🚁,helicopter
+901,transport-air,U+1F69F,🚟,suspension railway
+902,transport-air,U+1F6A0,🚠,mountain cableway
+903,transport-air,U+1F6A1,🚡,aerial tramway
+904,transport-air,U+1F6F0,🛰,satellite
+905,transport-air,U+1F680,🚀,rocket
+906,transport-air,U+1F6F8,🛸,flying saucer
+907,hotel,U+1F6CE,🛎,bellhop bell
+908,hotel,U+1F9F3,🧳,luggage
+909,time,U+231B,⌛,hourglass done
+910,time,U+23F3,⏳,hourglass not done
+911,time,U+231A,⌚,watch
+912,time,U+23F0,⏰,alarm clock
+913,time,U+23F1,⏱,stopwatch
+914,time,U+23F2,⏲,timer clock
+915,time,U+1F570,🕰,mantelpiece clock
+916,time,U+1F55B,🕛,twelve o’clock
+917,time,U+1F567,🕧,twelve-thirty
+918,time,U+1F550,🕐,one o’clock
+919,time,U+1F55C,🕜,one-thirty
+920,time,U+1F551,🕑,two o’clock
+921,time,U+1F55D,🕝,two-thirty
+922,time,U+1F552,🕒,three o’clock
+923,time,U+1F55E,🕞,three-thirty
+924,time,U+1F553,🕓,four o’clock
+925,time,U+1F55F,🕟,four-thirty
+926,time,U+1F554,🕔,five o’clock
+927,time,U+1F560,🕠,five-thirty
+928,time,U+1F555,🕕,six o’clock
+929,time,U+1F561,🕡,six-thirty
+930,time,U+1F556,🕖,seven o’clock
+931,time,U+1F562,🕢,seven-thirty
+932,time,U+1F557,🕗,eight o’clock
+933,time,U+1F563,🕣,eight-thirty
+934,time,U+1F558,🕘,nine o’clock
+935,time,U+1F564,🕤,nine-thirty
+936,time,U+1F559,🕙,ten o’clock
+937,time,U+1F565,🕥,ten-thirty
+938,time,U+1F55A,🕚,eleven o’clock
+939,time,U+1F566,🕦,eleven-thirty
+940,sky & weather,U+1F311,🌑,new moon
+941,sky & weather,U+1F312,🌒,waxing crescent moon
+942,sky & weather,U+1F313,🌓,first quarter moon
+943,sky & weather,U+1F314,🌔,waxing gibbous moon
+944,sky & weather,U+1F315,🌕,full moon
+945,sky & weather,U+1F316,🌖,waning gibbous moon
+946,sky & weather,U+1F317,🌗,last quarter moon
+947,sky & weather,U+1F318,🌘,waning crescent moon
+948,sky & weather,U+1F319,🌙,crescent moon
+949,sky & weather,U+1F31A,🌚,new moon face
+950,sky & weather,U+1F31B,🌛,first quarter moon face
+951,sky & weather,U+1F31C,🌜,last quarter moon face
+952,sky & weather,U+1F321,🌡,thermometer
+953,sky & weather,U+2600,☀,sun
+954,sky & weather,U+1F31D,🌝,full moon face
+955,sky & weather,U+1F31E,🌞,sun with face
+956,sky & weather,U+1FA90,🪐,ringed planet
+957,sky & weather,U+2B50,⭐,star
+958,sky & weather,U+1F31F,🌟,glowing star
+959,sky & weather,U+1F320,🌠,shooting star
+960,sky & weather,U+1F30C,🌌,milky way
+961,sky & weather,U+2601,☁,cloud
+962,sky & weather,U+26C5,⛅,sun behind cloud
+963,sky & weather,U+26C8,⛈,cloud with lightning and rain
+964,sky & weather,U+1F324,🌤,sun behind small cloud
+965,sky & weather,U+1F325,🌥,sun behind large cloud
+966,sky & weather,U+1F326,🌦,sun behind rain cloud
+967,sky & weather,U+1F327,🌧,cloud with rain
+968,sky & weather,U+1F328,🌨,cloud with snow
+969,sky & weather,U+1F329,🌩,cloud with lightning
+970,sky & weather,U+1F32A,🌪,tornado
+971,sky & weather,U+1F32B,🌫,fog
+972,sky & weather,U+1F32C,🌬,wind face
+973,sky & weather,U+1F300,🌀,cyclone
+974,sky & weather,U+1F308,🌈,rainbow
+975,sky & weather,U+1F302,🌂,closed umbrella
+976,sky & weather,U+2602,☂,umbrella
+977,sky & weather,U+2614,☔,umbrella with rain drops
+978,sky & weather,U+26F1,⛱,umbrella on ground
+979,sky & weather,U+26A1,⚡,high voltage
+980,sky & weather,U+2744,❄,snowflake
+981,sky & weather,U+2603,☃,snowman
+982,sky & weather,U+26C4,⛄,snowman without snow
+983,sky & weather,U+2604,☄,comet
+984,sky & weather,U+1F525,🔥,fire
+985,sky & weather,U+1F4A7,💧,droplet
+986,sky & weather,U+1F30A,🌊,water wave
+987,event,U+1F383,🎃,jack-o-lantern
+988,event,U+1F384,🎄,Christmas tree
+989,event,U+1F386,🎆,fireworks
+990,event,U+1F387,🎇,sparkler
+991,event,U+1F9E8,🧨,firecracker
+992,event,U+2728,✨,sparkles
+993,event,U+1F388,🎈,balloon
+994,event,U+1F389,🎉,party popper
+995,event,U+1F38A,🎊,confetti ball
+996,event,U+1F38B,🎋,tanabata tree
+997,event,U+1F38D,🎍,pine decoration
+998,event,U+1F38E,🎎,Japanese dolls
+999,event,U+1F38F,🎏,carp streamer
+1000,event,U+1F390,🎐,wind chime
+1001,event,U+1F391,🎑,moon viewing ceremony
+1002,event,U+1F9E7,🧧,red envelope
+1003,event,U+1F380,🎀,ribbon
+1004,event,U+1F381,🎁,wrapped gift
+1005,event,U+1F397,🎗,reminder ribbon
+1006,event,U+1F39F,🎟,admission tickets
+1007,event,U+1F3AB,🎫,ticket
+1008,award-medal,U+1F396,🎖,military medal
+1009,award-medal,U+1F3C6,🏆,trophy
+1010,award-medal,U+1F3C5,🏅,sports medal
+1011,award-medal,U+1F947,🥇,1st place medal
+1012,award-medal,U+1F948,🥈,2nd place medal
+1013,award-medal,U+1F949,🥉,3rd place medal
+1014,sport,U+26BD,⚽,soccer ball
+1015,sport,U+26BE,⚾,baseball
+1016,sport,U+1F94E,🥎,softball
+1017,sport,U+1F3C0,🏀,basketball
+1018,sport,U+1F3D0,🏐,volleyball
+1019,sport,U+1F3C8,🏈,american football
+1020,sport,U+1F3C9,🏉,rugby football
+1021,sport,U+1F3BE,🎾,tennis
+1022,sport,U+1F94F,🥏,flying disc
+1023,sport,U+1F3B3,🎳,bowling
+1024,sport,U+1F3CF,🏏,cricket game
+1025,sport,U+1F3D1,🏑,field hockey
+1026,sport,U+1F3D2,🏒,ice hockey
+1027,sport,U+1F94D,🥍,lacrosse
+1028,sport,U+1F3D3,🏓,ping pong
+1029,sport,U+1F3F8,🏸,badminton
+1030,sport,U+1F94A,🥊,boxing glove
+1031,sport,U+1F94B,🥋,martial arts uniform
+1032,sport,U+1F945,🥅,goal net
+1033,sport,U+26F3,⛳,flag in hole
+1034,sport,U+26F8,⛸,ice skate
+1035,sport,U+1F3A3,🎣,fishing pole
+1036,sport,U+1F93F,🤿,diving mask
+1037,sport,U+1F3BD,🎽,running shirt
+1038,sport,U+1F3BF,🎿,skis
+1039,sport,U+1F6F7,🛷,sled
+1040,sport,U+1F94C,🥌,curling stone
+1041,game,U+1F3AF,🎯,direct hit
+1042,game,U+1FA80,🪀,yo-yo
+1043,game,U+1FA81,🪁,kite
+1044,game,U+1F3B1,🎱,pool 8 ball
+1045,game,U+1F52E,🔮,crystal ball
+1046,game,U+1FA84,🪄,⊛ magic wand
+1047,game,U+1F9FF,🧿,nazar amulet
+1048,game,U+1F3AE,🎮,video game
+1049,game,U+1F579,🕹,joystick
+1050,game,U+1F3B0,🎰,slot machine
+1051,game,U+1F3B2,🎲,game die
+1052,game,U+1F9E9,🧩,puzzle piece
+1053,game,U+1F9F8,🧸,teddy bear
+1054,game,U+1FA85,🪅,⊛ piñata
+1055,game,U+1FA86,🪆,⊛ nesting dolls
+1056,game,U+2660,♠,spade suit
+1057,game,U+2665,♥,heart suit
+1058,game,U+2666,♦,diamond suit
+1059,game,U+2663,♣,club suit
+1060,game,U+265F,♟,chess pawn
+1061,game,U+1F0CF,🃏,joker
+1062,game,U+1F004,🀄,mahjong red dragon
+1063,game,U+1F3B4,🎴,flower playing cards
+1064,arts & crafts,U+1F3AD,🎭,performing arts
+1065,arts & crafts,U+1F5BC,🖼,framed picture
+1066,arts & crafts,U+1F3A8,🎨,artist palette
+1067,arts & crafts,U+1F9F5,🧵,thread
+1068,arts & crafts,U+1FAA1,🪡,⊛ sewing needle
+1069,arts & crafts,U+1F9F6,🧶,yarn
+1070,arts & crafts,U+1FAA2,🪢,⊛ knot
+1071,clothing,U+1F453,👓,glasses
+1072,clothing,U+1F576,🕶,sunglasses
+1073,clothing,U+1F97D,🥽,goggles
+1074,clothing,U+1F97C,🥼,lab coat
+1075,clothing,U+1F9BA,🦺,safety vest
+1076,clothing,U+1F454,👔,necktie
+1077,clothing,U+1F455,👕,t-shirt
+1078,clothing,U+1F456,👖,jeans
+1079,clothing,U+1F9E3,🧣,scarf
+1080,clothing,U+1F9E4,🧤,gloves
+1081,clothing,U+1F9E5,🧥,coat
+1082,clothing,U+1F9E6,🧦,socks
+1083,clothing,U+1F457,👗,dress
+1084,clothing,U+1F458,👘,kimono
+1085,clothing,U+1F97B,🥻,sari
+1086,clothing,U+1FA71,🩱,one-piece swimsuit
+1087,clothing,U+1FA72,🩲,briefs
+1088,clothing,U+1FA73,🩳,shorts
+1089,clothing,U+1F459,👙,bikini
+1090,clothing,U+1F45A,👚,woman’s clothes
+1091,clothing,U+1F45B,👛,purse
+1092,clothing,U+1F45C,👜,handbag
+1093,clothing,U+1F45D,👝,clutch bag
+1094,clothing,U+1F6CD,🛍,shopping bags
+1095,clothing,U+1F392,🎒,backpack
+1096,clothing,U+1FA74,🩴,⊛ thong sandal
+1097,clothing,U+1F45E,👞,man’s shoe
+1098,clothing,U+1F45F,👟,running shoe
+1099,clothing,U+1F97E,🥾,hiking boot
+1100,clothing,U+1F97F,🥿,flat shoe
+1101,clothing,U+1F460,👠,high-heeled shoe
+1102,clothing,U+1F461,👡,woman’s sandal
+1103,clothing,U+1FA70,🩰,ballet shoes
+1104,clothing,U+1F462,👢,woman’s boot
+1105,clothing,U+1F451,👑,crown
+1106,clothing,U+1F452,👒,woman’s hat
+1107,clothing,U+1F3A9,🎩,top hat
+1108,clothing,U+1F393,🎓,graduation cap
+1109,clothing,U+1F9E2,🧢,billed cap
+1110,clothing,U+1FA96,🪖,⊛ military helmet
+1111,clothing,U+26D1,⛑,rescue worker’s helmet
+1112,clothing,U+1F4FF,📿,prayer beads
+1113,clothing,U+1F484,💄,lipstick
+1114,clothing,U+1F48D,💍,ring
+1115,clothing,U+1F48E,💎,gem stone
+1116,sound,U+1F507,🔇,muted speaker
+1117,sound,U+1F508,🔈,speaker low volume
+1118,sound,U+1F509,🔉,speaker medium volume
+1119,sound,U+1F50A,🔊,speaker high volume
+1120,sound,U+1F4E2,📢,loudspeaker
+1121,sound,U+1F4E3,📣,megaphone
+1122,sound,U+1F4EF,📯,postal horn
+1123,sound,U+1F514,🔔,bell
+1124,sound,U+1F515,🔕,bell with slash
+1125,music,U+1F3BC,🎼,musical score
+1126,music,U+1F3B5,🎵,musical note
+1127,music,U+1F3B6,🎶,musical notes
+1128,music,U+1F399,🎙,studio microphone
+1129,music,U+1F39A,🎚,level slider
+1130,music,U+1F39B,🎛,control knobs
+1131,music,U+1F3A4,🎤,microphone
+1132,music,U+1F3A7,🎧,headphone
+1133,music,U+1F4FB,📻,radio
+1134,musical-instrument,U+1F3B7,🎷,saxophone
+1135,musical-instrument,U+1FA97,🪗,⊛ accordion
+1136,musical-instrument,U+1F3B8,🎸,guitar
+1137,musical-instrument,U+1F3B9,🎹,musical keyboard
+1138,musical-instrument,U+1F3BA,🎺,trumpet
+1139,musical-instrument,U+1F3BB,🎻,violin
+1140,musical-instrument,U+1FA95,🪕,banjo
+1141,musical-instrument,U+1F941,🥁,drum
+1142,musical-instrument,U+1FA98,🪘,⊛ long drum
+1143,phone,U+1F4F1,📱,mobile phone
+1144,phone,U+1F4F2,📲,mobile phone with arrow
+1145,phone,U+260E,☎,telephone
+1146,phone,U+1F4DE,📞,telephone receiver
+1147,phone,U+1F4DF,📟,pager
+1148,phone,U+1F4E0,📠,fax machine
+1149,computer,U+1F50B,🔋,battery
+1150,computer,U+1F50C,🔌,electric plug
+1151,computer,U+1F4BB,💻,laptop
+1152,computer,U+1F5A5,🖥,desktop computer
+1153,computer,U+1F5A8,🖨,printer
+1154,computer,U+2328,⌨,keyboard
+1155,computer,U+1F5B1,🖱,computer mouse
+1156,computer,U+1F5B2,🖲,trackball
+1157,computer,U+1F4BD,💽,computer disk
+1158,computer,U+1F4BE,💾,floppy disk
+1159,computer,U+1F4BF,💿,optical disk
+1160,computer,U+1F4C0,📀,dvd
+1161,computer,U+1F9EE,🧮,abacus
+1162,light & video,U+1F3A5,🎥,movie camera
+1163,light & video,U+1F39E,🎞,film frames
+1164,light & video,U+1F4FD,📽,film projector
+1165,light & video,U+1F3AC,🎬,clapper board
+1166,light & video,U+1F4FA,📺,television
+1167,light & video,U+1F4F7,📷,camera
+1168,light & video,U+1F4F8,📸,camera with flash
+1169,light & video,U+1F4F9,📹,video camera
+1170,light & video,U+1F4FC,📼,videocassette
+1171,light & video,U+1F50D,🔍,magnifying glass tilted left
+1172,light & video,U+1F50E,🔎,magnifying glass tilted right
+1173,light & video,U+1F56F,🕯,candle
+1174,light & video,U+1F4A1,💡,light bulb
+1175,light & video,U+1F526,🔦,flashlight
+1176,light & video,U+1F3EE,🏮,red paper lantern
+1177,light & video,U+1FA94,🪔,diya lamp
+1178,book-paper,U+1F4D4,📔,notebook with decorative cover
+1179,book-paper,U+1F4D5,📕,closed book
+1180,book-paper,U+1F4D6,📖,open book
+1181,book-paper,U+1F4D7,📗,green book
+1182,book-paper,U+1F4D8,📘,blue book
+1183,book-paper,U+1F4D9,📙,orange book
+1184,book-paper,U+1F4DA,📚,books
+1185,book-paper,U+1F4D3,📓,notebook
+1186,book-paper,U+1F4D2,📒,ledger
+1187,book-paper,U+1F4C3,📃,page with curl
+1188,book-paper,U+1F4DC,📜,scroll
+1189,book-paper,U+1F4C4,📄,page facing up
+1190,book-paper,U+1F4F0,📰,newspaper
+1191,book-paper,U+1F5DE,🗞,rolled-up newspaper
+1192,book-paper,U+1F4D1,📑,bookmark tabs
+1193,book-paper,U+1F516,🔖,bookmark
+1194,book-paper,U+1F3F7,🏷,label
+1195,money,U+1F4B0,💰,money bag
+1196,money,U+1FA99,🪙,⊛ coin
+1197,money,U+1F4B4,💴,yen banknote
+1198,money,U+1F4B5,💵,dollar banknote
+1199,money,U+1F4B6,💶,euro banknote
+1200,money,U+1F4B7,💷,pound banknote
+1201,money,U+1F4B8,💸,money with wings
+1202,money,U+1F4B3,💳,credit card
+1203,money,U+1F9FE,🧾,receipt
+1204,money,U+1F4B9,💹,chart increasing with yen
+1205,mail,U+2709,✉,envelope
+1206,mail,U+1F4E7,📧,e-mail
+1207,mail,U+1F4E8,📨,incoming envelope
+1208,mail,U+1F4E9,📩,envelope with arrow
+1209,mail,U+1F4E4,📤,outbox tray
+1210,mail,U+1F4E5,📥,inbox tray
+1211,mail,U+1F4E6,📦,package
+1212,mail,U+1F4EB,📫,closed mailbox with raised flag
+1213,mail,U+1F4EA,📪,closed mailbox with lowered flag
+1214,mail,U+1F4EC,📬,open mailbox with raised flag
+1215,mail,U+1F4ED,📭,open mailbox with lowered flag
+1216,mail,U+1F4EE,📮,postbox
+1217,mail,U+1F5F3,🗳,ballot box with ballot
+1218,writing,U+270F,✏,pencil
+1219,writing,U+2712,✒,black nib
+1220,writing,U+1F58B,🖋,fountain pen
+1221,writing,U+1F58A,🖊,pen
+1222,writing,U+1F58C,🖌,paintbrush
+1223,writing,U+1F58D,🖍,crayon
+1224,writing,U+1F4DD,📝,memo
+1225,office,U+1F4BC,💼,briefcase
+1226,office,U+1F4C1,📁,file folder
+1227,office,U+1F4C2,📂,open file folder
+1228,office,U+1F5C2,🗂,card index dividers
+1229,office,U+1F4C5,📅,calendar
+1230,office,U+1F4C6,📆,tear-off calendar
+1231,office,U+1F5D2,🗒,spiral notepad
+1232,office,U+1F5D3,🗓,spiral calendar
+1233,office,U+1F4C7,📇,card index
+1234,office,U+1F4C8,📈,chart increasing
+1235,office,U+1F4C9,📉,chart decreasing
+1236,office,U+1F4CA,📊,bar chart
+1237,office,U+1F4CB,📋,clipboard
+1238,office,U+1F4CC,📌,pushpin
+1239,office,U+1F4CD,📍,round pushpin
+1240,office,U+1F4CE,📎,paperclip
+1241,office,U+1F587,🖇,linked paperclips
+1242,office,U+1F4CF,📏,straight ruler
+1243,office,U+1F4D0,📐,triangular ruler
+1244,office,U+2702,✂,scissors
+1245,office,U+1F5C3,🗃,card file box
+1246,office,U+1F5C4,🗄,file cabinet
+1247,office,U+1F5D1,🗑,wastebasket
+1248,lock,U+1F512,🔒,locked
+1249,lock,U+1F513,🔓,unlocked
+1250,lock,U+1F50F,🔏,locked with pen
+1251,lock,U+1F510,🔐,locked with key
+1252,lock,U+1F511,🔑,key
+1253,lock,U+1F5DD,🗝,old key
+1254,tool,U+1F528,🔨,hammer
+1255,tool,U+1FA93,🪓,axe
+1256,tool,U+26CF,⛏,pick
+1257,tool,U+2692,⚒,hammer and pick
+1258,tool,U+1F6E0,🛠,hammer and wrench
+1259,tool,U+1F5E1,🗡,dagger
+1260,tool,U+2694,⚔,crossed swords
+1261,tool,U+1F52B,🔫,pistol
+1262,tool,U+1FA83,🪃,⊛ boomerang
+1263,tool,U+1F3F9,🏹,bow and arrow
+1264,tool,U+1F6E1,🛡,shield
+1265,tool,U+1FA9A,🪚,
+1266,tool,U+1F527,🔧,wrench
+1267,tool,U+1FA9B,🪛,⊛ screwdriver
+1268,tool,U+1F529,🔩,nut and bolt
+1269,tool,U+2699,⚙,gear
+1270,tool,U+1F5DC,🗜,clamp
+1271,tool,U+2696,⚖,balance scale
+1272,tool,U+1F9AF,🦯,white cane
+1273,tool,U+1F517,🔗,link
+1274,tool,U+26D3,⛓,chains
+1275,tool,U+1FA9D,🪝,⊛ hook
+1276,tool,U+1F9F0,🧰,toolbox
+1277,tool,U+1F9F2,🧲,magnet
+1278,tool,U+1FA9C,🪜,⊛ ladder
+1279,science,U+2697,⚗,alembic
+1280,science,U+1F9EA,🧪,test tube
+1281,science,U+1F9EB,🧫,petri dish
+1282,science,U+1F9EC,🧬,dna
+1283,science,U+1F52C,🔬,microscope
+1284,science,U+1F52D,🔭,telescope
+1285,science,U+1F4E1,📡,satellite antenna
+1286,medical,U+1F489,💉,syringe
+1287,medical,U+1FA78,🩸,drop of blood
+1288,medical,U+1F48A,💊,pill
+1289,medical,U+1FA79,🩹,adhesive bandage
+1290,medical,U+1FA7A,🩺,stethoscope
+1291,household,U+1F6AA,🚪,door
+1292,household,U+1F6D7,🛗,⊛ elevator
+1293,household,U+1FA9E,🪞,
+1294,household,U+1FA9F,🪟,
+1295,household,U+1F6CF,🛏,bed
+1296,household,U+1F6CB,🛋,couch and lamp
+1297,household,U+1FA91,🪑,chair
+1298,household,U+1F6BD,🚽,toilet
+1299,household,U+1FAA0,🪠,⊛ plunger
+1300,household,U+1F6BF,🚿,shower
+1301,household,U+1F6C1,🛁,bathtub
+1302,household,U+1FAA4,🪤,
+1303,household,U+1FA92,🪒,razor
+1304,household,U+1F9F4,🧴,lotion bottle
+1305,household,U+1F9F7,🧷,safety pin
+1306,household,U+1F9F9,🧹,broom
+1307,household,U+1F9FA,🧺,basket
+1308,household,U+1F9FB,🧻,roll of paper
+1309,household,U+1FAA3,🪣,⊛ bucket
+1310,household,U+1F9FC,🧼,soap
+1311,household,U+1FAA5,🪥,⊛ toothbrush
+1312,household,U+1F9FD,🧽,sponge
+1313,household,U+1F9EF,🧯,fire extinguisher
+1314,household,U+1F6D2,🛒,shopping cart
+1315,other-object,U+1F6AC,🚬,cigarette
+1316,other-object,U+26B0,⚰,coffin
+1317,other-object,U+1FAA6,🪦,
+1318,other-object,U+26B1,⚱,funeral urn
+1319,other-object,U+1F5FF,🗿,moai
+1320,other-object,U+1FAA7,🪧,⊛ placard
+1321,transport-sign,U+1F3E7,🏧,ATM sign
+1322,transport-sign,U+1F6AE,🚮,litter in bin sign
+1323,transport-sign,U+1F6B0,🚰,potable water
+1324,transport-sign,U+267F,♿,wheelchair symbol
+1325,transport-sign,U+1F6B9,🚹,men’s room
+1326,transport-sign,U+1F6BA,🚺,women’s room
+1327,transport-sign,U+1F6BB,🚻,restroom
+1328,transport-sign,U+1F6BC,🚼,baby symbol
+1329,transport-sign,U+1F6BE,🚾,water closet
+1330,transport-sign,U+1F6C2,🛂,passport control
+1331,transport-sign,U+1F6C3,🛃,customs
+1332,transport-sign,U+1F6C4,🛄,baggage claim
+1333,transport-sign,U+1F6C5,🛅,left luggage
+1334,warning,U+26A0,⚠,warning
+1335,warning,U+1F6B8,🚸,children crossing
+1336,warning,U+26D4,⛔,no entry
+1337,warning,U+1F6AB,🚫,prohibited
+1338,warning,U+1F6B3,🚳,no bicycles
+1339,warning,U+1F6AD,🚭,no smoking
+1340,warning,U+1F6AF,🚯,no littering
+1341,warning,U+1F6B1,🚱,non-potable water
+1342,warning,U+1F6B7,🚷,no pedestrians
+1343,warning,U+1F4F5,📵,no mobile phones
+1344,warning,U+1F51E,🔞,no one under eighteen
+1345,warning,U+2622,☢,radioactive
+1346,warning,U+2623,☣,biohazard
+1347,arrow,U+2B06,⬆,up arrow
+1348,arrow,U+2197,↗,up-right arrow
+1349,arrow,U+27A1,➡,right arrow
+1350,arrow,U+2198,↘,down-right arrow
+1351,arrow,U+2B07,⬇,down arrow
+1352,arrow,U+2199,↙,down-left arrow
+1353,arrow,U+2B05,⬅,left arrow
+1354,arrow,U+2196,↖,up-left arrow
+1355,arrow,U+2195,↕,up-down arrow
+1356,arrow,U+2194,↔,left-right arrow
+1357,arrow,U+21A9,↩,right arrow curving left
+1358,arrow,U+21AA,↪,left arrow curving right
+1359,arrow,U+2934,⤴,right arrow curving up
+1360,arrow,U+2935,⤵,right arrow curving down
+1361,arrow,U+1F503,🔃,clockwise vertical arrows
+1362,arrow,U+1F504,🔄,counterclockwise arrows button
+1363,arrow,U+1F519,🔙,BACK arrow
+1364,arrow,U+1F51A,🔚,END arrow
+1365,arrow,U+1F51B,🔛,ON! arrow
+1366,arrow,U+1F51C,🔜,SOON arrow
+1367,arrow,U+1F51D,🔝,TOP arrow
+1368,religion,U+1F6D0,🛐,place of worship
+1369,religion,U+269B,⚛,atom symbol
+1370,religion,U+1F549,🕉,om
+1371,religion,U+2721,✡,star of David
+1372,religion,U+2638,☸,wheel of dharma
+1373,religion,U+262F,☯,yin yang
+1374,religion,U+271D,✝,latin cross
+1375,religion,U+2626,☦,orthodox cross
+1376,religion,U+262A,☪,star and crescent
+1377,religion,U+262E,☮,peace symbol
+1378,religion,U+1F54E,🕎,menorah
+1379,religion,U+1F52F,🔯,dotted six-pointed star
+1380,zodiac,U+2648,♈,Aries
+1381,zodiac,U+2649,♉,Taurus
+1382,zodiac,U+264A,♊,Gemini
+1383,zodiac,U+264B,♋,Cancer
+1384,zodiac,U+264C,♌,Leo
+1385,zodiac,U+264D,♍,Virgo
+1386,zodiac,U+264E,♎,Libra
+1387,zodiac,U+264F,♏,Scorpio
+1388,zodiac,U+2650,♐,Sagittarius
+1389,zodiac,U+2651,♑,Capricorn
+1390,zodiac,U+2652,♒,Aquarius
+1391,zodiac,U+2653,♓,Pisces
+1392,zodiac,U+26CE,⛎,Ophiuchus
+1393,av-symbol,U+1F500,🔀,shuffle tracks button
+1394,av-symbol,U+1F501,🔁,repeat button
+1395,av-symbol,U+1F502,🔂,repeat single button
+1396,av-symbol,U+25B6,▶,play button
+1397,av-symbol,U+23E9,⏩,fast-forward button
+1398,av-symbol,U+23ED,⏭,next track button
+1399,av-symbol,U+23EF,⏯,play or pause button
+1400,av-symbol,U+25C0,◀,reverse button
+1401,av-symbol,U+23EA,⏪,fast reverse button
+1402,av-symbol,U+23EE,⏮,last track button
+1403,av-symbol,U+1F53C,🔼,upwards button
+1404,av-symbol,U+23EB,⏫,fast up button
+1405,av-symbol,U+1F53D,🔽,downwards button
+1406,av-symbol,U+23EC,⏬,fast down button
+1407,av-symbol,U+23F8,⏸,pause button
+1408,av-symbol,U+23F9,⏹,stop button
+1409,av-symbol,U+23FA,⏺,record button
+1410,av-symbol,U+23CF,⏏,eject button
+1411,av-symbol,U+1F3A6,🎦,cinema
+1412,av-symbol,U+1F505,🔅,dim button
+1413,av-symbol,U+1F506,🔆,bright button
+1414,av-symbol,U+1F4F6,📶,antenna bars
+1415,av-symbol,U+1F4F3,📳,vibration mode
+1416,av-symbol,U+1F4F4,📴,mobile phone off
+1417,gender,U+2640,♀,female sign
+1418,gender,U+2642,♂,male sign
+1419,gender,U+26A7,⚧,⊛ transgender symbol
+1420,math,U+2716,✖,multiply
+1421,math,U+2795,➕,plus
+1422,math,U+2796,➖,minus
+1423,math,U+2797,➗,divide
+1424,math,U+267E,♾,infinity
+1425,punctuation,U+203C,‼,double exclamation mark
+1426,punctuation,U+2049,⁉,exclamation question mark
+1427,punctuation,U+2753,❓,question mark
+1428,punctuation,U+2754,❔,white question mark
+1429,punctuation,U+2755,❕,white exclamation mark
+1430,punctuation,U+2757,❗,exclamation mark
+1431,punctuation,U+3030,〰,wavy dash
+1432,currency,U+1F4B1,💱,currency exchange
+1433,currency,U+1F4B2,💲,heavy dollar sign
+1434,other-symbol,U+2695,⚕,medical symbol
+1435,other-symbol,U+267B,♻,recycling symbol
+1436,other-symbol,U+269C,⚜,fleur-de-lis
+1437,other-symbol,U+1F531,🔱,trident emblem
+1438,other-symbol,U+1F4DB,📛,name badge
+1439,other-symbol,U+1F530,🔰,Japanese symbol for beginner
+1440,other-symbol,U+2B55,⭕,hollow red circle
+1441,other-symbol,U+2705,✅,check mark button
+1442,other-symbol,U+2611,☑,check box with check
+1443,other-symbol,U+2714,✔,check mark
+1444,other-symbol,U+274C,❌,cross mark
+1445,other-symbol,U+274E,❎,cross mark button
+1446,other-symbol,U+27B0,➰,curly loop
+1447,other-symbol,U+27BF,➿,double curly loop
+1448,other-symbol,U+303D,〽,part alternation mark
+1449,other-symbol,U+2733,✳,eight-spoked asterisk
+1450,other-symbol,U+2734,✴,eight-pointed star
+1451,other-symbol,U+2747,❇,sparkle
+1452,other-symbol,U+00A9,©,copyright
+1453,other-symbol,U+00AE,®,registered
+1454,other-symbol,U+2122,™,trade mark
+1455,keycap,"U+0023,U+FE0F,U+20E3",#️⃣,keycap: #
+1456,keycap,"U+002A,U+FE0F,U+20E3",*️⃣,keycap: *
+1457,keycap,"U+0030,U+FE0F,U+20E3",0️⃣,keycap: 0
+1458,keycap,"U+0031,U+FE0F,U+20E3",1️⃣,keycap: 1
+1459,keycap,"U+0032,U+FE0F,U+20E3",2️⃣,keycap: 2
+1460,keycap,"U+0033,U+FE0F,U+20E3",3️⃣,keycap: 3
+1461,keycap,"U+0034,U+FE0F,U+20E3",4️⃣,keycap: 4
+1462,keycap,"U+0035,U+FE0F,U+20E3",5️⃣,keycap: 5
+1463,keycap,"U+0036,U+FE0F,U+20E3",6️⃣,keycap: 6
+1464,keycap,"U+0037,U+FE0F,U+20E3",7️⃣,keycap: 7
+1465,keycap,"U+0038,U+FE0F,U+20E3",8️⃣,keycap: 8
+1466,keycap,"U+0039,U+FE0F,U+20E3",9️⃣,keycap: 9
+1467,keycap,U+1F51F,🔟,keycap: 10
+1468,alphanum,U+1F520,🔠,input latin uppercase
+1469,alphanum,U+1F521,🔡,input latin lowercase
+1470,alphanum,U+1F522,🔢,input numbers
+1471,alphanum,U+1F523,🔣,input symbols
+1472,alphanum,U+1F524,🔤,input latin letters
+1473,alphanum,U+1F170,🅰,A button (blood type)
+1474,alphanum,U+1F18E,🆎,AB button (blood type)
+1475,alphanum,U+1F171,🅱,B button (blood type)
+1476,alphanum,U+1F191,🆑,CL button
+1477,alphanum,U+1F192,🆒,COOL button
+1478,alphanum,U+1F193,🆓,FREE button
+1479,alphanum,U+2139,ℹ,information
+1480,alphanum,U+1F194,🆔,ID button
+1481,alphanum,U+24C2,Ⓜ,circled M
+1482,alphanum,U+1F195,🆕,NEW button
+1483,alphanum,U+1F196,🆖,NG button
+1484,alphanum,U+1F17E,🅾,O button (blood type)
+1485,alphanum,U+1F197,🆗,OK button
+1486,alphanum,U+1F17F,🅿,P button
+1487,alphanum,U+1F198,🆘,SOS button
+1488,alphanum,U+1F199,🆙,UP! button
+1489,alphanum,U+1F19A,🆚,VS button
+1490,alphanum,U+1F201,🈁,Japanese “here” button
+1491,alphanum,U+1F202,🈂,Japanese “service charge” button
+1492,alphanum,U+1F237,🈷,Japanese “monthly amount” button
+1493,alphanum,U+1F236,🈶,Japanese “not free of charge” button
+1494,alphanum,U+1F22F,🈯,Japanese “reserved” button
+1495,alphanum,U+1F250,🉐,Japanese “bargain” button
+1496,alphanum,U+1F239,🈹,Japanese “discount” button
+1497,alphanum,U+1F21A,🈚,Japanese “free of charge” button
+1498,alphanum,U+1F232,🈲,Japanese “prohibited” button
+1499,alphanum,U+1F251,🉑,Japanese “acceptable” button
+1500,alphanum,U+1F238,🈸,Japanese “application” button
+1501,alphanum,U+1F234,🈴,Japanese “passing grade” button
+1502,alphanum,U+1F233,🈳,Japanese “vacancy” button
+1503,alphanum,U+3297,㊗,Japanese “congratulations” button
+1504,alphanum,U+3299,㊙,Japanese “secret” button
+1505,alphanum,U+1F23A,🈺,Japanese “open for business” button
+1506,alphanum,U+1F235,🈵,Japanese “no vacancy” button
+1507,geometric,U+1F534,🔴,red circle
+1508,geometric,U+1F7E0,🟠,orange circle
+1509,geometric,U+1F7E1,🟡,yellow circle
+1510,geometric,U+1F7E2,🟢,green circle
+1511,geometric,U+1F535,🔵,blue circle
+1512,geometric,U+1F7E3,🟣,purple circle
+1513,geometric,U+1F7E4,🟤,brown circle
+1514,geometric,U+26AB,⚫,black circle
+1515,geometric,U+26AA,⚪,white circle
+1516,geometric,U+1F7E5,🟥,red square
+1517,geometric,U+1F7E7,🟧,orange square
+1518,geometric,U+1F7E8,🟨,yellow square
+1519,geometric,U+1F7E9,🟩,green square
+1520,geometric,U+1F7E6,🟦,blue square
+1521,geometric,U+1F7EA,🟪,purple square
+1522,geometric,U+1F7EB,🟫,brown square
+1523,geometric,U+2B1B,⬛,black large square
+1524,geometric,U+2B1C,⬜,white large square
+1525,geometric,U+25FC,◼,black medium square
+1526,geometric,U+25FB,◻,white medium square
+1527,geometric,U+25FE,◾,black medium-small square
+1528,geometric,U+25FD,◽,white medium-small square
+1529,geometric,U+25AA,▪,black small square
+1530,geometric,U+25AB,▫,white small square
+1531,geometric,U+1F536,🔶,large orange diamond
+1532,geometric,U+1F537,🔷,large blue diamond
+1533,geometric,U+1F538,🔸,small orange diamond
+1534,geometric,U+1F539,🔹,small blue diamond
+1535,geometric,U+1F53A,🔺,red triangle pointed up
+1536,geometric,U+1F53B,🔻,red triangle pointed down
+1537,geometric,U+1F4A0,💠,diamond with a dot
+1538,geometric,U+1F518,🔘,radio button
+1539,geometric,U+1F533,🔳,white square button
+1540,geometric,U+1F532,🔲,black square button
+1541,flag,U+1F3C1,🏁,chequered flag
+1542,flag,U+1F6A9,🚩,triangular flag
+1543,flag,U+1F38C,🎌,crossed flags
+1544,flag,U+1F3F4,🏴,black flag
+1545,flag,U+1F3F3,🏳,white flag
+1546,flag,"U+1F3F3,U+FE0F,U+200D,U+1F308",🏳️‍🌈,rainbow flag
+1547,flag,"U+1F3F3,U+FE0F,U+200D,U+26A7,U+FE0F",🏳️‍⚧️,⊛ transgender flag
+1548,flag,"U+1F3F4,U+200D,U+2620,U+FE0F",🏴‍☠️,pirate flag
+1549,country-flag,"U+1F1E6,U+1F1E8",🇦🇨,flag: Ascension Island
+1550,country-flag,"U+1F1E6,U+1F1E9",🇦🇩,flag: Andorra
+1551,country-flag,"U+1F1E6,U+1F1EA",🇦🇪,flag: United Arab Emirates
+1552,country-flag,"U+1F1E6,U+1F1EB",🇦🇫,flag: Afghanistan
+1553,country-flag,"U+1F1E6,U+1F1EC",🇦🇬,flag: Antigua & Barbuda
+1554,country-flag,"U+1F1E6,U+1F1EE",🇦🇮,flag: Anguilla
+1555,country-flag,"U+1F1E6,U+1F1F1",🇦🇱,flag: Albania
+1556,country-flag,"U+1F1E6,U+1F1F2",🇦🇲,flag: Armenia
+1557,country-flag,"U+1F1E6,U+1F1F4",🇦🇴,flag: Angola
+1558,country-flag,"U+1F1E6,U+1F1F6",🇦🇶,flag: Antarctica
+1559,country-flag,"U+1F1E6,U+1F1F7",🇦🇷,flag: Argentina
+1560,country-flag,"U+1F1E6,U+1F1F8",🇦🇸,flag: American Samoa
+1561,country-flag,"U+1F1E6,U+1F1F9",🇦🇹,flag: Austria
+1562,country-flag,"U+1F1E6,U+1F1FA",🇦🇺,flag: Australia
+1563,country-flag,"U+1F1E6,U+1F1FC",🇦🇼,flag: Aruba
+1564,country-flag,"U+1F1E6,U+1F1FD",🇦🇽,flag: Åland Islands
+1565,country-flag,"U+1F1E6,U+1F1FF",🇦🇿,flag: Azerbaijan
+1566,country-flag,"U+1F1E7,U+1F1E6",🇧🇦,flag: Bosnia & Herzegovina
+1567,country-flag,"U+1F1E7,U+1F1E7",🇧🇧,flag: Barbados
+1568,country-flag,"U+1F1E7,U+1F1E9",🇧🇩,flag: Bangladesh
+1569,country-flag,"U+1F1E7,U+1F1EA",🇧🇪,flag: Belgium
+1570,country-flag,"U+1F1E7,U+1F1EB",🇧🇫,flag: Burkina Faso
+1571,country-flag,"U+1F1E7,U+1F1EC",🇧🇬,flag: Bulgaria
+1572,country-flag,"U+1F1E7,U+1F1ED",🇧🇭,flag: Bahrain
+1573,country-flag,"U+1F1E7,U+1F1EE",🇧🇮,flag: Burundi
+1574,country-flag,"U+1F1E7,U+1F1EF",🇧🇯,flag: Benin
+1575,country-flag,"U+1F1E7,U+1F1F1",🇧🇱,flag: St. Barthélemy
+1576,country-flag,"U+1F1E7,U+1F1F2",🇧🇲,flag: Bermuda
+1577,country-flag,"U+1F1E7,U+1F1F3",🇧🇳,flag: Brunei
+1578,country-flag,"U+1F1E7,U+1F1F4",🇧🇴,flag: Bolivia
+1579,country-flag,"U+1F1E7,U+1F1F6",🇧🇶,flag: Caribbean Netherlands
+1580,country-flag,"U+1F1E7,U+1F1F7",🇧🇷,flag: Brazil
+1581,country-flag,"U+1F1E7,U+1F1F8",🇧🇸,flag: Bahamas
+1582,country-flag,"U+1F1E7,U+1F1F9",🇧🇹,flag: Bhutan
+1583,country-flag,"U+1F1E7,U+1F1FB",🇧🇻,flag: Bouvet Island
+1584,country-flag,"U+1F1E7,U+1F1FC",🇧🇼,flag: Botswana
+1585,country-flag,"U+1F1E7,U+1F1FE",🇧🇾,flag: Belarus
+1586,country-flag,"U+1F1E7,U+1F1FF",🇧🇿,flag: Belize
+1587,country-flag,"U+1F1E8,U+1F1E6",🇨🇦,flag: Canada
+1588,country-flag,"U+1F1E8,U+1F1E8",🇨🇨,flag: Cocos (Keeling) Islands
+1589,country-flag,"U+1F1E8,U+1F1E9",🇨🇩,flag: Congo - Kinshasa
+1590,country-flag,"U+1F1E8,U+1F1EB",🇨🇫,flag: Central African Republic
+1591,country-flag,"U+1F1E8,U+1F1EC",🇨🇬,flag: Congo - Brazzaville
+1592,country-flag,"U+1F1E8,U+1F1ED",🇨🇭,flag: Switzerland
+1593,country-flag,"U+1F1E8,U+1F1EE",🇨🇮,flag: Côte d’Ivoire
+1594,country-flag,"U+1F1E8,U+1F1F0",🇨🇰,flag: Cook Islands
+1595,country-flag,"U+1F1E8,U+1F1F1",🇨🇱,flag: Chile
+1596,country-flag,"U+1F1E8,U+1F1F2",🇨🇲,flag: Cameroon
+1597,country-flag,"U+1F1E8,U+1F1F3",🇨🇳,flag: China
+1598,country-flag,"U+1F1E8,U+1F1F4",🇨🇴,flag: Colombia
+1599,country-flag,"U+1F1E8,U+1F1F5",🇨🇵,flag: Clipperton Island
+1600,country-flag,"U+1F1E8,U+1F1F7",🇨🇷,flag: Costa Rica
+1601,country-flag,"U+1F1E8,U+1F1FA",🇨🇺,flag: Cuba
+1602,country-flag,"U+1F1E8,U+1F1FB",🇨🇻,flag: Cape Verde
+1603,country-flag,"U+1F1E8,U+1F1FC",🇨🇼,flag: Curaçao
+1604,country-flag,"U+1F1E8,U+1F1FD",🇨🇽,flag: Christmas Island
+1605,country-flag,"U+1F1E8,U+1F1FE",🇨🇾,flag: Cyprus
+1606,country-flag,"U+1F1E8,U+1F1FF",🇨🇿,flag: Czechia
+1607,country-flag,"U+1F1E9,U+1F1EA",🇩🇪,flag: Germany
+1608,country-flag,"U+1F1E9,U+1F1EC",🇩🇬,flag: Diego Garcia
+1609,country-flag,"U+1F1E9,U+1F1EF",🇩🇯,flag: Djibouti
+1610,country-flag,"U+1F1E9,U+1F1F0",🇩🇰,flag: Denmark
+1611,country-flag,"U+1F1E9,U+1F1F2",🇩🇲,flag: Dominica
+1612,country-flag,"U+1F1E9,U+1F1F4",🇩🇴,flag: Dominican Republic
+1613,country-flag,"U+1F1E9,U+1F1FF",🇩🇿,flag: Algeria
+1614,country-flag,"U+1F1EA,U+1F1E6",🇪🇦,flag: Ceuta & Melilla
+1615,country-flag,"U+1F1EA,U+1F1E8",🇪🇨,flag: Ecuador
+1616,country-flag,"U+1F1EA,U+1F1EA",🇪🇪,flag: Estonia
+1617,country-flag,"U+1F1EA,U+1F1EC",🇪🇬,flag: Egypt
+1618,country-flag,"U+1F1EA,U+1F1ED",🇪🇭,flag: Western Sahara
+1619,country-flag,"U+1F1EA,U+1F1F7",🇪🇷,flag: Eritrea
+1620,country-flag,"U+1F1EA,U+1F1F8",🇪🇸,flag: Spain
+1621,country-flag,"U+1F1EA,U+1F1F9",🇪🇹,flag: Ethiopia
+1622,country-flag,"U+1F1EA,U+1F1FA",🇪🇺,flag: European Union
+1623,country-flag,"U+1F1EB,U+1F1EE",🇫🇮,flag: Finland
+1624,country-flag,"U+1F1EB,U+1F1EF",🇫🇯,flag: Fiji
+1625,country-flag,"U+1F1EB,U+1F1F0",🇫🇰,flag: Falkland Islands
+1626,country-flag,"U+1F1EB,U+1F1F2",🇫🇲,flag: Micronesia
+1627,country-flag,"U+1F1EB,U+1F1F4",🇫🇴,flag: Faroe Islands
+1628,country-flag,"U+1F1EB,U+1F1F7",🇫🇷,flag: France
+1629,country-flag,"U+1F1EC,U+1F1E6",🇬🇦,flag: Gabon
+1630,country-flag,"U+1F1EC,U+1F1E7",🇬🇧,flag: United Kingdom
+1631,country-flag,"U+1F1EC,U+1F1E9",🇬🇩,flag: Grenada
+1632,country-flag,"U+1F1EC,U+1F1EA",🇬🇪,flag: Georgia
+1633,country-flag,"U+1F1EC,U+1F1EB",🇬🇫,flag: French Guiana
+1634,country-flag,"U+1F1EC,U+1F1EC",🇬🇬,flag: Guernsey
+1635,country-flag,"U+1F1EC,U+1F1ED",🇬🇭,flag: Ghana
+1636,country-flag,"U+1F1EC,U+1F1EE",🇬🇮,flag: Gibraltar
+1637,country-flag,"U+1F1EC,U+1F1F1",🇬🇱,flag: Greenland
+1638,country-flag,"U+1F1EC,U+1F1F2",🇬🇲,flag: Gambia
+1639,country-flag,"U+1F1EC,U+1F1F3",🇬🇳,flag: Guinea
+1640,country-flag,"U+1F1EC,U+1F1F5",🇬🇵,flag: Guadeloupe
+1641,country-flag,"U+1F1EC,U+1F1F6",🇬🇶,flag: Equatorial Guinea
+1642,country-flag,"U+1F1EC,U+1F1F7",🇬🇷,flag: Greece
+1643,country-flag,"U+1F1EC,U+1F1F8",🇬🇸,flag: South Georgia & South Sandwich Islands
+1644,country-flag,"U+1F1EC,U+1F1F9",🇬🇹,flag: Guatemala
+1645,country-flag,"U+1F1EC,U+1F1FA",🇬🇺,flag: Guam
+1646,country-flag,"U+1F1EC,U+1F1FC",🇬🇼,flag: Guinea-Bissau
+1647,country-flag,"U+1F1EC,U+1F1FE",🇬🇾,flag: Guyana
+1648,country-flag,"U+1F1ED,U+1F1F0",🇭🇰,flag: Hong Kong SAR China
+1649,country-flag,"U+1F1ED,U+1F1F2",🇭🇲,flag: Heard & McDonald Islands
+1650,country-flag,"U+1F1ED,U+1F1F3",🇭🇳,flag: Honduras
+1651,country-flag,"U+1F1ED,U+1F1F7",🇭🇷,flag: Croatia
+1652,country-flag,"U+1F1ED,U+1F1F9",🇭🇹,flag: Haiti
+1653,country-flag,"U+1F1ED,U+1F1FA",🇭🇺,flag: Hungary
+1654,country-flag,"U+1F1EE,U+1F1E8",🇮🇨,flag: Canary Islands
+1655,country-flag,"U+1F1EE,U+1F1E9",🇮🇩,flag: Indonesia
+1656,country-flag,"U+1F1EE,U+1F1EA",🇮🇪,flag: Ireland
+1657,country-flag,"U+1F1EE,U+1F1F1",🇮🇱,flag: Israel
+1658,country-flag,"U+1F1EE,U+1F1F2",🇮🇲,flag: Isle of Man
+1659,country-flag,"U+1F1EE,U+1F1F3",🇮🇳,flag: India
+1660,country-flag,"U+1F1EE,U+1F1F4",🇮🇴,flag: British Indian Ocean Territory
+1661,country-flag,"U+1F1EE,U+1F1F6",🇮🇶,flag: Iraq
+1662,country-flag,"U+1F1EE,U+1F1F7",🇮🇷,flag: Iran
+1663,country-flag,"U+1F1EE,U+1F1F8",🇮🇸,flag: Iceland
+1664,country-flag,"U+1F1EE,U+1F1F9",🇮🇹,flag: Italy
+1665,country-flag,"U+1F1EF,U+1F1EA",🇯🇪,flag: Jersey
+1666,country-flag,"U+1F1EF,U+1F1F2",🇯🇲,flag: Jamaica
+1667,country-flag,"U+1F1EF,U+1F1F4",🇯🇴,flag: Jordan
+1668,country-flag,"U+1F1EF,U+1F1F5",🇯🇵,flag: Japan
+1669,country-flag,"U+1F1F0,U+1F1EA",🇰🇪,flag: Kenya
+1670,country-flag,"U+1F1F0,U+1F1EC",🇰🇬,flag: Kyrgyzstan
+1671,country-flag,"U+1F1F0,U+1F1ED",🇰🇭,flag: Cambodia
+1672,country-flag,"U+1F1F0,U+1F1EE",🇰🇮,flag: Kiribati
+1673,country-flag,"U+1F1F0,U+1F1F2",🇰🇲,flag: Comoros
+1674,country-flag,"U+1F1F0,U+1F1F3",🇰🇳,flag: St. Kitts & Nevis
+1675,country-flag,"U+1F1F0,U+1F1F5",🇰🇵,flag: North Korea
+1676,country-flag,"U+1F1F0,U+1F1F7",🇰🇷,flag: South Korea
+1677,country-flag,"U+1F1F0,U+1F1FC",🇰🇼,flag: Kuwait
+1678,country-flag,"U+1F1F0,U+1F1FE",🇰🇾,flag: Cayman Islands
+1679,country-flag,"U+1F1F0,U+1F1FF",🇰🇿,flag: Kazakhstan
+1680,country-flag,"U+1F1F1,U+1F1E6",🇱🇦,flag: Laos
+1681,country-flag,"U+1F1F1,U+1F1E7",🇱🇧,flag: Lebanon
+1682,country-flag,"U+1F1F1,U+1F1E8",🇱🇨,flag: St. Lucia
+1683,country-flag,"U+1F1F1,U+1F1EE",🇱🇮,flag: Liechtenstein
+1684,country-flag,"U+1F1F1,U+1F1F0",🇱🇰,flag: Sri Lanka
+1685,country-flag,"U+1F1F1,U+1F1F7",🇱🇷,flag: Liberia
+1686,country-flag,"U+1F1F1,U+1F1F8",🇱🇸,flag: Lesotho
+1687,country-flag,"U+1F1F1,U+1F1F9",🇱🇹,flag: Lithuania
+1688,country-flag,"U+1F1F1,U+1F1FA",🇱🇺,flag: Luxembourg
+1689,country-flag,"U+1F1F1,U+1F1FB",🇱🇻,flag: Latvia
+1690,country-flag,"U+1F1F1,U+1F1FE",🇱🇾,flag: Libya
+1691,country-flag,"U+1F1F2,U+1F1E6",🇲🇦,flag: Morocco
+1692,country-flag,"U+1F1F2,U+1F1E8",🇲🇨,flag: Monaco
+1693,country-flag,"U+1F1F2,U+1F1E9",🇲🇩,flag: Moldova
+1694,country-flag,"U+1F1F2,U+1F1EA",🇲🇪,flag: Montenegro
+1695,country-flag,"U+1F1F2,U+1F1EB",🇲🇫,flag: St. Martin
+1696,country-flag,"U+1F1F2,U+1F1EC",🇲🇬,flag: Madagascar
+1697,country-flag,"U+1F1F2,U+1F1ED",🇲🇭,flag: Marshall Islands
+1698,country-flag,"U+1F1F2,U+1F1F0",🇲🇰,flag: North Macedonia
+1699,country-flag,"U+1F1F2,U+1F1F1",🇲🇱,flag: Mali
+1700,country-flag,"U+1F1F2,U+1F1F2",🇲🇲,flag: Myanmar (Burma)
+1701,country-flag,"U+1F1F2,U+1F1F3",🇲🇳,flag: Mongolia
+1702,country-flag,"U+1F1F2,U+1F1F4",🇲🇴,flag: Macao SAR China
+1703,country-flag,"U+1F1F2,U+1F1F5",🇲🇵,flag: Northern Mariana Islands
+1704,country-flag,"U+1F1F2,U+1F1F6",🇲🇶,flag: Martinique
+1705,country-flag,"U+1F1F2,U+1F1F7",🇲🇷,flag: Mauritania
+1706,country-flag,"U+1F1F2,U+1F1F8",🇲🇸,flag: Montserrat
+1707,country-flag,"U+1F1F2,U+1F1F9",🇲🇹,flag: Malta
+1708,country-flag,"U+1F1F2,U+1F1FA",🇲🇺,flag: Mauritius
+1709,country-flag,"U+1F1F2,U+1F1FB",🇲🇻,flag: Maldives
+1710,country-flag,"U+1F1F2,U+1F1FC",🇲🇼,flag: Malawi
+1711,country-flag,"U+1F1F2,U+1F1FD",🇲🇽,flag: Mexico
+1712,country-flag,"U+1F1F2,U+1F1FE",🇲🇾,flag: Malaysia
+1713,country-flag,"U+1F1F2,U+1F1FF",🇲🇿,flag: Mozambique
+1714,country-flag,"U+1F1F3,U+1F1E6",🇳🇦,flag: Namibia
+1715,country-flag,"U+1F1F3,U+1F1E8",🇳🇨,flag: New Caledonia
+1716,country-flag,"U+1F1F3,U+1F1EA",🇳🇪,flag: Niger
+1717,country-flag,"U+1F1F3,U+1F1EB",🇳🇫,flag: Norfolk Island
+1718,country-flag,"U+1F1F3,U+1F1EC",🇳🇬,flag: Nigeria
+1719,country-flag,"U+1F1F3,U+1F1EE",🇳🇮,flag: Nicaragua
+1720,country-flag,"U+1F1F3,U+1F1F1",🇳🇱,flag: Netherlands
+1721,country-flag,"U+1F1F3,U+1F1F4",🇳🇴,flag: Norway
+1722,country-flag,"U+1F1F3,U+1F1F5",🇳🇵,flag: Nepal
+1723,country-flag,"U+1F1F3,U+1F1F7",🇳🇷,flag: Nauru
+1724,country-flag,"U+1F1F3,U+1F1FA",🇳🇺,flag: Niue
+1725,country-flag,"U+1F1F3,U+1F1FF",🇳🇿,flag: New Zealand
+1726,country-flag,"U+1F1F4,U+1F1F2",🇴🇲,flag: Oman
+1727,country-flag,"U+1F1F5,U+1F1E6",🇵🇦,flag: Panama
+1728,country-flag,"U+1F1F5,U+1F1EA",🇵🇪,flag: Peru
+1729,country-flag,"U+1F1F5,U+1F1EB",🇵🇫,flag: French Polynesia
+1730,country-flag,"U+1F1F5,U+1F1EC",🇵🇬,flag: Papua New Guinea
+1731,country-flag,"U+1F1F5,U+1F1ED",🇵🇭,flag: Philippines
+1732,country-flag,"U+1F1F5,U+1F1F0",🇵🇰,flag: Pakistan
+1733,country-flag,"U+1F1F5,U+1F1F1",🇵🇱,flag: Poland
+1734,country-flag,"U+1F1F5,U+1F1F2",🇵🇲,flag: St. Pierre & Miquelon
+1735,country-flag,"U+1F1F5,U+1F1F3",🇵🇳,flag: Pitcairn Islands
+1736,country-flag,"U+1F1F5,U+1F1F7",🇵🇷,flag: Puerto Rico
+1737,country-flag,"U+1F1F5,U+1F1F8",🇵🇸,flag: Palestinian Territories
+1738,country-flag,"U+1F1F5,U+1F1F9",🇵🇹,flag: Portugal
+1739,country-flag,"U+1F1F5,U+1F1FC",🇵🇼,flag: Palau
+1740,country-flag,"U+1F1F5,U+1F1FE",🇵🇾,flag: Paraguay
+1741,country-flag,"U+1F1F6,U+1F1E6",🇶🇦,flag: Qatar
+1742,country-flag,"U+1F1F7,U+1F1EA",🇷🇪,flag: Réunion
+1743,country-flag,"U+1F1F7,U+1F1F4",🇷🇴,flag: Romania
+1744,country-flag,"U+1F1F7,U+1F1F8",🇷🇸,flag: Serbia
+1745,country-flag,"U+1F1F7,U+1F1FA",🇷🇺,flag: Russia
+1746,country-flag,"U+1F1F7,U+1F1FC",🇷🇼,flag: Rwanda
+1747,country-flag,"U+1F1F8,U+1F1E6",🇸🇦,flag: Saudi Arabia
+1748,country-flag,"U+1F1F8,U+1F1E7",🇸🇧,flag: Solomon Islands
+1749,country-flag,"U+1F1F8,U+1F1E8",🇸🇨,flag: Seychelles
+1750,country-flag,"U+1F1F8,U+1F1E9",🇸🇩,flag: Sudan
+1751,country-flag,"U+1F1F8,U+1F1EA",🇸🇪,flag: Sweden
+1752,country-flag,"U+1F1F8,U+1F1EC",🇸🇬,flag: Singapore
+1753,country-flag,"U+1F1F8,U+1F1ED",🇸🇭,flag: St. Helena
+1754,country-flag,"U+1F1F8,U+1F1EE",🇸🇮,flag: Slovenia
+1755,country-flag,"U+1F1F8,U+1F1EF",🇸🇯,flag: Svalbard & Jan Mayen
+1756,country-flag,"U+1F1F8,U+1F1F0",🇸🇰,flag: Slovakia
+1757,country-flag,"U+1F1F8,U+1F1F1",🇸🇱,flag: Sierra Leone
+1758,country-flag,"U+1F1F8,U+1F1F2",🇸🇲,flag: San Marino
+1759,country-flag,"U+1F1F8,U+1F1F3",🇸🇳,flag: Senegal
+1760,country-flag,"U+1F1F8,U+1F1F4",🇸🇴,flag: Somalia
+1761,country-flag,"U+1F1F8,U+1F1F7",🇸🇷,flag: Suriname
+1762,country-flag,"U+1F1F8,U+1F1F8",🇸🇸,flag: South Sudan
+1763,country-flag,"U+1F1F8,U+1F1F9",🇸🇹,flag: São Tomé & Príncipe
+1764,country-flag,"U+1F1F8,U+1F1FB",🇸🇻,flag: El Salvador
+1765,country-flag,"U+1F1F8,U+1F1FD",🇸🇽,flag: Sint Maarten
+1766,country-flag,"U+1F1F8,U+1F1FE",🇸🇾,flag: Syria
+1767,country-flag,"U+1F1F8,U+1F1FF",🇸🇿,flag: Eswatini
+1768,country-flag,"U+1F1F9,U+1F1E6",🇹🇦,flag: Tristan da Cunha
+1769,country-flag,"U+1F1F9,U+1F1E8",🇹🇨,flag: Turks & Caicos Islands
+1770,country-flag,"U+1F1F9,U+1F1E9",🇹🇩,flag: Chad
+1771,country-flag,"U+1F1F9,U+1F1EB",🇹🇫,flag: French Southern Territories
+1772,country-flag,"U+1F1F9,U+1F1EC",🇹🇬,flag: Togo
+1773,country-flag,"U+1F1F9,U+1F1ED",🇹🇭,flag: Thailand
+1774,country-flag,"U+1F1F9,U+1F1EF",🇹🇯,flag: Tajikistan
+1775,country-flag,"U+1F1F9,U+1F1F0",🇹🇰,flag: Tokelau
+1776,country-flag,"U+1F1F9,U+1F1F1",🇹🇱,flag: Timor-Leste
+1777,country-flag,"U+1F1F9,U+1F1F2",🇹🇲,flag: Turkmenistan
+1778,country-flag,"U+1F1F9,U+1F1F3",🇹🇳,flag: Tunisia
+1779,country-flag,"U+1F1F9,U+1F1F4",🇹🇴,flag: Tonga
+1780,country-flag,"U+1F1F9,U+1F1F7",🇹🇷,flag: Turkey
+1781,country-flag,"U+1F1F9,U+1F1F9",🇹🇹,flag: Trinidad & Tobago
+1782,country-flag,"U+1F1F9,U+1F1FB",🇹🇻,flag: Tuvalu
+1783,country-flag,"U+1F1F9,U+1F1FC",🇹🇼,flag: Taiwan
+1784,country-flag,"U+1F1F9,U+1F1FF",🇹🇿,flag: Tanzania
+1785,country-flag,"U+1F1FA,U+1F1E6",🇺🇦,flag: Ukraine
+1786,country-flag,"U+1F1FA,U+1F1EC",🇺🇬,flag: Uganda
+1787,country-flag,"U+1F1FA,U+1F1F2",🇺🇲,flag: U.S. Outlying Islands
+1788,country-flag,"U+1F1FA,U+1F1F3",🇺🇳,flag: United Nations
+1789,country-flag,"U+1F1FA,U+1F1F8",🇺🇸,flag: United States
+1790,country-flag,"U+1F1FA,U+1F1FE",🇺🇾,flag: Uruguay
+1791,country-flag,"U+1F1FA,U+1F1FF",🇺🇿,flag: Uzbekistan
+1792,country-flag,"U+1F1FB,U+1F1E6",🇻🇦,flag: Vatican City
+1793,country-flag,"U+1F1FB,U+1F1E8",🇻🇨,flag: St. Vincent & Grenadines
+1794,country-flag,"U+1F1FB,U+1F1EA",🇻🇪,flag: Venezuela
+1795,country-flag,"U+1F1FB,U+1F1EC",🇻🇬,flag: British Virgin Islands
+1796,country-flag,"U+1F1FB,U+1F1EE",🇻🇮,flag: U.S. Virgin Islands
+1797,country-flag,"U+1F1FB,U+1F1F3",🇻🇳,flag: Vietnam
+1798,country-flag,"U+1F1FB,U+1F1FA",🇻🇺,flag: Vanuatu
+1799,country-flag,"U+1F1FC,U+1F1EB",🇼🇫,flag: Wallis & Futuna
+1800,country-flag,"U+1F1FC,U+1F1F8",🇼🇸,flag: Samoa
+1801,country-flag,"U+1F1FD,U+1F1F0",🇽🇰,flag: Kosovo
+1802,country-flag,"U+1F1FE,U+1F1EA",🇾🇪,flag: Yemen
+1803,country-flag,"U+1F1FE,U+1F1F9",🇾🇹,flag: Mayotte
+1804,country-flag,"U+1F1FF,U+1F1E6",🇿🇦,flag: South Africa
+1805,country-flag,"U+1F1FF,U+1F1F2",🇿🇲,flag: Zambia
+1806,country-flag,"U+1F1FF,U+1F1FC",🇿🇼,flag: Zimbabwe

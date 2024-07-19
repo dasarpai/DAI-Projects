@@ -1,0 +1,14 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1089/
+Cites: ['Jaypee Rewa Cement vs Commissioner Of Central Excise, ... on 22 August, 2001 : https://indiankanoon.org/doc/1186393/', 'Commissioner Of Central Excise, ... vs M/S. J.K. Udaipur Udyog Ltd on 3 September, 2004 : https://indiankanoon.org/doc/869179/', 'The Ramco Cements Limited vs The Commissioner Of Central ... on 11 October, 2017 : https://indiankanoon.org/doc/89732044/']
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Tamil Nadu
+Dalmia Cements (Bharat) Ltd. vs Cce on 30 June, 2005
+Bench: P Chacko
+ORDER P.G. Chacko, Member (J)
+1. The appellants are manufacturers of cement. They took Cenvat credit on inputs and capital goods used in off-factory mines during the period January to October 2003. Later on, they reversed this credit. But subsequently, they felt that they should not have reversed it in view of the Supreme Court's judgment in Jaypee Rewa Cement v. Commissioner, . Therefore, they filed a refund claim. This claim was rejected by both the lower authorities.
+2. The short question arising in this case is whether Cenvat credit on inputs and capital goods used in off-factory mines during the above period was admissible to the assessee. After hearing both sides, I find that this issue is already covered against them by the Supreme Court's judgment in CCE Jaipur v. J.K. Udaipur Udyog Ltd., , wherein it was held to the effect that off-factory mines could not be considered to be a part of the factory and, therefore, Cenvat credit was not available to inputs used at such mines. The question as to whether credit could be taken on capital goods used at such mines was answered in the negative by the apex court in the case of Jaypee Rewa Cement (supra).
+3. In the result, the appeal gets dismissed.

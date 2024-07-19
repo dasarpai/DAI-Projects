@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/59/
+Cites: ['M/S.Malanadu Cements And Allied ... vs State Of Kerala on 2 March, 2011 : https://indiankanoon.org/doc/110647880/', 'Balurghat Technologies Ltd. vs The State Of Bihar & Ors on 30 March, 2015 : https://indiankanoon.org/doc/147348172/', 'Mondelez India Foods Pvt. Limited vs State Of Bihar & Anr on 13 August, 2015 : https://indiankanoon.org/doc/90186206/', 'M/S Unique Logistics vs The State Of Bihar & Ors on 25 August, 2015 : https://indiankanoon.org/doc/134785115/', 'Berger Paints India Ltd. vs The State Of Bihar & Ors on 7 October, 2015 : https://indiankanoon.org/doc/83133996/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 60(4)(b) in The Bihar Value Added Tax Act, 2005
+(b) The provisions of section 56 shall, mutatis mutandis, apply in matters relating to such seizure, penalty, security, release and confiscation of goods.

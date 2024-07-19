@@ -1,0 +1,16 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1104/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 6(2) in The Repatriation of Prisoners Act, 2003
+(2) Where any application of a prisoner forwarded by the Central Government has been accepted by the contracting State, the Central Government may seek from such contracting State, all or any of the following information or documents before taking decision to transfer the prisoner to the contracting State, namely:—
+(a) a statement or document indicating that the prisoner is a citizen of the contracting State;
+(b) a copy of the relevant law of the contracting State constituting the act or omission as the offence, on account of which the sentence has been passed in India, as if such act or omission was an offence under the law of that State;
+(c) a statement of the fact or any law or regulation relating to the duration and enforcement of the sentence of the prisoner in the contracting State upon his transfer;
+(d) the willingness of the contracting State to accept the transfer of the prisoner and an undertaking to administer the remaining part of the sentence of the prisoner;
+(e) an undertaking to comply with the conditions, if any, specified by the Central Government; and
+(f) any other information or document which the Central Government may consider necessary.

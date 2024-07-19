@@ -1,0 +1,16 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3170/
+Cites: ['The Indian Penal Code : https://indiankanoon.org/doc/1569253/', 'Section 34 in The Indian Penal Code : https://indiankanoon.org/doc/37788/', 'Section 307 in The Indian Penal Code : https://indiankanoon.org/doc/455468/', 'Section 302 in The Indian Penal Code : https://indiankanoon.org/doc/1560742/', 'Section 301 in The Indian Penal Code : https://indiankanoon.org/doc/1233988/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+In Re: Boreddi Kondamma And Anr. vs Unknown on 28 July, 1947
+Equivalent citations: (1948) 1 MLJ 1
+JUDGMENT
+1. These two appeals arise out of S.C. No. 47 of 1946 in the Court of Session, Cuddapah. C.A. No. 108 of 1947 is at the instance of the first accused, and C.A. No. 109 of 1947 at the instance of the second accused. Both are from jail. Both the accused were charged for the murder of one Vuttanna, by the second accused procuring oleander seeds and giving them to the first accused so that the latter might administer the poison to one Venkatamma in order to kill her in furtherance of a common intention.
+2. The first accused crushed an oleander seed and mixed it and arsenic in butter-milk and gave the butter-milk to Venkatamma but the said butter-milk was drunk by Venkatamma's relative Vuttanna and he died as a result thereof. Both the accused wer charged for an offence punishable under Section 302 read with Section 34, Indian Penal Code.
+3. The learned Sessions Judge found on the evidence that it was clear that the second accused wanted to kill Venkatamma (P.W. 1) by poisoning her and that the first accused co-operated with her in carrying out that intention and that in furtherance of this commom intention a deliberate attempt was made to administer to P.W. 1 the oleander poison sufficient to cause her death. He also found that there was no room for doubting that the death of Vuttanna was due to the poison administered by the accused in butter-milk. On these findings the learned Judge found both the accused not guilty under Section 302 but found them guilty under Section 307 read with Section 34, Indian Penal Code and sentenced them to rigorous imprisonment for ten years.
+4. It is difficult to follow the decision of the learned Judge. Taking first the offence with which the accused were charged, one under Section 302 read with Section 34, Indian Penal Code, on the findings arrived at by him the case clearly fell within the provision of Section 301, Indian Penal Code. As however there is no appeal against the acquittal of the accused before me, I do not desire to inter-fere with the order of acquittal passed by the learned Sessions Judge.
+5. So far as the conviction under Section 307 is concerned, obviously the learned Judge was referring to the attempt of the accused to murder P.W. 1. If that were so, it must be pointed out that there was no such charge which the accused were called upon to meet. The case will have to go back and the learned Sessions Judge is directed to frame a proper charge under Section 307 read with Section 34, Indian Penal Code, for the attempt to murder P.W. 1.

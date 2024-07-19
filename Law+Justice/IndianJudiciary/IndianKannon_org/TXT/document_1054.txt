@@ -1,0 +1,12 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1054/
+Cites: []
++++++++++++++++++++++++++
+
+
+Customs, Excise and Gold Tribunal - Mumbai
+Inducto Ispat Alloys Ltd. vs Commissioner Of Central Excise, ... on 14 September, 2001
+JUDGMENT Gowri Shankar, Member(T)
+1. The question for determination in this appeal is the duty payable by the applicant who has an induction furnace. In terms of Sub-rule (3) of relevant rules requires the capacity, as indicated, to be determined on the basis of the invoice of the manufacturer of the furnace, if this was not available, on the basis of capacity of similar furnace and if is not possible on the basis of any other material. The certificate produced by the manufacturer of the furnace indicated its capacity to be between 3.1 and 3.5 tons. The applicant relied upon a certificate of a chartered engineer to say the capacity was 3.1 tons. In the order impugned in the appeal, the Commissioner held that the capacity was 3.5 tons.
+2. The Commissioner had declined to accept the certificate of the chartered engineer on the ground that it refers to actual capacity and not installed capacity. The issue are arguable. However, if the manufacturer's invoice specified a range, if not the lowest capacity, at least the average between the lowest and highest should have been taken. We however note the fact that out of the total duty demanded of Rs. 1.80 crores the applicant has paid Rs. 1.01 crores. We waive deposit of the remaining duty and stay its recovery.

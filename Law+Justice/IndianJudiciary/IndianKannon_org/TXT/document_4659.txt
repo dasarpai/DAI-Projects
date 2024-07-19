@@ -1,0 +1,23 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4659/
+Cites: ['The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/', 'Section 269SS in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1821008/', 'Section 269T in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1517955/', 'Section 234B in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/380949/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Director Of Income Tax ... vs All India Deaf And Dumb Society on 26 May, 2005
+Equivalent citations: (2005) 198 CTR Del 376, 2006 283 ITR 113 Delhi
+Author: S Kumar
+Bench: S Kumar, M B Lokur
+JUDGMENT Swatanter Kumar, J.
+1. The facts giving rise to this appeal under Section 260A of the Income Tax Act (hereinafter referred to as 'the Act') are that the assessed filed return of income declaring loss of Rs. 23,39,372/- on 10.10.1997. First the case was processed under Section 143(1)(a) of the Act, later was selected for scrutiny and notice was issued to the assessed under Section 143(2) of the Act and finally the assessing officer vide his order dated 10.03.2000 assessed the assessed at Rs. 4,64,785/- and directed the interest to be charged under Section 234B and also to initiate penalty proceedings under Section 271D and 271E of the Act separately.
+2. Vide order dated 18.09.2000, the Joint Director of Income Tax (E) imposed a penalty of Rs. 2,07,000/- under Section 271D of the Act and directed that a demand notice be issued in terms thereof in relation to the assessment year 1997-98 and also imposed a penalty of Rs. 3,60,761.75/- under Section 271E of the Act for the same year.
+3. The assessed preferred two appeals against these two orders before the Commissioner of Income Tax (Appeals) who vide his order dated 09.03.2001 dismissed both the appeals. The correctness of the order of the first appellate authority was questioned by the assessed before the Income Tax Appellate Tribunal. The Income Tax Appellate Tribunal vide its order dated 14.09.2004 accepted the appeals while holding as under:-
+"On merit also I find that there was a reasonable cause in accepting the loan in cash and again repaying the same in cash, as the Society runs a school for deaf and dumb children/persons. All the expenses are met from the donations or grants received from the government as well as from private parties. The funds were not available for meeting the day-to-day expenses, therefore, loans were taken in cash and when the funds were available, the same was paid in cash accordingly. Therefore, in view of these facts and circumstances, I hold that there was no malafide on the part of assessed in taking and re-paying loans in cash, as there was a reasonable cause for taking and repaying the loans in cash. Accordingly, I cancel both the penalties levied u/s 271D and 271E of the Act and confirmed by CIT(Appeals).
+In the result, the appeals of the assessed are allowed."
+4. The contention raised before us is that the Tribunal has fallen in error of law in recording the above findings. The imposition of penalty upon the assessed is stated to be in accordance with law and as such it is submitted that order of the Tribunal be set aside and question of law as framed, be answered in favor of the Revenue.
+5. As per the case of the Revenue, the provisions of Section 269SS and 269T of the Act had been violated as the assessed had made payments in cash. Factually, it may not be so very incorrect. The Tribunal has recorded a finding that funds were not available for meeting day-to-day expenses, therefore, loans were taken in cash and when the funds were available, the same were returned in cash accordingly. The assessed is running a school for deaf and dumb children/persons and meets all its expenses from donations or grants.
+6. Keeping in mind the cumulative effect of these facts and circumstances, the Income Tax Appellate Tribunal came to the conclusion that there were no malafides on the part of the assessed and there was no intent of violating the law as such it accepted the explanation of the assessed. Provisions of Section 271D and 271E of the Act are penal provisions and their ingredients must be satisfied upon the strict construction. It is a settled principle of law that finding of fact recorded by the Tribunal would not be disturbed by the High Court in an appeal under Section 260A of the Act unless it was totally perverse. That certainly is not the position in the case in hand.
+7. In our opinion, no question of law much less a substantial question of law falls for consideration of the court in the present appeal.
+Appeal is accordingly dismissed.

@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1538/
+Cites: ['Sunanda Bhimrao Chaware & Ors vs The High Court Of Judicature At ... on 17 October, 2012\nBombay High Court Cites 53 - Cited by 1 - Full Document', 'Pratap Chandra Mehta vs State Bar Council Of M.P.& Ors on 9 August, 2011\nSupreme Court of India Cites 59 - Cited by 14 - Full Document', 'Lal Chand Saini, Om Parkash Kakar ... vs Union Of India (Uoi) And Ors. on 21 September, 2007\nPunjab-Haryana High Court Cites 17 - Cited by 2 - Full Document', 'Om Prakash Prajapat vs High Court Of Judicature on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 0 - Full Document', 'Mahendra Singh vs High Court Of Judicature on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 0 - Full Document', 'Smt Sharda vs High Court Of Judicature on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 0 - Full Document', 'Bhanwar Lal Prajapat vs High Court Of Judicature on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 0 - Full Document', 'Krishan Kumar Sharma vs Raj High Court Jodhpur Anr on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 1 - Full Document', 'Jaswant Singh Chauhan vs High Court Of Judicature on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 0 - Full Document', 'Maya Rajoria vs Raj High Court Jodhpur Anr on 21 February, 2012\nRajasthan High Court Cites 31 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 28(1) in THE ADVOCATES ACT, 1961
+(1) A State Bar Council may make rules to carry out the purposes of this Chapter.

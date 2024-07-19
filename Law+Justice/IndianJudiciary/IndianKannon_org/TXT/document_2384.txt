@@ -1,0 +1,167 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2384/
+Cites: ['Section 37 in the Central Excise Act, 1944 : https://indiankanoon.org/doc/102791117/', 'Section 35G in the Central Excise Act, 1944 : https://indiankanoon.org/doc/54762929/', 'Section 11A in the Central Excise Act, 1944 : https://indiankanoon.org/doc/85233116/', 'The Finance Act, 1996 : https://indiankanoon.org/doc/104566/', 'Section 11AB in the Central Excise Act, 1944 : https://indiankanoon.org/doc/23088775/']
++++++++++++++++++++++++++
+
+
+Gujarat High Court
+Commissioner vs The Commissioner Of on 23 September, 2008
+Author: K.A.Puj,&Nbsp;Honourable Mr.Justice H.Shukla,&Nbsp;
+   Gujarat High Court Case Information System 
+
+  
+  
+    
+
+ 
+ 
+           
+         
+     
+     Print
+              
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+ 
+
+
+  
+
+TAXAP/920/2008  10/ 13 ORDER 
+ 
+ 
+
+ 
+
+ 
+
+IN
+THE HIGH COURT OF GUJARAT AT AHMEDABAD
+ 
+
+ 
+
+
+ 
+
+TAX
+APPEAL No. 9 of 2008
+ 
+
+With
+
+
+ 
+
+TAX
+APPEAL No. 11 of 2008
+ 
+
+ 
+ 
+=========================================================
+
+ 
+
+COMMISSIONER,
+CENTRAL EXCISE, AHMEDABAD-II - Appellant(s)
+ 
+
+Versus
+ 
+
+OMKAR
+TEXTILE MILLS PVT. LTD. - Opponent(s)
+ 
+
+=========================================================
+ 
+Appearance
+: 
+MR
+YN RAVANI for
+Appellant(s) : 1, 
+None for Opponent(s) :
+1, 
+=========================================================
+
+
+ 
+   
+  
+   
+   
+    
+
+CORAM
+   : 
+   
+  
+   
+    
+
+HONOURABLE
+   MR.JUSTICE K.A.PUJ
+  
+ 
+  
+   
+   
+    
+
+and
+  
+ 
+  
+   
+   
+    
+
+HONOURABLE
+   MR.JUSTICE RAJESH H.SHUKLA
+  
+ 
+
+ 
+
+ 
+ 
+
+
+ 
+
+Date
+: 23/09/2008 
+
+ 
+
+ 
+ 
+ORAL
+ORDER
+(Per : HONOURABLE MR.JUSTICE K.A.PUJ) The Commissioner of Central Excise has filed these two Tax Appeals under Section 35G of the Central Excise Act, 1944 proposing to formulate the following substantial questions of law for determination and consideration of this Court.
+(a) Whether in the facts and circumstances of the case, the Tribunal was justified in confirming the order of the Commissioner (Appeals) holding that Deemed Credit earned by the respondent in terms of Notification No.6/02-CE(NT) dated 1.3.2002 had not lapsed despite the said notification having been withdrawn vide Notification No.08-03-CE(NT) dated 1.3.2003 ?
+(b) Whether in the facts and circumstances of the case, the Tribunal was justified in placing reliance on the ratio of its judgment rendered in the case of M/s. S.V.Business (P) Ltd. Vs. CCE vide judgment and order dated 6.12.2003 holding that Cenvat Credit once earned legally does not lapse and there can be no objection to its utilization even after withdrawal of Deemed Credit of that commodity ?
+Since identical questions are proposed in both the Tax Appeals, the above questions are reproduced from the Tax Appeal No.9 of 2008. The facts are also taken from the said Tax Appeal.
+It is the case of the Department that as per Notification 6/2002-CE(NT) dated 1.3.2002 as amended by Notification No.8/2003-CE(NT) dated 1.3.2003, Deemed Credit Scheme was withdrawn with effect from 1.4.2003. In the alternative, the facility for the Cenvat Credit facility under Rule 3 of the Cenvat Credit Rules, 2002 has been extended for the textile industries, under which, the manufacturers could avail the benefit of Cenvat credit on actual basis under Rule 3 of the Cenvat Credit Rules, 2002, in respect of the inputs used in the manufacture of the final products. It was noticed by the Assistant Commissioner of Central Excise that the respondent had commenced to avail the benefit of the Cenvat credit on actual basis on the inputs used in the manufacture of the final products, in light of the amended Cenvat Credit Rules, 2002 effective from 1.4.2003 and had utilized the said credit against payment of central excise duty as the respondent assessee had also simultaneously continued to avail the benefit of the Deemed Credit Scheme for payment of Central Excise duty at the time of clearance of the final products, as per the provisions of the erstwhile Notification No.6/2002-CE(NT) dated 1.3.2002. The show cause notice was, therefore, issued on the respondent assessee and after its adjudication an order in original was passed on 30.4.2005 wherein it is recorded that the earlier Notification was having validity period upto and inclusive of 31.3.2003 only. That the respondent had simultaneously availed Cenvat credit on actual basis under Rule 3 of Cenvat credit Rules 2002 in respect of inputs used in the manufacture of final products i.e. fabrics and that the facility of deemed credit during the period of April 2003 was not available to the respondent-assessee. He has, therefore, taken the view that such an act of the respondent was against the interest of the Revenue as it amounted to wrongful availment of credit and utilisation leading to clearance of the goods without payment of duty in contravention of provisions of the Act and the rules and, therefore, deemed credit was confirmed against the respondent under the provisions Section 11A of the Central Excise Act, 1944 read with Rule 12 of Cenvat Credit Rules, 2002. The respondent was also held liable for interest at the prescribed rate for the amount of duty short paid (equivalent to the amount of deemed credit utilised wrongly) under the provisions of Section 11AB of the Central Excise Act, 1944 and penalty was also imposed on the respondent assessee under Rule 25 of the Central Excise Rules, 2002.
+Being aggrieved and dissatisfied with the order in original, the respondent filed Appeal before the Commissioner (Appeals). The Commissioner (Appeals) in his order dated 17.11.2005 held that the issue to be decided is as to whether the unutilised deemed credit earned upto 31.3.2003 before withdrawal of the deemed credit scheme with effect from1.4.2003 vide Notification No.8/2003-CE(NT) dated 1.3.2003 and lying balance on the date of deemed credit scheme on 31.3.2003 is lapsed or not. While deciding this issue he referred to the decision of the Bombay High Court in the case of TATA Engineering and Locomotive Co. Ltd., Vs. Union of India reported in 2003 (159) ELT 129 (Bom.), the decision of Hon'ble Supreme Court in the case of Eicher Motors Ltd., Vs. Union of India, reported in 1999 (106) ELT 3 (SC) and this Court's decision in the case of Dipak Vegetable Oil Industries Ltd., Vs. Union of India, reported in 1991 (52) ELT 222(Guj.).
+Placing reliance on the ratio of the above decisions of the Tribunals, High Courts and the Hon'ble Supreme Court, the Commissioner (Appeals) has held that vide Finance Act, 1999, Clause 2 (xxviii) was inserted in Section 37 of the Central Excise Act giving power to Central Government to make rule for providing for lapsing of credit of duty lying in unutilised with the manufacturer of the specified excisable goods as on appointed date and also for not allowing such credit to be utilised for payment of any kind of duty on any excisable goods on and from such date, consequent to the same. He further held that no rule or notification has been issued providing for lapsing of the deemed credit rightly earned till the date the relevant Notification No.52/2001-CE(NT) and 54/2001-CE(NT) both dated 29.6.2001 and Notification No.6/2002-CE(NT) dated 1.3.2002 was enforced for not allowing such credit to be utilised for payment of any kind of duty on any excisable goods on and from such date. He has therefore held that unutilised deemed credit earned upto 31.3.2003 before withdrawal of the deemed credit Notification with effect from 1.4.2003 and lying in balance on 31.3.2003 will not be lapsed and could be utilised for payment of duty on or before 1.4.2003.
+Being aggrieved by the said decisions the Department filed an Appeal before the Tribunal. The Tribunal held that identical issue was considered by the Tribunal in the case of M/s.S.V.Business Pvt. Ltd., Vs. Commissioner of Central Excise, wherein, vide its order dated 6.12.2006, the Tribunal held that once Cenvat Credit is earned legally, the same does not lapse and there can be no objection to its utilization even after withdrawal of deemed credit of that commodity.
+It is this order of the Tribunal which is under challenge in the present two Tax Appeals.
+Mr. Y.N. Ravani, learned Standing Counsel has submitted that the order passed by the Tribunal is improper, erroneous, invalid, bad in law and proceeds on misinterpretation of relevant Notification and provisions of law and, therefore, the same deserves to be quashed and set aside. In any case, according to Mr.Ravani, substantial question of law arises out of the order of the Tribunal and there is no judgment of any High Court or Hon'ble Supreme Court on this issue considering the Notification in question. Hence, both the Appeals require to be admitted. He has further submitted that deemed credit availed of by the respondent was not admissible in view of the facility having been withdrawn with effect from 1.4.2003, more particularly when Notification granting deemed credit was not in force on the date on which the respondent had availed of Deemed Credit alleged to be lying unutilised in the balance on the duty of discharge/payment of Central Excise Duty. He has further submitted that on scrutiny of ER-1 returns for the month of April, 2003 it was clearly noticed that the respondent had commenced to avail the benefit of cenvat credit on actual basis of manufacture of finished product as per the amended Cenvat Credit Rules, 2002 effective from 1.4.2003 and, therefore, utilization of the Deemed Credit was wrongful. He has further submitted that the first proviso to Clause 3 of the said Notification provided that the credit of duty in respect of inputs used in goods exported under bond shall be allowed to be utilized towards payment of duty of excise on any final products cleared for home consumption or for export under bond or be refunded to the manufacturer in case such adjustment was not possible. He has, therefore, submitted that the Appeals are required to be admitted.
+Having heard Mr.Ravani, learned Standing Counsel appearing for the Revenue and having perused the order of the authorities below including the order passed by the Tribunal in the case of S.V.Business Pvt. Ltd.,(Supra) and judgment of this Court as well as Hon'ble Supreme Court we are of the view that the issue is squarely covered by the earlier decision. This Court in the case of Dipak Vegetable Oil Industries Ltd. Vs. Union of India (Supra) had clearly held that a right, which is acquired as a result of a statutory provision cannot be taken away retrospectively unless the statutory provision so provides or by necessary implication it has the same effect. Even with regard to the proviso to Rule 3 support can be derived from the observations made by the Hon'ble Supreme Court in the case of Eicher Motors Ltd., Vs. Union of India, 1999 (106) ELT 3 (SC), the scheme sought to be introduced cannot be made applicable to the goods which had already come into existence in respect of which the earlier scheme was applied under which the assessees had availed of the credit facility for payment of taxes. Any manner or mode of application of the said rule would result in affecting the rights of the assessees. The Hon'ble Supreme Court further observed that Section 37 of the Act does not enable the authorities concerned to make a rule which cannot be said to be applied to the goods manufactured prior to 16.3.1995 on which duty had been paid and credit facility thereto has been availed of for the purpose of manufacture of further goods. The Court further observed that when on the strength of the rules available certain acts have been done by the parties concerned, incidents following thereto must take place in accordance with the scheme under which the duty had been paid on the manufacture products and if such a situation is sought to be altered, necessarily it follows that right, which had accrued to a party such as availability of a scheme, is affected and, in particular it loses sight of the fact that the provision for facility of credit is as good as tax paid till tax is adjusted on future goods on the basis of the several commitments which would have been made by the assessees concerned.
+Considering above legal position, we are of the view that the assessee's case is squarely covered by the decision of the Hon'ble Supreme Court and hence no substantial question of law arises out of the order of the Tribunal. Both these Appeals are accordingly dismissed.
+(K. A. PUJ, J.) (RAJESH H. SHUKLA, J.) kks     Top

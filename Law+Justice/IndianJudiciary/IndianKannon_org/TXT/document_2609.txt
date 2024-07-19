@@ -1,0 +1,215 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2609/
+Cites: ['The Motor Vehicles Act, 1988\nCentral Government Act Cites 0 - Cited by 47765 - Full Document', 'Section 2 in The Motor Vehicles Act, 1988 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1441', 'J.Y. Kondala Rao & Ors vs Andhra Pradesh State Road ... on 8 September, 1960\nSupreme Court of India Cites 20 - Cited by 56 - Full Document', 'H. C. Narayanappa And Others vs The State Of Mysore And Others on 28 April, 1960\nSupreme Court of India Cites 11 - Cited by 86 - Full Document', 'Section 68 in The Motor Vehicles Act, 1988 [Complete Act]\nCentral Government Act Cites 0 - Cited by 326', 'Saghir Ahmad Molvi Hazir Ahmad vs State Of Uttar Pradesh And Ors. on 12 March, 1959\nAllahabad High Court Cites 4 - Cited by 121 - Full Document']
++++++++++++++++++++++++++
+
+
+Supreme Court of India
+Mysore State Road Transport ... vs The Mysore Revenue Appellate ... on 17 May, 1974
+Equivalent citations: 1974 AIR 1940, 1975 SCR (1) 615
+Author: P J Reddy
+Bench: Reddy, P. Jaganmohan
+           PETITIONER:
+MYSORE STATE ROAD TRANSPORT CORPORATION
+
+ Vs.
+
+RESPONDENT:
+THE MYSORE REVENUE APPELLATE TRIBUNAL & ORS.
+
+DATE OF JUDGMENT17/05/1974
+
+BENCH:
+REDDY, P. JAGANMOHAN
+BENCH:
+REDDY, P. JAGANMOHAN
+BEG, M. HAMEEDULLAH
+ALAGIRISWAMI, A.
+
+CITATION:
+ 1974 AIR 1940    1975 SCR  (1) 615
+ CITATOR INFO :
+ R     1984 SC 953  (2)
+ RF     1986 SC 319  (1,7,13)
+ R     1992 SC1888  (9)
+
+
+ACT:
+Motor  Vehicles Act, Sec. 68C-Inter-state operators  whether
+prohibited from plying vehicles on intrastate routes-Meaning
+of   route  and  area--Interpretation of   scheme-Complete
+exclusion whether can be implied.
+
+
+
+HEADNOTE:
+Certain  Intra-state routes were nationalised under  Chapter
+IV-A  of the Motor Vehicles Act.  There were three  approved
+schemes  of nationalisation namely Anekal  Scheme,  Gulbarga
+Scheme and the Bangalore Scheme.  Parts of these Intra-state
+routes overlapped  inter-state routes over,  which  private
+transporters  were granted permits to ply their vehicles  on
+condition that they will neither pick up nor drop passengers
+on any overlapping parts of routes.
+The  preamble  to Anekal Scheme and Gulbarge Scheme  do  not
+state that the scheme is of a total exclusion. The preamble
+to  the  Bangalore Scheme, however,  mentions  the  complete
+exclusion  of all other operators from certain routes.  The
+Anekal Scheme gives the termini with  intermediate  points.
+The  names  of the  Inter-State  operators  have  not been
+mentioned  in any of these three Schemes.  The schemes show
+that  the term "route" is used in each scheme  for  services
+between two termini.
+'The appellant Corporation object to the permits granted  to
+the  Inter-State  Transporters in  so far  as  they  cover
+overlapping  portions of Intra-state routes on the basis  of
+three schemes.
+Dismissing the appeal,
+HELD  :  (1)  There  can be  no  doubt that  the  appellant
+corporation has power to frame a scheme under Section  68(C)
+of  the  Motor Vehicles Act, Providing that  Road  Transport
+Services in general or in any particular class, in  relation
+to any area or route or portion thereof should be run and by
+the  State Transport Undertaking whether to  the  exclusion,
+complete  or  partial of other persons or  otherwise. This
+power  includes the power to exclude even inter-state  motor
+operators  altogether  from a part of  any  notified  route.
+[494G]
+(2)Section  68C however requires as a condition  precedent
+to any exclusion of private operators that the scheme should
+give  particulars of the nature of services proposed  to  be
+rendered, the area of route proposed to be covered and such
+other particulars as may be prescribed.  Each scheme has  to
+be  Published  in the official Gazette.   A  scheme  finally
+emerging  after  opportunities are given for  objections  by
+persons interested. [495B-C]
+(3)A  scheme  which totally excludes  inter-state  private
+operators  from sing any part of a notified route must make
+the intention to do that clear.  The Act makes a distinction
+between notification of an area and of a route.  An area may
+cover  a  number  of  routes.  A route is  not  merely  the
+physical surface covered by the highway to be traversed. but
+connotes  the  abstract  concept  of  line  of travel.    A
+difference in the two termini will make two routes different
+even if there is an overlapping surface. of the road  common
+to  two routes.  Unless a scheme clearly indicates that  the
+user of every portion of a highway covered by an  intrastate
+notified  "route"  so conceived is prohibited. also  to  an
+inter-state  motor vehicle operator, who really plies  on  a
+different  route  inasmuch as his termini are  bound  to  be
+different from those of an intrastate route, the  interstate
+operators  may not be completely debarred from the  user  of
+the  overlapping  part of an  inter-state  route.   A more
+physical overlapping of the two is not enough to exclude the
+private inter-state operators by any necessary implication.
+Such an exclusion must be made clear and unequivocal in  the
+scheme. [496B. D. F-H]
+494
+(4).   The  rules  require  that existing  operators.  on
+each  route must be named and the numbers of their  vehicles
+must  be given before they 'could be deemed to be  excluded
+from any part of a route.  Unless their names are  mentioned
+they  cannot  come forward to object  as  persons  affected.
+[497D-E].
+(5)  The  Inter-state operators were not meant to be  denied
+the use of the overlapping portions of routes covered by the
+scheme.   Their names were not mentioned as required by  the
+rules. The Anekal and Gulbarga schemes did not even talk of
+the  complete  exclusion. : The  Bangalore  Scheme  mentions
+complete  exclusion  but  this exclusion  seems  to  be,  in
+respect of operators Providing services between the  terming
+mentioned  there and not merely using overlapping  portions,
+of  the  notified  rules incidentally.  No  explanation  is
+forthcoming  as to why names and the numbers of  the  inter-
+state transporters were not mentioned in the scheme.  [501C-
+F]
+Nilkanth  Prasad & Ors. v. State of Bihar, [1962]  1  S.C.R.
+728,  Kelani, Valley Motor Transit Co. v. Colombo  Ratnapura
+Omnibus  Co.  [1946]  A.C. 338 and  Kondala  Rao  v.  Andhra
+Pradesh  State Road Transport Corporation, A.I.R. 1961 S.C.
+82, distinguished
+
+
+
+JUDGMENT:
+CIVIL APPELLATE JURISDICTION : Civil Appeal Nos. 1755 to 1756 of 1969, 362 to 363 and 1918 to 1920 of 1970 and 490 to 492 of 1973.
+Appeals by Special leave from the Judgment and Order dated the 10th October, 1968, 11th March, 1969, 24th March, 1969 and 16th June, 1969 of the Mysore High Court in W.P. Nos. 3 322 and, 379/ 66, W.P. Nos. 800, 1186, 1188, 1190 1191, 1228-31 1233/69 and 3910, 3913, 3921, and 3932/68, 1189 and 1192/69, 1234/69, 20682070/69 respectively and special leave petitions: Nos. 2015 to 2112 and 2408 to 2412 of 1969. From the Judgment and order dated 11th November, 1969 and 16th June, 1969 of the Mysore High Court in W.P. Nos. 3908, 3912, 3923, 3925, 3926, 3230, 3933 and 3933/ 68, and 2067, 2078 and 2080-2082/68.
+Shyamla Pappu and Vineet Kumar, for the appellants/Petitioners.
+S. S. Ganguli and H. K. Puri for respondents. P. K. Pillai for the respondent.
+A. G. Ratnaparkhi for the respondent.
+S. V. Gupte, M. R. V. Achar, M. Rangaswamy and B. P. Singh for respondent.
+Y. S. Chitale, M. Rangaswamy, M. R. V. Achar and B. P. Singh for respondent.
+D. N. Mishra for the respondent.
+The Judgment of the Court was delivered by BEG, J.-There are twenty two appeals by Special leave together with thirteen connected special leave petitions involving a common question of law for decision before us. This question arises out of three approved schemes, which may be called the Anekal Scheme dated 15-4-1959, the Gulbarga Scheme dated 18-2-1960, and the Bangalore Scheme dated 7-6-1960, for the nationalisation under Chapter IVA of th-- Motor Vehicles Act, 1939 (hereinafter referred to as 'the Act'), of transport services on certain routes lying within the State of Mysore. But, parts of these intrastate routes overlap inter-state routes over which private transporters were granted permits and then their renewals by the State Transport authorities to ply their vehicles. The Mysore State Road Transport Corporation objects to these permits in so far as they cover overlapping portions of intrastate routes. The common question of law which arises may be formulated as follows:
+"Can a permit be granted to an Inter-State Transport Operator for the whole of his route despite the fact that a part of the route overlaps a part of a notified intra-State route" ?
+There can be no doubt that the Mysore State Transport Under- taking has the power to frame a scheme under section 68C of Chapter IVA of the Act, providing "in the public interest that road transport services in general or any particular class of such service in relation to area or route or portion thereof should be run and operated by the State Transport Undertaking, whether to the exclusion, complete or partial, of other persons or otherwise". This power includes the power to exclude even inter-state motor operators altogether from a part of any notified route. (See : Nilkanth Prasad & Ors. Vs. State of Bihar(1), Standard Motor Union Pvt Ltd. Vs. State of Kerala & Ors(2); S. Abdul Khader Saheb Vs. Mysore Revenue Appellate Tribunal & Ors.(3) The Transport authorities have no power to deviate from or modify the terms of approved schemes which have the force of law. They can issue or otherwise deal with permits only in accordance with the provisions of the schemes which may be either partial or total exclusion of private operators from notified routes. We have to determine whether the schemes before us are of partial or total exclusion.
+Section 68C requires, as a condition precedent to any exclusion of private operators under a scheme of nationalisation from "any area or route or portion thereof", that the scheme should give "particulars of the nature of services proposed to be rendered, the area or route proposed to be covered and such other particulars respecting thereto as may be prescribed". Each scheme has to be published in the official Gazette and also "in such manner, as the State Govt. may direct". A scheme finally emerges, after opportunities given under Section 68D of the Act for objections by persons interested in providing transport facilities as left as by local and police authorities within the area or upon the routes proposed to be covered by a scheme, as an approved scheme in which the original proposals may or may not have been modified. Each scheme so approved can be either cancelled or modified by the State Transport Undertaking under Section 68E of the Act in accordance with the procedure laid down by Sections 68C and 68D of the Act.
+The power of the State Transport Undertaking to prohibit the use of any portion of a route by Inter-state operators has not been questioned before us. Nevertheless, it may be pertinent to point out that this Court thus indicated in Saghir Ahmed & Anr. v. State of U.P. &Ors.,(4) the nature of the right of the public to use public roads (at page 717) :
+"But the right of the public to use motor vehicles on the public road cannot, in any sense, be regarded as a right (1) [1962](1) Suppl. S.C.R. 728. (2) [1969](1) S.C.R. 464.
+(3) AIR 1973 S.C. 534.
+(4) [1955] 1 S.C.R. 707, 717.
+created by the Motor Vehicles Act. The right exists anterior to any legislation on this subject as an incident of public rights over a highway. The State only controls and regulates it for the purpose of ensuring safety, peace, health and good morals of the public. Once the position is accepted that a member of the public is entitled to ply mother vehicles on the public road as an incident of his right of passage over a highway, the question is really immaterial whether he plies a vehicle for pleasure or pastime or for the purpose of trade and business. The nature of the right in respect of the highway is not in any way affected thereby and we cannot agree with the learned Advocate-General that the user of a public road for purposes of trade is an extraordinary or special use of 'the highway which can be acquired only under special sanction from the State".
+It is enough for the purpose of the cases before us to note the distinction between the right to use a road which may be a part of a notified "route" and the right to ply motor vehicles on hire upon a ,.route" for which a permit has to be obtained under the Act. Notification of a route under a scheme prevents issue of permits contrary to the scheme for the route. Assuming for the purposes of the cases before us, that the State Transport Undertaking can totally exclude interstate private operators from using any part of a notified route, a scheme which has that effect must, at least, make the intention to do that clear before it can prevent the exercise of another wise legal right to ply motor vehicles for hire on a public highway subject to regulation of this kind of user by permits issues under the Act. The question is, in our opinion, one of interpretation of the scheme formulated in each case. Before interpreting each of the three schemes mentioned above, we will refer to the relevant provisions which have a bearing on questions of interpretation of the schemes and of the particulars given therein.
+As each scheme of nationalisation is to be prepared in public interest, Section 68C requires the State Transport Undertaking to give particulars "of the nature of services proposed to be rendered by it". A distinction is made between notification of an "area" and of a "route". An area, which has to be notified under Section 2(i) of the Act, may cover a number of routes. A route, as defined by the insertion of (28A) made by the Act 56 of 1969, in Section 2 of be Act, is "a line of travel which specifies the high-way which may be traversed by a motor vehicle between one terminus and another". Whatever may have been the meaning of the word "route" before this insertion, it appears to us that, after this clarification, a route is not merely the physical surface covered by the high-way to be traversed, but the abstract concept of "a line of travel", which connects one terminus with another, has also been introduced into the legal definition of a ,.route". The two concepts are now so interlined that a route would not be properly indicated by merely specifying the highway which may be traversed without giving its two terming. And, a difference in-the two terming will make two routes different even if there is an overlapping surface of the road common to routes. In other words, the two terming are an essential part of the concept of a route. Notification of routes takes place for purposes of nationalisation of transport services on the routes. The routes are not nationalised as physical surfaces of notified areas reserved for use by State owned vehicles only, but what is nationalised is the provision of certain transport services on those routes.
+Unless a scheme clearly indicates that the user of every portion of a highway covered by an intrastate notified route is prohibited also to an inter-state motor vehicle operator, who really plies on a different " route" inasmuch as its termini are bound to be different from those of an intrastate route, the inter-state operator may not be completely debarred from the user of the overlapping part of an intrastate route. A mere physical overlapping of the two may not be enough to excluder the private interstate operators by any necessary implication. If the intention is to exclude such user by an operator of another route a part of which over-laps a notified route, that intention must be made, clear and unequivocal by the scheme in order to have that effect.
+Section 68C also mentions other particulars of a scheme which may be prescribed. These particulars have been prescribed in the State of Mysore by means of rules notified in the Mysore Gazette dated 27-2-1958. The relevant portion of the first rule reads as follows "1. Every scheme or modified scheme for passenger transport service shall contain the following particulars :-
+1. The area in relation to which the scheme is proposed.
+2. Whether City/Town service or moffusil service.
+3. The route or routes (with their starting points, termini, intermediate stations and route length) in which the State Road Transport Undertaking proposes to introduce its services to the exclusion of private operators.
+4. The number of existing stage carriages on each route with their number of trips and the names of their operators.
+5. The maximum and minimum number of stage carriages proposed to be operated by the State Transport Undertaking to the exclusion of private operators in relation to each route and the type and seating capacity of each vehicle.
+6. The maximum number of trips proposed to be performed on each route.
+7. Number of vehicles intended to be kept in reserve to maintain the service and to provide for special occasions".
+With regard to the above mentioned particulars, it was submitted, on behalf of the inter-state operators, that sub- rules 3 and 4 of rule 1 set out above, require that existing operators on each route must be named and the numbers of their vehicles must be given before they could be deemed to be excluded from any part of a route. It was also urged that, unless the scheme indicates which persons are treated as providing a service or plying on the notified route, they could not be expected to come forward to object as persons affected. Hence, it is submitted, if the State Transport Undertaking itself treated them as persons unaffected by nationalisation of transport services on certain intrastate routes, its intention would appear to be to leave untouched or preserve the rights of inter-state, operators who were already there merely to use parts of notified routes. The argument was that the inter-state operators were, by a clear implication, permitted by each scheme to use overlapping parts of notified intrastate routes. They were, it was urged, thus me-ant to be, excluded from the purview of the prohibition in each scheme.
+In some of the cases before us the Regional Transport Officer had himself either granted or renewed the permits of the inter-state operators. In other cases, where the Regional Transport Officer had rejected the applications of the interstate operators concerned, the operators had succeeded in obtaining permits from the final state Appellate Authority functioning under the Act. The High Court had, in every case, upheld the grants of permits to the inter-state operators. It had found the schemes to be ambiguous. But, it overruled the contention that the schemes warranted total prohibition or exclusion of inter- state; operators on overlapping parts of notified routes mainly on the ground that such a contention could not be advanced for the first time before it in the course of arguments.
+It was also contended that, the Manager of the appellant Corporation had impliedly admitted before, the Transport authorities that interstate operators were not totally prohibited by any scheme from using overlapping portions because he confined his objection to the sufficiency of the number of buses serving on the overlapping parts of routes and had not relied upon any parts of the schemes for any alleged- total prohibition of the use of the overlapping parts of notified routes by the inter-state operators. It may be mentioned here that a condition had been imposed by the final Appellate Transport Authority upon each inter- state operator that he will neither pick up nor drop passengers on any part of the overlapping notified route. Therefore, one of the questions argued before us is whether the Transport authorities had any power or jurisdiction to grant permits to interstate, operators even by annexing such conditions so that overlapping portions of notified routes could be merely used by the inter-state operators concerned for taking their stage carriages and passengers through them but not to provide services for passengers to or from any place falling upon any portions of the notified routes. It was submitted, on behalf of the appellant Corporation, that all that the Transport authorities could do was to give effect to the provisions of each scheme but not to do anything which may be a modification of the scheme. Although, the actions of the Transport authorities and the conduct or a concession of the Manager of the Corporation may be relevant in considering whether a scheme was so framed as to clearly convey to the officials of the Corporation and to the, Transport authorities concerned that it was a scheme of total prohibition extending to even user of any portion of an overlapping notified route by an inter- state operator, yet, the real question to be considered is whether the scheme itself in each case, on the contents of it and the language employed by the framers of it, warrants total exclusion of the kind contended for before us on behalf of the Corporation.
+It is true that this Court does not ordinarily interfere with the discretion of the High Court to refuse to allow a question to be raised for the first time in arguments before it. But, it is pointed out that the question raised before the High Court and argued before us is one of jurisdiction or power of the Transport authorities which goes to the root of the case so that the High Court should have permitted it to be raised and decided it. We find that the High Court did, albeit indirectly, consider the question by holding that the schemes were ambiguous and did not rule out the interpretation that they were not schemes of total prohibition as the schemes could and should have done if that was intended. The High Court had also correctly made observations indicating that, where such an intention of total prohibition of even the case of a portion of the notified route is present, the intention must be communicated in clear enough language so as not to leave the transport authorities in any doubt as to what they are to enforce. And, as we have granted special leave on this very question and have heard arguments on it, we will consider the question briefly and not dispose of the cases before us simply on the ground that the question should have been raised at an earlier. stage on behalf of the appellant Corporation. We will, therefore, examine the contents of each of the three approved schemes in which the preamble and clauses 3 to 7 have a special bearing on the question under consideration.
+In the Anekal Scheme, the preamble does not state that the scheme is of total exclusion. Clauses 3 to 17 of the approved scheme are stated as follows :
+"3.The route or routs (with their start- As in statement ing points, termini, intermediate 1 appended stations and route (length) in which the State Transport Under-
+taking will    introduce its services
+the exclusion of private operators.
+4. The number of existing stage carria-      As in statement
+ges on each route with the number of       2 appended
+trips and the names of their operators.
+5. The maximum and minimum number of stage carriages to be operated by the State Road Transport Undertak-
+ing to the exclusion of private opera-
+tors in relation to each route and the type and seating capacity of each vehicle.
+5(a) Maximum and minimum number of stage carriages to be operated; As in Statement 1 appended 5(b) Type and Seating capacity of each vehicle Semi-saloon, single dickers. The seating capacity of each vehicle is 36 to 45 seat.
+6. The maximum number of trips to As in statement 1 be performed on each route. appended
+7. The number of vehicles to be 25 per sent of kept in reserve to maintain the services the operating and to provide for special occasions. fleet". In the Gulbarga scheme, the preamble states that approval is given, to the originally published proposals subject to certain modifications, One of the modifications is-that the words "or any portion thereof' wherever they appear in column 2 of the, statement appended to the scheme published by the General Manager shall be deleted. The, relevant clauses 3 to 7 read as follows :
+"3. The route or routes (with their starting points, termini, intermediate stations and route length) in which the State Road Transport Undertaking shall introduce its services, to the exclusion of private operators.
+As in statement appended.
+4. The number of existing stage carriages on each route with the number of trips and the names of their operators.
+5. The maximum and minimum number of stage carriages to be operated by the State Road Transport Undertaking to the exclusion of private operators in relation to each route and the type and sating capacity of each vehicle.
+6. The maximum number of trips to be performed on each route.
+7. The number of vehicles to be kept and to maintain the services to provide for special occasions.
+Twenty-five percent of the operating fleet (4) (a) At present, only the Mysore Govern- ment Road Transport Department is operating service on these routes, and the number of existing stage carriages and the number of trips are as in statement appended. 5(a) Maximum and minimum, number of stage carriages to be operated As in statement appended., 5(b) Type and seating capacity of each vehicle. Semi-saloon, single-deckers. The seating capacity of each vehicle is 26 to 55 seats.
+6 (a) As in statement appended. 7(a) Twenty-five per-cent of the operating fleet".
+The preamble to the Bangalore scheme mentions the following modifications of the original proposals:
+(a) that the passenger transport services on the routes appearing at sl. Nos. 1 to 22 and 24, 25, 26, 27 anti 53 of the statement appended including services between any two places therein should be run and operated by the State Transport Undertaking to the complete exclusion of other operators
+(b) Subject to (a) above, the State Transport Undertaking should operate services on the remaining routes appearing in the statement appended between the two specified terminals only, to the complete exclusion of all other operators, excluding the inter- mediate routes;"
+The relevant clauses 3 to 7 are given here as follows:
+The route or routes (with their startingpoints, termini, intermediate stations and route length) in which the State Road Transport Undertaking shall introduce its services to the exclusion of private operators.
+(a) The passenger transport services on the routes appearing at Sl. Nos. 1 to 22, and 24, 25, 26, 27, 39 and 53 of the statement appended including services between any two places therein should be run and operated by the State Transport Undertaking to the complete exclusion of other operators;
+(b) Subject to (a) above, the State Transport Undertaking should operate services on the remaining ,routes appearing in the statement appended between the two specified terminals only to the complete exclusion of all other operators, excluding the intermediate routes;
+4. The number of existing stage At present only the carriages on each route with Mysore Government Road the number of trips and the Transport Department is names of their operators operating services on these routes and in the number of trips are as in statement appended.
+5. (a) The maximum and minimum (a) Maximum and minimum number of stage carriages to of stage carriages to be be operated by the State Road operated; As in the Transport Undertaking to the statement appended. exclusion of private operators (b) Type and seating in relation to each route and capacity of each veh-
+cile.
+(b) the type and seating capacity Semi-saloon single-
+     of each vehicle       dickers, the seating
+         capacity of each
+         vehicle is 26 to 35
+          seats.
+6. The maxims number of trips As in statement appended to be performed on each route
+7. The number of vehicles to be Twenty-five per-cent of kept in reserve to maintain the operating fleet." the services and to provide for special occasions.
+It may be mentioned here that clauses 3 and 4 of the three schemes are apparently intended to carry out the provisions of sub-rules 3 and 4 of the State Transport Undertaking Mysore State Rules, 1958, Set out above. In the Anekal scheme, the appended statement mentioned in clause 3 (in purported compliance of sub rule 3) gives the termini with intermediate points thereby indicating that the exclusive service on each route is intended to be one which takes place only between the given there and not as a mere incident of service between other termini. The second statement mentioned in clause 4 (in purported compliance of sub-rule 4) gives the number of the existing sup carriages and the names of their operators serving the prohibited routes indicated in terms of their termini. Ile strongest point of the inter-state operators is that their names are not mentioned in the second appended statement. Hence, they could not either object as persons whose rights were meant to be affected or who could be compensated under Section 68G after necessary modification or cancellation of their permits for the overlapping portions. We, therefore. think that the contention that inter-state operators were apparently not meant to be denied the mere use of the overlapping portions of routes covered by this scheme is well supported. In fact, this is the more reasonable inference. Similarly, the appended statements of the Gul- barga scheme show that the term "route" is used in the scheme for services between two termini and that persons merely using portions of the route while travelling between other termini are not totally prohibited the user of the overlapping route. Lastly, as regards the Bangalore scheme, the case of the appellant Corporation may, seem better inasmuch as the words used there are : "the complete exclusion of all other operators excluding the intermediate routes". But, even here, the exclusion appears to be only of operators providing services between the termini mentioned there and not merely using overlapping portions of the notified routes incidentally. If the exclusion of those using overlapping portions of the surface of the, highway common to two different routes was also really intended, they should have been named in the appended statement and the numbers of their stage carriages should have been given. No explanation is forthcoming for this omission. Therefore, the interpretation of the three schemes advanced on behalf of the inter-state operators is more reasonable. In any case, if the intention was really to exclude even the user of the overlapping portions of notified routes by inter- state operators, we do not see why the State Transport Undertaking should have waited for so long and not modified the scheme, as provided by Section 58E of the Act, and made its intention clear instead of allowing litigation over this issue for such a long time.
+On behalf of the appellants, reliance was sought to be placed strongly upon the meaning assigned to the term "route' by a Division Bench of this Court in Nilkanth Prasad's case (supra), where the view of the Privy Council in Kelani Valley Motor Transit Co. v. Colombo Ratnapura Omnibus Co.,(1) was distinguished on the ground that the context of the ordinances before, the, Privy Council for interpretation indicated that a "route" stood for "an abstract conception of a line of travel between one terminus and another, and to be something distinct from the highway traversed". Nilkanth Prasad's case (supra) was decided before the insertion of the definition in Section 2(28A) of the Act before us. In it reliance was placed upon Kondala Rao v. Andhra Pradesh State Road Transport Corporation(2) where the real question considered by this Court was whether a route could also be an area. It was observed in Nilkanth Prasad's case (supra) (at p. 737-738) "The distinction between "route" as the notional line and "road" as the physical track disappears in the working of Chap. IVA, because you cannot curtail the route without curtaining a portion of the road, and the ruling of the Court to which we have referred, would also show that even if the route was different, the area at least would be the same. The ruling of the Judicial Committee cannot be made applicable to the Motor Vehicles Act, particularly Chap. IVA, where the intention is to exclude private operators completely from running over certain sectors or routes vested in State Transport Undertakings. In our opinion, therefore. the appellants were rightly held to be disentitled to run over those portions of their routes which were notified as part of the scheme". On the other hand, learned Counsel for the inter-state operators relied strongly on H. C. Narayanappa & Ors. v. The State of Mysore & Ors.,(3) where a Constitution Bench of 5 Judges of this Court (1) [1946] A.C. 338.
+(2) AIR 1961 S.C. 82.
+(3) [1960] (3) S.C. R. 742.
+interpreted the very scheme dated 13-1-1959- relating, to the Anekal area which is one of the three schemes for interpretation before us. It was held there (at p. 746) "Statement I sets out the description of fourteen routes with their intermediate points, route length, number of buses to be operated and the maximum number of trips to be performed on each route". By column 4 "the number of existing stage carriages on each route with the number of trips and the names of their operators" are described "as in statement 2 appended". Statement 2 sets out the names and places of business of fifty-six operators together with the, routes operated and the numbers of the stage carriages and trips made by those operators. In the Anekal area, there are thirty-one routes, which are served by stage carriages operated by private operators, and by the approval of the scheme, only fourteen of those routes are covered by the scheme".
+Hence, it was urged that the term "route' was used in the schemes under consideration with reference to a service rendered to passengers between certain termini. Its notification did not, it is urged, ipso facto, signify a blanket-like interdict against the user of any and every portion of a route conceived of as a prohibited area reserved for the use of State owned carriages only which private operators could not encroach upon or invade. The Act itself gives power to nationalise motor transport services upon and not the Surfaces of public highways. Whatever may be said about the correctness of the decision of this Court in Nilkanth Prasad's case (supra) in the context of the scheme before this Court for consideration in that case and the provisions of the Act as they stood then, we do not think that the ratio decidendi of that case is applicable here. Upon the contents of the schemes before us for interpretation we find that only operators named therein or those who seek to provide "services" upon the routes mentioned in the schemes,. in the sense that they carry passengers travelling from one place. to another situated only upon the notified routes, could be totally excluded from using the highways which the notified routes cover. We think that conditions were rightly imposed by the final Transport Appellate Authority on the permits of interstate operators to bring out what it understood the scheme to mean in each case.
+The result is that we do not see sufficient reason to interfere with the view taken by the High Court and dismiss these appeals and the special leave petitions. The parties will bear their own costs in this Court.
+P.H.P.
+Appeals dismissed.
+-LI 77S-P. CI/75

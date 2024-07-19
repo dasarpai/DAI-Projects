@@ -1,0 +1,15 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4631/
+Cites: ['Section 138 in The Negotiable Instruments Act, 1881 : https://indiankanoon.org/doc/1823824/', 'Arun Kumar Goenka vs Pnb Mutual Fund on 21 April, 2008 : https://indiankanoon.org/doc/59350348/', 'Arun Kumar Goenka vs Pnb Mutual Fund on 21 April, 2008 : https://indiankanoon.org/doc/29413934/']
++++++++++++++++++++++++++
+
+
+Karnataka High Court
+Sannidhi Agencies vs Brooke Bond Lipton India Limited on 19 April, 2001
+Equivalent citations: 2002 (1) KarLJ 233
+Bench: K S Rao
+ORDER The Court
+1. Heard Sri B.R. Nanjundaiah, Senior Counsel for the respondent.
+2. The petition filed for quashing of the proceedings in C.C. No. 61 of 1997 on the file of the II Additional Civil Judge (Junior Division) and Judicial Magistrate of the First Class, Hubli. The petitioner is the accused in a private complaint filed against him for committing an offence punishable under Section 138 of the Negotiable Instruments Act. A cheque was issued by the petitioner in favour of the respondent which came to be bounced. After complying the statutory formalities, a private complaint is filed by the respondent. The Magistrate took cognisance, recorded the sworn statement and issued process. Being aggrieved by the order, the present petition is filed by the petitioner against the respondent.
+3. Heard the Counsel for the petitioner. It is the contention of the petitioner that the complainant-company has now merged with Hindustan Lever Public Limited Company and, therefore, the liability incurred in favour of Brooke Bond Lipton India Limited is transferred and taken over. As such, the present complaint is not maintainable. I am unable to agree with the contention of the Counsel for the petitioner for the reason that the civil liabilities whatever that might follow by virtue of the transfer of an undertaking by Hindustan Lever may enable the Hindustan Lever to recover the debt. However, in case of an offence punishable under Section 138 of the Negotiable Instruments Act, the cheque was issued in favour of Brooke Bond and the same is bounced. Therefore, the penal liability whatever incurred consequent to the bouncing of the cheque would not get obliterated by the merger of the complainant-company with Hindustan Lever Limited. In that view of the matter, I do not find any merit in the petition. Accordingly, the petition is dismissed.

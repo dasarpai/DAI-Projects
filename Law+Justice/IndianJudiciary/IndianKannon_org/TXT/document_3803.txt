@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3803/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 13(1) in The Protection of Plant Varieties and Farmers’ Rights Act, 2001
+(1) For the purposes of this Act, a Register called the National Register of Plant Varieties shall be kept at the head office of the Registry, wherein shall be entered the names of all the registered plant varieties with the names and addresses of their respective breeders, the right of such breeders in respect of the registered varieties, the particulars of the denomination of each registered variety, its seed or other propagating material along with specification of salient features thereof and such other matters as may be prescribed.

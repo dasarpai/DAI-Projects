@@ -1,0 +1,21 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/595/
+Cites: ['THE WEALTH-TAX ACT, 1957 : https://indiankanoon.org/doc/983571/', 'State Of Andhra Pradesh vs Abdul Bakhi And Bros on 8 April, 1964 : https://indiankanoon.org/doc/695786/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+Commissioner Of Wealth-Tax vs K. Vijayakumar on 6 October, 1999
+Equivalent citations: 2000 243 ITR 271 Mad
+Author: R J Babu
+Bench: R J Babu, A Subbulakshmy
+JUDGMENT R. Jayasimha Babu, J.
+1. Two questions have been referred to us at the instance of the Revenue :
+"1. Whether, on the facts and in the circumstances of the case, the Tribunal is right in law in holding that the additional wealth-tax is not leviable in respect of agricultural lands lying within eight kilometers of the municipal limit ?
+2. Whether, on the facts and in the circumstances of the case, the Tribunal has valid materials to hold that the properties standing in the name of Vijayakumar Cotton Press are to be considered as used for business purposes and hence are exempt from levy of additional wealth-tax ?"
+The assessment years are 1975-76 and 1976-77. The assessment was under the Wealth-tax Act.
+2. The assessee owns agricultural lands within eight kilometers from Coimbatore municipal limit. The assessee also has a cotton press with a godown known as "Vijayakumar Cotton Press" in a portion of the land. The assessee claimed exemption from the additional wealth-tax on the ground that the land and the cotton press were used for the purpose of the business of the assessee. That claim has been accepted by the Commissioner and the Tribunal, though it had been negatived initially by the Wealth-tax Officer.
+3. The fact that the assessee is running a business under the name "Vijayakumar Cotton Press", that he has a ginning factory and godown in a portion of his land is not in dispute. That is what has been noticed by the Wealth-tax Officer. That the character of the land owned by the assessee is agricultural land and that the assessee was carrying on agricultural activity in the area not covered by the ginning factory and godown has also not been disputed as there is no finding that the assessee was not using the land for carrying on agricultural operations.
+4. Paragraph B of Part I of Schedule I tp the Wealth-tax Act which provides for the levy of additional wealth-tax specifically excludes land and building used for the purpose of the business or profession of the assessee, even if such lands are agricultural lands and are situated within eight kilometers of the municipal limit. The finding recorded by the Tribunal on this question as to whether the land used is for business purpose is a finding of fact. That agriculture can also constitute a business cannot be doubted. The Supreme Court in the case of State of Andhra Pradesh v. H. Abdul Bakshi and Bros. [1964] 15 STC 644, held that (headnote) "The expression 'business' though extensively used is a word of indefinite import. In taxing statutes it is used in the sense of an occupation or profession which occupies the time, attention and labour of a person normally with the object of making profit. To regard an activity as business, there must be a course of dealings, either actually continued or contemplated to be continued with a profit motive, and not for sport or pleasure." The carrying on of activity of agriculture which necessarily involves time, attention and labour, is to be regarded as business if it is done with a profit motive and not for sport or pleasure. It is not the case of the Revenue that the assessee herein was carrying on agricultural activity for sport or pleasure. Before the Commissioner as also before the Tribunal, the parties appear to have proceeded on the assumption that the agricultural activity was done with profit motive and the only point on which argument appears to have been advanced was whether the agricultural activity can at all be regarded as business.
+5. Having regard to the law enunciated by the Supreme Court on the scope of the term "business", the finding recorded by the Tribunal that the assessee is carrying on business in agriculture and is carrying on the business of ginning factory on the land where agricultural activity is not carried on, we answer the two questions referred to us in favour of the assessee and against the Revenue.

@@ -1,0 +1,13 @@
+System ,,Process,SubProcess,Comment
+PE ,,,01-04,Not a system
+06-QAGS ,,06,,
+,ChatGPT Manual,,"01,02,03",
+,ChatGPT API,,"10,11",
+,ChatPDF,,21,
+08-DRS  ,,08,,
+09-AGS,,09,,
+,ZeroshotExp,,0,
+,Zeroshot,,1,
+,Finetuned,,"2,3,4",
+10-RAAGS,,10,,
+31-Reports  ,,31,,Not a system

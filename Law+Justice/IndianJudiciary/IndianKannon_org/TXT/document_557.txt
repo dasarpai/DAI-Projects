@@ -1,0 +1,19 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/557/
+Cites: ['The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/', 'Commissioner Of Income Tax, ... vs Sterling Foods, Mangalore on 15 April, 1999 : https://indiankanoon.org/doc/147488/', 'Jawand Sons vs Commissioner Of Income Tax ... on 18 November, 2009 : https://indiankanoon.org/doc/1360893/']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+Paramount Impex vs Cit on 20 September, 2007
+Author: M Kumar
+Bench: M Kumar, A K Mittal
+ORDER M.M. Kumar, J.
+1. This is assessee's appeal under Section 260A of the Income Tax Act, 1961 Income Tax Act, against order dated 17-5-2007, passed by the Income Tax Appellate Tribunal, Chandigarh 'A' Bench, Chandigarh ('the Tribunal'), in ITA No. 467/Chd./2006, in respect of assessment year 2003-04. It is claimed that the following substantial questions of law would arise for determination of this Court:
+(i) Whether, on the facts and circumstances of the case, the ITAT was justified in law in holding that appellant was not entitled to the deduction under Section 80IB in respect of profits and gains arising on account of duty drawback which is intrinsically related/ connected to the business profits of the industrial undertaking ?
+(ii) Whether, on the facts and in the circumstances of the case, the Income Tax Appellate Tribunal was justified in denying the claims. of the appellant under Section 80IB of the Income Tax Act, 1961 by blindly relying upon the judgment of this Court in the case of Liberty India and other judgments which are distinguishable on facts itself?
+(iii) Whether, on the facts and circumstances of the case, the findings of ITAT are perverse and against the evidences on record thus Unsustainable in law ?
+(iv) Whether the ITAT has misdirected itself in being influenced by irrelevant factors and applying erroneous criteria while deciding the issue of eligibility for claiming deduction under Section 80IB of the Income Tax Act, 1961 ?
+2. After hearing learned Counsel for the assessee-appellant and perusing the record, we are of the considered view that no question of law, much less a substantive question of law warranting admission of the appeal would, arise, inasmuch as, the matter is not res integra. We have already rejected appeals bearing in the case of Arisudana Spg. Mills Ltd. v. CIT (YT Appeal Nos. 278 and 279 of 2007, dated 31-7-2007) as well as in the case of Jawand Sons v. CIT (IT Appeal No. 301 of 2007, dated 17-9-2007), wherein similar questions of law were raised. The Tribunal has rightly allowed the appeal filed by the revenue by following the law laid down by the Hon'ble Supreme Court in the case of CIT v. Sterling Foods ', which is fully applicable to the instant appeal. Therefore, we do not find any ground to interfere with the view taken by the Tribunal.
+3. In view of the above, this appeal is wholly without merit. Dismissed.

@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1966/
+Cites: ['Deepak Sadashiv Nikalje vs Union Of India (Uoi) And Ors. on 18 October, 2002 : https://indiankanoon.org/doc/611801/', 'Teesta Chattoraj vs Union Of India on 30 March, 2012 : https://indiankanoon.org/doc/24842861/', 'Ikhlaq Mohamed And Anr. vs Union Of India (Uoi) And Anr. on 11 January, 1983 : https://indiankanoon.org/doc/1078733/', 'Mohd Akbar Kichloo vs Union Of India (Uoi) on 15 July, 2004 : https://indiankanoon.org/doc/728688/', 'P.Ganesan vs The Passport Officer on 27 August, 2018 : https://indiankanoon.org/doc/133845302/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 5(3) in The Passports Act, 1967
+(3) Where the passport authority makes an order under clause (b) or clause (c) of sub-section (2) on the application of any person, it shall record in writing a brief statement of its reasons for making such order and furnish to that person on demand a copy of the same unless in any case the passport authority is of the opinion that it will not be in the interests of the sovereignty and integrity of India, the security of India, friendly relations of India with any foreign country or in the interests of the general public to furnish such copy.

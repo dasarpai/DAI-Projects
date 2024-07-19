@@ -1,0 +1,20 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/293/
+Cites: ['The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/', 'Section 256(1) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1940213/', 'Krishna Mohan Agarwal vs The Commissioner Of Income Tax on 24 April, 2007 : https://indiankanoon.org/doc/552421/', 'Krishna Mohan Agrawal vs Cit on 24 April, 2007 : https://indiankanoon.org/doc/562713/']
++++++++++++++++++++++++++
+
+
+Allahabad High Court
+Chief Commissioner Of Income-Tax vs Rama Shanker on 2 November, 2004
+Equivalent citations: 2005 277 ITR 69 All
+Bench: R Agrawal, P Krishna
+JUDGMENT
+1. The Income Tax Appellate Tribunal, Allahabad, has referred the following questions of law under Section 256(1) of the Income-tax Act, 1961, hereinafter referred to as "the Act", for opinion to this court :
+"1. Whether, on the facts and in the circumstances of the case, the Tribunal was justified in law in holding that the assessee is entitled to depreciation on truck at 40 per cent. as against 30 per cent. allowed by the Income-tax Officer and upheld by the Appellate Assistant Commissioner ?
+2. Whether, on the facts and in the circumstances of the case, the Tribunal was justified in law in holding that the notification dated July 24, 1980, is applicable for the assessment year 1980-81, when the relevant previous year expired before the issue of the said notification ?"
+2. Briefly stated the facts giving rise to the present reference are as follows :
+3. The present reference relates to the assessment year 1980-81, the previous year which ended on March 31, 1980. The respondent-assessee claimed depreciation at 40 per cent. on truck used on hire. The Income-tax Officer allowed depreciation at 30 per cent. The Appellate Assistant Commissioner upheld the order of the Income-tax Officer. Feeling aggrieved the respondent-assessee preferred an appeal before the Appellate Assistant Commissioner which had held that the notification dated July 24, 1980 providing higher depreciation at 40 per cent. is applicable in the present case and consequently the respondent-assessee is entitled to depreciation at 40 per cent.
+4. We have heard Sri A. N. Mahajan, learned standing counsel for the Revenue. Nobody has appeared for the respondent-assessee.
+5. It is well settled that in the Income-tax Act the law as stands on the first day of the assessment year is applicable unless and until any amendment made in the Act or the notification issued therein is specifically made applicable from an anterior date. In this view of the matter, the notification dated July 24, 1980 providing for higher depreciation on the truck used on hire was not applicable for the assessment year 1980-81. The Tribunal has clearly erred in law in granting depreciation at 40 per cent. on the basis of the said notification.
+6. In view of the foregoing discussions, we answer the above questions referred to us in the affirmative, i.e., in favour of the Revenue and against the assessee. However, there shall be no order as to costs.

@@ -1,0 +1,19 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4096/
+Cites: []
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Commissioner Of Income-Tax, ... vs R.G. Govan & Co. on 16 February, 1984
+Equivalent citations: 1984 156 ITR 875 Delhi
+Author: D Kapur
+Bench: D Kapur, D Wadhwa
+JUDGMENT D.K. Kapur, J.
+1. There is no appearance for the assessed, but we have heard counsel for the Department on the question whether a reference should be asked for concerning the following question :
+"Whether, on the facts and in the circumstances of the case, the Tribunal was legally right in holding that the amount of Rs. 19,802 in respect of two bills was allowable expenditure when the same amount had been claimed and allowed by the Income-tax Officer in the subsequent assessment year 1963-64 and when the assessed is maintaining accounts on mercantile system ?"
+2. We may at once say that reference to the subsequent year in the question seems to be out of place as there was no reference of this in the substantive order of the Tribunal while deciding the appeal. What appears to have happened is that a substantial sum was placed in the suspense account of the Bombay branch of the assessed. The Income-tax Officer was of the opinion that a sum of Rs. 19,802 out of this suspense account should be included in the assessable income on account of the fact that information concerning the amount was received after the close of the financial year. This view was affirmed by the Appellate Assistant Commissioner, who thought that ever if the bills were wrongfully submitted, they should be treated as income.
+3. However, the Tribunal took the view that if the income never arose, it could not be taxed. The actual language used was :
+"It is not a question of a claim being false but a claim being made without a right thereto. IF the assessed had no right to claim this amount, it could not constitute its income. It is not disputed by the Department that the assessed had no right to claim this amount. Merely because bills were submitted which were ultimately retrenched by the Regional Director of Food cannot, in our opinion, be a ground for treating the amount as the assessed's income."
+4. In other words, the amount was deducted from the assessable income on the ground that it was not income. The facts seem to indicate that there were some inflated bills from which some amount was retrenched which was placed in a suspense account. But the Income-tax Officer thought that as retrenchment was after the close of the financial year, the amount should first be added to the income and deducted at some later stage. This point was refuted by the Tribunal on the ground that the amount not having accrued was not income. We do not think this is a question of law, as if the amount was never income, it could not be included in the assessable income. However, if there has been a subsequent allowance of the same amount in another year, the Department can rectify or vary that order in accordance with the Tribunal's judgment. With these remarks, we reject the application.

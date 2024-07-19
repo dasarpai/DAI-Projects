@@ -1,0 +1,149 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/727/
+Cites: ['The Income- Tax Act, 1995\nCentral Government Act Cites 0 - Cited by 93772 - Full Document', 'Section 194A in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 602', 'Section 2(28A) in The Income- Tax Act, 1995 [Section 2] [Complete Act]\nCentral Government Act Cites 0 - Cited by 123', 'Section 201 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 977', 'Section 273B in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 527', 'Section 272B in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 106', 'Section 272AA in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 46', 'Section 272BB in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 49', 'Section 273 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 635', 'Section 272A in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 141']
++++++++++++++++++++++++++
+
+
+Madras High Court
+Commissioner Of Income-Tax vs M/S.Viswapriya Financial ... on 22 June, 2007
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATED :  22.06.2007
+
+Coram :
+
+THE HONOURABLE MR.JUSTICE P.D.DINAKARAN
+
+AND
+
+THE HONOURABLE MR.JUSTICE P.P.S.JANARTHANA RAJA
+
+Tax Case (Appeal) Nos.821 and 822 of 2007
+
+Commissioner of Income-tax,
+Chennai.          ..Appellant in both
+          the T.C.(A)s.
+
+                 Vs.
+     
+M/s.Viswapriya Financial Services
+  & Securities Ltd.,
+124, L.B.Road, "Viswapriya",
+Kasturiba Nagar, Adyar,
+Chennai-600 020.                 ..Respondent in both
+              the T.C.(A)s.
+
+ Appeals under Section 260A of the Income-tax Act, 1961 against the order of the Income Tax Appellate Tribunal, Chennai Bench 'B', Chennai in I.T.A. Nos.177 & 178(Mds)/98 dated 29.12.2004 for the assessment years 1994-95 and   1995-96. 
+  For Appellant  : Mrs.Pushya Sitaraman,
+          Sr.Standing Counsel for
+      Income-tax Department 
+
+JUDGMENT
+(Judgment of the Court was delivered by P.P.S.Janarthana Raja, J.) These appeals are filed under Section 260A of the Income Tax Act, 1961 by the Revenue, against the order of the Income Tax Appellate Tribunal, Chennai Bench 'B', Chennai in I.T.A. Nos.177 & 178(Mds)/98 dated 29.12.2004, raising the following common substantial questions of law:-
+"1. Whether in the facts and circumstances of the case, the Tribunal was right in holding that penalty under section 271C is not leviable on the assessee company?
+2. Whether in the facts and circumstances of the case, the Tribunal was right in holding that penalty under Section 271C is not leviable when the assessee had advertised in the news paper that the return on the investments made with the company will not attract tax deduction at source, which is against the provisions of the section 194A and thereby induced the depositors to invest?"
+2. The facts leading to the above substantial questions of law are as under:-
+The assessee is a Public Limited Company incorporated under the Companies Act. The assessee is engaged in retail financial services, corporate advisory services and securities trading. The relevant assessment years are 1994-95 and 1995-96 and the corresponding accounting years ended on 31.03.1994 and 31.03.1995, respectively. An advertisement was given in the newspaper in the name of the assessee-company stating that return on the investments made with the company would not attract the tax deducted at source. Later, the Income-tax Officer investigated the matter and rejected the contention of the assessee that it is only acting as an agent of investors and is merely a trustee for the investors. The Income-tax Officer proceeded to treat the assessee as a defaulter as per the provisions of Section 194A of the Income-tax Act ("Act" in short). Accordingly, the Income-tax Officer passed orders under Section 201(1) of the Act holding the assessee as defaulter in deducting and remitting tax at source out of the interest payments made by the company. Aggrieved by the orders, the assessee filed appeals to the Commissioner of Income-tax (Appeals). The C.I.T.(A) dismissed the appeals and confirmed the orders of the Assessing Officer. Aggrieved, the assessee filed appeals to the Income-tax Appellate Tribunal ("Tribunal" in short). The Tribunal held that the moneys received by the assessee from the investors create an obligation, and the return on that investment at the guaranteed minimum payment of 1.5% per month is covered by the definition of Section 2(28A) of the Act and hence, the assessee is liable to deduct tax at source under Section 194A, on the payments made to the investors. The Tribunal has also upheld the order that has been made by the authorities under Section 201 of the Act. Aggrieved by the order, the assessee filed an appeal to this Court, and this Court in 258 ITR 496 held as follows:-
+"The scheme under which the assessee induced investors to entrust their moneys to the assessee, under the very terms of the scheme, imposed an obligation on the assessee to repay the investor at the end of the period of 36 months, and also to ensure a monthly payment of 1.5 per cent to the investor during that period. The mere fact that the assessee did not choose to characterise such payment as interest will not take such payment out of the ambit of the definition of "interest". The payment made by the assessee being a payment made in respect of an obligation incurred under the terms of the offer/memorandum, is an amount which we have to regard as interest falling within the scope of section 2(28A). So far as the investor is concerned, the investor is to look to the assessee for repayment of the moneys. The obligation to repay is clearly an obligation which is akin to a claim or a deposit to which reference is made in the definition of interest. The amount paid to the investors therefore was clearly in the nature of interest and the assessee was required to comply with section 194A of the Act. Section 201 would clearly apply by reason of the assessee's admitted failure to comply with section 194A. Section 201(1A) being mandatory, that provision also would apply."
+As the assessee failed to deduct tax at source as provided under Section 194A of the Act, the Income-tax Officer issued a Show Cause Notice requiring the assessee to explain as to why penalty under Section 271C of the Act could not be imposed for non-deduction of tax at source for both the years. The assessee also replied to the Show Cause Notice stating that it had acted under the bona fide belief that the income received from the investments did not attract the liability for deduction at source and therefore, when the amounts were distributed among the investors, no tax was deducted at source. Also, an opinion was also obtained from the Senior Counsel before devising the scheme to the effect that no tax need be deducted at source on the payments made to the investors who had invested the money in the fund organised by the assessee. The Assessing Officer rejected the contention of the assessee and levied penalty of Rs.2,20,811/- and Rs.2,72,393/- for the assessment years 1994-95 and 1995-96, respectively. Aggrieved by the orders, the assessee filed appeals to the Commissioner of Income-tax (Appeals). The C.I.T.(A) allowed the appeals and deleted the penalty levied by the Officer. Aggrieved, the Revenue filed appeals to the Income-tax Appellate Tribunal ("Tribunal" in short). The Tribunal dismissed the Revenue's appeals and confirmed the orders of the C.I.T.(A). Hence the present tax cases by the Revenue.
+3. Learned Sr.Standing Counsel appearing for the Revenue submitted that the assessee-company had consciously attempted to avoid the applicability of provisions of Section 194A of the Act. Further it is submitted that merely giving advertisement that no tax need be deducted out of the payments made by the assessee, will not be sufficient enough to take away the obligation imposed under Section 194A of the Act. Hence, the assessee had consciously and deliberately followed the provisions of the Act. Hence, the Assessing Officer is right in levying penalty under Section 271C of the Act.
+4. Heard the counsel. The mere fact that the bona fide claim stands disallowed does not by itself leads to the inference that the company consciously and deliberately flouted the provisions of the Act. Also, an opinion was also obtained from the Senior Counsel before devising the scheme to the effect that no tax need be deducted at source on the payments made to the investors who had invested the money in the fund organised by the assessee. Hence there is a bona fide action by the assessee and its bona fides have also been accepted by the lower authorities. Further the assessee thought that there is no relationship of debtor and creditor or borrower and lender and therefore, Sections 194A, 201(1), 201(1A) r/w Section 2(28A) of the Act are not attracted. These explanations were considered by the authorities below and both the authorities had taken a view that there is a reasonable cause for non-deduction of tax at source. Section 271C deals with penalty for failure to deduct tax at source, which reads as under:-
+"271C. (1) If any person fails to-
+(a) deduct the whole or any part of the tax as required by or under the provisions of Chapter XVII-B; or
+(b) pay the whole or any part of the tax as required by or under-
+(i) sub-section (2) of section 115-O; or
+(ii) the second proviso to section 194B, then, such person shall be liable to pay, by way of penalty a sum equal to the amount of tax which such person failed to deduct or pay as aforesaid.
+(2) Any penalty imposable under sub-section (1) shall be imposed by the Joint Commissioner."
+Section 273B deals with penalty not to be imposed in certain cases, which reads as under:-
+"273B. Notwithstanding anything contained in the provisions of clause (b) of sub-section (1) of section 271, section 271A, section 271AA, section 271B, section 271BA, section 271BB, section 271C, section 271D, section 271E, section 271F, section 271FA, section 271FB, section 271G, clause (c) or clause (d) of sub-section (1) or sub-section (2) of section 272A, sub-section (1) of section 272AA or section 272B or sub-section (1) of section 272BB or sub-section (1) of section 272BBB or clause (b) of sub-section (1) or clause (b) or clause (c) of sub-section (2) of section 273, no penalty shall be imposable on the person or the assessee, as the case may be, for any failure referred to in the said provisions if he proves that there was reasonable cause for the said failure."
+From a reading of the above, it is clear that no penalty shall be imposable on the person or the assessee, for any failure referred to in the said provisions if he proves that there is reasonable cause for the said failure. The reasonable cause involved in the present case is that the assessee acted in a bona fide manner on the basis of the opinion obtained from Senior Counsel before devising the scheme that the assessee need not deduct tax at source. On this consideration, the Tribunal held that it is not a fit case for levying penalty. The Tribunal, in its order, held as follows:-
+"Rival contentions in regard to the above have been very carefully considered. The issue in regard to levy of interest for non-deduction of tax at source came up before the Tribunal in the case of the assessee for assessment years 1993-94 and 1994-95. The order of the Tribunal so considered is reported in (1997) 60 ITD 401. In that case it was held that assessee was liable to deduct tax and that interest could also be levied. The practice of the assessee not to deduct tax was stated to be continuing. On the stated facts, in our opinion the orders of the authorities levying interest is reasonable. We uphold the same. In so far as levy of penalty is concerned, the appeals by the Department was considered by the CIT(A) with reference to the question as was raised before the Madras High Court. On this basis he concluded that the issue is not free from doubt. It was on this consideration that he came to the conclusion that penalty should not have been levied. In our opinion this is a reasonable approach to the problem and we uphold the same."
+From a reading of the above, it is clear that the Tribunal has accepted the explanation and given a finding that there is a reasonable cause for not deducting the tax at source. The finding that there is a reasonable cause is a only a question of fact and also it is not perverse. Hence the Tribunal is justified in deleting the penalty levied under Section 271C of the Act. The concurrent finding given by both the authorities below are based on valid materials and evidence. In the case of Commissioner of Income-tax Vs. P.Mohanakala [2007] 291 ITR 278 (SC), the Supreme Court held that whenever there is a concurrent finding by the authorities below, no interference should be called for by the High Court. Under these circumstances, we do not find any error or legal infirmity in the order of the Tribunal so as to warrant interference.
+5. In view of the foregoing reasons, no substantial questions of law arise for consideration of this Court and accordingly, the tax cases are dismissed. Consequently, M.P.No.1 of 2007 in T.C.(A) No.822 of 2007 is closed. No costs.
+            (P.D.D.,J.)    (P.P.S.J.,J.)
+        22.06.2007
+Index: Yes
+Internet: Yes
+
+km
+
+To
+
+1. The Assistant Registrar,
+   Income-tax Appellate Tribunal, Chennai Bench 'B',
+   Chennai.
+
+2. The Secretary,
+   Central Board of Direct Taxes,
+   New Delhi.
+
+3. The Commissioner of Income-tax (Appeals) V,
+   Chennai-34.
+
+4. The Deputy Commissioner of Income-tax,
+   TDS Range, Chennai-600 006.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         P.D.DINAKARAN, J.                 AND                    
+P.P.S.JANARTHANA RAJA,J.  
+
+               km
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         of 2007
+       
+                
+
+
+
+
+
+
+
+
+
+
+
+
+          22.06.2007

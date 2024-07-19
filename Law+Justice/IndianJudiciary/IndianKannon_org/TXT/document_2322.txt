@@ -1,0 +1,13 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2322/
+Cites: ['Goldman Sachs Services Private ... vs Nil on 27 July, 2012 : https://indiankanoon.org/doc/176659503/', 'Radhe Shyam Tulsian And Ors. vs Panchmukhi Investment Ltd. And ... on 16 October, 2001 : https://indiankanoon.org/doc/1685411/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 80(4) in The Companies Act, 1956
+(4) Where in pursuance of this section, a company has redeemed or is about to redeem any preference shares, it shall have power to issue shares up to the nominal amount of the shares redeemed or to be redeemed as if those shares had never been issued; and accordingly the share capital of the company shall not, for the purpose of calculating the fees payable under 2 section 611], be deemed to be increased by the issue of shares in pursuance of this sub- section:
+1. Subs. by Act 65 of 1960, s. 23, for" the capital redemption reserve fund".
+2. Subs. by s. 23, ibid., for" section 601".
+Provided that, where new shares are issued before the redemption of the old shares, the new shares shall not, so far as relates to stamp duty, be deemed to have been issued in pursuance of this sub- section unless the old shares are redeemed within one month after the issue of the new shares.

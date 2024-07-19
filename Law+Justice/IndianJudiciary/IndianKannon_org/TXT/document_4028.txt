@@ -1,0 +1,23 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4028/
+Cites: ['Section 127(1) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/10183/', 'Section 127 in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/330339/', 'Article 226 in The Constitution Of India 1949 : https://indiankanoon.org/doc/1712542/', 'Mahendra Singh Rao vs The Principal Commissioner Of ... on 21 December, 2022 : https://indiankanoon.org/doc/38308899/']
++++++++++++++++++++++++++
+
+
+Rajasthan High Court
+Smt. Jeewan Kumari vs Union Of India (Uoi) And Ors. on 2 April, 1979
+Equivalent citations: 1979 118 ITR 573 Raj
+Bench: C Lodha, M Sharma
+JUDGMENT
+1. This petition under Article 226 of the Constitution comes up today for admission.
+2. Mr. Sagar Mal Mehta has put in appearance of behalf of respondents Nos. 1 to 5.
+3. Mr. Mridul states that the other respondents Nos. 6 to 11 are merely pro forma respondents to the writ petition inasmuch as their interest is identical with that of the petitioner.
+4. After having heard learned counsel for the parties for some time we felt inclined to admit the case for hearing.
+5. Learned counsel for both the parties submitted that since the point involved in the case is a short one, it would be proper to dispose of it today. This case may, therefore, be treated as one for hearing.
+6. Accordingly, we have heard learned counsel for the parties at some length. The facts of the case are few and simple. The petitioner, Jeewan Kumari, is a partner of the firm, M/s. R.S. Metal Industries, which is an assessee for purposes of income-tax. The Case No. GIR 30-001-FN-3505 : M/s. R.S. Metal Industries was disposed of and the assessment completed by the ITO, C-Ward, Jaipur. The assessee filed an appeal before the AAC of Income-tax, Rajasthan, Circle II, Jaipur. It further appears that there were certain other companies whose assessments appear to be connected with that of the firm, M/s. R. S. Metal Industries, and, therefore, in exercise of the powers conferred by Sub-section (1) of Section 127 of the I.T. Act, 1961, the Central Board of Direct Taxes by its order dated November 15, 1978, transferred the aforesaid GIR case from the ITO, C-Ward, Jaipur, to the ITO, District III, (18), New Delhi. It was observed in the order of transfer that the transfer was being made in the interest of proper investigation.
+7. Mr. Mridul, learned counsel for the petitioner, has urged that the transfer order is illegal and void inasmuch as no reasonable opportunity was given to the assessee of being heard in the matter as envisaged by Section 127(1) of the Act. It has also been contended that the order of transfer does not contain reasons for the transfer and that the transfer was being made in the interest of proper investigation was not sufficient in the eye of law.
+8. Mr. Sagar Mal Mehta very frankly and candidly conceded that in GIR Case No. 30 in question, of course, no notice was given to the assessee to show cause why the case be not transferred, but since the assessment, has been completed by the ITO and the matter is pending in appeal before the AAC, it was not necessary to serve a notice upon the assessee to show cause as to why the GIR case before the ITO be not transferred. He has further submitted that so far as the appeal is concerned a notice has been given to the assessee and the matter of transfer is pending decision. He further argued that the objection raised by the petitioner is purely technical and no prejudice is being caused to him on account of absence of notice inasmuch as the petitioner has received a notice in the matter of transfer of appeal.
+9. Now, it may be pointed out that by the transfer of the GIR case, decided by the ITO, by virtue of the impugned order of transfer, the transferee-ITO acquires jurisdiction to reopen the case, if so advised. In this view of the matter, it cannot be said that no prejudice is being caused to the petitioner by the impugned order of transfer. We are, therefore, of the opinion that it was incumbent for the Board to give the assessee a reasonable opportunity of being heard before ordering the transfer of the case.
+10. Consequently, the order of transfer passed without due compliance with Section 127(1) of the I.T. Act is liable to be set aside.
+11. Accordingly, we allow this petition, set aside the order of transfer and leave it open to the Board to pass fresh order for transfer, if so advised, in accordance with law. In the circumstances there will be no order as to costs.

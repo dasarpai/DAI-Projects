@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/192/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 82 in The Semiconductor Integrated Circuits Layout-Design Act, 2000
+82. Certificate of validity.—If in any legal proceeding for rectification of the register before the Appellate Board a decision is on contest given in favour of the registered proprietor of the layout-design on the issue as to the validity of the registration of the layout-design, the Appellate Board may grant a certificate to that effect, and if such a certificate is granted, then, in any subsequent legal proceedings in which the said validity comes into question, the said proprietor on obtaining a final order or judgment in his favour affirming validity of the registration of the layout-design shall, unless the said final order or judgment for sufficient reason directs otherwise, be entitled to his full cost, charges and expenses as between legal practitioner and client.

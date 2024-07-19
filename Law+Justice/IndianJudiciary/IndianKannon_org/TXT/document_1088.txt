@@ -1,0 +1,21 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1088/
+Cites: ['The Wakf Act, 1995 : https://indiankanoon.org/doc/631210/', 'Section 9(2) in The Wakf Act, 1995 : https://indiankanoon.org/doc/1496549/']
++++++++++++++++++++++++++
+
+
+Orissa High Court
+Cuttack Municipality vs Commissioner-Cum-Secretary, ... on 12 December, 1984
+Equivalent citations: 1984 I OLR 78
+Author: S Mohapatra
+Bench: S Mohapatra
+JUDGMENT S.C. Mohapatra, J.
+1. Cuttack Municipality is the petitioner against a reversing - judgment of the District Judge, Cuttack. Money Suit No. 253 of 1977 was filed against the Secretary, Wakf Board, Orissa, for realization of tax of holding No. 362A of Ward No. 19 amounting to Rs. 1203.24 paise in respect of the years 1974-75, 1975-76 and 1976-77. Defendant denied the liability. The trial Court decreed the suit on the finding that the defendant was the owner but the same was reversed by the appellate Court.
+2. The assertion in the plaint is that the defendant as owner is liable to pay tax. The defendant has denied specifically the ownership of the holding. In order to be successful in the suit onus lies on the plaintiff to prove that the defendant is the owner. In discharge of the onus, the plaintiff has adduced evidence that Board of Wakf, Orissa, is the owner. The defendant is the Commissioner-cum-Secretary of such Wakf Board. The Board of Wakf being established under the Wakf Act, 1954 (Act XXIX of 1954) is a body corporate under section 9(2) which is to sue and be sued in the said name. This Court has held in I. L. R, (1977) 2 Cut. 236 : Municipal Council, Berhampur v. Rajani Kanta Padhi, :
+"...A corporate body must be sued qua a corporate body and no officer of that body can in law be regarded to be representing a corporate body..."
+Therefore, the suit not being against the Board of Wakf, any decree passed against the Commissioner-cam-Secretary of the Wakf Board cannot bind it. As the Municipality claims that the Wakf Board is the owner, suit against the Secretary is incompetent. On this ground, the decision of the appellate Court dismissing the suit cannot be interfered with.
+3. The materials produced by the Municipality also do not support the case that the Board of Wakf is the owner. Ext. 2 is the Arrear Demand and Collection Register in Form-H of the Orissa Municipal Rules.
+It mentions the name of assessed to be the Secretary, Management of Syed Seminary School. In respect of tax assessed on valuation of a holding, the owner of the holding is liable to pay the same as provided under Section 141 of the Orissa Municipal Act. In accordance with such assessment, an assessment list is prepared by the Executive Officer under Section 145 wherein the name of the owner is to be indicated. The name of any person in the assessment list can be changed by the Executive Officer in accordance with the provision under Section 147 at any time after the assessment list under Section 145 is published. No evidence has been adduced by the Municipality that such power has been exercised by the Executive Officer to change the name of the owner in the assessment list. In case the name has been proposed to be changed, action would have been taken under Section 147(2) where the Board of Wakf would have also got opportunity to show that it is not the owner. Law never envisages a person to be made liable for tax without getting opportunity to challenge the same. As the records of the Municipality show that the Secretary, Management of Syed Seminary School is the assessee as owner, there is no scope to file the suit against the Commissioner-cum-Secretary, Wakf Board, Orissa, for recovery of tax from a person other than the owner accepted by the Municipality. The Act does not authorise recovery of tax from a third party by filing a suit therefore against him in respect of the liability of another person.
+4. In view of the aforesaid findings, the other points raised by Mr. Rath, the learned counsel for the petitioner-Municipality, and Miss. Mira Ghose, the learned counsel for the defendant-opposite party need not be answered.
+5. In the result, the Civil Revision is dismissed with costs.

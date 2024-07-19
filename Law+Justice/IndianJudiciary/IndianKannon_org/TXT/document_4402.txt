@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4402/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 57(3)(a) in The Semiconductor Integrated Circuits Layout-Design Act, 2000
+(a) where that word or other expression, is used in direct association with other words delineated in characters at least as large as those in which that word or other expression is delineated and indicating that the reference is to registration as a layout-design under the law of a country outside India being a country under the law of which the registration referred to is in fact in force; or

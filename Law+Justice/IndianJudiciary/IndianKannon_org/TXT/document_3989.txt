@@ -1,0 +1,79 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3989/
+Cites: ['Section 14 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 [Complete Act]\nCentral Government Act Cites 0 - Cited by 850', 'Section 17 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1116', 'The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002\nCentral Government Act Cites 0 - Cited by 8217 - Full Document', 'Section 13 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 [Complete Act]\nCentral Government Act Cites 0 - Cited by 802', 'Section 31 in The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 [Complete Act]\nCentral Government Act Cites 0 - Cited by 126', 'The Security Interest (Enforcement) Rules, 2002\nCentral Government Act Cites 0 - Cited by 9085 - Full Document', 'Trade Well, A Proprietorship Firm ... vs Indian Bank, A Body Corporate ... on 2 April, 2007\nBombay High Court Cites 70 - Cited by 30 - Full Document', 'The Industrial Development Bank (Transfer Of Undertaking And Repeal) Act, 2003\nCentral Government Act Cites 0 - Cited by 1114 - Full Document', 'Section 401 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 10008', 'Section 397 in The Code Of Criminal Procedure, 1973 [Complete Act]\nCentral Government Act Cites 0 - Cited by 9997']
++++++++++++++++++++++++++
+
+
+Madras High Court
+M/S.Sri Vaishnavi Pulvarising ... vs State Bank Of India on 27 August, 2009
+       
+
+  
+
+  
+
+ 
+ 
+ IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+DATE:  27.08.2009
+
+CORAM
+
+THE HONOURABLE MR.JUSTICE T.SUDANTHIRAM
+
+Criminal Revision Petition  No.738 of 2009
+
+1.M/s.Sri Vaishnavi Pulvarising Mills Ltd.,
+represented by its Managing Director
+M.G.Suriprakash
+
+2.M/s.Sri Kumaran Roller Flour Mills (P) Ltd.,
+represented by its Director
+M.G.Suriprakash        ..Petitioners
+
+Versus
+
+State Bank of India
+Stressed Assets Management Branch
+SBI Buildings 8th Floor,
+157-A, Anna Salai
+Chennai 600002.
+represented by its
+Assistant General Manager
+V.Natarajan         ..Respondent
+
+ Criminal revision Petition filed under Sections 397 and 401 Cr.P.C against the Order dated 08.06.2009 passed in CMP.No.298 of 2009, on the file of the Chief Judicial Magistrate, Coimbatore.
+
+  For petitioners  :  Mr.T.Munirathinam Naidu
+
+  For Respondent  : Mr.K.Balamurali
+        for Mr.Shivakumar 
+
+
+ORDER
+The petitioners herein are the borrowers of the loan amount from the respondent-State Bank of India. The learned Chief Judicial Magistrate, Coimbatore, passed an order under Section 14 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (hereinafter called as 'SARFAESI Act'), for taking possession of the assets. Aggrieved by the order, the petitioners have preferred this revision.
+2. The learned counsel for the petitioner submitted that the revision is maintainable against the order passed by the Chief Judicial Magistrate, Coimbatore, under Section 14 of SARFAESI Act and he also relied on the decision reported in 2009(1) CTC 341 (Indian Overseas bank v. Sree Aravindh Steels Ltd.,).
+3. The learned counsel for the respondent submitted that the remedy available to the petitioners who are borrowers is only under Section 17 of SARFAESI Act and they have to file an appeal before the Debt Recovery Tribunal.
+4. It is true that when an application under Section 14 of SARFAESI Act preferred by the bank was not entertained by the learned Chief Judicial Magistrate, this Court has held that a revision could be preferred. That observation was made in the said decision in respect of the party who prefers an application under Section 14 of SARFAESI Act. At the same time, this Court has held that no notice is necessary to the borrowers for passing an order under Section 14 of SARFAESI Act. After an order being passed under Section 14 of the Act, the remedy open to the borrowers or to the aggrieved persons is under Section 17 of SARFAESI Act.
+5. Section 17 of SARFAESI Act reads as follows:
+17.Right to Appeal:- (1) Any person (including borrower), aggrieved by any of the measures referred to in sub-section (4) of Section 13 taken by the secured creditor or his authorised officer under this Chapter, (may make an application along with such fee, as may be prescribed,) to the Debts Recovery Tribunal having jurisdiction in the matter within forty-five days from the date on which such measures had been taken:
+[Provided that different fees may be prescribed for making the application by the borrower and the person other than the borrower.] [Explanation:- For the removal of doubts, it is hereby declared that the communication of the reasons to the borrower by the secured creditor for not having accepted his representation or objection or the likely action of the secured creditor at the stage of communication of reasons to the borrower shall not entitle the person (including borrower) to make an application to the Debts Recovery Tribunal under this sub-section."
+6. It is also held by the Honourable Division Bench of the Bombay High Court in Trade Well, a Proprietorship Firm and Mr.Suniel K.Mehta, Proprietor of Trade Well vs. Indian Bank, a Body Corporate constituted under the Banking Companies (Acquisition and Transfer of Undertaking) Act, 1970 and The State of Maharashtra, Crl.W.P.Nos.2767 of 2006 and 27, 124 and 343 of 2007, as follows:
+"67. When the Bank takes any measures under Section 13(4), on account of failure of the borrower to repay the liability is already crystallized. Similarly when the secured creditor approaches the CMM/DM for assistance to take possession of the secured asset, the liability having been crystallized, there can be no adjudication about it at that stage. Possession has to be taken by non-adjudicatory process. There is no question of pointing out to the CMM/DM at that stage that the person who is to be dispossessed is a tenant, or that he has a prior registered sale deed or that in case of simple mortgage, ownership rights are not transferred; that the mortgagee is only entitled to an obligation to pay and, hence, possession cannot be taken or that such a course will improve or change the contract, etc. Grievance that reasons for not accepting the objections were not communicated can also not be raised at that stage because consideration of reply is in the realm of adjudication which cannot be done under Section 14. Besides as per proviso to Section 13 (3-A) and explanation to Section 17, non- communication of reasons to the borrower does not confer on the borrower or any person right to prefer an Application under Section 17 at the stage of communication. This is the scheme of the NPA Act. It is so framed to achieve its object. At first blush this may appear harsh. But it is not so. The borrower and the third party is not remedy-less. Remedy is provided in Section 17 where appropriate relief can be given to them. It is after measures under Section 13(4) are taken that an Application under Section 17 can be filed by a borrower or any person and in that Application, all grievances including the grievance that reasons were not communicated can be voiced. Prior to that, at no point of time any grievances can be raised. Section 17 offers an adequate remedy. We shall advert to Section 17 a little later."
+7.This Court also held in the decision cited supra, as follows:
+"1.The Bank or financial institution shall, before making an Application under Section 14 of the NPA Act, verify and confirm that notice under Section 13(2) of the NPA Act is given and that the secured asset falls within the jurisdiction of CMM/DM before whom Application under Section 14 is made. The Bank and financial institution shall also consider before approaching CMM/DM for an order under Section 14 of the NPA Act, whether Section 31 of the NPA Act excludes the application of Section 13 and 14 thereof to the case on hand.
+2.CMM/DM acting under Section 14 of the NPA Act is not required to give notice either to the borrower or to the 3rd party.
+3. He has to only verify from the Bank or financial institution whether notice under Section 13(2) of the NPA Act is given or not and whether the secured assets fall within his jurisdiction. There is no adjudication of.
+4.It is only if the above conditions are not fulfilled that the CMM/DM can refuse to pass an order under Section 14 of the NPA Act by recording that the above conditions are not fulfilled. If these two conditions are fulfilled, he cannot refuse to pass an order under Section 14.
+5.Remedy provided under Section 17 of the NPA Act is available to the borrower as well as third party.
+6.Remedy provided under Section 17 is an efficacious alternative remedy available to the third party as well as to the borrower where all grievances can be raised.
+7.In view of the fact that efficacious alternative remedy is available to the borrower as well as to the third party, ordinarily, Writ petition under Articles 226 and 227 of the Constitution of India should not be entertained.
+8.In exceptional cases of gravest injustice, a Writ Petition could be entertained by this Court.
+9.Great care and caution must be exercised while entertaining a Writ Petition because in a given case it may result in frustrating the object of the NPA Act.
+10.Even if a writ petition is entertained, as far as possible, the parties should be relegated to the remedy provided under Section 17 of the NPA Act before the DRT by passing an interim order which will protect the secured assets. Adjudication and final order should be left to the DRT as far as possible."
+8. In view of the proposition laid down by this court against an order passed under Section 14 of the SARFAESI Act, no revision could be filed either by the borrower or by the third party and his remedy is only under Section 17 of the SARFAESI Act.
+9. This revision petition is dismissed as not maintainable. Consequently M.P.No.1 of 2009 is closed.
+ksr To
+1.The Chief Judicial Magistrate Coimbatore

@@ -1,0 +1,42 @@
+use hpt_db;
+create external table food1
+(Restaurant string,
+Location string,
+Cuisines string,
+Average_Cost string,
+Minimum_Order string,
+Rating int,
+Votes int ,
+Reviews int)
+
+
+
+insert overwrite table food1 
+select * from 
+
+
+
+;
+
+
+
+drop table food;
+drop table food1;
+
+CREATE EXTERNAL TABLE if not exists food (Restaurant string,
+Location string,
+Cuisines string,
+Average_Cost string,
+Minimum_Order string,
+Rating int,
+Votes int ,
+Reviews int)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION '/common_folder/live_session_data'
+tblproperties ("skip.header.line.count"="1");
+
+select * from food;
+
+Question
+select count(*) from food;

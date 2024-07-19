@@ -1,0 +1,15 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3163/
+Cites: ['The Lyalpur Sugar Mills And Co. And ... vs The Ram Chandra Gur Sahai Cotton ... on 5 April, 1922 : https://indiankanoon.org/doc/1038893/', 'Gobardhan Das vs Mt. Jai Devi on 28 November, 1930 : https://indiankanoon.org/doc/779738/']
++++++++++++++++++++++++++
+
+
+Allahabad High Court
+Firm Kripa Ram Chanan Ram vs Firm Jawahir Lal Narsingh Das on 13 July, 1928
+Equivalent citations: 112 Ind Cas 285
+Author: Dalal
+Bench: Dalal
+JUDGMENT Dalal, J.
+1. It is correct of the defendant applicant to say that the trial Court was not justified in striking out the defence under Order XI, Rule 21. The Court directed production of bahi khaias by the defendant, and the bahikhatas were not produced. This order could not have been passed under Rule 15, because the defendant himself had not made any reference to any bahi khata in his pleadings or affidavits. The order could have been made only under Rule 14, and a Bench of this Court in Lyallpur Sugar Mills and Co. Ltd. v. Ram Chandra Gur Sahai Cotton Mills and Co. Ltd. 67 Ind. Cas. 73 : 44 A. 565 : 20 A.L.J. 422 : 4 U.P.L.R. (A.) 139 : A.I.R. 1922 All. 235, has held that non-compliance with an order served on a defendant for the production only of documents under Rule 14, of Order XI, of the Civil Procedure Code does not warrant the striking out of the defence under Rule 21. Rule 21 applies only where a party fails to answer interrogatories or to comply with an order for discovery or inspection of documents. Rule 14 refers to production of documents, and not to inspection or discovery.
+2. I set aside the decree of the lower Court dated 11th April, 1928, and direct that Court to re-try the case after giving the defendant an opportunity to file his defence. Costs here and heretofore shall abide the result.

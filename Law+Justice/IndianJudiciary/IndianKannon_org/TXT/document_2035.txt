@@ -1,0 +1,137 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2035/
+Cites: ['The Income- Tax Act, 1995\nCentral Government Act Cites 0 - Cited by 93772 - Full Document', 'Section 5 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 2400', 'The Finance Act, 1996\nCentral Government Act Cites 0 - Cited by 18550 - Full Document', 'Section 6 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1561', 'Section 9 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 2028', 'Section 2 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 4465', 'Section 245N in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 35', 'Commissioner Of Income-Tax vs Gosline Mario And Ors. on 15 April, 1999\nSupreme Court of India Cites 1 - Cited by 20 - Full Document', 'Commissioner Of Income-Tax vs S.G. Pgnatale on 25 February, 1980\nGujarat High Court Cites 28 - Cited by 50 - Full Document', 'Section 17 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1045']
++++++++++++++++++++++++++
+
+
+Authority Tribunal
+In Re: Hindustan Powerplus Ltd.; ... vs Unknown on 18 October, 2004
+Equivalent citations: (2004) 192 CTR AAR 311, 2004 271 ITR 433 AAR
+Bench: S S Quadri, K Singh
+RULINGS AAR Nos. 563 of 2000 and 562 and 565 of 2002 Decided On: 18.10.2004 Appellants: In Re: Hindustan Powerplus Ltd.; In Re: Caterpillar India (P) Ltd.; In Re: Thomas E. Lawrence Vs.
+Respondent:
+Hon'ble Judges:
+Syed Shah Mohammed Quadri, J. (Chairman) and K.D. Singh, Member Counsels:
+For Appellant/Petitioner/Plaintiff: V. Ramachandran and Anita Sumanth, Advs.
+For Respondents/Defendant: Anu J. Singh and V. Palanivelrajan, Advs. for the CIT concerned Subject: Direct Taxation Acts/Rules/Orders:
+Income Tax Act, 1961 - Section 2, 2(24), 9(1), 10(14) and 245N; Finance Act, 2003 Cases Referred:
+CIT v. S.G. Pgnatale, (1980) 124 ITR 391 (Guj); CIT v. Goslino Mario and Ors., (2000) 241 ITR 312 (SC); CIT and Anr. v. Moigenstern Werner, (2003) 259 ITR 486 (SC) JUDGEMENT Syed Shah Mohammed Quadri, J. (Chairman)
+1. These three applications, under Section 245Q(1) of the IT Act, 1961 (for short the "Act"), raise common points. The applicants in the first and the second mentioned applications are Indian companies; the applicant in the third application is a foreign technician who was resident in India in some assessment years only. To appreciate ' the questions involved in these applications, a reference to facts in application No. AAR/562/2002 would suffice. The applicant, M/s Hindustan Powerplus Ltd., is an Indian company. It was incorporated as a joint venture on 18th Oct., 1988, and is having its office at Chennai (Tamil Nadu) and factory at Hosur (Karnataka). It entered into an agreement with M/s Caterpillar Inc., USA (for short, the "Caterpillar-USA") for supplying technical services and assistance of qualified individuals to coordinate the activities of the applicant, Pursuant to that agreement, one Mr. Steven D. Dickinson, technician (hereinafter referred to as "technician") was deputed by Caterpillar-USA. The applicant paid US $ 1,15,895 per annum to Caterpillar-USA, as fee for technical services, after deducting tax under Section 195 of the Act. The technician received his salary in US $ 1,17,627 from Caterpillar-USA. However, the applicant provided to the technician the following expenses and facilities free of income-tax :
+(i) Living expenses Rs. 35,000 p.m.
+(ii) Furnished house.
+(iii) Air fare and per diem expenses for the rest and recuperation travel once to Hong Kong and twice to Singapore every year.
+(iv) Home travel once a year to the U.S. for him and his family.
+(v) Car for official and personal use.
+On these facts, the applicant sought rulings of the Authority on the following questions :
+(a) Whether, on the facts and in the circumstances of the case, the sum of US $ 1,15,895 paid by the applicant to Caterpillar Inc., USA, is liable to tax under the Indian IT Act, and if so, under what provision and under what head of income ?
+(b) Whether, on the facts and in the circumstances of the case, the sum of USD 1,17,627 being the salary received by Mr. Steven D. Dickinson in USA from Caterpillar Inc. is liable to tax in India, under the IT Act ? If so, under what provision and under what head of income ?
+(c) If the answers to questions (a) and (b) are in the affirmative, can each of the aforesaid payments be telescoped into the other, to attract a single liability to tax in India ?
+(d) If the answer to both questions are in the affirmative, would it amount to double taxation of the same transaction and/or income and is it open to the Department to impose such a levy ?
+(e) Whether, on the facts and in the circumstances of the case, is the sum of Rs. 35,000 per month paid by the applicant to Steven D. Dickinson towards the estimated living expenses liable to tax in India, as his income ?
+(f) Whether, on the facts and in the circumstances of the case, are the other facilities/benefits provided by the applicant to Mr, Steven D. Dickinson and detailed in the statement of facts liable to tax in India ?
+(g) If the answer to the question (f) above is in the affirmative, what is the method of valuation of the said facilities/benefits ?
+2. The applicant in AAR/563/2002, M/s Caterpillar India (P) Ltd. ("CIPL") is also a resident Indian company. It is 100 per cent subsidiary of Caterpillar-USA. One Mr. Rodney D. Naron (for short "Mr. Naron") is deputed to CIPL under the aforementioned agreement. In regard to amounts paid and the facilities provided to Mr. Naron, the following questions are framed in the application for seeking rulings of the Authority :
+(a) Whether, on the facts and in the" circumstances of the case, the salary earned by Mr. Rodney D. Naron from Caterpillar Inc. in the USA is liable to tax in India under the IT Act, if so, under what provision of law and under what head of income ?
+(b) Whether the living expenses of Rs. 40,000 per month payable by the applicant to Mr. Rodney D. Naron is liable to tax in India, if so, under what provision of law and under what head of income ?
+(c) Are the other facilities detailed in column 8 provided by the applicant to Mr Rodney D. Naron in India liable to be treated as perquisites and/or liable to be assessed as income in the hands of Mr. Rodney D. Naron in India ?
+(d) If the answer to the question (c) above is in the affirmative, how are the aforesaid facilities to be evaluated and the basis for such valuation.
+(e) If the answer to questions (b) and (c) above are in the affirmative would Mr. Rodney D. Naron be eligible for the standard deduction applicable to salaries and/or any other deductions; and if so the provision of law under Which such deduction is to be claimed and the quantum thereof.
+3. The applicant in AAR/565/2002, Mr. Thomas E. Lawrence, is a permanent employee of M/s Caterpillar Asia (P) Ltd. (a company incorporated in Singapore, which is also a 100 per cent subsidiary of Caterpillar Inc., USA). The applicant was deputed to M/s Caterpillar Commercial (P) Ltd. ("CCPL"), an Indian company which is wholly owned subsidiary of Caterpillar-USA. In regard to the amounts paid and the facilities provided to the applicant, the following questions are framed for rulings of this Authority :
+(a) Whether, on the facts and in the circumstances of the case, the salary earned by Mr. Thomas E. Lawrence from Caterpillar Asia (P) Ltd., Singapore, is liable to tax in India under the IT Act, if so, under what provision of law and under what head of income ?
+(b) Are the facilities provided by Caterpillar Commercial (P) Ltd. to Mr. Thomas E. Lawrence in India in the form of furnished accommodation and reimbursement of motor car expenses liable to be assessed as income in his hands in India ? If the answer is in the affirmative, under what provision and under what head ?
+(c) If the answer to the question (b) above is in the affirmative, how are the aforesaid facilities to be evaluated and the basis for such valuation ?
+(d) If the answer to question (b) above is in the affirmative, would Mr. Thomas E. Lawrence be eligible for the standard deduction applicable to salaries and/or any other deductions; and. if so, the provision of law. under which such deduction is to be claimed and the quantum thereof ?
+4. The CIT, Chennai-1, offered the following comments on each question which cover all the applications :
+(i) On question No. (a), it is submitted that the payment made by the applicant to Caterpillar-USA as fee for technical services, is liable to tax in the hands of the recipient as also to deduction of tax.
+(ii) Regarding payment of living expenses to technician, it is stated that, though it is paid out of the fee for technical services, its taxability is linked to the fact that the technician is rendering services in India and not to the nature of the payment. The other amenities and facilities provided to the technician, it is pointed out, are received by him only by virtue of contract which his employer had with the collaborating Indian company. The facilities provided would be treated as payment received from the employer and taxed as "salary". Alternatively, the Indian applicant will be treated as his employer and the tax would be deducted.
+(iii) Regarding telescoping the tax liability, it is stated that one liability is in respect of the tax payable by the foreign company and the other is in respect of the tax payable by the employee of the foreign company. Therefore, telescoping of the tax liability would not arise.
+(iv) On the question of deduction of expenditure by way of salary to the technician, it is stated that the deduction is not permissible in computing his income in view of Section 44D of the Act.
+5. Mr. V. Ramachandran, learned senior advocate, appeared for the applicants in these applications. He submitted that he would not be seeking rulings on questions {a),(c), (d) and (g) in AAR/562/2002 and corresponding questions in the connected applications.
+6. It would be useful to refer to the accounting years, period of stay of the technician and his residential status in those years in India with reference to which the questions are to be answered. They are given in the following table :
+  
+
+AAR/562/2002
+ ________________________________________________________________________________
+S.    Accounting        No. of days the      Remarks
+No.      year           technician was
+                          in India
+________________________________________________________________________________
+1.    1999-2000             36           The technician was neither a resident
+                                         nor an ordinarily resident in India.
+2.    2000-01              247           He was a resident but not an ordinarily
+                                         resident in India.
+3.    2001-02              295           He was a resident but not an ordinarily
+                                         resident in India.
+4.    2002-03(the          307           He was a resident but not an ordinarily 
+      employee                           resident in India.
+      left India on
+      31-10-2003)
+________________________________________________________________________________
+ 
+
+AAR/563/2002  
+ ________________________________________________________________________________
+S.    Accounting       No. of days Mr.        Remarks
+No      year             Norwan was
+                         in India
+________________________________________________________________________________
+1.    2001-02              173           The technician was neither a resident
+                                         nor an ordinarily resident in India.
+2.    2002-03              282           He was resident but not an ordinarily
+                                         resident in India.
+3.    2003-04              257           He was resident but not an ordinarily
+                                         resident in India. 
+________________________________________________________________________________
+ 
+
+AAR/565/2002
+ ________________________________________________________________________________
+S.    Accounting       No. of days Mr.        Remarks
+No.     year             Thomas E.
+                       Lawrence was
+                         in India
+________________________________________________________________________________
+1.    2000-01              133           The technician was neither a resident 
+                                         nor an ordinarily resident in India.
+2.    2001-02              272           He was resident but not an ordinarily 
+                                         resident in India.
+3.    2002-03 (the          37           He was neither a resident nor an 
+      employee                           ordinarily resident in India.
+      left India on
+      7-6-2002)
+________________________________________________________________________________
+ 
+7. The contention of Mr. V. Ramachandran is that in the accounting year in which the employee is a resident but not an ordinarily resident, the proviso to Section 5(1) (c) will be attracted and the salary paid by Caterpillar-USA in USA is not taxable in India. Therefore, in AAR/562/2002, only in the asst. yr. 2002-03, the salary will be taxable. But in other two cases in no accounting year the salary will be taxable.
+8. Ms. Anu J. Singh, Addl. CIT, appeared for the CIT and argued that in view of the provisions of Section 9(1) (ii) r/w Explanation thereto, the amount of salary paid by Caterpillar to the employee, a resident in India, would be taxable in India.
+9. It will be apposite to take up the point of maintainability of the applications at the outset. A reference to the definition of the term "Advance Rulings" in clause (ii) of Section 245N as amended by Finance Act, 2003 w.e.f. 1st June, 2000 will be useful. It means a determination by the Authority in relation to the tax liability of non-resident arising out of a transaction which has been undertaken or which is proposed to be undertaken by a resident applicant with such nonresident. Before the said amendment, Advance Ruling could have been sought in relation to a transaction which has been undertaken or proposed to be undertaken by a resident with a non-resident. An Advance Ruling could have been sought in relation to the tax liability of a resident as well as non-resident. But after 1st June, 2000, that position no longer obtains. After amendment, a resident can seek Advance Ruling in relation to the tax liability of only a nonresident. It follows that now an application seeking an Advance Ruling in relation to the tax liability of a resident in India will not be maintainable.
+10. Question No. (b) in AAR/562/2002, question No. (a) in AAR/563/2002 and question No. (a) in AAR/565/2002 are common. On 15th March, 2004, we passed an order calling upon the applicant in AAR/562/2002 to explain as to how it is entitled to Advance Ruling in view of the amendment of the definition of "Advance Ruling" and the "applicant" by the Finance Act, 2003.. The case was listed along with the other two applications. In the table of particulars of the technician in India, it is already noted above that the employee was not a resident in India in the accounting year 1999-2000 (asst. yr. 2000-01) so, for that year the application would be maintainable. Similar orders were passed in the other two cases also. In AAR/563/2002, it was brought to our notice that in the accounting years 2001-02 and 2002-03 relevant to the assessment years in question, the technician was a non-resident and, therefore, the application was maintainable but from the particulars of the number of days given in the table above, it appears that he was not a resident in India only in the accounting year 2001-02. In AAR/565/2002 after hearing the applicant therein, it was held that the applicant would not be a non-resident in the only accounting year 2000-01. It also appears from the table of particulars of resident noted above that the applicant was also a non-resident in the accounting year 200203. The applications would be maintainable in regard to those assessment years.. Therefore, we propose to pronounce Advance Rulings in these applications confined to the years in which the concerned technicians were not resident in India. In respect of other assessment years the application shall stand rejected.
+11. To appreciate the contention of Mr. V. Ramachandran, it would be necessary to refer to Section 5(1) (c) and the proviso thereto which are extracted hereunder:
+"Section 5 (Scope of total income) (1) Subject to the provisions of this Act, the total income of any previous year of a person who is a resident includes all income from whatever source derived which:
+(a) and (b) xxxxxxxxx
+(c) accrues or arises to him outside India during such year :
+Provided that, in the case of a person not ordinarily resident in India within the meaning of sub-section (6) of Section 6, the income which accrues or arises to him outside India shall not be" so included unless it is derived from a business controlled in or a profession set up in India."
+Section 5 deals with the scope of total income. Sub-section (1) of Section 5 says that subject to provisions of the Act, the total income of previous year of a resident includes all income from whatever source derived which, inter alia, accrues or arises to him outside India during such year. The proviso says that in the case of a person who is not an ordinarily resident in India within the meaning of sub-section (6) of Section 6, the income which accrues or arises to him outside India shall not be included unless it is derived from a business controlled in or a profession set up in India. Therefore, by virtue of proviso (c) of sub-section (1) of Section 5, the income which accrues or arises outside India during any previous year to a resident who is not ordinarily resident, cannot be included in his total income and consequently, the same will not be taxable. In the case of technicians in these applications, it is nobody's case that their income is derived from a business controlled or profession set up in India. Be that as it may, the applicants cannot rely on this provision because in the year in which the technicians are resident in India, the applications will not be maintainable. In these applications, we can deal with only such questions which relate to the tax liability of a nonresident. Therefore, we have no option but to reject the applications in respect of questions which relate to tax liability of the technicians in the. assessment year in which they were residents in India.
+We shall proceed to pronounce ruling in respect of the tax liability of technicians in the assessment years in which they were non-residents in India in regard to the income arising to them outside India with reference to clause (ii) of sub-section (1) of Section 9 of the Act which reads as follows :
+"Section 9 (Income deemed to accrue or arise in India) (1) The following incomes shall be deemed to accrue or arise in India :
+(i) xxxxxxx
+(ii) Income which falls under the head "Salaries" if it is earned in India.
+Explanation--For the removal of doubts, it is hereby declared that the income of the nature referred to in this clause payable for -
+(a) services rendered in India; and
+(b) the rest period or leave period which is preceded and succeeded by services rendered in India and forms part of the service contract of employment, shall be regarded as income earned in India."
+12. A plain reading of the provisions, quoted above, shows that income which falls under the head "Salaries", if it is earned in India, shall be deemed to accrue or arise in India. It, therefore, follows that "salaries" of the non-resident technicians paid in USA for the period they worked in India shall be deemed to arise in India and shall be taxable.
+13. Question Nos. (e) and (f) in AAR/562/2002 and question Nos. (b) and (c) in AAR/563/2002 relate to living expenses paid and facilities provided to the technicians; question No. (b) in AAR/565/2002 relates to facilities and benefits provided to the applicant; there is no question with regard to the living expenses, if any, provided to applicant in this application.
+14. Mr. Ramachandran submitted that there is no relationship of employer-employee between the Indian company and the technicians, therefore, any amount paid or any benefit or facility provided to them will not satisfy the requirements of Sections 15 and 17 respectively of the Act and are not taxable. Heard Ms. Anu J. Singh for the CIT.
+15. It will be useful to advert to the definition of "income" in Section 2(24) of the Act. The definition of the term "income" is inclusive; it says income includes and thus the very term it seeks to define, is embodied in the definition which is followed by enumeration of as many as (21) clauses to rope in various categories of receipts within the meaning of income. The import of the term 'income' has been elucidated by the Courts in various decisions. Thus, to 'anything which can properly be described as income' various receipts enumerated in clauses (i) to (xii) have to be added as falling within the meaning of income.
+Relevant to the present discussion are clauses (iiia) and (iiib) of sub-section (24) of Section 2 which are in the following terms :
+"Clause (iiia) any special allowance or benefit, other than perquisite included under sub-clause (iii), specifically granted to the assessee to meet expenses wholly, necessarily and exclusively for the performance of the duties of an office or employment of profit;
+Clause (iiib) any allowance granted to the assessee either to meet his personal expenses at the place where the duties of his office or employment of profit are ordinarily performed by him or at a place where he ordinarily resides or to compensate him for the increased cost of living."
+It is not seriously disputed that the benefits/facilities, which are the subject-matter of the aforementioned questions, are covered by the said clauses. What is, however, contended is that payment of special allowance, facility/benefit are exempted under sub-section (14) of Section 10 of the Act and, therefore, cannot be included in the total income of a person. The contention is well-founded and is not disputed by the Addl. CIT and if we may say so 'rightly'.
+We shall with advantage refer to the following decisions here :
+CIT v. S.G. Pgnatale (1980) 124 ITR 391 (Guj). In that case, the assessee was an employee of a French company. Pursuant to an agreement entered into by the French company with the Gujarat State Fertilizers Co., he worked in India as a supervisory and advisory assistant. He was paid certain fixed emoluments outside India by the French company. In regard to taxability of the said amounts, it was held by a Division Bench of the Gujarat High Court that the living expenses paid by way of reimbursement are not chargeable to tax.
+CIT v. Goslino Mario and Ors. (2000) 241ITR 312 (SC). In that case, the Fertilizer Corporation of India (FCI) entered into an agreement with an Italian concern for deputing technicians to work in India. The FCI (Indian company) paid salaries and allowances to Italian concern for the services of foreign technicians. The Indian company also paid certain allowances for meeting expenses wholly and necessarily in performance of duties. It was held by the Hon'ble Supreme Court that the entire amount of allowances paid by the Indian company to foreign technician of Italy for services rendered by him in terms of agreement was not assessable in the hands of the foreign technicians.
+In CTT and Am. v. Moigenstern Werner (2003) 259 ITR 486 (SC), the assessee was a technician working with German company and was drawing his salary in Germany. He was deputed by the German company as a technical liaison officer to provide technical guidance to BHEL for which he was paid Rs. 500 as daily allowance. The High Court found that the assessee was not ordinarily resident in India and was, therefore, governed by the proviso to Section 5(1) (c) of the Act. It also held that daily allowance received by him as a technician was exempt from income-tax as per Notification No. S.O. 143(E), dt. 21st Feb., 1989. On appeal by the Revenue to the Hon'ble Supreme Court, the judgment of the High Court was affirmed.
+In the light of above discussions we rule on :
+(1) question No. (b) in AAR/562/2002, question No. (a) in AAR/563/2002 and question No. (a) in AAR/565/2002, that the amounts in question are taxable in India;
+(2) question Nos. (e), (f) in AAR/562/2002, question Nos. (b), (c) in AAR/563/ 2002 and question No. (b) in AAR/565/2002 that the amounts specified in the said questions are not taxable in India;
+(3) question No. (e) in AAR/563/2002 and question No. (d) in AAR/565/2002 that, in view of our rulings on the aforementioned questions, these questions do not arise.

@@ -1,0 +1,21 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1991/
+Cites: []
++++++++++++++++++++++++++
+
+
+Calcutta High Court
+Maharaja Monindra Chandra Nandy ... vs Chandy Charan Banerjee on 29 January, 1920
+Equivalent citations: 57 Ind Cas 211
+Author: A Mookerjee
+Bench: L Sanderson, A Mookerjee, E Fletcher
+JUDGMENT Austosh Mookerjee, J.
+1. This is an appeal under Clause 15 of the Letters Patent against a judgment of Mr. Justice Greaves determining that this Court in the exercise in its Ordinary Original Civil Jurisdiction is competent to entertain the suit under Clause 12 of the Letters Patent. The suit was instituted on the 8th January 1915 for recovery of damages for breach of a contract alleged to have been entered into between the plaintiff and the defendant on the 19th December 1912. The case for the plaintiff is that the contract was wrongfully broken by the defend ant on the 26th January 1913 and that be has thereby suffered loss to the extent of RS. 5,24,300. The defendant does not reside within the jurisdiction of this Court and it is not disputed that this Court has no jurisdiction to entertain this suit, unless it is established that the defendant carries on business within the local limits of the Ordinary Original Jurisdiction of the Court within the meaning of Clause 12 of the Letters Patent.
+2. The defendant is the owner of several collieries in Jheria and in the Raneegunj coal fields situated in the District of Burdwan. On the 24th June 1911 the defendant appointed Messrs. H.V. Low and Co. as his Managing Agents for all his collieries in the Jheria and Raneegunj coal fields. The firm is a private limited liability company having an office at 12 Dalhousie Square, Calcutta, and acting as Managing Agents for various concerned. The case for the plaintiff is that by virtue of the memorandum of agreement between the defendant and the company, the defendant must be deemed to carry on business in Calcutta within the meaning of Clause 12 of the Letters Patent. The expression "carry on business" is not defined in the Letters Patent, and as was observed by Lord Morris in Goswami Shri Girdkariji v. Shri Govardhanlalji 18 B. 294 : 21 I.A. 13 : 6 Sar. P.C.J. 396 : 9 Ind. Dec. (N.S.) 704 (P.C.), where the Judicial Committee affirmed the decision of the Bombay High Court in Shri Gosvami v. Shri Govardhanlalji 14 B. 541 : 7 Ind. Dec. (N.S.) 825, the phrase is a very elastic one almost incapable of definition so that the tribunal must in each case look to the particular circumstances. In the ease then before the Judicial Committee the question arose whether the high priest of a shrine who received personal offerings in money from his followers could be said to carry on business. The question was answered in the negative, and it was with reference to such offerings that the Judicial Committee observed that the phrase "carry on business" was intended to relate to business in which a man might contract debts and ought to be liable to be sued by persons who had business transactions with him. The facts of the case before us are fundamentally different from those of the case before the Judicial Committee, and we must determine with regard to its particular circumstances, whether the defendant can fairly be said to carry on business in Calcutta by reason of the memorandum of agreement between him and Low and Co.
+3. We have carefully examined the various clauses of the agreement which confers on the firm during the continuance of the agreement the sole, absolute and unfettered control of the management and working of the collieries and of the sale of the output thereof. We have also considered the contract between Low and Co. and the East Indian Railway Company, dated the 26th July 1915. We are unable to hold that the defendant can be said to carry on business in Calcutta, merely because he granted certain rights to Low and Co. under the agreement already mentioned. Our conclusion is that the plaintiff has failed to satisfy the Court that the defendant is liable to be sued on the Original Side of this Court.
+4. The result is that this appeal is allowed with costs both here and in the Court below. The suit will stand dismissed.
+Sanderson, C.J.
+5. I agree.
+Fletcher, J.
+6. I agree.

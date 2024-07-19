@@ -1,0 +1,12 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/487/
+Cites: ['Sri Bhanu Prasad ... vs The Chief Controlling Revenue ... on 13 November, 2017\nAndhra High Court Cites 13 - Cited by 0 - Full Document', 'P. Lakshmana Rao vs State Of Andhra Pradesh And Ors. on 9 December, 1970\nAndhra High Court Cites 32 - Cited by 1 - Full Document', 'Ram Bachan Smarak High School ... vs Additional Commissioner Nyayik ... on 16 December, 2022\nAllahabad High Court Cites 4 - Cited by 0 - Full Document', 'Viswatosh Narayan Singh vs State Of U.P. And Others on 15 September, 2021\nAllahabad High Court Cites 15 - Cited by 0 - Full Document', 'In Re: Chief Controlling Revenue ... vs Unknown on 30 July, 1951\nBombay High Court Cites 6 - Cited by 0 - Full Document', 'Deepak Prakash vs The State Of Jharkhand, Secretary ... on 17 August, 2007\nJharkhand High Court Cites 23 - Cited by 1 - Full Document', 'Ashish Kumar vs The Deputy Commissioner ... on 21 July, 2010\nAllahabad High Court Cites 3 - Cited by 2 - Full Document', 'The India Cements Ltd vs The Government Of Tamil Nadu on 20 May, 2005\nMadras High Court Cites 25 - Cited by 0 - Full Document', 'The India Cements Ltd vs The Government Of Tamil Nadu on 20 May, 2005\nMadras High Court Cites 26 - Cited by 0 - Full Document', 'M/S.Dalmia Cement (Bharat) ... vs State Of Tamil Nadu on 10 March, 2023\nMadras High Court Cites 27 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Article 35(a) in The Constitution Of India 1949
+(a) Parliament shall have, and the Legislature of a State shall not have, power to make laws
+(i) with respect to any of the matters which under clause ( 3 ) of Article 16, clause ( 3 ) of Article 32, Article 33 and Article 34 may be provided for by law made by Parliament; and
+(ii) for prescribing punishment for those acts which are declared to be offences under this Part; and Parliament shall, as soon as may be after the commencement of this Constitution, make laws for prescribing punishment for the acts referred to in sub clause (ii);

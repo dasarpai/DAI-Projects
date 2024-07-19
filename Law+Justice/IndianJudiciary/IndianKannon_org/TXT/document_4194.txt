@@ -1,0 +1,44 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4194/
+Cites: ['Section 11 in The Arbitration Act, 1940 : https://indiankanoon.org/doc/596725/', 'THE ARBITRATION AND CONCILIATION ACT, 1996 : https://indiankanoon.org/doc/1306164/']
++++++++++++++++++++++++++
+
+
+Jharkhand High Court
+M/S. A.B.Singh vs Central Coalfields Ltd. & Ors on 8 May, 2009
+                        IN THE HIGH COURT OF JHARKHAND, RANCHI
+                                 A.A No. 37       OF 2007
+                                          With
+                                 A.A No. 38       OF 2007
+                                          With
+                                 A.A No. 39       OF 2007
+                                          -------
+
+       M/s. A.B.Singh                                         Petitioner in all the cases
+
+                                          Versus
+       Central Coalfields Ltd. & Ors.                         Respondents in all the cases
+                                                   -------
+
+       CORAM;                               HON'BLE THE CHIEF JUSTICE
+
+
+       For the Appellant/Petitioner               M/s.B.Poddar, P.Poddar, D.Sinha
+
+       For the Respondent/Opp. Party                                 Mr.A.K.Das
+
+                                                  ---------
+
+
+14/ 8.5.2009
+In all the three applications, a common question has been raised as to whether an Arbitrator can be appointed for adjudication of a dispute beyond the contractual period under section 11(6) of the Arbitration & Conciliation Act, 1996 (hereinafter referred to as the Act) in absence of existence of any contractual agreement between the petitioner and the respondents.
+These applications have been filed by the petitioner-firm for appointment of an Arbitrator under section 11(6) of the Act on the ground that there is a bona-fide dispute between the petitioner-firm and the respondent- company, i.e. Central Coalfields Ltd., since the petitioner had received contracts for transportation of coal, for which three contracts had been executed between the parties on different dates. It was stated that there is a clause in the agreement that in the event of existence of a dispute, the respondents shall appoint an Arbitrator to adjudicate the dispute and the award passed by him shall be treated as final. It was contended that as the respondent-CCL had failed to appoint an Arbitrator, although a dispute in regard to the claim of payment had been raised at the instance of the petitioner, this Court, in view of section 11(6) of the Act, ought to appoint an Arbitrator for adjudication of the dispute.
+Countering the submission of the counsel for the petitioner, it was submitted by the counsel for the respondent-CCL that the petitioner has not made out a case for appointment of an Arbitrator as the contractual relationship of the petitioner-firm and the respondent-company was only for a period from 1.8.2000 to 31.7.2001 in A.A No.37/2007, from 1.4.2002 to 30.6.2002 in A.A No.38/2007 (only for a period of three months) and from 23.7.2000 to 22.7.2001 in A.A No.39/2007 and for this purpose, three different contracts had been executed between the parties. However, the petitioner admittedly has received the entire payment for these periods as per his own averment, which is to the following effect:-
+"4(ix) 100% payment was made for the transportation in contract period and 80% payment was made for the period beyond the contract period and 20% payment was not released to the petitioner"
+(From rejoinder to counter in AA No.37/2007) Admittedly the petitioner has already received payment for the contractual periods involved in A.A No.38 /2007 and A.A No.39 /2007.
+Relying on this averments of the petitioner, it was submitted that 100% payment for the contract period involved in three applications has already been received by the petitioner and thus, nothing remains to be paid under the contractual obligation. It was further submitted that since the entire payment have been received by the petitioner, a case for referring the dispute to the Arbitrator or for appointing an Arbitrator is not made out at all.
+On consideration of the aforesaid submission and counter- submission of the counsel for the parties, I find substance in the plea of the counsel for the respondent-CCL, who has rightly stated that the claim for appointment of an Arbitrator even under section 11(6) read with section 11(8) of the Act flows only from the contract which had been entered into between the petitioner and the respondent-CCL, but the said contracts were only for a limited period as mentioned hereinabove and the petitioner having received the entire payment for these periods, the claim for appointment of an Arbitrator is not made out. It cannot be disputed that appointment of an Arbitrator has to be made under section 11(6) of the Act only if, in terms of the agreement, one of the contracting parties has failed to appoint an Arbitrator in the event of existence of a dispute and on failure to appoint an Arbitrator, the jurisdiction of the Court comes into play, in so far as appointment of Arbitrator by the Court is concerned. Since the petitioner, as per his own averment, has received the entire payment for the contractual period, obviously the clause for appointment of an Arbitrator comes to a complete halt and there is no occasion for this Court to appoint an Arbitrator in terms of the clause incorporated in the contractual agreement. If the petitioner has any claim for additional payment beyond the terms and period of the contract, he will have to take recourse to the civil remedy that may be available to him under the law.
+In so far as the prayer to appoint an Arbitrator is concerned, the same cannot be entertained as there is no contractual relationship existing between the petitioner and the respondent-CCL by virtue of any agreement or contract. The Court, therefore, cannot mechanically appoint an Arbitrator in absence of any agreement or contractual relationship, which was reduced into a document of contract or agreement. In absence of any contractual agreement between the parties beyond 31.7.2001 in A.A No.37/2007, 30.6.2002 in A.A No.38/2007 and 22.7.2001 in A.A No.39/2007, the matter cannot be entertained for the reasons stated hereinbefore.
+All the three applications, therefore, are dismissed.
+(Gyan Sudha Misra, C.J) dey

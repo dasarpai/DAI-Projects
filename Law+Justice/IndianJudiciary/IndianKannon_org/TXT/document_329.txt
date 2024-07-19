@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/329/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 352S(g) in The Merchant Shipping (Amendment) Act, 2002
+(g) " terminal installation" means any site for the storage of oil in bulk which is capable of receiving oil from waterborne transportation, including any facility situated off- shore and linked to such site;

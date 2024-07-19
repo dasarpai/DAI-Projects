@@ -1,0 +1,65 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2686/
+Cites: ['The Foreign Exchange Regulation Act, 1973 : https://indiankanoon.org/doc/27905/', 'Manish Gupta vs National Insurance Company ... on 31 May, 2014 : https://indiankanoon.org/doc/100295312/']
++++++++++++++++++++++++++
+
+
+National Consumer Disputes Redressal
+United India Insurance Co. Ltd. vs Savikar Plyboards Limited on 6 August, 2007
+Equivalent citations: I (2008) CPJ 154 NC
+Bench: M Shah, R Rao
+ORDER Rajyalakshmi Rao, Member
+1. By this common order we propose to dispoe of the aforesaid matters, namely, revision petitions bearing Nos. 521, 522 and 523 of 2006 filed against the three orders of the State Commission, Chandigarh in F.A. Nos. 106,107 and 108 all of 2005 respectively dated 25.11.2005 and First Appeal No. 11 of 2003 filed against the order dated 31.10.2002 in Complaint No. 13/2002 passed by the State Commission, Chandigarh. Appeals bearing Nos. 373, 374 and 375 of 2002 were filed against the order dated 12.1.2005 passed in District Forum-I, Union Territory, Chandigarh. Since the parties are the same in all the three petitions and in the First Appeal and the issues are also common, we heard the matters together of both the parties and pass the following common order.
+2. Savikar Plyboards Limited, the original complainant insured with United India Insurance Company, designer terracotta pots in copper and golden finish under different Marine Policies for different consignments to be sent from Chandigarh Wareshouse to Dubai Sharjah (UAE) Warehouse by sea/road.
+3. After furnishing all the necessary documents at the time of insurance, complainant got the pre-shipment inspection conducted through Mr. Rajesh Wadhawan, Surveyor/Loss Assessor/Valuer/Investigator. As per the trade practice, the Surveyor after due inspection confirmed that the goods were packed as per the norms of packaging and that there was no damage to the goods at the relevant time. When the goods reached the consignee, it was noticed that they were in damaged condition at the time of delivery and the same was reported immediately to the opposite party's authorised agent/representative M/s. Inchape Shipping Services (M/s. Lloyd Agents) Surveyors and Settling Agents for survey and settlement of the claim along with shipping line, i.e., Penguin Shipping LLC, Dubai for joint survey. Survey reports have been produced after obtainingt all the documents and replies to the queries made by the opposite party. M/s. Inchape Shipping Services (M/s. Lloyds Agents) also wrote a letter to settle the claim as per the assessment made individually. Opposite party, United India Insurance Company ignored these letters. Legal notice has been issued by the complainant but opposite party did not respond to the same. The complainant filed three complaints in the District Forum and one in the State Commission contending that non-settlement of claim within the reasonable time amounts to deficiency in service on the part of the opposite party, due to which complainant suffered heavy losses. Complainant contended deficiency in service on the part of opposite parties on the following grounds.
+(1) Firstly, as the consignment is found to be in a damaged condition at the time of delivery, the Insurance Company is bound to settle the claim immediately which was not done.
+(2) Secondly, despite various letters and legal notices issued to them opposite parties ignored the same and did not settle the claim in all these four complaints.
+(3) Thirdly, the contention of the opposite parties that the complaint is not maintainable because the complainant has already received the full payment of the consigned goods from the consignee and also that the complainant has got no insurable interest in goods/articles. As against this, the learned Counsel for the complainant argued that insurable interest has no relevance to a complaint of deficiency in service and the complaint is maintainable.
+4. Learned Counsel for the opposite parties alleged that no intimation was given for alleged pre-risk inspection nor the boxes were opened in the presence of the Surveyor after it reached its destination. It is further alleged that the contract of insurance is always based on the principle of utmost good faith and the premium is charged on the representations made by the insured or on the insured's estimated value whereas the claim is assessed after the loss is reported. It is further contended that the authenticity of the claim itself is in doubt and suspicion, and that the insured used to obtain materials from the market at lower rate and despatch them to Dubai at much higher rates in connivance with the consignee.
+5. After having received the full payment, the complainant had been left with no insurable interest in the goods nor could be called beneficiary thereof. The complaint, therefore, should have been dismissed on this ground alone.
+As against this, learned Counsel for the opposite parties further contended that the complaints should be dismissed with costs on the ground that there is fraud committed by them
+6. Opposite parties appointed Captain A.N. Chopra as an Investigator to investigate and report the extent of loss caused and the genuineness of the claim. It has further averred that the Investigator has been requesting the complainant for invoice bills of the item supplied, bank's certificate exports and realization, details of the total claim lodged by Mr. Subhash of M/s. A.L. Ramlah Furniture Trading. It is contended that M/s. A.L. Furniture Trading is owned by Mr. Subhash Gupta who is a real brother of Ajay Gupta, Director of the complainant comapny. The opposite party submitted that both the consignee and the consignor are brothers and that similar claims are being filed in India and in Dubai which only show that the intention of the consignee and consignor was to defraud the company by raising false inflated claims and false damage to the goods.
+7. As per Lloyd's Survey Report dated 19th November, 2000, it has been noted:
+  10 (a) Have Bill of Lading/         (a) Yes. Mumbai/Dubai 
+CMR/Air Waybill or other                (Copy) Bill of Lading 
+documents of carriage been              No. ND/DXB/709B 
+inspected?                              dated 26th June, 2000. 
+                                        This document was 
+                                        issued for M.V. "AL 
+                                        IHSA A". 
+(if so, give date and number 
+of bill and whether original 
+or copy) 
+(b) What is the reference           (b) No adverse remarks 
+therein to the conditions               as to the condition 
+of goods?                               of the good swere noted
+                                        endorsed on these 
+                                        documents.
+ 
+
+The above survey report itself shows clearly in its reply to question (b) that the goods were in sound condition when they were boarded, i.e., when the bill of lading got issued.
+  
+
+Case History:
+  
+The applicants stated that the above mentioned container No. "CKPU 2854484" had been delivered to them from the port in an externally sound structural condition in the evening of the 16th July, 2000. On offloading the goods, they found the packages in an externally sound condition. However, sound of broken goods was stated to be heard from a number of packages containing decorative stands. On unpacking the furniture, they also found damage to some of the furniture items. They notified this damage to the vessel's agents and also requested us to attend for a survey.
+We, per our fax-message No. "2000 XB-LC0122-002" dated 17th July, 2000, notified the loss/damage to the vessel's agents and invited them for a joint survey at 1630 hours on the 17th July, 2000. However, their representative, or their appointed Surveyor was not present during our attendance.
+8. Further, in the survey report it is concluded that damage sighted upon survey could have been at one of the following stages:
+(1) Handling of the goods whilst loading.
+(2) Shocks sustained by the goods at some stage of the conveyance.
+(3) Handling/shocks sustained by the subject container whilst loading or whilst dischargng from the carrier vessel.
+9. The value of the cargo and details of the contents and all the other documents have been admitted by both the parties. The only dispute is whether the contents of the consignment had been pre-inspected or not and whether they were in good condition while packaging before assigning it for transport. As per the record Mr. Rajesh Wadhawan, Surveyor/Loss Assessor/Valuer and Investigator had done the pre-despatch inspection and had held that the consignments were found nicely packed and they were intact. He had attached photographs taken during the course of inspection along with report and stated that there was no damage noticed during inspection.
+10. As per the guidelines of the Reserve Bank of India under Foreign Exchange Regulation Act, 1973 and specifically under Rule 9 of Foreign Exchange Regulation Rules, 1974, the complainant is required to give an undertaking that the payment of the full export value declared will be delivered to the Bank at India within 90 days. The complainant has annexed bank documents filed under Bank Certificate of Export and Realisation (Form No. 1), EC No. 2293000923 wherein all the particulars of details regarding consignment and the amounts have been declared to Assistant Director General of Foreign Trade dated 16.1.2001. This being a mandatory requirement, complainant has given undertaken as per RBI guidelines. Since the insurance premium had been paid by the complainant in terms and conditions of the Insurance Policy, the complainant is vested with the right to recover the insurable interest from opposite parties in case of loss sufferd.
+11. As per the allegation of fraud of over invoicing as contended by the opposite parties, based on the affidavit of the Investigator, Capt. A.N. Chopra, it is to be mentioned that all the details regarding purchase bills etc. have been supplied to them and full cooperation was extended to the Investigator.
+12. As per the second allegation regarding consignor and consignee being related and similar fraud has been committed by the complainant in Dubai cannot be adjudicated considering that investigation by the CBI did not prove any thing in the matter. Time has been grantedby the Commisison to file the CBI report. Opposite parties have been taking the plea about the CBI investigation since 5.11.2004 and till date not a single document has been filed to show the outcome of the CBI investigation. There is no evidence on record to justify the contentions raised by the Insurance Company. From the documents and Survey report, it is clear that the damage to the goods took place while in transit. That being the case, it is the responsibility of Insurance Company to indemnify the loss in terms of the policy condition.
+13. In view of the aforesaid discussion, we find there is no justifiable ground for interference with the well reasoned order passed by the State Commission. Hence, the First Appeal as well as Revision Petitions are dismissed. There shall be no order as to costs. However, it is clarified that Insurance Company shall make payment as stated below:
+FA. 11 of 2003
+14. Opposite parties/appellant shall pay amount of claim assessed by Surveyor in USD $ 11,011 converted into Indian rupees, i.e., Rs. 4,83,933 along with interest @ 9% p.a. from 11.7.2001 till date.
+15. On our directions, a sum of Rs. 5 lakhs has been deposited with the Registrar of this Commission by the Insurance Company. It would be open to the complainant to withdraw the said amount with accrued interest thereon, by filing a proper application. The remaining amount shall be paid by the Insurance Company within a period of four weeks from the date of this order along with cost of Rs. 5,000.
+R.P. 521 of 2006
+16. Opposite parties/petitioner shall pay amount of claim assessed by Surveyor in USD $ 7,341.50 converted into Indian Rupee, i.e., Rs. 3,26,697 along with interest @ 6% p.a. from 25.3.2002, the date of repudiation of the claim till the payment is made. The Insurance Company shall also pay costs assessed at Rs. 5,000.
+R.P. 522 of 2006
+17. Opposite parties/petitioner shall pay amount of claim assessed by Surveyor in USD $ 3,991.44 converted into Indian Rupee, i.e., Rs. 1,77,619 along with interest @ 6% p.a. from 25.3.2002, the date of repudiation of the claim till the payment is made. The Insurance Company shall also pay costs assessed at Rs. 5,000.
+R.P. 523 of 2006
+18. Opposite parties/petitioner shall pay amount of claim assessed by Surveyor in USD $ 6,047.30 converted into Indian Rupee, i.e., Rs. 2,76,664 along with interest @ 6% p.a. from 25.3.2002, the date of repudiation of the claim till the payment is made. The Insurance Company shall also pay costs assessed at Rs. 5,000.

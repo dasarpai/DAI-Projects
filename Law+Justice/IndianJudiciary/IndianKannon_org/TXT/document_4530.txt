@@ -1,0 +1,17 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4530/
+Cites: ['Section 132(3) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/741280/', 'Section 132(1) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/44634/', 'The Income- Tax Act, 1995 : https://indiankanoon.org/doc/789969/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Maharaja International Ltd. And ... vs Union Of India And Others on 16 December, 1991
+Equivalent citations: 1992 75 CompCas 651 Delhi, 1992 196 ITR 657 Delhi
+Bench: A Kumar, B Kirpal
+JUDGMENT
+1. In the present case, the respondents had issued an authorisation under section 132(1) of the Income-tax Act, 1961, against the petitioner and had also issued restraint orders under section 132(3). These restraint orders were in respect of refunds which were to be made by the petitioners to the persons enumerated in the list running into 29 sheets. These refunds were because of over-subscription to the shares which have been offered to the public by the petitioner.
+2. During the pendency of this writ petition, the earlier restraint order under section 132(3) has now been converted to deemed seizure under the second proviso to section 132(1).
+3. The result of the deemed seizure is that the petitioner is deemed to have made a refund of the extra subscription money received by it to six persons in respect of whom the deemed seizure has been ordered. In our opinion the deemed seizure would absolve the petitioner of any liability which may be attached to the petitioner under the provisions of laws other than the Income-tax Act and the non-refund of the amounts so seized cannot be a ground for taking any action by any authority against the petitioner.
+4. Counsel for the petitioner states that over 7.5 lakhs applications were received and the initial orders under section 132(3) pertain to about 18,000 applications and though, most probably, the said order has been strictly complied with, if in a few of such cases, by oversight, refunds have been made, then no penal action should be taken against the petitioners.
+5. Mr. Rajendra very fairly submits that in such cases of bona fide omission or mistake no penal action as contended will be taken. With these observations, the petition stands disposed of.

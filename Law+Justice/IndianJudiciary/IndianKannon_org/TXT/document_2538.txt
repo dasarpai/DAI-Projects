@@ -1,0 +1,46 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2538/
+Cites: ['Section 2(15) in The Income- Tax Act, 1995 [Section 2] [Complete Act]\nCentral Government Act Cites 0 - Cited by 1101', 'Section 12A in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1602', 'Section 12 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 2534', 'Section 11 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 2962', 'Section 23 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 2282', 'Section 26 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 674', 'Cit vs Market Committee on 14 March, 2007\nPunjab-Haryana High Court Cites 26 - Cited by 78 - Full Document', 'The Income- Tax Act, 1995\nCentral Government Act Cites 0 - Cited by 93772 - Full Document', 'Section 10(20A) in The Income- Tax Act, 1995 [Section 10] [Complete Act]\nCentral Government Act Cites 0 - Cited by 81', 'Commissioner Of Income Tax vs Gujarat Maritime Board on 5 December, 2007\nSupreme Court of India Cites 23 - Cited by 35 - Full Document']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+The Commissioner Of Income vs Improvement Trust on 31 October, 2008
+                        I. T. A. No. 489 of 2007                          1
+
+
+
+
+IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH.
+
+
+                       Case No. : I. T. A. No. 489 of 2007
+                       Date of Decision : October 31, 2008.
+
+
+            The Commissioner of Income
+            Tax-III, Ludhiana                       ....     Appellant
+                       Vs.
+            Improvement Trust, Moga                 ....     Respondent
+CORAM : HON'BLE MR. JUSTICE ADARSH KUMAR GOEL HON'BLE MR. JUSTICE L. N. MITTAL * * * Present : Mr. Rajesh Sethi, Senior Standing Counsel, Mr. Vivek Sethi, Standing Counsel, Ms. Savita Saxena, Standing Counsel, Mr. Yogesh Putney, Senior Standing Counsel, Ms. Urvashi Dhugga, Standing Counsel for the revenue.
+Mr. Rajesh Garg, Advocate Ms. Radhika Suri, Advocate Mr. R. S. Khosla, Advocate Mr. Amit Goyal, Advocate Mr. S. P. Garg, Advocate Mr. R. P. Sawhney, Senior Advocate with Mr. Saurav Khurana, Advocate for the respondent.
+* * * ADARSH KUMAR GOEL, J. (Oral) :
+1. The Commissioner of Income Tax, Ludhiana has preferred this appeal under Section 260-A of the Income Tax Act, 1961 against the order of the Income Tax Appellate Tribunal, Amritsar Bench, Amritsar passed in I.T.A. Nos. 194 and 195 (ASR)/2006 on 15.06.2007 (w.e.f. 1.4.2002 & 1.4.2003). proposing to raise following substantial question of law :-
+"Whether the Hon'ble ITAT is justified to declare the assessee as charitable institution entitled for registration u/s 12AA disregarding the fact that the activities of the Institution are not of charitable nature and that the income of the assessee is not the income as described in the Sections 11 and 12 of the Income Tax Act, 1961?"
+2. The respondent is an Improvement Trust constituted under the provisions of the Punjab Town Improvement Trust Act, 1922. The principal object of the Trust is to bring about improvement in the town by providing streets, housing facilities or making provision for drinking water etc. The Trust was earlier granted exemption under Section 10(20A). On account of amendment dated 01.04.2003, the assessee applied for registration under Section 12A (b) (ii), which was declined. The Tribunal upheld the claim of the assessee and held that activities of the Trust were charitable. The finding recorded by the Tribunal is as hereunder :-
+"A perusal of the above Section 22 of the Punjab Town Improvement Trust Act, 1922, shows that it empowers the trust, when the conditions prescribed in the said are prevailing, to frame a general improvement scheme for the public utility of a local area or part thereof. It is in pursuance of this provision, that the assessee is undisputedly carrying on its activities. Sections 23 to 26 of the said Act provided for street schemes, development and expansion scheme, housing accommodation schemes and rehousing scheme. The activities of the assessee trust are also in consonance with these statutory schemes. It is evident from this that the object of the assessee trust is to provide benefit to the public with its local limits, rather than to itself. This apart, it is on record, that the same learned CIT as who has passed the impugned order, has, on similar facts and circumstances, granted registration to the Improvement Trust, Jalandhar, vide order dated 12/13-4-2006, holding that the activities of that trust were with an object of "general public utility". Similarly, registration was also granted to the Improvement Trust, Sangrur and the Improvement Trust, Patiala."
+3. We have heard learned counsel for the parties and perused the record.
+4. Learned counsel for the assessee has drawn our attention to judgment of Hon'ble Apex Court in the case of "Commissioner of Income Tax vs. Gujarat Maritime Board - (2007) 295 ITR 561 (SC)", wherein the question for consideration was the meaning to be assigned to expression "any other object of general public utility" in Section 2(15) of the Act. It was held that the said expression includes all objects which promote welfare of general public. Gujarat Maritime Board, for development of minor ports in the State of Gujarat, was held to be charitable institution.
+5. Learned counsel for the assessee has also drawn our attention to a Division Bench judgment of this Court in the case of "Commissioner of Income Tax vs. Market Committee - [2007] 294 ITR 563". It was held that even if assessee was not a trust, if its objective was to promote general public interest, Section 2(15) of the Act was attracted and the assessee is entitled to registration under Section 12A of the Act.
+6. It is not the case of the appellant C.I.T. that the assessee is not carrying on activities of general welfare covered by the expression "any other object of general public utility" in Section 2(15) of the Act.
+7. In view of judgment of Hon'ble Supreme Court in the case of Gujarat Maritime Board (supra) and the Division Bench judgment of this Court in the case of Market Committee (supra), we are of the view that the question sought to be raised is covered against the revenue.
+8. The appeal is accordingly dismissed.
+                                              (ADARSH KUMAR GOEL)
+                                                      JUDGE
+
+
+
+October 31, 2008                                     ( L. N. MITTAL )
+monika                                                     JUDGE
+ 

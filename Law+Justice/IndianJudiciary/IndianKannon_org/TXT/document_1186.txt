@@ -1,0 +1,538 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1186/
+Cites: ['Section 4 in The Land Acquisition Act, 1894 [Complete Act]\nCentral Government Act Cites 0 - Cited by 14930', 'Pran Sukh vs State Of Haryana on 8 July, 2003\nPunjab-Haryana High Court Cites 3 - Cited by 14 - Full Document', 'Union Of India & Ors. Etc vs Mangatu Ram Etc on 29 April, 1997\nSupreme Court of India Cites 11 - Cited by 32 - Full Document', 'Inder Jeet Khurana À Appellant vs State Of Haryana & Ors. À ... on 1 February, 2007\nSupreme Court of India Cites 1 - Cited by 81 - Full Document', 'S.N. Kapoor (Dead) By His Lrs. ... vs Basant Lal Khatri & Ors. ... on 5 November, 2001\nSupreme Court of India Cites 5 - Cited by 91 - Full Document', 'Ved Pal And Ors. vs State Of Haryana And Ors. on 30 November, 2006\nPunjab-Haryana High Court Cites 3 - Cited by 56 - Full Document', 'Shangara Singh vs Punjab State And Ors. [Alongwith ... on 6 September, 2006\nPunjab-Haryana High Court Cites 2 - Cited by 2 - Full Document', 'M.V. Karunakaran Àappellant vs Krishan Àrespondent on 15 December, 2006\nSupreme Court of India Cites 2 - Cited by 3 - Full Document']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+R.F.A. No. 1 Of 2006 vs Jagbir Singh And Others on 10 February, 2009
+R.F.A. No. 1 of 2006                                   [1]
+
+                 In the High Court of Punjab & Haryana at Chandigarh
+
+
+
+                                   Date of decision: February 10 ,2009
+
+
+1.      R.F.A. No. 1 of 2006
+
+        State of Haryana and another                         ..... Appellants
+                                         vs
+        Jagbir Singh and others                              .... Respondents
+2. R. F. A. No. 2642 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+3. R. F. A. No. 2643 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+4. R. F. A. No. 2644 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+5. R. F. A. No. 2645 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+6. R. F. A. No. 2646 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+7. R. F. A. No. 2647 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+8. R. F. A. No. 2648 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [2]
+9. R. F. A. No. 2649 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+10. R. F. A. No. 2650 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+11. R. F. A. No. 2651 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+12. R. F. A. No. 2652 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+13. R. F. A. No. 2653 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+14. R. F. A. No. 2654 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+15. R. F. A. No. 2655 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+16. R. F. A. No. 2656 of 2004 (O&M) Sh. Harke and others ..... Appellants vs State of Haryana and others .... Respondents
+17. R. F. A. No. 8 of 2005 (O&M) Devinder Singh & others ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [3]
+18. R. F. A. No. 9 of 2005 (O&M) Surjan ..... Appellant vs State of Haryana & others .... Respondents
+19. R. F. A. No. 10 of 2005 (O&M) Daya Kishan ..... Appellant vs State of Haryana & others .... Respondents
+20. R. F. A. No. 11 of 2005 (O&M) Neelam & others ..... Appellants vs State of Haryana & others .... Respondents
+21. R. F. A. No. 12 of 2005 (O&M) Sarup Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+22. R. F. A. No. 13 of 2005 (O&M) Mange Ram & others ..... Appellants vs State of Haryana & others .... Respondents
+23. R. F. A. No. 14 of 2005 (O&M) Tarif Singh ..... Appellant vs State of Haryana & others .... Respondents
+24. R. F. A. No. 15 of 2005 (O&M) Balbir Singh ..... Appellant vs State of Haryana & others .... Respondents
+25. R. F. A. No. 16 of 2005 (O&M) Chandan Singh ..... Appellant vs State of Haryana & others .... Respondents
+26. R. F. A. No. 17 of 2005 (O&M) Surjan ..... Appellant vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [4]
+27. R. F. A. No. 18 of 2005 (O&M) Satbir Singh Rathee & others ..... Appellants vs State of Haryana & others .... Respondents
+28. R. F. A. No. 19 of 2005 (O&M) Smt. Lilawati & others ..... Appellants vs State of Haryana & others .... Respondents
+29. R. F. A. No. 20 of 2005 (O&M) Mukhtiar Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+30. R. F. A. No. 21 of 2005 (O&M) Lachi Ram ..... Appellant vs State of Haryana & others .... Respondents
+31. R. F. A. No. 22 of 2005 (O&M) Mange Ram ..... Appellant vs State of Haryana & others .... Respondents
+32. R. F. A. No. 23 of 2005 (O&M) Ved Singh ..... Appellant vs State of Haryana & others .... Respondents
+33. R. F. A. No. 24 of 2005 (O&M) Smt. Bala & another ..... Appellants vs State of Haryana & others .... Respondents
+34. R. F. A. No. 25 of 2005 (O&M) Komal & others ..... Appellants vs State of Haryana & others .... Respondents
+35. R. F. A. No. 26 of 2005 (O&M) Sham Singh & others ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [5]
+36. R. F. A. No. 27 of 2005 (O&M) Jot Ram ..... Appellant vs State of Haryana & others .... Respondents
+37. R. F. A. No. 28 of 2005 (O&M) Ved Singh ..... Appellant vs State of Haryana & others .... Respondents
+38. R. F. A. No. 29 of 2005 (O&M) Om Parkash & another ..... Appellants vs State of Haryana & others .... Respondents
+39. R. F. A. No. 30 of 2005 (O&M) Smt. Shiv Devi & others ..... Appellants vs State of Haryana & others .... Respondents
+40. R. F. A. No. 31 of 2005 (O&M) Jai Ram Rathee ..... Appellant vs State of Haryana & others .... Respondents
+41. R. F. A. No. 32 of 2005 (O&M) Smt.Shanti ..... Appellant vs State of Haryana and others .... Respondents
+42. R. F. A. No. 33 of 2005 (O&M) Dharampal and others ..... Appellants vs State of Haryana & others .... Respondents
+43. R. F. A. No. 34 of 2005 (O&M) Raj Singh ..... Appellant vs State of Haryana & others .... Respondents
+44. R. F. A. No. 35 of 2005 (O&M) Davinder Singh and others ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [6]
+45. R. F. A. No. 36 of 2005 (O&M) Surjan ..... Appellant vs State of Haryana & others .... Respondents
+46. R. F. A. No. 37 of 2005 (O&M) Ram Rati and another ..... Appellants vs State of Haryana & others .... Respondents
+47. R. F. A. No. 38 of 2005 (O&M) Jai Ram Rathee ..... Appellant vs State of Haryana & others .... Respondents
+48. R. F. A. No. 39 of 2005(O&M) Shamlat Panna and others ..... Appellants vs State of Haryana & others .... Respondents
+49. R. F. A. No. 40 of 2005(O&M) Deep Chand ..... Appellant vs State of Haryana & others .... Respondents
+50. R. F. A. No. 41 of 2005(O&M) Ch.Deep Chand and others ..... Appellant vs State of Haryana and others .... Respondents
+51. R. F. A. No. 42 of 2005(O&M) Jai Bhagwan & another ..... Appellant vs State of Haryana & others .... Respondents
+52. R. F. A. No. 43 of 2005(O&M) Raj Kumar and others ..... Appellants vs State of Haryana & others .... Respondents
+53. R. F. A. No. 44 of 2005(O&M) Azad Singh ..... Appellant vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [7]
+54. R. F. A. No. 45 of 2005(O&M) Laxmi Devi ..... Appellant vs State of Haryana & others .... Respondents
+55. R. F. A. No. 46 of 2005(O&M) Suraj Bhan and another ..... Appellants vs State of Haryana & others .... Respondents
+56. R. F. A. No. 47 of 2005(O&M) Umed Singh and others ..... Appellants vs State of Haryana & others .... Respondents
+57. R. F. A. No. 48 of 2005(O&M) Azad Singh ..... Appellant vs State of Haryana & others .... Respondents
+58. R. F. A. No. 49 of 2005(O&M) Dayawanti ..... Appellant vs State of Haryana & others .... Respondents
+59. R. F. A. No. 50 of 2005(O&M) Umed Singh and others ..... Appellants vs State of Haryana & others .... Respondents
+60. R. F. A. No. 51 of 2005(O&M) Layak Ram and others ..... Appellants vs State of Haryana & others .... Respondents
+61. R. F. A. No. 52 of 2005(O&M) Smt.Rajenderi ..... Appellant vs State of Haryana & others .... Respondents
+62. R. F. A. No. 53 of 2005(O&M) Jogi Ram and others ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [8]
+63. R. F. A. No. 110 of 2005 (O&M) Smt. Sumitra & others ..... Appellants vs State of Haryana & others .... Respondents
+64. R. F. A. No. 111 of 2005 (O&M) Sultan Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+65. R. F. A. No. 112 of 2005 (O&M) Ganga Ram & others ..... Appellants vs State of Haryana & others .... Respondents
+66. R. F. A. No. 113 of 2005(O&M) Smt. Prem Rathee & others ..... Appellants vs State of Haryana & others .... Respondents
+67. R. F. A. No. 114 of 2005 (O&M) Smt. Kalawati & others ..... Appellants vs State of Haryana & others .... Respondents
+68. R. F. A. No. 115 of 2005(O&M) Mahender Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+69. R. F. A. No. 116 of 2005 (O&M) Smt. Sunita & others ..... Appellants vs State of Haryana & others .... Respondents
+70. R. F. A. No. 117 of 2005 (O&M) Ran Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+71. R. F. A. No. 118 of 2005 (O&M) Joginder Singh & another ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [9]
+72. R. F. A. No. 119 of 2005 (O&M) Smt. Barfo & others ..... Appellants vs State of Haryana & others .... Respondents
+73. R. F. A. No. 120 of 2005(O&M) Smt. Umed Kaur & another ..... Appellants vs State of Haryana & others .... Respondents
+74. R. F. A. No. 121 of 2005 (O&M) Mahabir & others ..... Appellants vs State of Haryana & others .... Respondents
+75. R. F. A. No. 143 of 2005 (O&M) Mukhtiar Singh ..... Appellant vs State of Haryana & others .... Respondents
+76. R. F. A. No. 144 of 2005(O&M) Mange Ram & others ..... Appellants vs State of Haryana & others .... Respondents
+77. R. F. A. No. 171 of 2005 (O&M) Om Parkash and others ..... Appellants vs State of Haryana and others .... Respondents
+78. R. F. A. No. 172 of 2005 (O&M) M/s Shiv Flour Mills ..... Appellant vs State of Haryana and others .... Respondents
+79. R. F. A. No. 173 of 2005 (O&M) Bhim Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+80. R. F. A. No. 174 of 2005 (O&M) Attar Singh ..... Appellant vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [10]
+81. R. F. A. No. 175 of 2005 (O&M) Smt. Brahmo and others ..... Appellants vs State of Haryana and others .... Respondents
+82. R. F. A. No. 176 of 2005 (O&M) Bhim Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+83. R. F. A. No. 177 of 2005 (O&M) Om Parkash and another ..... Appellants vs State of Haryana and others .... Respondents
+84. R. F. A. No. 178 of 2005 (O&M) Bhim Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+85. R. F. A. No. 179 of 2005 (O&M) Roop Chand and another ..... Appellants vs State of Haryana and others .... Respondents
+86. R. F. A. No. 180 of 2005 (O&M) Diwan Chand and others ..... Appellants vs State of Haryana and others .... Respondents
+87. R. F. A. No. 181 of 2005 (O&M) Chattar Singh ..... Appellant vs State of Haryana and others .... Respondents
+88. R. F. A. No. 182 of 2005 (O&M) Ishwar Singh ..... Appellant vs State of Haryana and others .... Respondents
+89. R. F. A. No. 183 of 2005 (O&M) Gopi Ram and another ..... Appellants vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [11]
+90. R. F. A. No. 184 of 2005 (O&M) Bhim Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+91. R. F. A. No. 185 of 2005 (O&M) Jagbir Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+92. R. F. A. No. 186 of 2005 (O&M) Surat Singh ..... Appellant vs State of Haryana and others .... Respondents
+93. R. F. A. No.187 of 2005 (O&M) Ram Kanwar and others ..... Appellants vs State of Haryana and others .... Respondents
+94. R. F. A. No.188 of 2005 (O&M) Ch. Charan Singh ..... Appellant vs State of Haryana and others .... Respondents
+95. R. F. A. No.189 of 2005 (O&M) Ram Kumar and others ..... Appellants vs State of Haryana and others .... Respondents
+96. R. F. A. No.190 of 2005 (O&M) Ishwar Singh ..... Appellant vs State of Haryana and others .... Respondents
+97. R. F. A. No.191 of 2005 (O&M) Fakir Chand ..... Appellant vs State of Haryana and others .... Respondents
+98. R. F. A. No.192 of 2005 (O&M) Partap Singh and another ..... Appellants vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [12]
+99. R. F. A. No.193 of 2005 (O&M) Surat Singh ..... Appellant vs State of Haryana and others .... Respondents
+100. R. F. A. No.195 of 2005 (O&M) Sat Narain and others ..... Appellants vs State of Haryana and others .... Respondents
+101. R. F. A. No.196 of 2005 (O&M) Kanhiya ..... Appellant vs State of Haryana and others .... Respondents
+102. R. F. A. No.197 of 2005 (O&M) Smt. Harkaur and others ..... Appellants vs State of Haryana and others .... Respondents
+103. R. F. A. No.198 of 2005 (O&M) Phool Singh and another ..... Appellants vs State of Haryana and others .... Respondents
+104. R. F. A. No.199 of 2005 (O&M) Pardeep and others ..... Appellants vs State of Haryana and others .... Respondents
+105. R. F. A. No.200 of 2005 (O&M) Harkaur and others ..... Appellants vs State of Haryana and others .... Respondents
+106. R.F.A. NO. 201 of 2005 (O&M) Smt. Chanderpati and others ....Appellants Vs State of Haryana and others ....Respondents
+107. R.F.A. NO. 202 of 2005(O&M) Ram Kumar and others ....Appellants Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [13]
+108. R.F.A. NO. 203 of 2005(O&M) Ram Kanwar and others ....Appellants Vs State of Haryana and others ....Respondents
+109. R.F.A. NO. 204 of 2005(O&M) Mange Ram ....Appellant Vs State of Haryana and others ....Respondents
+110. R.F.A. NO. 205 of 2005(O&M) Mehar Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+111. R.F.A. NO. 206 of 2005(O&M) Ram Phal ....Appellant Vs State of Haryana and others ....Respondents
+112. R.F.A. NO. 207 of 2005(O&M) Ram Phal ....Appellant Vs State of Haryana and others ....Respondents
+113. R.F.A. NO. 208 of 2005(O&M) Phool Singh and another ....Appellants Vs State of Haryana and others ....Respondents
+114. R.F.A. NO. 209 of 2005(O&M) Smt. Chandro Devi ....Appellant Vs State of Haryana and others ....Respondents
+115. R.F.A. NO. 210 of 2005(O&M) Bijender Singh and others ....Appellants Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [14]
+116. R.F.A. NO. 211 of 2005(O&M) Pardeep and others ....Appellants Vs State of Haryana and others ....Respondents
+117. R.F.A. NO. 212 of 2005(O&M) Daulat Ram ....Appellant Vs State of Haryana and others ....Respondents
+118. R.F.A. NO. 213 of 2005(O&M) Ishwar ....Appellant Vs State of Haryana and others ....Respondents
+119. R.F.A. NO. 214 of 2005(O&M) Smt. Brahmo Devi and others ....Appellants Vs State of Haryana and others ....Respondents
+120. R.F.A. NO. 215 of 2005(O&M) Kamlesh ....Appellant Vs State of Haryana and others ....Respondents
+121. R. F. A. No. 216 of 2005(O&M) Ram Kanwar & others ..... Appellants vs State of Haryana & others .... Respondents
+122. R. F. A. No. 217 of 2005(O&M) Lali Devi & others ..... Appellants vs State of Haryana & others .... Respondents
+123. R. F. A. No. 218 of 2005 (O&M) Bakhtawar ..... Appellant vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [15]
+124. R. F. A. No. 219 of 2005(O&M) Raj Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+125. R. F. A. No. 220 of 2005 (O&M) Smt. Chandro Devi & others ..... Appellants vs State of Haryana & others .... Respondents
+126. R. F. A. No. 221 of 2005(O&M) Deepak Kumar & others ..... Appellants vs State of Haryana & others .... Respondents
+127. R. F. A. No. 222 of 2005(O&M) Ved Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+128. R. F. A. No. 223 of 2005 (O&M) Bijender Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+129. R. F. A. No. 224 of 2005 (O&M) Bhim Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+130. R. F. A. No. 231 of 2005 (O&M) Raj Kumar & another ..... Appellants vs State of Haryana & others .... Respondents
+131. R. F. A. No. 274 of 2005(O&M) Smt. Mohar Kaur & others ..... Appellants vs State of Haryana & others .... Respondents
+132. R. F. A. No. 275 of 2005(O&M) Bhim Singh & another ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [16]
+133. R. F. A. No. 276 of 2005(O&M) Maha Singh Rathee & others ..... Appellants vs State of Haryana & others .... Respondents
+134. R. F. A. No. 277 of 2005 (O&M) Maha Singh Rathee & others ..... Appellants vs State of Haryana & others .... Respondents
+135. R. F. A. No. 283 of 2005(O&M) Smt. Angoori & others ..... Appellants vs State of Haryana & others .... Respondents
+136. R. F. A. No. 284 of 2005(O&M) Lachi Ram ..... Appellant vs State of Haryana & others .... Respondents
+137. R. F. A. No. 285 of 2005(O&M) Bhim Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+138. R. F. A. No. 286 of 2005(O&M) Jaipal Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+139. R. F. A. No. 287 of 2005(O&M) Puran Singh & another ..... Appellants vs State of Haryana & others .... Respondents
+140. R. F. A. No. 288 of 2005(O&M) Daya Nand ..... Appellant vs State of Haryana & others .... Respondents
+141. R. F. A. No. 289 of 2005(O&M) Balbir Singh & others ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [17]
+142. R.F.A. NO. 347 of 2005(O&M) Attar Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+143. R.F.A. NO. 349 of 2005(O&M) Karan Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+144. R.F.A. NO. 393 of 2005(O&M) Umed Singh and another ....Appellants Vs State of Haryana and others ....Respondents
+145. R.F.A. NO. 394 of 2005(O&M) Ishwar Dass ....Appellant Vs State of Haryana and others ....Respondents
+146. R.F.A. NO. 395 of 2005(O&M) Surender Pal Singh ....Appellant Vs State of Haryana and others ....Respondents
+147. R.F.A. NO. 396 of 2005(O&M) Maha Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+148. R.F.A. NO. 397 of 2005(O&M) Premwati ....Appellant Vs State of Haryana and others ....Respondents
+149. R.F.A. NO. 398 of 2005(O&M) Premwati ....Appellant Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [18]
+150. R.F.A. NO. 399 of 2005(O&M) Surinder Kumar ....Appellant Vs State of Haryana and others ....Respondents
+151. R.F.A. NO. 400 of 2005(O&M) Surinder Kumar ....Appellant Vs State of Haryana and others ....Respondents
+152. R.F.A. NO. 401 of 2005(O&M) Maha Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+153. R.F.A. NO. 402 of 2005(O&M) Amar Singh and another ....Appellants Vs State of Haryana and others ....Respondents
+154. R.F.A. NO. 403 of 2005(O&M) Phool Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+155. R.F.A. NO. 404 of 2005(O&M) Shanti Devi ....Appellant Vs State of Haryana and others ....Respondents
+156. R.F.A. NO. 405 of 2005(O&M) Samunder Singh ....Appellants Vs State of Haryana and others ....Respondents
+157. R.F.A. NO. 406 of 2005(O&M) Dayawanti ....Appellant Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [19]
+158. R.F.A. NO. 407 of 2005(O&M) Rohit Kumar ....Appellant Vs State of Haryana and others ....Respondents
+159. R.F.A. NO. 408 of 2005(O&M) Surinder Kumar ....Appellant Vs State of Haryana and others ....Respondents
+160. R.F.A. NO. 409 of 2005(O&M) Ravinder and others ....Appellants Vs State of Haryana and others ....Respondents
+161. R.F.A. NO. 410 of 2005(O&M) Phool Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+162. R.F.A. NO. 411 of 2005(O&M) Ram Pal ....Appellant Vs State of Haryana and others ....Respondents
+163. R.F.A. NO. 412 of 2005(O&M) Rahul Kumar Singh ....Appellant Vs State of Haryana and others ....Respondents
+164. R.F.A. NO. 413 of 2005(O&M) Smt. Satto Devi ....Appellant Vs State of Haryana and others ....Respondents
+165. R.F.A. NO. 414 of 2005(O&M) Laxmi Narain and another ....Appellants Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [20]
+166. R.F.A. NO. 415 of 2005(O&M) Ram Pyari and others ....Appellants Vs State of Haryana and others ....Respondents
+167. R.F.A. NO. 416 of 2005(O&M) Surinder Kumar ....Appellant Vs State of Haryana and others ....Respondents
+168. R.F.A. NO. 452 of 2005(O&M) Rishal Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+169. R.F.A. NO. 453 of 2005(O&M) Anand Kumar and others ....Appellants Vs State of Haryana and others ....Respondents
+170. R.F.A. NO. 454 of 2005(O&M) Sat Narain and others ....Appellants Vs State of Haryana and others ....Respondents
+171. R.F.A. NO. 455 of 2005(O&M) Risal Singh & another ....Appellant Vs State of Haryana and others ....Respondents
+172. R.F.A. NO. 488 of 2005(O&M) Raj Singh and others ....Appellants Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [21]
+173. R.F.A. NO. 489 of 2005(O&M) Ram Kanwar and others ....Appellants Vs State of Haryana and others ....Respondents
+174. R.F.A. NO. 490 of 2005(O&M) Smt. Barahmo Devi and others ...Appellants Vs State of Haryana and others ....Respondents
+175. R.F.A. NO. 491 of 2005(O&M) Ramesh Kumar and another ....Appellants Vs State of Haryana and others ....Respondents 1765. R.F.A. NO. 492 of 2005(O&M) Ram Kumar and others ....Appellants Vs State of Haryana and others ....Respondents
+177. R.F.A. NO. 493 of 2005(O&M) Gomati and others ....Appellants Vs State of Haryana and others ....Respondents
+178. R.F.A. NO. 494 of 2005(O&M) Saraswati and others .. Appellants Vs State of Haryana and others ....Respondents
+179. R.F.A. NO. 496 of 2005(O&M) Smt. Gomati and others ... Appellants Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [22]
+180. R.F.A. NO. 508 of 2005(O&M) Ram Kanwar and others ....Appellants Vs State of Haryana and others ....Respondents
+181. R.F.A. NO. 509 of 2005(O&M) Jawala Parshad and others ....Appellants Vs State of Haryana and others ....Respondents
+182. R.F.A. NO. 517 of 2005(O&M) Om Parkash ....Appellant Vs State of Haryana and others ....Respondents
+183. R.F.A. NO. 550 of 2005(O&M) Attar Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+184. R.F.A. NO. 551 of 2005(O&M) Partap Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+185. R.F.A. NO. 552 of 2005(O&M) Omwati and others ....Appellants Vs State of Haryana and others ....Respondents
+186. R.F.A. NO. 553 of 2005(O&M) Ram Kishan ....Appellant Vs State of Haryana and others ....Respondents R.F.A. No. 1 of 2006 [23]
+187. R.F.A. NO. 554 of 2005(O&M) Kishan Chand and others ....Appellants Vs State of Haryana and others ....Respondents
+188. R.F.A. NO. 555 of 2005(O&M) Anoop Singh and others ....Appellants Vs State of Haryana and others ....Respondents
+189. R.F.A. NO. 576 of 2005(O&M) Attar Singh ....Appellant Vs State of Haryana and others ....Respondents
+190. R. F. A. No. 605 of 2005 (O&M) Paras Ram (deceased) through LRs and others .. Appellants vs State of Haryana & others .... Respondents
+191. R. F. A. No. 610 of 2005 (O&M) Hoshiyar Singh Rathi and others ..... Appellants vs State of Haryana & others .... Respondents
+192. R. F. A. No. 611 of 2005 (O&M) Inder Singh and another ..... Appellants vs State of Haryana & others .... Respondents
+193. R. F. A. No. 612 of 2005 (O&M) Parshotam Dass and others ..... Appellants vs State of Haryana & others .... Respondents
+194. R. F. A. No. 613 of 2005(O&M) Smt.Shanti and others ..... Appellants vs State of Haryana & another .... Respondents R.F.A. No. 1 of 2006 [24]
+195. R. F. A. No. 654 of 2005(O&M) Maman Singh and others ... Appellants vs State of Haryana & others .... Respondents
+196. R. F. A. No. 655 of 2005 (O&M) Devender and others ..... Appellants vs State of Haryana & others .... Respondents
+197. R. F. A. No. 656 of 2005 (O&M) Usha Devi and others ..... Appellants vs State of Haryana & others .... Respondents
+198. R. F. A. No. 657 of 2005 (O&M) Om Parkash & others .... Appellants vs State of Haryana & others .... Respondents
+199. R. F. A. No. 658 of 2005 (O&M) Rajbir Singh ..... Appellant vs State of Haryana & others .... Respondents
+200. R. F. A. No. 659 of 2005 (O&M) Om Parkash and others ..... Appellants vs State of Haryana & others .... Respondents
+201. R. F. A. No. 660 of 2005(O&M) Shri Krishan and others ..... Appellants vs State of Haryana & others .... Respondents
+202. R.F.A. No. 661 of 2005 (O&M) Bhup Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+203. R.F.A. No. 662 of 2005 (O&M) Baljit Singh & others ..... Appellants vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [25]
+204. R.F.A. No. 663 of 2005 (O&M) Smt. Nihalo Devi & others ..... Appellants vs State of Haryana & others .... Respondents
+205. R.F.A. No. 664 of 2005 (O&M) Sher Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+206. R.F.A. No. 665 of 2005 (O&M) Ram Pat & others ..... Appellants vs State of Haryana & others .... Respondents
+207. R.F.A. No. 666 of 2005 (O&M) Sarto Devi & others ..... Appellants vs State of Haryana & others .... Respondents
+208. R.F.A. No. 667 of 2005 (O&M) Kuldeep & others ..... Appellants vs State of Haryana & others .... Respondents
+209. R.F.A. No. 668 of 2005 (O&M) Smt. Dharmo & others ..... Appellants vs State of Haryana & others .... Respondents
+210. R.F.A. No. 669 of 2005 (O&M) Smt. Laxmi Devi ..... Appellant vs State of Haryana & others .... Respondents
+211. R.F.A. No. 670 of 2005 (O&M) Raghbir Singh ..... Appellant vs State of Haryana & others .... Respondents
+212. R.F.A. No. 671 of 2005 (O&M) Surender Kumar @ Surender ..... Appellant vs State of Haryana & others .... Respondents R.F.A. No. 1 of 2006 [26]
+213. R.F.A. No. 672 of 2005 (O&M) Mrs. Prajakta Sita Ram Kanitkor ..... Appellant vs State of Haryana & others .... Respondents
+214. R.F.A. No. 673 of 2005 (O&M) Sanjay & others ..... Appellants vs State of Haryana & others .... Respondents
+215. R.F.A. No. 684 of 2005 (O&M) Jag Rup Singh ..... Appellant vs State of Haryana & others .... Respondents
+216. R.F.A. No. 685 of 2005 (O&M) Attar Singh & another ..... Appellants vs State of Haryana & others .... Respondents Om Parkash ..... Appellant vs State of Haryana & others .... Respondents
+218. R.F.A. No. 687 of 2005 (O&M) Smt. Dankar ..... Appellant vs State of Haryana & others .... Respondents
+219. R.F.A. No. 688 of 2005 (O&M) Smt. Vidyawati ..... Appellant vs State of Haryana & others .... Respondents
+220. R.F.A. No. 707 of 2005 (O&M) Charan Singh ..... Appellant vs State of Haryana and others .... Respondents
+221. R.F.A. No. 708 of 2005 (O&M) Mange Ram ..... Appellant vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [27] Narender Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+223. R.F.A. No. 710 of 2005 (O&M) Pardeep Singh ..... Appellant vs State of Haryana and another .... Respondents
+224. R.F.A. No. 719 of 2005 (O&M) Jagbir and others ..... Appellants vs State of Haryana and others .... Respondents
+225. R.F.A. No. 720 of 2005 (O&M) Sube Singh ..... Appellant vs State of Haryana and others .... Respondents
+226. R.F.A. No. 754 of 2005 (O&M) Bhoop Singh ..... Appellant vs State of Haryana and another .... Respondents
+227. R.F.A. No. 755 of 2005 (O&M) Raj Kumar and others ... Appellants vs State of Haryana and others .... Respondents
+228. R.F.A. No. 760 of 2005 (O&M) Smt. Phool Devi and others ... Appellants vs State of Haryana and others .... Respondents
+229. R.F.A. No. 776 of 2005 (O&M) Bimla and others ..... Appellants vs State of Haryana and others .... Respondents
+230. R.F.A. No. 777 of 2005 (O&M) Suresh and others ..... Appellants vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [28]
+231. R. F. A. No.958 of 2005 (O&M) Smt. Shakuntla Rani @ Shakuntla ..... Appellant vs State of Haryana and another .... Respondents
+232. R. F. A. No.1119 of 2005 (O&M) Mahabir and another ..... Appellants vs State of Haryana and others .... Respondents
+233. R. F. A. No.1120 of 2005 (O&M) Ajit Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+234. R. F. A. No.1203 of 2005 (O&M) Shanti Devi and others ..... Appellants vs State of Haryana and others .... Respondents
+235. R. F. A. No.1204 of 2005 (O&M) Rajinder Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+236. R. F. A. No.1205 of 2005 (O&M) Smt. Sharbati and others ..... Appellants vs State of Haryana and others .... Respondents
+237. R. F. A. No.1206 of 2005 (O&M) Raj Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+238. R. F. A. No.1207 of 2005 (O&M) Bhagwan Singh and others ... Appellants vs State of Haryana and others .... Respondents
+239. R. F. A. No.1293 of 2005 (O&M) Attar Singh ..... Appellant vs State of Haryana and others .... Respondents R.F.A. No. 1 of 2006 [29]
+240. R. F. A. No.1294 of 2005 (O&M) Ran Singh and another ..... Appellants vs State of Haryana and others .... Respondents
+241. R. F. A. No.1295 of 2005 (O&M) Ran Singh and others ..... Appellants vs State of Haryana and others .... Respondents
+242. R. F. A. No.1296 of 2005 (O&M) Karan Singh ..... Appellant vs State of Haryana and others .... Respondents
+243. R. F. A. No.1402 of 2005 (O&M) Asha Devi and others ..... Appellants vs State of Haryana and others .... Respondents
+244. R. F. A. No.1745 of 2005 (O&M) Raghubir Singh ..... Appellant vs State of Haryana and others .... Respondents
+245. R. F. A. No.3046 of 2005 (O&M) Raj Bala and others ..... Appellants vs State of Haryana and another .... Respondents
+246. R. F. A. No.3223 of 2005 (O&M) State of Haryana and another ..... Appellants vs Bhim Singh and others .... Respondents
+247. R. F. A. No.3224 of 2005 (O &M) State of Haryana and another ..... Appellants vs Smt. Sumitra and others .... Respondents
+248. R. F. A. No.3225 of 2005 (O&M) State of Haryana and another ..... Appellants vs Wazir Singh and others .... Respondents R.F.A. No. 1 of 2006 [30]
+249.` R. F. A. No.3226 of 2005 (O&M) State of Haryana and another ..... Appellants vs Ram Kanwar and others .... Respondents
+250. R. F. A. No.3227 of 2005 (O&M) State of Haryana and another ..... Appellants vs Ved Singh and another .... Respondents
+251. R. F. A. No.3228 of 2005 (O&M) State of Haryana and another ..... Appellants vs Ram Phal and another .... Respondents State of Haryana and another ..... Appellants vs Jogi Ram and others .... Respondents
+253. R. F. A. No.3230 of 2005 (O&M) State of Haryana and another ..... Appellants vs Ved Singh and another .... Respondents
+254. R. F. A. No.3231 of 2005 (O&M) State of Haryana and another ..... Appellants vs Bhim Singh and others .... Respondents
+255. R. F. A. No.3232 of 2005 (O&M) State of Haryana and another ..... Appellants vs Shri Harke and others .... Respondents
+256. R. F. A. No.3233 of 2005 (O&M) State of Haryana and another ..... Appellants vs Amar Singh and others .... Respondents
+257. R. F. A. No.3234 of 2005 (O&M) State of Haryana and another ..... Appellants vs Suresh and others .... Respondents R.F.A. No. 1 of 2006 [31]
+258. R. F. A. No.3235 of 2005 (O&M) State of Haryana and another ..... Appellants vs Kasturi and others .... Respondents
+259. R. F. A. No.3236 of 2005 (O&M) State of Haryana and another ..... Appellants vs Chattar Singh and another .... Respondents
+260. R. F. A. No.3237 of 2005 (O&M) State of Haryana and another ..... Appellants vs Daulat Ram and another .... Respondents
+261. R. F. A. No.3238 of 2005 (O&M) State of Haryana and another ..... Appellants vs Om Parkash Aggarwal and others ....Respondents
+262. R.F.A. No. 3239 of 2005 (O&M) State of Haryana & another ..... Appellants vs Sardara & another .... Respondents
+263. R.F.A. No. 3240 of 2005 (O&M) State of Haryana & another ..... Appellants vs Ram Phal & another .... Respondents
+264. R.F.A. No. 3241 of 2005 (O&M) State of Haryana & another ..... Appellants vs Ishwar Singh & another .... Respondents
+265. R.F.A. No. 3242 of 2005 (O&M) State of Haryana & another ..... Appellants vs Om Parkash & others .... Respondents R.F.A. No. 1 of 2006 [32]
+266. R.F.A. No. 3243 of 2005 (O&M) State of Haryana & another ..... Appellants vs Smt. Rajenderi & another .... Respondents
+267. R.F.A. No. 3244 of 2005 (O&M) State of Haryana & another ..... Appellants vs Luxmi Devi & another .... Respondents
+268. R.F.A. No. 3245 of 2005 (O&M) State of Haryana & another ..... Appellants vs Phool Singh & others .... Respondents
+269. R.F.A. No. 3246 of 2005 (O&M) State of Haryana & another ..... Appellants vs Devinder Singh & others .... Respondents
+270. R.F.A. No. 3247 of 2005 (O&M) State of Haryana & another ..... Appellants vs Surjan & another .... Respondents
+271. R.F.A. No. 3248 of 2005 (O&M) State of Haryana & another ..... Appellants vs Om Parkash & others .... Respondents
+272. R.F.A. No. 3249 of 2005 (O&M) State of Haryana & another ..... Appellants vs Mahender Singh & others .... Respondents R.F.A. No. 1 of 2006 [33]
+273. R.F.A. No. 3250 of 2005 (O&M) State of Haryana & another ..... Appellants vs Smt.. Chandro & another .... Respondents
+274. R.F.A. No. 3251 of 2005 (O&M) State of Haryana & another ..... Appellants vs Murli Manohar Mandir & another .... Respondents
+275. R.F.A. No.3252 of 2005 (O&M) State of Haryana & another ..... Appellants vs Smt. Manglo & others .... Respondents
+276. R.F.A. No. 3253 of 2005 (O&M) State of Haryana & another ..... Appellants vs Ram Narain & others .... Respondents
+277. R.F.A. No. 3254 of 2005 (O&M) State of Haryana & another ..... Appellants vs Sh. Harke & others .... Respondents
+278. R.F.A. No. 3255 of 2005 (O&M) State of Haryana & another ..... Appellants vs Jai Bhagwan & others .... Respondents
+279. R.F.A. No. 3256 of 2005 (O&M) State of Haryana & another ..... Appellants vs Smt.. Premwati & another .... Respondents R.F.A. No. 1 of 2006 [34]
+280. R.F.A. No. 3257 of 2005 (O&M) State of Haryana & another ..... Appellants vs Raj Singh & others .... Respondents
+281. R.F.A. No. 3258 of 2005 (O&M) State of Haryana & another ..... Appellants vs Dharam Pal & others .... Respondents
+282. R.F.A. No. 3259 of 2005 (O&M) State of Haryana & another ..... Appellants vs Attar Singh & another .... Respondents
+283. R.F.A. No. 3260 of 2005 (O&M) State of Haryana & another ..... Appellants vs Raghbir Singh & another .... Respondents
+284. R.F.A. No. 3261 of 2005 (O&M) State of Haryana & another ..... Appellants vs Om Parkash & others .... Respondents
+285. R.F.A. No. 3295 of 2005 (O&M) Mukhtiar Singh & others ..... Appellants vs State of Haryana & others .... Respondents
+286. R. F. A. No. 2 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Premwati and another .... Respondents R.F.A. No. 1 of 2006 [35]
+287. R.F.A. NO.4 of 2006 (O&M) State of Haryana and another .....Appellants vs Dayanand and another .....Respondents
+288. R.F.A. No. 5 of 2006 (O&M) State of Haryana and another ......Appellants vs Dayawati and another .......Respondents
+289. R.F.A. No. 7 of 2006 (O&M) State of Haryana and another ......Appellants vs Umed Singh and others ......Respondents
+290. R.F.A. No. 8 of 2006 (O&M) State of Haryana and another ......Appellants vs Fakir Chand and another ......Respondents
+291. R.F.A. No.19 of 2006 (O&M) State of Haryana and another ......Appellants vs Shri Harke and others ......Respondents
+292. R.F.A. No.23 of 2006 (O&M) State of Haryana and another ......Appellants vs Ram Kanwar and others ......Respondents
+293. R.F.A. No.26 of 2006 (O&M) State of Haryana and another ......Appellants vs Shri Harke and others ......Respondents
+294. R.F.A. No.27 of 2006 (O&M) State of Haryana and another ......Appellants vs Raj Singh and another ......Respondents
+295. R.F.A. No.28 of 2006 (O&M) State of Haryana and another ......Appellants vs Ram Mehar and others ......Respondents R.F.A. No. 1 of 2006 [36]
+296. R.F.A. No.31 of 2006 (O&M) State of Haryana and another ......Appellants vs Mange Ram and others ......Respondents
+297. R.F.A. No.32 of 2006 (O&M) State of Haryana and another ......Appellants vs Ram Mehar and another ......Respondents
+298. R.F.A. No.33 of 2006 (O&M) State of Haryana and another ......Appellants vs Om Parkash and another ......Respondents
+299. R.F.A. No.35 of 2006 (O&M) State of Haryana and another ......Appellants vs Surender and others ......Respondents
+300. R.F.A. No.37 of 2006 (O&M) State of Haryana and another ......Appellants vs Ram Kumar and others ......Respondents
+301. R.F.A. No.38 of 2006 (O&M) State of Haryana and another ......Appellants vs Mukhtiar Singh and others ......Respondents
+302. R.F.A. No.39 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Shanti and another ......Respondents
+303. R.F.A. No.41 of 2006 (O&M) State of Haryana and another ......Appellants vs Dalel Singh and others ......Respondents
+304. R.F.A. No.42 of 2006 (O&M) State of Haryana and another ......Appellants vs Lachi Ram and another ......Respondents R.F.A. No. 1 of 2006 [37]
+305. R.F.A. No.44 of 2006 (O&M) State of Haryana and another ......Appellants vs Jai Singh and others ......Respondents
+306. R.F.A. No.45 of 2006 (O&M) State of Haryana and another ......Appellants vs Bijender Singh and others ......Respondents
+307. R.F.A. No. 46 of 2006 (O&M) State of Haryana & another ..... Appellants vs Smt. Sarto Devi & others .... Respondents
+308. R.F.A. No. 47 of 2006 (O&M) State of Haryana & another ..... Appellants vs Jai Ram Rathee & another .... Respondents
+309. R.F.A. No. 48 of 2006 (O&M) State of Haryana & another ..... Appellants vs Inder Singh & others .... Respondents
+310. R.F.A. No. 49 of 2006 (O&M) State of Haryana & another ..... Appellants vs Rameshwar & another .... Respondents
+311. R.F.A. No. 50 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sh. Harke & others .... Respondents R.F.A. No. 1 of 2006 [38]
+312. R.F.A. No. 51 of 2006 (O&M) State of Haryana & another ..... Appellants vs Daya Kishan & another .... Respondents
+313. R.F.A. No. 52 of 2006 (O&M) State of Haryana & another ..... Appellants vs Shri Harke & others .... Respondents
+314. R.F.A. No. 54 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ram Kumar & others .... Respondents
+315. R.F.A. No. 55 of 2006 (O&M) State of Haryana & another ..... Appellants vs Partap Singh & others .... Respondents
+316. R.F.A. No. 57 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sham Singh & others .... Respondents
+317. R.F.A. No. 58 of 2006 (O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents
+318. R.F.A. No. 59 of 2006 (O&M) State of Haryana & another ..... Appellants vs Raj Kumar & others .... Respondents R.F.A. No. 1 of 2006 [39]
+319. R.F.A. No. 60 of 2006 (O&M) State of Haryana & another ..... Appellants vs Smt. Sharbati & others .... Respondents
+320. R.F.A. No. 61 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ishwar Singh & another .... Respondents
+321. R.F.A. No. 62 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sh. Surender & another .... Respondents
+322. R.F.A. No. 63 of 2006 (O&M) State of Haryana & another ..... Appellants vs Suraj Bhan & another .... Respondents
+323. R.F.A. No. 64 of 2006 (O&M) State of Haryana & another ..... Appellants vs Shri Harke & others .... Respondents
+324. R.F.A. No. 65 of 2006 (O&M) State of Haryana & another ..... Appellants vs Smt. Mohar Kaur & others .... Respondents
+325. R.F.A. No. 66 of 2006 (O&M) State of Haryana & another ..... Appellants vs Smt. Lali Devi & others .... Respondents R.F.A. No. 1 of 2006 [40]
+326. R.F.A. No. 67 of 2006 (O&M) State of Haryana & another ..... Appellants vs Lachi Ram & another .... Respondents
+327. R.F.A. No. 68 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ved Singh & others .... Respondents
+328. R.F.A. No. 83 of 2006 (O&M) State of Haryana & another ..... Appellants vs Daulat Ram & another .... Respondents
+329. R. F. A. No. 84 of 2006(O&M) State of Haryana & another ..... Appellants vs Bhim Singh & others .... Respondents
+330. R. F. A. No. 85 of 2006(O&M) State of Haryana & another ..... Appellants vs Risal Singh & others .... Respondents
+331. R. F. A. No. 92 of 2006(O&M) State of Haryana & another ..... Appellants vs S.V. Konitkar & another .... Respondents
+332. R. F. A. No. 95 of 2006(O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents
+333. R. F. A. No. 114 of 2006(O&M) State of Haryana & another ..... Appellants vs Smt. Shanti & another .... Respondents R.F.A. No. 1 of 2006 [41]
+334. R. F. A. No. 115 of 2006(O&M) State of Haryana & another ..... Appellants vs Ram Pyari & others .... Respondents
+335. R. F. A. No. 116 of 2006(O&M) State of Haryana & another ..... Appellants vs Mukhtiar Singh & others .... Respondents
+336. R. F. A. No. 117 of 2006(O&M) State of Haryana & another ..... Appellants vs Jaipal Singh & others .... Respondents
+337. R. F. A. No. 171 of 2006(O&M) State of Haryana & another ..... Appellants vs Mehar Singh & others .... Respondents
+338. R. F. A. No. 172 of 2006(O&M) State of Haryana & another ..... Appellants vs Lakhi Ram & others .... Respondents
+339. R. F. A. No. 174 of 2006(O&M) State of Haryana & another ..... Appellants vs Puran Singh & others .... Respondents
+340. R. F. A. No. 175 of 2006(O&M) State of Haryana & another ..... Appellants vs Mukhtiar Singh & another .... Respondents
+341. R. F. A. No. 181 of 2006(O&M) State of Haryana & another ..... Appellants vs Maha Singh & others .... Respondents
+342. R. F. A. No. 182 of 2006(O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents R.F.A. No. 1 of 2006 [42]
+343. R. F. A. No. 184 of 2006(O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents
+344. R. F. A. No. 185 of 2006(O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents
+345. R. F. A. No. 186 of 2006(O&M) State of Haryana & another ..... Appellants vs Smt. Harkaur & others .... Respondents
+346. R. F. A. No. 189 of 2006(O&M) State of Haryana & another ..... Appellants vs Raghubir Singh & another .... Respondents
+347. R. F. A. No. 190 of 2006(O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents
+348. R. F. A. No. 191 of 2006(O&M) State of Haryana & another ..... Appellants vs Harke & others .... Respondents
+349. R.F.A. No.259 of 2006 (O&M) State of Haryana and another ......Appellants vs Surjan and another ......Respondents
+350. R.F.A. No.260 of 2006 (O&M) State of Haryana and another ......Appellants vs M/s Shiv Flour Mills and another ......Respondents
+351. R.F.A. No.261 of 2006 (O&M) State of Haryana and another ......Appellants vs Mahabir and others ......Respondents R.F.A. No. 1 of 2006 [43]
+352. R.F.A. No.264 of 2006 (O&M) State of Haryana and another ......Appellants vs Indraj and others ......Respondents
+353. R.F.A. No.265 of 2006 (O&M) State of Haryana and another ......Appellants vs Raj Singh and others ......Respondents
+354. R.F.A. No.266 of 2006 (O&M) State of Haryana and another ......Appellants vs Surat Singh and another ......Respondents
+355. R.F.A. No.267 of 2006 (O&M) State of Haryana and another ......Appellants vs Ramrati and others ......Respondents
+356. R.F.A. No.269 of 2006 (O&M) State of Haryana and another ......Appellants vs Kishan Chand and others ......Respondents
+357. R.F.A. No.270 of 2006 (O&M) State of Haryana and another ......Appellants vs Layak Ram and others ......Respondents
+358. R.F.A. No.271 of 2006 (O&M) State of Haryana and another ......Appellants vs Surender Kumar and another ......Respondents
+359. R.F.A. No.273 of 2006 (O&M) State of Haryana and another ......Appellants vs Neelam and others ......Respondents
+360. R.F.A. No.274 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Brahno Devi and others ......Respondents R.F.A. No. 1 of 2006 [44]
+361. R.F.A. No.277 of 2006 (O&M) State of Haryana and another ......Appellants vs Ishwar Dass and another ......Respondents
+362. R.F.A. No.278 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Brahmo Devi and others ......Respondents
+363. R.F.A. No.280 of 2006 (O&M) State of Haryana and another ......Appellants vs Bhim Singh and others ......Respondents
+364. R.F.A. No.283 of 2006 (O&M) State of Haryana and another ......Appellants vs Narender Singh Rathi and others ......Respondents
+365. R.F.A. No.285 of 2006 (O&M) State of Haryana and another ......Appellants vs Sanjay and others ......Respondents
+366. R.F.A. No.286 of 2006 (O&M) State of Haryana and another ......Appellants vs Raj Singh and others ......Respondents
+367. R.F.A. No.287 of 2006 (O&M) State of Haryana and another ......Appellants vs Azad Singh and another ......Respondents
+368. R.F.A. No.289 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Leelawati and others ......Respondents
+369. R.F.A. No.291 of 2006 (O&M) State of Haryana and another ......Appellants vs Parshotam Dass and others ......Respondents R.F.A. No. 1 of 2006 [45]
+370. R.F.A. No.294 of 2006 (O&M) State of Haryana and another ......Appellants vs Karan Singh and others ......Respondents
+371. R.F.A. No.342 of 2006 (O&M) State of Haryana and another ......Appellants vs Kanhiya and another ......Respondents
+372. R.F.A. No.343 of 2006 (O&M) State of Haryana and another ......Appellants vs Suraj Bhan and others ......Respondents
+373. R.F.A. No.344 of 2006 (O&M) State of Haryana and another ......Appellants vs Ajit Singh and another ......Respondents
+374. R.F.A. No.345 of 2006 (O&M) State of Haryana and another ......Appellants vs Ran Singh and others ......Respondents
+375. R. F. A. No.346 of 2006 (O&M) State of Haryana and another ..... Appellants vs Karan Singh and another .... Respondents
+376. R. F. A. No.389 of 2006 (O&M) State of Haryana and another ..... Appellants vs Rohit Kumar and another .... Respondents
+377. R. F. A. No.390 of 2006 (O&M) State of Haryana and another ..... Appellants vs Om Parkash and another .... Respondents
+378. R. F. A. No.391 of 2006 (O&M) State of Haryana and another ..... Appellants vs Rahul Kumar Singh and another .... Respondents R.F.A. No. 1 of 2006 [46]
+379. R. F. A. No.392 of 2006 (O&M) State of Haryana and another ..... Appellants vs Pardeep and others .... Respondents
+380. R. F. A. No.394 of 2006 (O&M) State of Haryana and another ..... Appellants vs Tarif Singh and another .... Respondents
+381. R. F. A. No.395 of 2006 (O&M) State of Haryana and another ..... Appellants vs Bakhtawar and another .... Respondents
+382. R. F. A. No.396 of 2006 (O&M) State of Haryana and another ..... Appellants vs Samunder Singh and another .... Respondents
+383. R. F. A. No.398 of 2006 (O&M) State of Haryana and another ..... Appellants vs Charan Singh and another .... Respondents
+384. R. F. A. No.399 of 2006 (O&M) State of Haryana and another ..... Appellants vs Dayawanti and another .... Respondents
+385. R. F. A. No.400 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Dharmo and others .... Respondents
+386. R. F. A. No.402 of 2006 (O&M) State of Haryana and another ..... Appellants vs Mange Ram and another .... Respondents
+387. R. F. A. No.403 of 2006 (O&M) State of Haryana and another ..... Appellants vs Rampat and others .... Respondents R.F.A. No. 1 of 2006 [47]
+388. R. F. A. No.407 of 2006 (O&M) State of Haryana and another ..... Appellants vs Umed Singh and others .... Respondents
+389. R. F. A. No.447 of 2006 (O&M) State of Haryana and another ..... Appellants vs Kamlesh and another .... Respondents
+390. R. F. A. No.448 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Chandro Devi and others .... Respondents
+391. R. F. A. No.449 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Nihalo Devi and others .... Respondents
+392. R. F. A. No.452 of 2006 (O&M) State of Haryana and another ..... Appellants vs Surinder Kumar and another .... Respondents
+393. R. F. A. No.453 of 2006 (O&M) State of Haryana and another ..... Appellants vs Sultan Singh and others .... Respondents
+394. R. F. A. No.454 of 2006 (O&M) State of Haryana and another ..... Appellants vs Ran Singh and others .... Respondents
+395. R. F. A. No.455 of 2006 (O&M) State of Haryana and another ..... Appellants vs Phul Singh @ Phule and others .... Respondents
+396. R. F. A. No.456 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Laxmi Devi and another .... Respondents R.F.A. No. 1 of 2006 [48]
+397. R. F. A. No.458 of 2006 (O&M) State of Haryana and another ..... Appellants vs Sh. Mange Ram and others .... Respondents
+398. R. F. A. No.459 of 2006 (O&M) State of Haryana and another ..... Appellants vs Partap Singh and others .... Respondents
+399. R. F. A. No.460 of 2006 (O&M) State of Haryana and another ..... Appellants vs Bhup Singh and another .... Respondents
+400. R. F. A. No. 461 of 2006 (O&M) State of Haryana & another ..... Appellants vs Charan Singh & another .... Respondents
+401. R.F.A. No. 462 of 2006 (O&M) State of Haryana & another ..... Appellants vs Bhim Singh & others .... Respondents
+402. R.F.A. No. 464 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ram pal & another .... Respondents
+403. R.F.A. No. 465 of 2006 (O&M) State of Haryana & another ..... Appellants vs Shanti Devi & another .... Respondents
+404. R.F.A. No. 466 of 2006 (O&M) State of Haryana & another ..... Appellants vs Umed Singh & others .... Respondents
+405. R.F.A. No. 467 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sat Narain & others .... Respondents R.F.A. No. 1 of 2006 [49]
+406. R.F.A. No. 469 of 2006 (O&M) State of Haryana & another ..... Appellants vs Davinder Singh & others .... Respondents
+407. R.F.A. No. 472 of 2006 (O&M) State of Haryana & another ..... Appellants vs Deepak Kumar & others .... Respondents
+408. R.F.A. No. 473 of 2006 (O&M) State of Haryana & another ..... Appellants vs Mange Ram & another .... Respondents
+409. R.F.A. No. 474 of 2006 (O&M) State of Haryana & another ..... Appellants vs Roop Chand & others .... Respondents
+410. R.F.A. No. 475 of 2006 (O&M) State of Haryana & another ..... Appellants vs Rishal Singh & others .... Respondents
+411. R.F.A. No. 476 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sh. Surinder Kumar & another .... Respondents
+412. R.F.A. No. 536 of 2006 (O&M) State of Haryana & another ..... Appellants vs Mahabir Singh & others .... Respondents
+413. R.F.A. No. 537 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ram Kumar & others .... Respondents
+414. R.F.A. No. 722 of 2006 (O&M) State of Haryana & another ..... Appellants vs Pardeep & others .... Respondents R.F.A. No. 1 of 2006 [50]
+415. R.F.A. No. 723 of 2006 (O&M) State of Haryana & another ..... Appellants vs Surinder Pal Singh & another .... Respondents
+416. R.F.A. No. 724 of 2006 (O&M) State of Haryana & another ..... Appellants vs Hoshiar Singh Rathi & others .... Respondents
+417. R.F.A. No. 729 of 2006 (O&M) State of Haryana & another ..... Appellants vs Laxmi Narain & others .... Respondents
+418. R.F.A. No. 730 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ram Kanwar & others .... Respondents
+419. R.F.A. No. 731 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ram Phal & another .... Respondents
+420. R.F.A. No. 732 of 2006 (O&M) State of Haryana & another ..... Appellants vs Deep Chand & another .... Respondents
+421. R.F.A. No. 734 of 2006 (O&M) State of Haryana & another ..... Appellants vs Mange Ram & others .... Respondents
+422. R. F. A. No. 738 of 2006 (O&M) State of Haryana and another ..... Appellants vs Paras Ram and others .... Respondents
+423. R. F. A. No. 739 of 2006 (O&M) State of Haryana and another ..... Appellants vs Surjan and another .... Respondents R.F.A. No. 1 of 2006 [51]
+424. R. F. A. No. 740 of 2006 (O&M) State of Haryana and another ..... Appellants vs Maha Singh and others .... Respondents
+425. R. F. A. No. 742 of 2006 (O&M) State of Haryana and another ..... Appellants vs Dalip Singh and another .... Respondents
+426. R. F. A. No. 743 of 2006 (O&M) State of Haryana and another ..... Appellants vs Attar Singh and another .... Respondents
+427. R. F. A. No. 745 of 2006 (O&M) State of Haryana and another ..... Appellants vs Chandan Singh and another .... Respondents
+428. R.F.A. No.746 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Angoori and others ......Respondents
+429. R.F.A. No.752 of 2006 (O&M) State of Haryana and another ......Appellants vs Sh. Harke and others ......Respondents
+430. R.F.A. No.753 of 2006 (O&M) State of Haryana and another ......Appellants vs Baljit Singh and others ......Respondents
+431. R.F.A. No.754 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Chanderpati and others ......Respondents
+432. R.F.A. No.762 of 2006 (O&M) State of Haryana and another ......Appellants vs Bhim Singh and others ......Respondents R.F.A. No. 1 of 2006 [52]
+433. R.F.A. No.763 of 2006 (O&M) State of Haryana and another ......Appellants vs Maman Singh and another ......Respondents
+434. R.F.A. No.764 of 2006 (O&M) State of Haryana and another ......Appellants vs Phool Singh and others ......Respondents
+435. R.F.A. No.766 of 2006 (O&M) State of Haryana and another ......Appellants vs Dhan Kaur and others ......Respondents
+436. R.F.A. No.768 of 2006 (O&M) State of Haryana and another ......Appellants vs Jai Ram and another ......Respondents
+437. R.F.A. No.773 of 2006 (O&M) State of Haryana and another ......Appellants vs Attar Singh and others ......Respondents
+438. R.F.A. No.774 of 2006 (O&M) State of Haryana and another ......Appellants vs Omwati and others ......Respondents
+439. R.F.A. No.775 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Vidawati and another ......Respondents
+440. R. F. A. No. 776 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Dan Kaur and another .... Respondents
+441. R. F. A. No. 779 of 2006 (O&M) State of Haryana and another ..... Appellants vs Smt. Bala and others .... Respondents R.F.A. No. 1 of 2006 [53]
+442. R. F. A. No. 781 of 2006 (O&M) State of Haryana and another ..... Appellants vs Attar Singh and others .... Respondents
+443. R. F. A. No. 783 of 2006 (O&M) State of Haryana and another ..... Appellants vs Ram Kanwar and others .... Respondents
+444. R. F. A. No. 784 of 2006 (O&M) State of Haryana and another ..... Appellants vs Sube Singh and another .... Respondents
+445. R. F. A. No. 785 of 2006 (O&M) State of Haryana and another ..... Appellants vs Bijender Singh and others .... Respondents
+446. R.F.A. No. 812 of 2006 (O&M) State of Haryana & another ..... Appellants vs Phool Singh & others .... Respondents
+447. R.F.A. No. 827 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ganga Ram & others .... Respondents
+448. R.F.A. No. 828 of 2006 (O&M) State of Haryana & another ..... Appellants vs Bhim Singh & others .... Respondents
+449. R.F.A. No. 844 of 2006 (O&M) State of Haryana & another ..... Appellants vs Smt. Chandrawati & others .... Respondents
+450. R.F.A. No. 845 of 2006 (O&M) State of Haryana & another ..... Appellants vs Shanti Devi & others .... Respondents R.F.A. No. 1 of 2006 [54]
+451. R.F.A. No. 969 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sahi Ram & others .... Respondents
+452. R.F.A. No. 1020 of 2006 (O&M) State of Haryana & another ..... Appellants vs Gopi Ram & others .... Respondents
+453. R.F.A. No. 1021 of 2006 (O&M) State of Haryana & another ..... Appellants vs Om Parkash & another .... Respondents
+454. R.F.A. No. 1022 of 2006 (O&M) State of Haryana & another ..... Appellants vs Smt. Satto & another .... Respondents
+455. R.F.A. No. 1023 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ranbir Singh & others .... Respondents
+456. R.F.A. No. 1024 of 2006 (O&M) State of Haryana & another ..... Appellants vs Indraj & others .... Respondents
+457. R.F.A. No. 1025 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ravinder & others .... Respondents
+458. R.F.A. No. 1026 of 2006 (O&M) State of Haryana & another ..... Appellants vs Jawala Parshad & others .... Respondents
+459. R.F.A. No. 1028 of 2006 (O&M) State of Haryana & another ..... Appellants vs Ch. Deep Chand & others .... Respondents R.F.A. No. 1 of 2006 [55]
+460. R.F.A. No. 1029 of 2006 (O&M) State of Haryana & another ..... Appellants vs Shamsher Singh & others .... Respondents
+461. R.F.A. No. 1105 of 2006 (O&M) State of Haryana & another ..... Appellants vs Dalbir Singh & others .... Respondents
+462. R.F.A. No. 1106 of 2006 (O&M) State of Haryana & another ..... Appellants vs Roop Chand & others .... Respondents
+463. R.F.A. No. 1107 of 2006 (O&M) State of Haryana & another ..... Appellants vs Diwan Chand & others .... Respondents
+464. R.F.A. No. 1108 of 2006 (O&M) State of Haryana & another ..... Appellants vs Rajinder Singh & another .... Respondents
+465. R.F.A. No. 1109 of 2006 (O&M) State of Haryana & another ..... Appellants vs Phool Singh & others .... Respondents
+466. R.F.A. No. 1110 of 2006 (O&M) State of Haryana & another ..... Appellants vs Jot Ram & another .... Respondents
+467. R.F.A. No. 1119 of 2006 (O&M) State of Haryana & another ..... Appellants vs Shri Krishan & others .... Respondents
+468. R.F.A. No. 1122 of 2006 (O&M) State of Haryana & another ..... Appellants vs Sh. Mange Ram & another .... Respondents R.F.A. No. 1 of 2006 [56]
+469. R.F.A. No. 1126 of 2006 (O&M) State of Haryana & another ..... Appellants vs Komal & others .... Respondents
+470. R.F.A. No.1127 of 2006 (O&M) State of Haryana and another ......Appellants vs Umed Singh and another ......Respondents
+471. R.F.A. No.1130 of 2006 (O&M) State of Haryana and another ......Appellants vs Sh. Attar Singh and others ......Respondents
+472. R.F.A. No.1131 of 2006 (O&M) State of Haryana and another ......Appellants vs Azad Singh and another ......Respondents
+473. R.F.A. No.1132 of 2006 (O&M) State of Haryana and another ......Appellants vs Ishwar Singh and another ......Respondents
+474. R.F.A. No.1133 of 2006 (O&M) State of Haryana and another ......Appellants vs Satbir Singh Rathee and others ......Respondents
+475. R.F.A. No.1134 of 2006 (O&M) State of Haryana and another ......Appellants vs Sarup Singh and others ......Respondents
+476. R.F.A. No.1136 of 2006 (O&M) State of Haryana and another ......Appellants vs Raj Kumar and others ......Respondents
+477. R.F.A. No.1137 of 2006 (O&M) State of Haryana and another ......Appellants vs Mahiender Singh and others ......Respondents R.F.A. No. 1 of 2006 [57]
+478. R.F.A. No.1138 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Brahmo and others ......Respondents
+479. R.F.A. No.1174 of 2006 (O&M) State of Haryana and another ......Appellants vs Kuldeep Singh and another ......Respondents
+480. R.F.A. No.1212 of 2006 (O&M) State of Haryana and another ......Appellants vs Balbir Singh and another ......Respondents
+481. R.F.A. No.1221 of 2006 (O&M) State of Haryana and another ......Appellants vs Bhup Singh and others ......Respondents
+482. R.F.A. No.1334 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Shiv Devi and others ......Respondents
+483. R.F.A. No.1435 of 2006 (O&M) State of Haryana and another ......Appellants vs Surat Singh and another ......Respondents
+484. R.F.A. No.3239 of 2006 (O&M) State of Haryana and another ......Appellants vs Smt. Brahno Devi and others ......Respondents Coram: Hon'ble Mr. Justice Rajesh Bindal Present: Shri Lokesh Sinhal, Additional Advocate General, Haryana.
+S/Shri R.A. Yadav, R. S. Dalal, G.S.Hooda, Mohnish Sharma for Narender Hooda, Sandeep K. Sharma, Amit Shivrain for M.P.S.Mann and S.S.Virk, Advocates for the land owners.
+R.F.A. No. 1 of 2006 [58] Shri Raman Gaur, Advocate for HUDA.
+Shri Deepak Balyan, Advocate.
+Rajesh Bindal J.
+This order shall dispose of a bunch of 484 appeals, as the same arise out of a common acquisition.
+R.F.A. Nos. 3223 to 3261 of 2005, 1, 2, 4, 5, 7, 8, 19, 23, 26, 27, 28, 31 to 33, 35, 37 to 39, 41, 42, 44 to 52, 54, 55, 57 to 68, 83 to 85, 92, 95, 114 to 117, 171, 172, 174, 175, 181, 182, 184, 185, 186, 189, 190, 191, 259, 260, 261, 264, 265, 266, 267, 269, 270, 271, 273, 274, 277, 278, 280, 283, 285, 286, 287, 289, 291, 294, 342 to 346, 389 to 392, 394 to 396, 398 to 400, 402, 403, 407, 447, 448, 449, 452 to 456, 458 to 462, 464 to 467, 469, 472 to 476, 536, 537, 722 to 724, 729 to 732, 734, 738 to 740, 742, 743, 745, 746, 752 to 754, 762 to 764, 766, 768, 773 to 776, 779, 781, 783 to 785, 812, 827, 828, 844, 845, 969, 1020 to 1026, 1028, 1029, 1105 to 1110, 1119, 1122, 1126, 1127, 1130 to 1134, 1136 to 1138, 1174, 1212, 1221, 1334, 1435 and 3239 of 2006 by the State of Haryana seeking reduction of the amount of compensation awarded to the land owners for the acquired land.
+R.F.A. Nos. 2642 to 2656 of 2004, 8 to 53, 110 to 121, 143, 144, 171 to 193, 195 to 224, 231, 274 to 277, 283 to 289, 347, 349, 393 to 416, 452 to 455, 488 to 494, 496, 508, 509, 517, 550 to 555, 576, 605, 610 to 613, 654 to 673, 684 to 688, 707 to 710, 719, 720, 754, 755, 760, 776, 777, 958, 1119, 1120, 1203 to 1207, 1293 to 1296, 1402, 1745, 3046 and 3295 of 2005, have been filed by the land owners seeking further enhancement of compensation for the acquired land.
+The facts have been extracted from R. F. A. No. 1 of 2006. Briefly, the facts of the case are that the State of Haryana vide notification dated 12.5.1995 issued under Section 4 of the Land Acquisition Act, 1894 (for short, "the Act"), acquired the land within the revenue estate of Bahadurgarh, Hadbast No. 38, Tehsil Bahadurgarh, District Jhajjar, for development and utilisation as residential and commercial area in Sector-9 and 9- A, Bahadurgarh. The Land Acquisition Collector assessed the market value of the land at Rs. 6 lacs per acre for the land situated on Bahadurgarh-Delhi road upto the depth of 3 acres, Rs. 4 lacs per acre for the land situated on Bahadurgarh- Najafgarh road upto the depth of 3 acres, Rs. 2.50 lacs per acre for nehri and chahi and Rs. 2 lacs per acre for barani and other kinds of land. The landowners/claimants feeling dissatisfied with the quantum of compensation awarded by the Collector, filed objections. On reference under Section 18 of the R.F.A. No. 1 of 2006 [59] Act, the learned court below determined the market value of the acquired land by granting Rs. 50,000/- per acre increase for each category. It is this award of the learned Reference Court which is impugned in the present set of appeals.
+Learned counsel for the landowners referred to site plan Ex. R-66 placed on record which shows the acquisition boundaries. The land is shown to be located on one side of the National Highway No. 10 Delhi-Hisar and on the other side, the land abuts the road, namely, Bahadurgarh-Najafgarh Road. Another site plan, Ex. P-29 was referred to show that the acquired land is quite close to Delhi border. As far as determination of fair value of the acquired land is concerned, learned counsel for the landowners primarily relied upon sale-deeds and allotment letters, Ex. P-12, P-13, P-14, P-30, P-31, P-41 and P-43. In addition to these documents, Ex. P-28 was also relied upon i.e. an award of the Land Acquisition Collector pertaining to the land of a small portion of land falling in Sector-9A which was subsequently acquired vide notification under Section 4 of the Act issued on 2.12.1998.
+As far as the sale-deeds are concerned, it was submitted that vide sale-deed Ex. P-12, a big chunk of land measuring 8 kanals 7½ marlas falling in Village Hassanpur was sold vide sale-deed dated 22.4.1993 for a sale consideration of Rs. 20,26,800/- i.e. @ Rs. 400/- per square yard. This land is stated to be about 3½ acres away from the National-Highway. So far as the sale- deed, Ex. P-13 is concerned, it was submitted that vide sale-deed dated 28.2.1989, land measuring 2550 square yards was sold for Rs. 5,87,500/- at an average price of Rs. 230/- per square yard. This piece of land is located on Jhajjar road. Referring to the aforesaid sale-deed, it was submitted that when the value of the land near Bahadurgarh in the year 1989 was Rs. 230/- per square yard, it cannot be lesser in the year 1995 when the present land was acquired. Another sale-deed, Ex. P-14 dated 23.5.1989 is referred to whereby 410 square yards land was sold for Rs. 80,000/- at an average price of Rs. 195/- per square yard. This portion of land is stated to be located quite close to the acquisition boundary towards the abadi area.
+Ex. P-41, is another sale-deed dated 6.10.1994 which is relied upon whereby 100 square yards of land was sold for Rs. 40,000/- at an average price of Rs. 400/- per square yard. Though the sale-deed is not located on any of the site plan, however, khasra number which is located on Ex. R-66 shows its location towards the abadi area from the acquired land. Vide sale deed Ex. P-43 dated 15.3.1995, 30 square yards of land was sold for Rs. 12,000/- at an average price of Rs. 400/- per square yard. This portion of land is pertaining to Village Parnala and the khasra number which is evident from site plan, Ex. R-66, is located on the R.F.A. No. 1 of 2006 [60] main National-Highway No. 10 Delhi-Hisar Road.
+In addition to this, reliance was placed upon Ex. P-28, the award dated 13.7.2001, whereby for small portion of land acquired subsequently vide notification dated 2.12.1998, the Land Acquisition Collector determined the value of the acquired land therein at Rs. 9,50,000/- per acre. This land is forming part of Sectors 9/9A, Bahadurgarh. Ex. P-30 is a letter of intent issued by HUDA in favour of Indian Oil Corporation whereby an undeveloped big chunk of land was sold for Rs. 2,97,30,200/- at an average price of Rs. 1486.51 square yard. This portion of land is located in Sector-7, Bahadurgarh which is on the other side of the city abutting the National Highway towards Rohtak side whereas the acquired land is towards Delhi side. Ex. P-51 is the brochure of Haryana Urban Development Authority for sale of plots in Sectors 9 and 9A, for the development of which the present land was acquired, was also referred to where the value of plots of different sizes was fixed ranging from Rs. 1733/- to Rs. 2118/- per square yard.
+In addition to the documentary evidence produced on record, learned counsel for the landowners have also referred to the oral evidence led by them in the form of statements of PW6 Jagdish Chander, Junior Engineer, Municipal Committee, Bahadurgarh and PW10 Surinder Singh Rathi, Advocate of Bahadugarh wherein the location as well as the potentiality was stated. The land is sandwiched between the already existing Bahadurgarh town and Delhi Border. It has great potential for being developed as industrial and commercial purposes for the reason that it's being part of National Capital Region and close to Delhi. It is further submitted that the learned court below had not considered the evidence led by the landowners and merely applied thumb rule by granting increased compensation for all categories of land at Rs. 50,000/- each. If the evidence led by the landowners is considered in the light of settled principles for determination of value of the land, it has to be assessed at much more rates. It was further argued that the categorisation of the land into nehri and barani by the learned court below is totally against the principles of law. The land had great potential for being used as urban area for industrial/residential purposes and in such a situation, it could not be categorised as nehri and barani and compensation cannot be assessed in terms thereof and for the purpose of urbanisation that categorisation looses its significance. For that purpose, reliance was placed upon Shangara Singh vs Punjab State and others , 2006 (2) PLJ 389 and it was further submitted that the entire chunk of land was falling within the municipal limits of Bahadurgarh and considering that fact the value thereof should not be assessed in acres rather it R.F.A. No. 1 of 2006 [61] would be in square yards as the land in the urban area is sold in small pieces of plots and not on per acre basis.
+Judgment of this Court in R. F. A. No. 2501 of 2001 Ved Pal and others vs State of Haryana and others, decided on 3.5.2006, was relied upon to submit that price as was charged by HUDA for the sale of undeveloped plot of measuring 20000 square meters to Indian Oil Corporation (Ex. P-30 and P-31), two years prior to the acquisition should be relied upon for the purpose of determination of value of the acquired land. In Ved Pal's case (supra), the value of the acquired land was assessed on the basis of price charged by HUDA for sale of big chunk of land to M/s. Escorts India Limited. This judgment was upheld by Hon'ble the Supreme Court.
+In Pram Sukh and others vs State of Haryana and others, 2006 (2) PLJ 39, this court had done away with the categorisation of land by holding that once the same was within the municipal limits and had great potential for being developed as residential/commercial area. Reference was also made to the cross- examination of RW1 Bhisham Singh, Patwari, Faridabad HUDA, who admitted that the boundary of the acquired land is close to Delhi border. In addition to this, it is submitted that purpose of the acquisition is for used as residential/commercial, a uniform rate should be awarded to all the landowners for the acquisition of land irrespective of the land or location thereof.
+Controverting the contentions raised by the learned counsel for the landowners, learned Additional Advocate General, Haryana, submitted that none of the sale-deeds as are sought to be relied upon by the landowners can be relied upon for the purpose of determination of fair value of the acquired land in the present case as no site plan showing the location has been produced on record to show comparative value thereof. It is only before this court that the location of the land pertaining to some of the sale-deeds is shown by referring to their khasra numbers. The sale-deeds which have been pointed out on the site plan, Ex. R-66, show that those were pertaining to small plots which were quite close to the abadi or the already developed area. The same for that reason also cannot be relied.
+Replying to the exhibits relied upon by the learned counsel for the landowners, it was submitted that as far as the land pertaining to sale-deed Ex. P- 13 is concerned, from the narration of facts, it is shown to be located on Jhajjar Road which originate from Bahadurgarh side and the location thereof has not been pointed out. It can be quite close to the abadi area as well. It was further pointed out that the land acquired for Sector-7 in the year 1987 is also on the Jhajjar Road side whereas in Delhi side the land was acquired in the year 1995 meaning thereby R.F.A. No. 1 of 2006 [62] that the other area had already been developed. So far as the plea regarding Ex. P- 30 is concerned, it was submitted that it was sale of 20000 square meters of land by HUDA to the Indian Oil Corporation in Sector-7, Bahadurgarh which was already developed and all basic infrastructure was available there. Merely if it was a big chunk of land, it cannot be said to be an undeveloped area. The same cannot be compared vis-a-vis the location of the acquired land and consideration money received by the HUDA cannot be made basis for determination of fair value of the acquired land.
+As far as sale-deeds Ex. P41 and P-43 are concerned, it is stated that these are of very small plots measuring 100 square yards and 30 square yards which are located close to the abadi area or on the road. The same being close to the abadi or on the road and small pieces of land could not be relied for the purpose of determination of fair value of the acquired land. Similar was the view with regard to the award, Ex. P-28, pertaining to the acquisition of 0.97 acres of land which is close to the already acquired land for which the value was determined at Rs. 9,50,000/- per acre. It was submitted that even the award of the Collector for the acquired land shows that the land which was acquired subsequently was close to the National-Highway and for that reason the compensation was assessed at Rs. 9,50,000/- per acre. Even if that award is considered which is for the acquisition carried out 2½ years later in time from the acquisition in the present case, the value of the acquired land cannot be increased further where it was assessed at Rs. 6,00,000/- per acre for the land located on the National-Highway and was enhanced by the learned Reference Court to Rs. 6,50,000/- per acre. In addition to this, the reference was made to sale-deeds produced by the State, namely, Ex. R-15, R-59 and R-64. Referring to site plan, Ex. R-66, it was submitted that the land pertaining to sale-deed, Ex. R-15 which was registered on 9.4.1992 of a small piece of 6 biswas of land, at an average price of Rs. 2,66,666/- per acre. This land is located close to Najafgarh Road and near the acquisition boundary.
+As far as the land pertaining to Ex. R-59 is concerned, it was submitted that 7 biswas of land was sold for a sum of Rs. 32,000/- at an average price of Rs. 4,38,877.85. This land is located on Jhajjar road whereas the landowners have referred to sale-deed Ex. P-13, showing the value therein at Rs. 230/- per square yard. It is submitted that in October 1995, the value in that area was not more than Rs. 4,38,877.85 per acre as is shown in the aforesaid sale-deed. In sale-deed, Ex. R-64, a big area measuring 7 kanals 6 marlas of land was sold for a total consideration of Rs. 2,10,000/- on 18.4.1994 at an average price of Rs.
+R.F.A. No. 1 of 2006 [63] 2,30,136.97 per acre. This land forms part of the revenue estate of Village Parnala though is located around 3 acres away from the National Highway quite close to the acquired land.
+Learned counsel further submitted that the facts that the land falls within the municipal limits have not been proved by leading any positive evidence. The site-plan, Ex. P-22, proved by the landowners on record only showed the municipal limits but it does not show whether the acquired land is in municipal limits. He further submitted that this very small portion of acquired land which is abutting the National Highway though on the other end it abuts the Najafgarh road. The entire land cannot be valued at the same rate as the land which is located far from the road and is also not connected with any road, carry less value. Further relying upon Union of India and others v. Mangatu Ram and others, (1997) 6 SCC 59, it is submitted that belting system as has been applied by the learned court below for determination of fair value of the acquired land on the main road and upto a depth of 3 acres has rightly been done. Reference was placed on para 30 of the impugned award, where the learned court below without referring to any of the evidence led by the either of the parties has merely enhanced the compensation by considering the potentiality of the land which is stated to be totally against the law.
+In so far as Ex. P-51 referred to by the learned counsel for the landowners regarding rates fixed by HUDA for sale of plots in Sectors 9 and 9-A is concerned, the submission is that the broacher was issued on 25.5.1999 i.e. 4 years after the acquisition and after the land had already been developed with all basic infrastructure. As far as the rates of plots which were subsequently sold in the developed area cannot be made basis for the determination of the fair value of the acquired land.
+Heard learned counsel for the parties and perused the relevant referred record.
+As far as location of the land is concerned, the fact is not in dispute that small portion of it is located on Delhi-Hissar road close to city of Bahadurgarh towards Delhi. The acquisition boundary does not abut Delhi border, as there is land of another village in between, though it is not far off from there. It is part of the national capital region. The other end of the acquisition boundary abuts Nazafgarh road originating from Bahadurgarh. The urbanised area of the city of Bahadurgarh at the relevant time was abutting the acquisition boundary. Some factories were also situated near the acquired land. A perusal of site plan (Ex. P-
+29), which is draft development plan for controlled area No. 1, 2 and 3 -2021 AD R.F.A. No. 1 of 2006 [64] pertaining to the area of Bahadurgarh shows that the acquired land is about two kilometers from Delhi border on one side, i.e., if moving from Hissar to Delhi on NH-10, whereas its other boundary which falls on Bahadurgarh-Nazafgarh road is also at the same distance. The entire acquired land falls within the municipal limits extended in the year 1993. Towards the east of the acquired land, MIE industrial area is situated, which abuts Delhi border. Government College, other commercial establishments and residential colonies are also situated in the vicinity. It is also evident from the oral statements of the witnesses that some residential colonies were located in the vicinity of the acquired land and even certain residential houses which were located on the acquired land were released from acquisition. Bus stand of Bahadurgarh is situated about 1-1/2 kilometers from the acquired land. Learned counsel for the land owners had relied upon sale deeds (Ex. P12, Ex. P13, Ex. P14, Ex. P41 and Ex. P43). In addition to this, award (Ex. P28) pertaining to the acquisition of small portion of land falling within Sector 9/9-A was also relied upon. Besides this, letter of intent (Ex. P30 and Ex. P31) issued by Haryana Urban Development Authority to Indian Oil Corporation for allotment of 20,000 square meters of land in Sector 7, Bahadurgarh was also referred to. As regards other evidence on record, no reliance was placed thereon keeping in view the fact that either the same was after the date of acquisition or much prior thereto.
+On the other hand, learned State counsel had referred to and relied upon sale deeds (Ex. R15, Ex. R.59 and Ex. R.64) to submit that the enhancement, which has been made by the learned court below, was not called for and the award of the Collector deserves to be upheld.
+As far as sale deed (Ex. P12), relied upon by the land owners is concerned, it has come on record that the same was part of a developed area in a residential colony and situated towards Delhi side from the acquired land. As far as sale deed (Ex. P13) is concerned, the land pertaining thereto is located on Bahadurgarh-Jhajjar road but the same has not been pointed out on any site plan on record. Even otherwise, the sale deed was registered on 28.2.1989, whereas on Jhajjar road, the acquisition for development as Sector 7, HUDA, Bahadurgarh had already been carried out in the year 1987, meaning thereby some development activity had started towards that area and therefore, the price as is mentioned in the sale deed, cannot as such be relied upon. As far as land pertaining to sale deed (Ex. P14) is concerned, the same is dated 23.5.1989, whereby 410 square yards of land was sold at an average price of Rs. 195/- per square yard. It was sold nearly 6 years prior to the acquisition. The land as such has not been located on any site plan. However, considering the khasra number, mentioned in the sale deed, learned R.F.A. No. 1 of 2006 [65] counsel for the land owners pointed out the same on the site plan located near the main Delhi-Hissar road.
+As far as sale deeds (Ex. P41 and Ex. P.43) are concerned, the same pertain to 100 and 30 square yards respectively, which are located near the abadi on the road, the already developed area. The same otherwise also being for small piece of land cannot be relied upon as such for determination of fair value of big chunk of land. As far as reliance on brochure (Ex. P51) issued in 1999 by Haryana Urban Development Authority for sale of plots in developed Sector 9/9-A, Bahadurgarh, for which the land in question was acquired, is also not relevant for the purpose of determination of fair value of the acquired land, as by that time in 6-7 years gap, the land in question had been developed after providing all basic amenities and even the area in the vicinity had been developed. If the award (Ex. P28) pertaining to the acquisition of small left over portion of Sector 9/9-A, as was notified on 2.12.1998 is concerned, there is a gap of 3-1/2 years in between. It is further noticed in that award that compensation therefor is being assessed only at the rates at which the land on the main National Highway is assessed, as this portion of the land was located on the Highway. If the time gap in the two acquisitions is considered, further increase in the value of the acquired land will not be possible, as in the present case, the Collector himself had assessed the value at Rs. 6,00,000/- per acre for the land abutting the main Highway which was further increased to Rs. 6,50,000/- per acre by the learned court below. If an increase of 12% per annum is considered thereon, the value comes the same, as is determined by the Collector.
+As far as sale deeds relied upon by the State are concerned, the same have merely to be referred and rejected for the simple reason that all of them are not relevant. Sale deed (Ex. R59) is pertaining to the land, which is located on Jhajjar road on the other side of Bahadurgarh city. The land forming part of sale deed (Ex. R64), though is located near the acquired land, but the value thereof is less than the award of the Collector. Similar is the position with regard to sale deed Ex. R.15, the land of which is located on Nazafgarh road beyond the acquisition boundary. The exact location thereof is not known as it is only the khasra number which is pointed out. The khasra will certainly have much bigger area, whereas the sale deed is pertaining to only 6 biswas of land. Another document, on which strong reliance was placed upon by the learned counsel for the land owners, is letter of intent (Ex. P30 and Ex. P.31) dated 19.1.1993, issued by Haryana Urban Development Authority to Indian Oil Corporation for allotment of 20,000 square meters of land in Sector 7, Bahadurgarh @ Rs. 1486.51 per square meter. It is not R.F.A. No. 1 of 2006 [66] in dispute that this portion of land is located on the other side of the city towards Hissar. The land for Sector 7 was acquired way back in the year 1987. The area had been developed in 6 years till the land was allotted to Indian Oil Corporation. Though it is a big chunk of land but cannot be said to be a plain land with no amenities as such. Accordingly, the same as such cannot be relied upon for the purpose of determination of fair value of the acquired land. Another factor, which makes this piece of evidence to be not safe enough for the purpose of determination of fair value of the acquired land is that it was a deed between two entities of State, namely, Haryana Urban Development Authority and Indian Oil Corporation Limited. However, the same will certainly throw some light on the value of the land and its potential in the area.
+From the material placed on record by the parties, there is no concrete evidence as such available on record which could be picked up immediately to be relied upon for the purpose of determination of fair value of the acquired land. However, the transactions of sale in the area may be even for smaller or bigger plots certainly throw light on the prices of land in the area. As has already been noticed above, the distance of the acquired land from Delhi border is approximately two kilometers. Though, as discussed above, sale deed (Ex. P12) as such could not be relied upon, where 8 kanals and 7-1/2 marlas of land was sold @ Rs. 400/- per square yard registered on 22.4.1993 for the reason that this land was situated close towards Delhi from the acquired land and was within the residential area. This portion of land is also stated to be 3-1/2 acres off the National Highway. Meaning thereby that there was population even in between the area from the acquired land till Delhi border and a judicial notice can always be taken of the fact near the border, the immediate area in the vicinity on the road or even behind that is always developed as Sales Tax Barrier or the security set up, Toll Tax Collection points etc. are not located just at the border, but at some place within the boundaries of the State. For small piece of land near the acquired land, purchased for shop or residence 5-6 years before the acquisition, the sale consideration is ranging from Rs. 195/- to Rs. 230/- per square yard in terms of the evidence produced on record.
+As far as the learned court below is concerned, it has assessed the value of the acquired land upto a depth of three acres on Bahadurgarh-Delhi road at Rs. 6,50,000/- per acre, i.e., Rs. 134.29 per square yard, if one acre is considered equivalent to 4840 square yards, whereas for the land, which is situated on Nazafgarh road, the value was assessed at Rs. 4,50,000/- per acre, i.e., @ Rs. 92.97 per square yard. For the land in between, two rates were fixed, i.e., Rs. 3,00,000/-
+R.F.A. No. 1 of 2006 [67] per acre for nehri and chahi kind of land and Rs. 2,50,000/- per acre for Barani and other kind of land, which comes to Rs. 61.98 and Rs. 51.65 per square yard, respectively.
+Considering the aforesaid facts, in my opinion, as far as belting of the land is concerned, i.e., land located on NH-10 - Delhi Hissar road and Bahadurgarh-Nazafgarh road, the learned court below has not committed any illegality as the land on road upto a certain depth certainly carries more value and potentiality. As far as the land behind that is concerned, in the present case, the learned court below has upheld the categorisation thereof as Nehri and Barani which, in my opinion, is not called for in the facts and circumstances of the present case. That is for the simple reason that the land, which is strategically located, having potential for being used as urban/commercial/industrial purposes, the classification thereof as Chahi/Barani looses its significance, as it is to be used for construction activity. Accordingly, the classification of land as Chahi/Barani is done away with and the entire chunk of land beyond the depth of three acres on the roads is to be assessed at the same rate.
+Now the issue comes up about the assessment of value thereof. In my opinion, it is a case where certain guess work has to be applied, taking an over-all view of the factual situation, as discussed above, and accordingly, for the land located on NH-10 Delhi-Hissar road upto a depth of three acres from the main road, the value is enhanced from Rs. 134.29 per square yard to Rs. 150/- per square yard. For the land located on Nazafgarh-Bahadurgarh road upto a depth of three acres is enhanced from Rs. 92.97 to Rs. 100/- per square yard, whereas for the land situated behind that, the compensation is enhanced to Rs. 65/- per square yard. The land owners shall also be entitled to all the statutory benefits available under the Act.
+The appeals are disposed of in the manner indicated above.
+(Rajesh Bindal) Judge February 10, 2009 mk

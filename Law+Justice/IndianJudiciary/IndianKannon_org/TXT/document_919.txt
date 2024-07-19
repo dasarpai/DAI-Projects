@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/919/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 101A(3) in The Insurance Act, 1938
+(3) Notwithstanding anything contained in sub-section (1), an insurer carrying on fire insurance business in India may, in lieu of re-insuring the percentage specified under sub-section (2) of the sum assured on each policy in respect of such business, re-insure with Indian re-insurers such amount out of the first surplus in respect of that business as he thinks fit, so however that, the aggregate amount of the premiums payable by him on such re-insurance in any year is not less than the said percentage of the premium income (without taking into account premiums on re-insurance ceded or accepted) in respect of such business during that year. Explanation .—For the purposes of this sub-section, the year 1961 shall be deemed to mean the period from 1st April to the 31st December of that year.

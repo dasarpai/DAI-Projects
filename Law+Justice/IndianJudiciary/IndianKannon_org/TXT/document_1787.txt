@@ -1,0 +1,76 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1787/
+Cites: ['Section 23 in The Indian Contract Act, 1872 : https://indiankanoon.org/doc/1625889/', 'Gopal Lal vs Babu Lal And Ors. on 24 May, 2004 : https://indiankanoon.org/doc/1977846/']
++++++++++++++++++++++++++
+
+
+Punjab-Haryana High Court
+Dharam Singh vs Gurdev Singh And Others on 22 September, 2008
+R.S.A. No. 3415 of 2007                                    -1-
+
+IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH
+
+
+                                       C.M. No. 9493-C of 2007 and
+                                       R.S.A. No. 3415 of 2007
+
+                                       Date of Decision: 22.9.2008
+
+
+Dharam Singh                                               ...Appellant.
+
+             Versus
+
+Gurdev Singh and others                                    ...Respondents.
+
+
+
+CORAM:-      HON'BLE MR. JUSTICE AJAY KUMAR MITTAL.
+
+
+
+PRESENT: Mr. L.S. Sidhu, Advocate for the appellant.
+
+
+AJAY KUMAR MITTAL, J.
+Being unsuccessful in both the courts below, the plaintiff has filed the present regular second appeal in this Court challenging the judgment and decree dated 1.2.2007 passed by the first appellate court affirming that of the trial court dated 25.8.2005 whereby the suit of the plaintiff for declaration was dismissed.
+Adumbrated the facts necessary for the disposal of this appeal are that the plaintiff filed a suit for declaration to the effect that the compromise dated 29.5.1995 as well as the the judgment and decree dated 9.6.1995 passed in Civil Suit No. 545 of 9.12.1993 titled as Sukhminder Singh etc. V. Hukam Singh etc. on the basis of said compromise, being result of fraud played upon the plaintiff and defendants No.10 and 11, were not binding upon them and as a consequential relief a decree for permanent injunction restraining defendants No.1 and 2 from deriving any benefit out of the judgment and decree dated 9.6.1995; alienating any part of the landed property situated at village Kumbra, Taraf Kumra, Chilla and Jhumra etc. and from receiving any amount from the Land Acquisition Collector was also sought. It was pleaded that the plaintiff along with others filed a suit against defendants No.1 and 2 and others titled "Sukhwinder and others v. Hukam Singh and others" and on the basis of a compromise dated 29.5.1995 arrived at between the parties therein, the judgment and decree dated 9.6.1995 came to be passed by the trial court. It was further pleaded that at that time Ishar Kaur widow of Nauhar Singh who was plaintiff No.5 had died during the pendency of the said suit and she had executed a registered Will dated 4.9.1989 before her death but this fact could not be taken into consideration while recording the compromise. Therefore, the compromise was a result of fraud and as such the decree dated 9.6.1995 was liable to be set aside. The defendants being strong-headed persons wanted to alienate the suit property and that gave rise to the filing of the suit as mentioned above.
+The suit was resisted by the defendants. Defendants No.9 to 12 were proceeded against ex parte. Defendants No.1 and 2 and defendants No.3 to 8 filed their separate written statements but on the similar lines raising various preliminary objections. They pleaded that no fraud had been played and that Smt. Ishar Kaur who was a party in the said suit did not execute any Will. It was further pleaded that the compromise was just and fair as the property was given to all the three sons and the daughters signed the same disclaiming their share in the property in question. The other averments made in the plaint were denied and a prayer for dismissal of the suit was made.
+The trial court on appreciation of the evidence led by the parties, dismissed the suit of the plaintiff vide judgment and decree dated 25.8.2005 holding that the plaintiff had failed to bring any evidence regarding fraud etc. and that a decree based on compromise cannot be challenged by filing a separate suit and as such, the suit of the plaintiff was held to be not maintainable. Against the dismissal of the suit, the plaintiff filed an appeal and the first appellate court vide judgment and decree dated 1.2.2007 affirmed the findings recorded by the trial court and dismissed the appeal. Being dissatisfied and undaunted, the plaintiff filed the present regular second appeal in this Court.
+The primary issue that arises for consideration in this appeal is regarding maintainability of separate suit to challenge a decree based on compromise which was not lawful.
+Rule 3A of Order 23 of the Code of Civil Procedure (in short "the Code") which was added by Act No. 104 of 1976 is an answer to the issue in hand which reads thus:-
+"3A. Bar to suit.- No suit shall lie to set aside a decree on the ground that the compromise on which the decree is based was not lawful."
+A bare reading of the aforesaid provision leaves no doubt that second suit on the ground that the compromise arrived at between the parties on the basis of which the decree in the first suit was passed was not lawful would not lie.
+The Division Bench of the Rajasthan High Court in 'Gopal Lal v. Babu Lal and others' 2004 (2) CCC 462 while considering the scope of Rule 3A of Order 23 of the Code opined as under:-
+"10. A compromise between the parties is nothing but an agreement. According to Section 23 of the Contract Act 1872, the consideration or object of an agreement is lawful unless it is forbidden by law; or is of such a nature that, if permitted, it would defeat the provision of any law; or is fraudulent; or involves or implies injury to the person or property to another, or the Court regards it as immoral, or opposed to public policy.
+11. In other words, the object or condition of a contract is unlawful or not lawful in the following contingencies:
+1. It is forbidden by law;
+2. It defeats the provision of any law;
+3. It is fraudulent;
+4. It involves or implies injury to the person or property of another;
+5. It is immoral or opposed to public policy in the view of the court.
+12. Section 23 also provides that every agreement of which the consideration or object is unlawful is void. Thus an agreement which is obtained by exercising fraud on a party to the agreement will be void being an unlawful or not a lawful agreement. As a corollary, where a compromise, which is nothing but an agreement, is secured by exercising fraud on a party it will not only be unlawful or not lawful compromise but would also be void. Order 23 Rule 3A, C.P.C., as already pointed out, postulates that no suit shall lie to set aside a decree grounded on an unlawful or not lawful compromise. Therefore, where a decree is being questioned in a suit on the ground that the compromise on which it was based was secured by fraud the bar of Rule 3A would operate since a compromise secured by fraud is not lawful and would be covered by the provisions of Order 23 Rule 3A, C.P.C."
+Learned counsel for the appellant has made an unsuccessful effort before this Court to arrive at a different conclusion than that of the courts below but has failed to show that separate suit was maintainable for setting aside a compromise decree on the ground that the compromise was not lawful. The findings recorded by the courts below are concurrent and being based on correct appreciation of law do not suffer from any illegality or perversity warranting interference by this Court in the second appeal. Accordingly, the courts below had rightly dismissed the suit as not maintainable.
+No question of law, much less a substantial question of law arises in this appeal for determination of this Court.
+In view of the above, there is no merit in this appeal and the same is hereby dismissed.
+Since the appeal has been dismissed on merits, no separate order is being passed in C.M. No. 9493-C of 2007 for condonation of 130 days' delay in refiling the appeal and the same is disposed of as such.
+September 22, 2008                         (AJAY KUMAR MITTAL)
+gbs                                              JUDGE
+
+
+             C.M. No. 9492-C of 2007 IN
+             RSA No. 3415 of 2007
+
+                   ****
+
+Present:     Mr. L.S. Sidhu, Advocate for the applicant-appellant.
+
+                   ****
+This is an application under Section 149 of the Code of Civil Procedure for making up deficiency of court fee good on power of attorney.
+Learned counsel for the applicant-appellant states that since the court fee has been affixed, the delay, if any, in affixing the court fee may be condoned.
+In view of the above, the present application is allowed and the delay, if any, in affixing the court fee is condoned.
+CM stands disposed of accordingly.
+September 22, 2008                               (AJAY KUMAR MITTAL)
+gbs                                                    JUDGE
+ 

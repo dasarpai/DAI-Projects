@@ -1,0 +1,31 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/2953/
+Cites: ['The Right To Information Act, 2005 : https://indiankanoon.org/doc/671631/', 'Section 2(f) in The Right To Information Act, 2005 : https://indiankanoon.org/doc/1516599/']
++++++++++++++++++++++++++
+
+
+Central Information Commission
+Mr. Hosabettu vs Sameer, Iit Mumbai on 7 August, 2009
+             Central Information Commission
+                                                           CIC/AD/A/2008/000244
+                                                              Dated August 7, 2009
+
+Name of the Applicant                   :     Mr. Hosabettu
+
+Name of the Public Authority            :     SAMEER, IIT Mumbai
+
+Background
+1. The Applicant filed two RTI applications on the same date i.e.17.4.08 with the CPIO, SAMEER, IIT Mumbai. In the first RTI request, the Appellant requested information against 4 points with regard to service details of one Shri K.K. Radhakrishnan Nair (A.O II). In the second, the Applicant requested for information based on a comparative table of pay scales for the Member (Technical) support staff against 6 points. While the CPIO replied on 23.5.08 against the first RTI application furnishing point wise information, the reply to the second RTI request was given on 16.6.08. Not satisfied with the replies, the Applicant filed appeals against both the replies dt.11.6.08 with the Appellate Authority. The Appellate Authority replied on 7.7.08 to both the appeals stating that in the first RTI request information is denied under section 8(i)(j), , and in the second RTI request the queries are in the nature of demanding explanations from the PIO, answers to which are not available in the files. Aggrieved with this reply, the Applicant filed a second appeal dt. 6.8.08 before the CIC.
+2. The Bench of Mrs. Annapurna Dixit, Information Commissioner, scheduled the hearing for August 7, 2009.
+3. Mr. S.S. Prasadh, Scientist 'E' cum CPIO and Mr. A.K. Basu, Scientist 'G' cum Appellate Authority represented the Public Authority.
+4. The Applicant was present during the hearing.
+Decision
+5. The Commission informed the Appellant to note that under RTI Act, the information is to be provided to the individual and not to the Union/Association and the information is being provided to Mr. S. Hosabettu as an individual and not to M/s SAMEER Employees Association. The Commission reviewed the responses to both the RTI applications. In respect of the first RTI request, the Commission directs the CPIO to provide complete information against points 1 and 2 of the RTI request, regarding Mr. Radhakrishnan Nair.. Information against points 3 and 4 with regard to Mr. Nair has already been furnished by the Respondent. With regard to second RTI application, the Commission directs the CPIO to provide information against point (1) in the form of circulars, file notings ,memos etc. if available in files. With regard to points 3, 4 and5 the Commission holds that information sought does not fall under the category of information defined under section 2(f) of the RTI Act, since the Appellant is seeking the opinion of the CPIO. Information against point 6 of the second RTI request has already been provided. All information to be provided to the Appellant by 15th September, 2009. The appeal is accordingly disposed of.
+(Annapurna Dixit) Information Commissioner Authenticated true copy:
+(G. Subramanian) Asst. Registrar Cc:
+1. Mr. Hosabettu C/o SAMEER IIT Campus, Hill Side, Powai Mumbai 400 076
+2. The CPIO SAMEER IIT Campus, Hill Side, Powai Mumbai 400 076
+3. The Appellate Authority SAMEER IIT Campus, Hill Side, Powai Mumbai 400 076
+4. Officer incharge, NIC
+5. Press E Group, CIC

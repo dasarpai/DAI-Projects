@@ -1,0 +1,22 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/635/
+Cites: ['Section 2 in The Industrial Disputes Act, 1947 : https://indiankanoon.org/doc/1418464/', 'Section 2(a)(i) in The Industrial Disputes Act, 1947 : https://indiankanoon.org/doc/466914/', 'Section 2 in The Industrial Development Bank of India Act, 1964 : https://indiankanoon.org/doc/375600/', 'The Registration Act, 1908 : https://indiankanoon.org/doc/1489134/']
++++++++++++++++++++++++++
+
+
+Allahabad High Court
+Indian Oil Shramik Sangh And Anr. vs Presiding Officer, Industrial ... on 1 October, 1991
+Equivalent citations: (1993) IIILLJ 757 All
+Author: A Varma
+Bench: A Varma
+JUDGMENT A.N. Varma, J.
+1. Having heard the learned counsel for the petitioner and the learned counsel appearing for the respondents, I find no merit in the petition. The main question raised in the petition is whether the appropriate Government in this case authorised to make reference was the Central Government or State Government.
+2. The Industrial Tribunal has elaborately dealt with this issue and on a consideration of the notifications issued by the Central Government under Section 2(a)(i) of the Industrial Disputes Act and other relevant facts and circumstances came to the conclusion that the appropriate Government in this case is Central Government,
+3. For the petitioner, however, it is urged that inasmuch as liquid a petroleum gas industry has not been included among the "Controlled Industry" in the Notification issued by the Central Government under Section 2(a)(i), the Indian Oil Corporation (L.P.G. Plant) cannot legally be regarded as a controlled industry under that provision.
+4. I am unable to agree. The relevant notification issued by the Central Government under Section 2(a)(i) has been filed with the counter affidavit of the Indian Oil Corporation vide Annexure 3(c). It states:
+"Whereas by Government Notification in the Ministry of Labour No. S.O. 371 (E), Dated the 20th June, 1986, the Central Government had, in pursuance of Sub-clause (i) of Clause (a) of Section 2 of the Industrial Disputes Act, 1947 (14 of 1947), specified for the purpose of that sub-clause, the industry engaged in the manufacture or production of mineral oil (crude oil), motor and aviation spirit, diesel oil, kerosene oil, fuel oil, diverse hydrocarbon oils and their blends including synthetic fuels, lubricating oils and the like (hereinafter referred to as the said industry) which had been declared as a controlled industry under Section 2 of the Industrial (Development and Regulation) Act, 1951 (65 of 1951), for a period of two years from the 21st June, 1986.
+And whereas the Central Government is of the opinion that in the public interest it is necessary that the said industry be continued to be specified as the controlled industry for a further period of two years.
+Now, therefore, in pursuance of Sub-clause (i) of Clause (a) of Section 2 of the Industrial Disputes Act, 1947 (14 of 1947), the Central Government hereby specifies, for a further period of two years from the 21st June, 1988, the said industry as the controlled industry."
+5. It will be immediately seen that after listing a large number of petroleum products, the notification employs the words "and the like." These words clearly indicate that all forms of petroleum products were intended to be comprehended within the scope of the notification. L.P.G. is undoubtedly a petroleum product and, at any rate, a bye-product of the same, L.P.G. Industry would, therefore, also be deemed to be a controlled industry within the meaning of Section 2 (a)(i).
+6. This position has been further clarified by the Central Government vide Office Memorandum dated 31.10.1990 (annexed to the counter-affidavit as C.A. 4) wherein it has been specifically stated that the activities connected with the production of L.P.G. are also covered by the notification. The view taken by the Industrial Tribunal is perfectly sound and calls for no interference by this Court. The petition is accordingly dismissed summarily.

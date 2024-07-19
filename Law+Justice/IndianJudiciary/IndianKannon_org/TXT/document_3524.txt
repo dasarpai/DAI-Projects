@@ -1,0 +1,14 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/3524/
+Cites: ['Section 90 in The Indian Evidence Act, 1872 : https://indiankanoon.org/doc/1507394/', 'Ram Saran vs D.D.C. Gonda District Gonda And ... on 21 January, 2020 : https://indiankanoon.org/doc/85947651/']
++++++++++++++++++++++++++
+
+
+Allahabad High Court
+Bhagwati Saran vs Ram Sahai And Anr. on 7 March, 1930
+Equivalent citations: 126 Ind Cas 19
+Bench: Boys, Sen
+JUDGMENT
+1. Only two points are urged before us in this appeal. One is that the Judge's finding that the award was produced from proper custody cannot be supported. Section 90 of the Evidence Act says that if the Court is satisfied that the document is produced from any custody which the Court in the particular case considers proper, then the provisions of Section 90 of the Evidence Act shall apply. It is perfectly clear here from these words in the particular case that the question of whether the custody is proper or not cannot be determined by any general principles but is one, as the law declares it to be, to be determined on the facts "of the particular case." The Judge has held that the custody of the award was perfectly proper custody. He has given a good reason for that finding. There is no force in this plea.
+2. The next point taken is that when the award gave the defendant a shop with the balakhana above it that must be taken to mean the whole balakhana situated not only above that shop but also the portion over the two other adjoining shops, notwithstanding that, at the time of the award there was no dispute about the two other shops at all. We think that the interpretation put upon the award by the lower Appellate Court that the award of the shop with the balakhana above it could reasonably be held to include only that portion of the balakhana above the shop in question is manifestly correct. The appeal fails and is dismissed with costs.

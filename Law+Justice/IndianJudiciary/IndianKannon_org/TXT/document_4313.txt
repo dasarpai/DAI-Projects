@@ -1,0 +1,25 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4313/
+Cites: ['Article 226 in The Constitution Of India 1949 : https://indiankanoon.org/doc/1712542/', "Ministry Of Labour & ... vs Tiffin'S Barytes Asbestos & ... on 16 July, 1985 : https://indiankanoon.org/doc/1591777/"]
++++++++++++++++++++++++++
+
+
+Jharkhand High Court
+Chhotanagpur Small Scale ... vs The State Of Bihar And Ors. on 22 February, 2001
+Equivalent citations: 2001 (49) BLJR 981, 2001 (90) FLR 81, (2001) IILLJ 1138 Jhar
+Author: M Eqbal
+Bench: M Eqbal
+ORDER M.Y. Eqbal, J.
+1. Heard Mr. L.K. Bajla, learned counsel for the petitioner and Mr. R.K. Marathia, learned GP 2 and with their consent this writ application is disposed of at this stage.
+2. In this writ application the petitioner, who is the Association of the owners of the small scale industries has challenged the Notification dated 22.10.1999 issued by the Joint Secretary to the Government of Bihar, Department of Labour, Employment and Training revising the rate of clearness allowance earlier notified by Notification dated 25.5.1998.
+3. Mr. Bajla mainly contended that the respondents-authorities have issued the impugned notification revising the dearness allowance without observing the direction of this Court in the order passed in CWJC No. 2698/98 (R). Learned counsel submitted that in the earlier notification dated 25.5.1998 the rates of VDA at CPI 1972 was notified and the total wages worked out to 39.70 + 11.31 = 51.01 per day. This Court found a prima facie error in calculation and referred the matter to the Board for consideration. According to the learned counsel, in spite of the error found in the notification the respondents-authorities are strict to the same calculation and came with the impugned notification.
+4. From perusal of the order passed in CWJC No. 2698/98 (R), it appears that this Court referred the matter to the Advisory Board for consideration in respect of unskilled labour. It was directed that if any error/mistake in calculation is found by the Board then the respondents will come out with appropriate modified notification.
+5. The stand taken by the respondents in the counter affidavit is that the respondents in compliance of the order passed in CWJC No. 2698/98 (R) referred the matter to the Advisory Board. The Advisory Board held its meeting on 25.5.1999 and recommended the concept of 100% neutrilisation of VDA in compliance of the observation and direction of this Court. Accordingly the notification dated 25.5.1998 was amended and revised notification was issued. It is further stated that the State Government revised the rate of minimum wages with respect to schedule employment and after having considered all the representations the revised rate was invited. The minimum rate of wages thus fixed was based on All India Consumers Price Index.
+6. From the facts narrated herein-above, it is evident that the Minimum Wages Advisory Board reconsidered the matter in the light of the observation and direction issued by this Court in the earlier writ petition and has come with a revised notification. Now the petitioner is again dissatisfied with the notification and challenged the same in the instant writ application.
+7. From perusal of the calculation shown in the counter affidavit, it appears that the point raised by the petitioner has been clarified. As a matter of fact the apparent differences in the rate of minimum wages are between the Central Government and the State Government and it depends upon the mathematical calculation based on different set of basis. Even if there is some minor mistake in the calculation, this Court is not supposed to interfere again and again with the calculation arrived at by the respondents.
+8. It is well settled that notifications fixing minimum wages are not to be interfered unless there is a serious defect in the notification.
+In the case of Ministry of Labour & Rehabilitation v. Tiffin's Barytes Asbestos & Fain Ltd., AIR 1985 SC 1391, the Apex Court has observed :
+"We also wish to emphasise that notifications fixing minimum wages are not to be lightly interfered with under Article 226 of the Constitution on the ground of some irregularities in the Constitution of the committee or in the procedure adopted by the committee. It must be remembered that the committee acts only as a recommendatory body and the final notification fixing minimum wages has to be made by the Government. A notification fixing minimum wages, in a country where wages are already minimal should not be interfered with under Article 226 of the Constitution except on the most substantial of grounds. The legislation is a social welfare legislation undertaken to further the Directive Principles of State Policy and action taken pursuant to it cannot be struck down on mere technicalities."
+9. Regard being had to the facts and circumstances of the case, I do not find strong ground to interfere with the impugned notification. There is no merit in this writ application, which is accordingly dismissed.
+10. Writ application dismissed.

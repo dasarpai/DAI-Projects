@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2175/
+Cites: ['Municipal Corporation ... vs M/S. Shantikunj Investment Pvt. ... on 28 February, 2006\nSupreme Court of India Cites 32 - Cited by 31 - Full Document', 'Municipal Corporation ... vs M/S. Shantikunj Investment Pvt. ... on 28 February, 2006\nSupreme Court of India Cites 32 - Cited by 0 - Full Document', 'Satco Capital Markets Ltd vs Rahul H. Bajaj on 7 January, 2016\nBombay High Court Cites 9 - Cited by 0 - Full Document', 'I.B.P. Company Ltd. And Ors. And ... vs Ramashish Prasad Singh And Ors. on 3 January, 2006\nPatna High Court Cites 13 - Cited by 0 - Full Document', 'K. Abdul Raheem (Died) Per Lrs. And ... vs Hajeerappa And Ors. on 4 March, 2005\nAndhra High Court Cites 11 - Cited by 1 - Full Document', 'Hiresh Uike vs Pranesh Agarwal on 3 November, 2022\nMadhya Pradesh High Court Cites 9 - Cited by 0 - Full Document', 'The State Of A.P. Represented By ... vs Konala Subbireddy on 13 August, 2007\nAndhra High Court Cites 43 - Cited by 0 - Full Document', 'In The Matter Of :\xad vs Sub Inspector Ranbir Singh on 1 June, 2013\nDelhi District Court Cites 16 - Cited by 0 - Full Document', 'Suit No. 342/2013 vs Phool Singh on 28 November, 2013\nDelhi District Court Cites 18 - Cited by 0 - Full Document', 'Mujeeb Rehman vs Mohd Nabi & Ors on 12 October, 2017\nDelhi High Court Cites 14 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 2(a) in The Specific Relief Act, 1963
+(a) “obligation” includes every duty enforceable by law;

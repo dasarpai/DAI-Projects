@@ -1,0 +1,16 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4844/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 11(1) in the Credit Information Companies (Regulation) Act, 2005
+(1) Where the Reserve Bank is satisfied that,—
+(a) in the public interest; or
+(b) in the interest of credit institutions; or
+(c) in the interest of specified users; or
+(d) in the interest of banking policy; or
+(e) to prevent the affairs of any credit information company being conducted in a manner detrimental to the interests of its specified users or in a manner prejudicial to the interests of credit institutions or borrowers or clients; or
+(f) to secure the proper management of credit information companies generally, it is necessary to issue directions to credit information companies or credit institutions or specified users generally or to any credit information company or credit institution or specified user in particular, it may, from time to time, issue such directions as it deems fit, and such credit information companies, credit institutions and specified users or credit information company, credit institution, and specified user, as the case may be, shall be bound to comply with such directions.

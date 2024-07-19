@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4227/
+Cites: ['Srinivasulu Naidu vs Sundaresa Iyer on 28 January, 1937 : https://indiankanoon.org/doc/1597354/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 44(1)(b) in The Provincial Insolvency Act, 1920
+(b) any debt or liability incurred by means of any fraud or fraudulent breach of trust to which he was a party;

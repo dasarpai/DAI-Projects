@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3271/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 19(7)(a) in The Foreign Exchange Regulation Act, 1973
+(a) “holder”, in relation to a bearer security, means the person having physical custody of the security; provided that, where a bearer security is deposited with any person in a locked or sealed receptacle from which the person with whom it is deposited is not entitled to remove it without the authority of some other person, that other person shall be deemed to be the holder of the security;

@@ -1,0 +1,14 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1925/
+Cites: ['Section 68 in The Indian Evidence Act, 1872 : https://indiankanoon.org/doc/63662/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+Ponnammal vs Kalithitha Moodelly on 14 October, 1902
+Equivalent citations: (1903) 13 MLJ 143
+JUDGMENT
+1. The only point argued before us is that the mortgage in plaintiff's favour was not proved by examining at least one attesting witness as provided in Section 68 of the Indian Evidence Act.
+2. No objection was taken to the admissibility of the document when tendered as evidence in the lower Court. If objection had been taken, the defect, if any, would no doubt have been cured. We cannot allow the objection to be now taken after it was waived in the lower Court.
+3. We dismiss this appeal with costs.

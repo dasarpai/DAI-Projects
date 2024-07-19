@@ -1,0 +1,125 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/923/
+Cites: ['Section 9 in The Indian Post Office Act, 1898 : https://indiankanoon.org/doc/58932273/', 'Section 9(3) in The Indian Post Office Act, 1898 : https://indiankanoon.org/doc/107666399/', 'Competition Success Review vs Union Of India (Uoi) And Anr. on 7 July, 2003 : https://indiankanoon.org/doc/1070893/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Office Of The Chief Post Master & ... vs Living Media India Ltd.& Anr. on 11 September, 2009
+Author: S. Muralidhar
+           IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                                                  Date of decision: 11.09.2009
+
+                                   LPA No. 418/2007
+
+
+       OFFICE OF THE CHIEF POST MASTER & ORS. .... Appellants
+                          Through: Mr. P.P. Malhotra, Additional
+                          Solicitor General of India with
+                          Mr. Aakash D. Pratapand and
+                          Mr. Shaker Chhabra, Advocates.
+
+                              Versus
+
+       LIVING MEDIA INDIA LTD. & ANR.             ... Respondents
+                         Through: Mr. Rajiv Nayar, Senior Advocate
+                         with Ms. Pallavi Langor and Ms. Amita
+                         Bhattacharya, Advocates.
+
+                                       AND
+
+                              LPA No. 1006/2007
+
+       OFFICE OF THE CHIEF POST MASTER            ..... Appellant
+                          Through: Mr. P.P. Malhotra, Additional
+                          Solicitor General with
+                          Mr. Aakash D. Pratap and
+                          Mr. Shaker Chhabra, Advocates.
+
+                              Versus
+
+       LIVING MEDIA INDIA LTD. & ANR.             ... Respondents
+                         Through: Mr. Rajiv Nayar, Senior Advocate
+                         with Ms. Pallavi Langor and Ms. Amita
+                         Bhattacharya, Advocates.
+
+
+CORAM:
+
+HON'BLE THE CHIEF JUSTICE
+HON'BLE MR.JUSTICE S. MURALIDHAR
+
+1.Whether reporters of the local newspapers be allowed
+   to see the judgment?                                   No
+2.To be referred to the Reporter or not?                  Yes
+3. Whether the judgment should be reported in the Digest? Yes
+
+LPA No. 418-2007 & LPA No. 1006-2007                         Page 1 of 15
+                                        JUDGMENT
+S. Muralidhar, J.
+LPA No.418 of 2007
+1. The first-mentioned appeal LPA No. 418 of 2007 is by the Office of the Chief Post Master General and is directed against a judgment dated 28.03.2007 passed by the learned single Judge allowing the respondents' WP(C) No. 22679-80/2005. The aforesaid mentioned writ petition was filed by the respondents challenging the communication dated 08.11.2005 of the of the appellant whereby the respondents were informed that the booklet containing the advertisement of Toyota Motor Corporation in the form of a calendar, inserted in the Reader's Digest issue of December 2005 was neither a supplement nor part and parcel of the publication and therefore, the request for mailing of that issue on concessional rates cannot be acceded to. This was followed by another letter to the same effect on 21.11.2005. It may be mentioned here that Respondent No.1 is the publisher of Reader's Digest and is publishing it under a licence from The Raeder's Digest Association Inc. in the USA since October 2003. Prior thereto it was being published in India by the R.D.I. Print and Publishing Ltd.
+2. The reasons given by the appellant for the denial of concessional rate was that "the said booklet has been bound and printed separately and merely stapled to the Reader's Digest". Secondly, "the booklet did not conform to the conditions prescribed in the department's letter No. 22.15/2000 PO (Part- II) dated 09.10.2001".
+3. The conditions in the letter dated 09.10.2001 were that for bringing out a multi-page Toyota advertisement in the December 2001 issue of Reader's Digest, the respondents had to ensure the following :
+(i) The advertisement had to be printed and bound along with other advertisement and articles in the magazine.
+(ii) The advertisement had to be numbered in running numerical sequence and will also have the name of the magazine and issue month printed in a prominent position.
+(iii) The extended cover would also be included in the total number of pages so that it will be conformity with the requirement of a registered newspaper.
+4. The learned single Judge relied upon the earlier decision in Competition Success Review v. Union of India, 106 (2003) DLT 469 in which the provisions of Section 9 of the Indian Post Office Act, 1898 as well as Clause 139 of the Posts Office Guide, Part-I had been examined. The circulars dated 19.05.1999 and 25/28.06.1999 issued by the Postal Department with regard to the grant of concessional rates to magazines which included advertisements, were also discussed. As regards the first circular dated 19.05.1999, it was held that only where the pages constituting the advertisement are not accounted for in the pagination of the publication as a whole, the concessional rate would be unavailable. As regards the second circular dated 25/28.6.1999, it was held that it was not necessary that each of the pages containing the advertisement were also to be numbered as long so long as the pages were accounted for in the overall numbering of pages of the magazine.
+5. On the facts of the present case, it was held that the impugned advertisement in the Reader's Digest issue of December 2005 was consecutively numbered. Both in the first and last pages it was prominently indicated that the advertisement was part and parcel of the issue. It was accordingly held that the impugned letters dated 8.11.2005 and 21.11.2005 were required to be set aside. The writ petition was allowed.
+6. We have heard Mr. P.P. Malhotra, learned Additional Solicitor General, on behalf of the appellant and Mr. Rajiv Nayyar, learned senior counsel on behalf of the respondents. It is submitted by Mr. Malhotra that the Toyota Calendar 2006 was not an integral part of the main magazine and, therefore, not in conformity with Section 9(3) of the Indian Post Office Act (Act) and the Indian Post Office Rules, 1933 ("Rules'). It was submitted that the advertisement was in the form of calendar which could be pulled out and used separately. It was really not a supplement to the magazine itself. If the advertisement was separated one could still read the magazine. It was contended that the booklet also was violative of Rule 30 of the Rules as no paper or thing could be enclosed in or with a registered newspaper other than an extra supplement in terms of Section 9 of the Act. The quality and size of the paper was different from the main magazine. If the calendar had been transmitted separately through the Post Office network, the sender would have been paid a minimum of Rs.4/- per article. However, respondent was seeking the concessional rate applicable to registered newspapers and this resulted in the appellant being denied its revenue. Reliance was also placed on the order dated 29.07.1982 passed by the Division Bench of this Court dismissing Civil Writ No. 607/1982 titled R.D.I. Print and Publishing Private Limited v. Union of India and Anr. That order was upheld by the Supreme Court by an order dated 25.11.1992 in Civil Appeal No.3517/1984.
+7. Mr. Nayyar, on the other hand, contends that the order dated 29.07.1982 of this Court was in a different context. There on facts it was found that if the advertisement pages were pulled out it did not detract from the value of the magazine and only amounted to the advertisement concerned not being distributed. However, it was clarified that "those pages which have an advertisement on both sides, and are properly numbered may not perhaps infringe note (i)" of the below Clause 132, P. & T. Guide Volume I, as the taking out of "such pages may result in enquiries being made from the petitioner as to what was contained on those pages, which the readers would find to be missing". It is submitted that the issues raised in this appeal have been considered in detail in Competition Success Review v. Union of India which judgment has not been challenged and has attained finality. It is submitted that the impugned booklet does not violate any circular of the department and therefore no interference is called for with the impugned order of the learned single Judge.
+8. In order to appreciate the above contentions reference may be first made to the relevant statutory provisions. Section 9 of the Act reads as under:
+"9.Power to make rules as to registered newspapers - (1) [Central Government] may make rules providing for the registration of newspapers for transmission by inland post as registered newspapers.
+(2) For the purpose of such registration, every publication, consisting wholly or in great art of political or other news, or of articles relating thereto or to other current topics, with or without advertisements, shall be deemed a newspaper, subject to the following conditions, namely :-
+(a) that it is published in numbers at intervals of not more than thirty one days; and
+(b) that it has a bona fide list of subscribers (3) An extra or supplement to a newspaper, bearing the same date as the newspaper and transmitted therewith, shall be deemed to be part of the newspaper:
+Provided that no such extra or supplement shall be so deemed unless it consists wholly or in great part of matter like that of the newspaper and has the title and date of publication of the newspaper printed at the top of each page.
+Explanation - Nothing in this section or in the rules thereunder shall be construed to render it compulsory to send newspapers by the inland post."
+9. Rule 30 of the Rules reads as follows:
+"30(1) A: A newspaper as defined in Section 9 of the Act and complying with the conditions specified below shall be transmitted by post as registered newspaper from the place of publication thereof and may also be so transmitted from any other place with the permission in writing of the Postmaster - General or officer exercising the powers of the Postmaster - General of the Postal Circle in which such other place is situated.
+(a) The Postmaster - General, of the Postal Circle in which it is published or, as the case may be, posted and the period for which its registration or the last renewal thereof as the case may be, remains in force shall not have expired.
+(b) The full postage shall be prepaid unless the newspaper is exempted from prepayment of postage by a valid licence.
+               (c)    ..............
+
+               (d)    ..............
+
+               (e)    ..............
+
+               (f)    ...............
+(g) There shall be no paper or thing enclosed in or with any such, newspaper other than an extra supplement as specified in Section 9 of the Act.
+Note: Any newspaper in which a document of any of the following description is enclosed as a supplement shall be treated as a book packet:
+(i) an advertisement sheet printed for an advertiser and sent to the publisher of newspaper for distribution with it;
+(ii) an advertisement sheet with an order form attached a prospectus with an application form attached or a proposal or enquiry form;
+(iii) any document drawn up in the form of a direct personal communication to the recipient such as a printed circular in the form of a letter purporting to be addressed to a person by whom the newspaper in which it is enclosed is received.
+               (2)    ..............
+
+               (3)    ..............
+(4) Nothing in this rule shall be deemed to prevent newspapers from being transmitted by post, either singly or otherwise, at the rates and under the conditions prescribed for book packets, or for book packets containing periodicals, and if a newspaper sought to be transmitted by post as a registered newspaper fails to comply with any of the conditions specified in sub-rule (1) it shall be transmitted by post at the said rates and under the said conditions.
+(5) ..............."
+10. It must be mentioned that there is also what is called the Post Office Guide which compiles the rules and regulations relating to Indian post. We have been shown by Mr. Malhotra the photocopy of the relevant extract of Post Office Guide Part I as corrected up to 1st July, 1985. Clause 139 in Section II of this Guide concerns Registered Newspapers. It gives the definition of a registered newspaper as contained in the Act and proceeds to repeat Section 9(3). However, it further adds a note which reads as under:
+"Note: Any registered newspaper in which a document of any of the following descriptions in particular is enclosed as a supplement should be treated as a book packet:
+(i) an advertisement sheet printed for an advertiser and sent to the publisher of a newspaper for distribution with it;
+(ii) an advertisement sheet with an order form attached, a prospectus with an application form attached or a proposal enquiry form;
+(iii) any document drawn up in the form of a direct personal communication t the recipient such as printed circular in the form of a letter purporting to be addressed to a person by whom the newspaper in which it is enclosed is received."
+11. The contention is that the Toyota booklet is like a book packet and therefore would not be treated as a supplement. A conspectus of the above provisions shows that in order to avail of the concessional rates applicable to a registered newspaper, the publisher would have to satisfy the postal authority that the advertisement in question is treated as part and parcel of the issue of the magazine in which it is inserted. Section 9(3) says that "an extra or supplement to a newspaper, bearing the same date as the newspaper and transmitted therewith, shall be deemed to be part of the newspaper". The proviso further requires that such extra or supplement will be deemed to be part of the newspaper only if "it consists wholly or in great part of matter like that of the newspaper and has the title and date of publication of the newspaper printed at the top of each page".
+12. In order to deal with the possible confusion arising out of the above provisions, clarificatory circulars have been issued by the department. On 19.5.1999 the department announced a decision to withdraw the concessional tariff rates to magazine which did not contain pagination on all pages of the advertisement. On a representation being made by the Indian Newspaper Society, the department came out with the clarificatory letter dated 25/28.6.1999 clarifying "the concessional tariff would extend to all magazines/periodicals booked as registered newspapers even if some pages carrying advertisements are not numbered, provided, such advertisement sheets are accounted for in the sequential page numbering of the magazine". In the clarificatory letter an example to the following effect was given:
+"For example, a magazine having 76 pages out of which 25 pages are devoted to advertisements and these pages are not numbered. It is not necessary to insist on numbering of such page so long as these 25 pages are accounted for in 76 pages of the magazine counted consecutively. Example pages 1-5 news, 6-7-8 (advertisement but not paginated), 9-13."
+13. It is plain that the above circular basically follows the line of reasoning adopted by Division Bench of this Court in its order dated 29.7.1982 in Civil Writ No. 607/1982. That was a writ petition filed by R.D.I. Print and Publishing Ltd. and concerned its September 1980 issue. The advertisement in question was by Canara Bank. It was contended in that said case that "the petitioner collected the advertisement, printed it, put it at a proper place in the magazine, bound the magazine and distributed the magazine." It was observed that the advertisement had been printed for the advertiser, namely the Canara Bank and then had been sent to the publisher, i.e., Reader's Digest, for distribution. Therefore, Clause I of the note below Clause 132 of the Post Office Guide (Corresponding to Clause 139 referred to hereinbefore) was attracted. As regards the numbering of the pages it was found that they were numbered as 148 c, etc. and therefore if the pages were pulled out, it did not detract from the value of the magazine. However, it was clarified that if the pages had been numbered consecutively it would not infringe note (i).
+14. A perusal of the judgment in Competition Success Review shows that the records of the Civil Writ No. 607/1982 were called for by the learned single Judge. It was found that the advertisement inserted in the Reader's Digest issue of September 1980 were numbered as 160A, 160B ............ 160H. The advertisements were inserted in the publication but there was no mention of them in the contents/index page. They were also not accounted for in the overall page numbering. In the Competition Success Review Case the learned single Judge observed that the four offending pages 54A, 54B, 106A and 106B were in fact accounted for in the overall publication. Moreover in the Competition Success Review case the advertisement was printed by the publisher itself and not by the advertiser. In the circumstances, the writ petition by Competition Success Review challenging the decision of the department not to extend concessional tariff was quashed by the learned single Judge.
+15. We have carefully examined the December 2005 issue of Reader's Digest. The page 1 of the issue has a prominent box which reads as under:
+"TOYOTA Dream Car Art Contest This issue of Reader's Digest carries Toyota's 28-page advertisement, featuring 12 superb drawings from the winners of the 2004 TOYOTA Dream Car Art Contest. The advertisement is also being simultaneously published by a large number of editions of The Digest in Asia and Europe. See pages 55 to 82."
+What is significant in the above insertion is that it clearly tells the reader on the first page of the issue in a separate box that there is a 28-page advertisement which is at pages 55 to 82. If the advertisement was therefore to be detached from the issue, a subscriber or purchaser would certainly raise a query as to why it was not supplied as assured in page 1 of the issue. This clearly falls in the category envisaged by the Division Bench of this Court in the order dated 29.7.1982 referred to hereinbefore. It may be recalled that the Division Bench observed that advertisements of this nature would not offend Note (i) below Clause 132 of the Post Office Guide (Corresponding to Clause 139 of the present Guide).
+16. Then we turn to the impugned advertisement itself. The first page of the advertisement indicates the page number as 55 and at the bottom it is clearly printed: "Reader's Digest/December 2005". Although the other pages of the Calendar 2006 are not consecutively numbered, the last page indicates the page number as 82 and again at the bottom carries the words "Reader's Digest/December 2005". This, therefore, conforms to the requirement of the clarification issued by the department on 25/28.06.1999.
+17. In the impugned letter dated 21.11.2005 written by the department declining the concessional tariff it is merely stated that the calendar did not conform to the conditions contained in the letter dated 09.10.2001. That letter had stated that "advertisement will be numbered in running numerical sequence and will also have the name of the issue, month printed in the prominent position". The specific conditions listed out in this letter have already been extracted in para 3 hereinbefore. This Court does not find any of them having been violated as far as the present case is concerned. Further the need for numbering each page of the advertisement was already dispensed with by the department itself in its clarificatory circular dated 25/28.06.1999.
+18. This Court finds that the advertisement in question forms part of the December 2005 issue of Reader's Digest and the pages of the advertisement have been expressly included in the total number of pages of the said issue. The first and last page of the advertisement is in sequence with the overall pagination of the issue. The name of the magazine and issue month is printed in a prominent position both in the first and last page of the magazine. Further to remove any doubts the readers have been informed in page 1 of the issue that the issue includes the Toyota advertisement which is at pages 55 to 82 of the magazine.
+19. Accordingly, this Court finds no ground to interfere with the impugned judgment of the learned single Judge. The appeal is accordingly dismissed. LPA No. 1006/2007
+20. This appeal is directed against an order dated 28 th March, 2007 passed by the learned single Judge allowing WP(C) No. 4985/2006 filed by the respondents. In the said writ petition respondents had sought quashing of the revised Bills dated 16.2.2006, 17.3.2006 and a letter dated 18.2.2006 issued by the postal department refusing to treat the 26.12.2005 issue of India Today magazine published by the respondents as a deemed registered newspaper and to accord to the respondents the concessional rate for postage.
+21. What led to the filing of the above writ petition was that the 26.12.2005 issue of India Today carried an advertisement for AMWAY India Enterprises. After issuing them the revised impugned bills, the department by a letter dated 18.2.2006 informed the respondents that the aforesaid magazine containing the advertisement booklet of AMWAY India Enterprises did not adhere to the terms and conditions prescribed for supplements contained in Section 9(3) of the Act. It was concluded that "the said advertisement is neither a supplement nor an integral part of the magazine under reference as such this should not have been accepted at concessional rate".
+22. The above writ petition was heard by the learned single Judge along with the writ petition filed in respect of the December 2005 issue of Reader's Digest. Both writ petitions were allowed for the same reasons.
+23. The grounds urged in the present appeal are more or less similar to the grounds urged in LPA No. 418 of 2007. The law in this regard has been already discussed by us in detail hereinbefore.
+24.The impugned advertisement booklet of AMWAY has been perused. It is firmly attached to the magazine. It cannot be detached easily. The beginning page of the advertisement is 35 and the last page is 42 and this is consecutively numbered to fit within the overall pagination of the magazine itself. At the foot on every page of the advertisement the following words are prominently printed: DECEMBER 26, 2005 INDIA TODAY. There can be no manner of doubt, therefore, that the advertisement is consecutively numbered and forms an integral part of the magazine itself. If the advertisement were to be removed then following page 34 of the magazine, the next page would be page 43 and reader would definitely be left wondering where the missing pages are.
+25. In the considered view of this Court, the impugned advertisement is in conformity with the requirement of the law as explained by the circulars issued by the department itself. Consequently, there is no merit in the appeal. It is dismissed.
+S. MURALIDHAR, J.
+CHIEF JUSTICE September 11, 2009 dk

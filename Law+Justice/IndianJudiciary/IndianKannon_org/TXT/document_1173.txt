@@ -1,0 +1,11 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1173/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 615(2) in The Companies Act, 1956
+(2) (a) Every order under sub- section (1) addressed to companies generally or to any class of companies, shall be published in the Official Gazette and in such other manner, if any, as the Central Government may think fit.
+(b) The date of publication of the order in the Official Gazette shall be deemed to be the date on which the demand for information or statistics is made on such companies or class of companies, as the case may be.

@@ -1,0 +1,191 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/659/
+Cites: ['The Industrial Disputes Act, 1947\nCentral Government Act Cites 0 - Cited by 29418 - Full Document', 'Jhagrakhand Collieries Ltd. vs Central Government Industrial ... on 3 April, 1957\nPatna High Court Cites 9 - Cited by 9 - Full Document', 'Section 17A(4) in The Industrial Disputes Act, 1947 [Section 17A] [Complete Act]\nCentral Government Act Cites 0 - Cited by 8', 'The Sindhu Resettlement ... vs The Industrial Tribunal Of ... on 13 September, 1967\nSupreme Court of India Cites 4 - Cited by 62 - Full Document', 'Article 226 in The Constitution Of India 1949 [Constitution]\nCentral Government Act Cites 5 - Cited by 205202', 'The Workmen Of The Bangalore ... vs The Management Of The Bangalore, ... on 25 January, 1962\nSupreme Court of India Cites 4 - Cited by 28 - Full Document', 'Section 11 in The Industrial Disputes Act, 1947 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1138']
++++++++++++++++++++++++++
+
+
+Supreme Court of India
+Sarva Shramik Sangh, Bombay vs Indian Hume Pipe Co. Ltd. And Anr on 12 February, 1993
+Equivalent citations: 1993 SCR (1)1050, 1993 SCC (2) 386
+Author: B Jeevan Reddy
+Bench: Jeevan Reddy, B.P. (J)
+           PETITIONER:
+SARVA SHRAMIK SANGH, BOMBAY
+
+ Vs.
+
+RESPONDENT:
+INDIAN HUME PIPE CO.  LTD.  AND ANR.
+
+DATE OF JUDGMENT12/02/1993
+
+BENCH:
+JEEVAN REDDY, B.P. (J)
+BENCH:
+JEEVAN REDDY, B.P. (J)
+KULDIP SINGH (J)
+
+CITATION:
+ 1993 SCR  (1)1050   1993 SCC  (2) 386
+ JT 1993 (4) 40   1993 SCALE  (1)596
+
+
+ACT:
+Labour Law.
+Industrial  Disputes  Act, 1947 : Sections 11  and  17-A(4)-
+Industrial Courts/Tribunals-Not bound by technical rules  of
+procedure-Award granting relief from a date anterior to date
+of   raising  dispute-Power  of-Exercise  of   such   power-
+correctness of-To be decided in the facts and  circumstances
+of each case.
+
+
+
+HEADNOTE:
+The  appellant Union demanded payment of dearness  allowance
+to  the daily-rated workmen employed in the factory  of  the
+respondent  at the  same  rate as was being  paid  to  the
+monthly-rated  employees  with effect from  1.1.1964.  Ile
+matter was  placed  before  the  Conciliation Officer   on
+15.11.1965 and thereafter before the Conciliation Board.  On
+15.3.1967  the Conciliation  Board  submitted its  failure
+report  On  26.4.1968 the  appellant-Union   submitted   a
+Memorandum to the Government reiterating the said demand and
+claiming   the benefit  from  15.11.1965.  The   Government
+referred the dispute to the Industrial Tribunal.
+The  Respondent-employer filed a Writ  Petition  challenging
+the  validity of the order of reference and the  High  Court
+set  aside  the  order of  reference  by  consent   without
+prejudice to the rights of the Government for making a fresh
+reference.
+On  March  19,1973 the appellant-Union submitted  a  demand
+claiming  the same relief with effect from  15.11.1965.  The
+Government  made a reference accordingly to  the  Industrial
+Tribunal  on  26.3.1973.  By its Award dated  3.1.1977  the
+Tribunal directed the Respondent-employer to make payment of
+D.A.  at  the rate of 15% of the revised textile  rate with
+effect from 1.1.1968.
+The  Respondent filed a Writ Petition before the High  Court
+challenging the Tribunal's Award.  Unable to succeed  before
+a Single Judge,
+1051
+Respondent-preferred  an appeal and the Division Bench held
+that the Tribunal had no jurisdiction to award relief to the
+workmen  with effect from a date prior to the date on  which
+the  dispute  was  raised.   Being  aggrieved  by  the said
+judgment, the appellant-union preferred the present appeal.
+On behalf of the appellant-Union it was contended that since
+it  has  been  agitating for grant of  D.A.  of  daily-rated
+workmen right from Nov. 1965, the Tribunal was justified  in
+awarding the same with effect from 1.4.1968.
+The Respondent contended that the demand dated 26.4 1968 was
+never  submitted to the Management, but was made  direct  to
+the  Government which made a reference and the same was  set
+aside by the High Court; and that a fresh dispute was raised
+on  193.73 and so the relief was rightly restricted  by  the
+High Court to be effective only from that date viz. 193.73.
+Allowing the appeal, this Court,
+HELD  : 1. The Industrial Tribunal/Labour Court is  supposed
+to  be a  substitute forum to the  Civil  Court.   Broadly
+speaking, the relief which the Civil Court could grant in an
+industrial   dispute  can  be  granted by  the   Industrial
+Tribunal/Labour     Court.     Indeed   the   Industrial
+Tribunal/Labour Court is not bound by the Technical rules of
+procedure  which bind the Civil Court. Therefore it  cannot
+be  said that the Industrial Tribunal  or for that matter  a
+Labour Court has no jurisdiction to grant relief  from  a
+date  anterior to the date on which the dispute  is  raised.
+It  is one thing to say that the Tribunal has no  power  to
+grant such relief and it is an altogether different thing to
+say that in a given case it ought not to grant such  relief.
+Whether in a given case relief should be granted with effect
+from a date anterior to the date of raising the dispute is a
+matter for  the  Tribunal  to decide in  the  facts  and
+circumstances of that case.
+[1055H; 1056A-D] G
+JK.   Cotton  Spining and Weaving Mills  v.  L.A.  Tribunal,
+(1963) 2 L.L.J. 436  AIR 1964 SC 737, relied on.
+2.   The demand raised on 193.73 was not a fresh demand.  It
+was  reiteration  of  the  demand raised  its  far  back  as
+November 1965. It is lot
+1052
+suggested  that the demand raised in November 1965  was  not
+raised before,  or  submitted to  the  Management. Even
+otherwise, the demand raised on 193.73 -  assuming that  it
+was a fresh demand  was for extending the said benefit with
+effect from an anterior date namely, 15.11.1965. It was  the
+said demand    which  was referred by the Government to  the
+Tribunal.   There  is no reason why the Tribunal  could  not
+have  awarded relief from the date earlier than 1973  if  it
+found that such a demand was justified and warranted in  the
+facts  of  that  case. Actually the  Tribunal granted  the
+benefit ,Kith effect from 1.1.1968 only and not with  effect
+from 15.11.1965 as demanded by the workmen. [1059H; 1060A-C]
+Jhagrakhand Collieries (Private) Ltd. and another v. Central
+Government Industrial Tribunal, Dhanbad and others, 1960 (2)
+Labour Law Journal 71; Workmen New Egerton Woollen Mills  v.
+New  Egerton Woollen Mills and others, 1969 (2) LIJ 782  and
+Workmen  of  National Tobacco Co, of India Ltd.  v.  Messers
+National Tobacco Co. of India Ltd. (Civil Appeal) No. 852 of
+1966 disposed of on 18.10.1968 by S.C., distinguished.
+3.   The  High Court's  order setting  aside the  earlier
+reference  does not say that the fresh dispute that  may  be
+raised should claim  the benefit only  from  the  date  of
+raising, the fresh dispute.  The order indeed says that  the
+fresh dispute to be raised was to be "in respect of the same
+demand-"  Now  the words "same demands" mean the  very same
+being  raised  by the workmen from  November  1965  onwards.
+Tile said order of the High Court cannot be read as imposing
+or  implying any restriction upon the workmen to  limit  the
+benefit claimed by them only from the date of raising of the
+fresh  demand.  It was perfectly open to them to  raise  a
+demand,  subsequent to the said order, claiming the  benefit
+with effect from a date anterior to the date of raising  the
+demand. [1060F-G]
+The  Sindhu Resettlement Corporation Ltd. v. The  Industrial
+Tribunal of Gujarat & Ors., [1968] 1 SCR 515, distinguished.
+
+
+
+JUDGMENT:
+CIVIL APPELLATE JURISDICTION : Civil Appeal No. 3715 (NL) of 1-984.
+From the judgment and Order dated 1.9.1982 of the Bombay High Court in Appeal No. 247 of 1977 in Misc. Petition No. 627 of 1977.
+V.J. Francis, V. Subramanian and P. Padma Kumar for the Appel-
+lant.
+G.B. Pai, P. Ramaswami and H.S. Parihar for the Respondents. The Judgment of the Court was delivered by B.P. JEEVAN REDDY, J. This appeal is preferred by the Labour Union, Sarva Shramik Sangh, Bombay against the judgment of the Division Bench of Bombay High Court allowing Writ Appeal No. 247 of 1977. The appeal was preferred by the respondent-employer. The Indian Hume Pipe Company Limited, against the Judgment of a learned Single Judge dismissing the Writ Petition preferred by it (Management) against the Award of the Industrial Tribunal, Bombay. The main question arising for decision in this appeal pertains to the power of the Industrial Tribunal to award relief with effect from a date anterior to the date of raising the dispute by the Labour Union.
+On 2.11.65 the appellant-Union submitted a demand for payment of dearness allowance to the daily-rated workmen employed at the respondents Wadala Factory at the same rate as is paid to the monthly-rated employees, with effect from 1.1.1964. On 15.11.1965 these demands were placed before the Conciliation Officer and thereafter before the Conciliation Board. On 15.3.1967 the Conciliation Board submitted its failure report. It appears that the recommendations of the Central Wage Board were awaited at that time and the company agreed to implement the final recommendations of the said Board as accepted by the Central Government. On 26.4.1968 the appellant-Union submitted a memorandum before the Government reiterating the said demand. They claimed the said benefit with effect from 15.11.1965. On 5.7.1968 the Government referred the said dispute to the Industrial Tribunal. In November, 1968 the respondent-company filed a Writ Petition in the Bombay High Court challenging the validity of the order of reference. On 27.2.1973 the High Court disposed of the Writ Petition in the following terms: "By consent the order Exhibit-C dated 5.7.1968 is set aside without prejudice to the rights of the respondents to refer fresh dispute in respect of the same demands according to law."
+On 19.3.1973 the appellant submitted a demand to the management claiming the very same relief with effect from 15.11.1965. On the basis of the said demand, the Government made a reference to the Industrial Tribunal, Bombay, on 26.3.1973. The dispute referred reads as follows:
+"All the daily rated workman from Wadala factory of the company should be paid dearness allowance at the same scale that is given to monthly rated staff of the factory with retrospective effect from 15th November 1965 i.e. at the rate given below.
+Slab Salary    D.A. index 311  Variation for
+        to 320    10 points
+Up to Rs. 100  65% of basic salary or
+   revised textile scalefor--      5%
+   all days of month whi-
+   chever is higher.
+Rs. 101 to 200     30%         2%
+Rs. 201 to 300     15%         1%
+Rs. 310 and above   10%         1%"
+On 3.1.1977 the Tribunal made its award. It directed that "all the daily-rated workmen from Wadala Factory of the Company should be paid dearness allowance at the rate of 15% of the revised textile rate with effect from 1st January, 1968. The Company is further directed to pay all the arrears to these workmen within two months from the date of the publication of the award. Award accordingly. No order as to costs."
+The Management questioned the validity of the said award by way of a writ petition in the Bombay High Court (Miscellaneous Petition No. 627 of 1977). On 15.6.1977 a learned Single Judge dismissed the Writ Petition holding that the error if any, in the award of the Tribunal is not an error of jurisdiction calling for interference under Article 226 of the Constitution. The respondent company preferred an appeal which was disposed of by the Division Beneh under its Judgment and Order dated 1.9.1992, impugned herein. The Division Bench affirmed the award except with respect to the date from which the relief was granted by the Tribunal. The Division Bench was of the opinion that the Tribunal had no jurisdiction to award relief to the workmen with effect from a date prior to the date on which the dispute was raised. Inasmuch as the dispute which was referred by the Government to the Industrial Tribunal and which resulted in the award in question was raised on 19.3.1973, the Division Bench held that the relief can be granted only from 19.3.73 but not from an anterior date. The Division Bench was of the opinion that this restriction on the power of the Industrial Tribunal flows from the decisions of this Court, to which we shall refer presently. The correctness of the said view is questioned in this appeal.
+Mr. V.J. Francis, the learned counsel for the appellant- Union submitted that inasmuch as the appellant-Union had been agitating for grant of D.A. to the daily-rated workmen at Wadala Factory at the same rate at which it is paid to monthly-rated workmen, right from November, 1965, the Tribunal was justified in awarding the relief from 1.4.1968. The restriction perceived by the Division Bench is neither sanctioned by law nor does it flow from the decisions referred to by the Division Bench. On the other hand, Shri G.B.Pai, the learned counsel for the respondent-company sup- ported the reasoning and conclusion of the Division Bench. Learned counsel submitted that an industrial dispute arises only when the workmen raise a particular dispute before the Management. No Industrial dispute can be said to arise when a dispute is raised by workmen not before the Management but before the. Government. The learned counsel contended on the above basis that the so-called dispute which was referred by the Government on the earlier occasion (on 15.7.1968) was not an industrial dispute, inasmuch as the basis of the said reference, namely the demand of workmen dated 26.4.1968, was never submitted before the Management, it was submitted directly to the Government and Government alone. The said reference was, therefore, questioned by the Management in the Bombay High Court and it was agreed by both the parties before the High Court that the order of reference be set aside and the Union be left free to raise a fresh dispute. Accordingly the Union raised a fresh dispute on 19.3.1973. No doubt this demand was for payment of the said D.A. with effect from 15.11.1965, even so the Tribunal's power is limited to grant of relief only from the date of raising of industrial dispute. The learned counsel submitted that more than one decision of this Court has affirmed the said view.
+We find it difficult to agree with Shri Pai. In principle we find no basis for the said contention. The Industrial Disputes Act does not provide for any such limitation. The definition of the expression "industrial dispute" in Clause (K) of Section-2 of the Act does not contain any such limitation. We are unable to see on what basis can such restriction be inferred or implied. It must be remembered that the Industrial Tribunal/Labour Court is supposed to be a substitute forum to the Civil Court. Broadly speaking, the relief which the Civil Court could grant in an industrial dispute can be granted by the Industrial Tribunal/Labour Court. Indeed the Industrial Tribunal/Labour Court is not bound by technical rules of procedure which bind the Civil Court. (See J.K Cotton Spinning and Weaving Mills v. L.A. Tribunal, 1963 (2) L.L.J. 436/444 AIR 1964 SC 737) In such circumstances we see no justification for holding that the Industrial Tribunal or for that matter a Labour Court has no jurisdiction to grant relief from a date anterior to the date on which the dispute is raised. Take a case where the Labour Union raises a dispute on a particular date but says that the said relief should be granted from an anterior date. We see no reason why the Industrial Tribunal should be held to have no power to grant relief with effect from such anterior date if it is found to be warranted by the facts and circumstances of the case. Here it is necessary to emphasize the distinction between the existence of power and its exercise. It is one thing to say that the Tribunal has no power to grant such relief and it is an altogether different thing to say that in a given case it ought not to grant such relief. We are only emphasizing the aspect of power. Whether in a given case relief should be granted with effect from a date anterior to the date of raising the dispute is a matter for the Tribunal to decide in the facts and circumstances of that case.
+Now let us examine whether any decision of this Court supports Mr. Pai's contention. The first decision relied upon by him is in Jhagrakhand Collieries (Private) Ltd. and another v. Central Government Industrial Tribunal. Dhanbad and others, 1960 (2) Labour Law Journal 71. The observations relied upon are at page 77 of the Report which read thus:
+"Besides, the Appellate Tribunal has failed to consider the fact that the present demand was made for the first time in September 1952. The industrial tribunal had considered this question and had definitely found that notwithstanding the suggestion by the respondents to the contrary there was no reliable evidence to show that this demand had-been specifically and clearly made prior to 27 September 1952. Now, if the respondents did not make a specific claim until September 1952 it would not be fair or just to allow them the benefit of the present increase directed by the award even prior to the date of the demand."
+We do not think that the above observations can be read as imposing a limitation, of the nature contended for Mr. Pai, upon the power of the tribunal. All that is said by this Court in the said case is that inasmuch as the demand itself was raised in September 1952 and no such demand was ever made prior to September 1952, it was not "fair or just" to grant relief with effect from a date anterior to September 1952.
+The next decision relied upon is in Workmen of New Eqerton Woollen Mills v. New Eqerton Woollen Mills and others, 1969 2 LLJ 782. The passage relied upon from this decision is at page 791. It reads:
+"As regards the date on which the award should come into force, industrial tribunals have treated the date of demand and the date of the award as two extreme points. The tribunals, however, have discretion to fix any intermediate date depending upon the circumstances of each case. As has been said more than once, this Court would be reluctant to interfere with the date fixed by the tribunal if it has been done in the proper exercise of its discretion. In the present case the tribunal felt that in fairness to both the parties the intermediate date, namely 1 November 1963, When it passed its interim award was the proper date from which the award should come into operation. The ground for selecting this date was that according to the tribunal the prices of commodities began to rise steeply in this region from that date. That ground has not been controverted by any material to the contrary. There can, there- fore, barely be any ground for our interference."
+The said passage can not be understood as imposing a limitation upon the power and jurisdiction of the Tribunal nor can it be understood as holding that the Tribunal has no power to grant relief with effect from the date earlier than the date of demand. The observations aforesaid must be understood in the facts and circumstances of that case. The question raised now was not raised or considered by this Court in the said decision. It does not appear that the workmen had claimed a particular benefit with effect from a date earlier to the date of raising the dispute nor does it appear that the Government had referred any such claim for adjudication by the Tribunal. In this case, it may be remembered, not only the demand raised on 19.3.73 was for extending the said benefit with effect from 15.11.1965, the reference by government was also in the same terms. In the circumstances, the reference to the practice of Industrial Tribunals can not be understood as a legal proposition that the Tribunal has no power or jurisdiction to grant relief with effect from a date earlier to the date of demand even where such demand is raised and referred to it by government. It needs no emphasis that a Judgment should be understood in the light of the facts of that case and no more should be read into it than what it actually says.
+The third decision relied upon is an unreported decision of this Court in Workmen of National Tobacco Co. of India Ltd. v. Messrs National Tobacco Co. of India Ltd. (Civil Appeal No. 852 of 1966 disposed of on 18.10.1968). The Judgment was delivered by Bhargava, J. on behalf of J.M. Shelat, J. himself and C.A. Vaidialingam. J. The observations relied upon occur towards the end of the judgment and read thus:
+"Apart from these points forming the subject- matter of various issues, a general point argued on behalf of the Union was that the Tribunal should have made the award enforceable retrospectively at least with effect from the date of the reference of the dispute by the Government to the Tribunal. This Court has, in a number of cases, consis- tently held that the question of making an award retrospective is in the discretion of a Tribunal, with the limitation that a Tribunal will be committing an error if it makes the award effective from a date earlier than the date of demand on the basis of which the industrial dispute is referred to the Tribunal. This Court does not interfere with the discretion exercised unreasonably or arbitrarily. In the present case, considering the circumstance that there will be a considerable increase in the burden of expenditure on the Company as a result of the revision of wage scales and the rates of dearness allowance, the Tribunal has decided that the award should be effective with effect from the usual date when it comes into force, i.e., one month after the date of its publication by the Government. As we have just indicated, the Tribunal gave this direction because of the increased burden on the Company which would become unbearably heavy if the Company is directed to make payments for a number of past years for which accounts have already been closed by making the award retrospective from the date of reference. The discretion exercised by the Tribunal cannot be said to be arbitrary or un- reasonable, so that we find no ground for interfering with the award on this point."
+The learned judge says in the first instance that "the question of making an award retrospective is in the discretion of the Tribunal" but then qualifies it by saying that "the Tribunal will be committing an error if it makes the award effective from a date earlier than the date of demand on the basis of which the Industrial dispute is referred to the Tribunal". No provision of law or any principle is cited in support of the said observation. Be that as it may, it is significant to notice that the question which arises in the case before us did not arise consideration before the said Bench. The argument for the Labour Union in that case was that "the Tribunal should have made the award enforceable retrospectively at least with effect from the date of the reference of the dispute by the Government to the Tribunal". No contention was urged that the award should be made effective from a date anterior to the date of raising the dispute nor does it appear that that was a case where the demand raised by the workmen was for extending the benefit with effect from an anterior date. Therefore, there was no occasion for this Court to consider the question now raised. When the issue relating to the power of the Tribunal to grant a relief or benefit with effect from a date anterior to the date of raising the dispute was not at all raised or considered by the Court, it would not be proper to read the said observations as negativing the said contention. We are, therefore, of the considered opinion that the observations aforesaid do not support the contention urged by Shri Pai.
+So far as the facts of the present case are concerned, it must be remembered that the Labour Union had raised this dispute with the Management as far back as 2.11.1965. Conciliation was taken up by Conciliation Officer and the Conciliation Board. The Board had reported failure as far back as 15.3.1967. It is the said demand which was raised by the Union in its Memorandum dated 26.4.1968 on the basis of which a reference was made by the Government to the Industrial Tribunal on 5.7.1968. Even when a fresh demand was raised on 19.3.1973 the demand was that the daily-rated workmen should be given the benefit claimed by them with effect from 15.11.1965. Thus the demand raised on 19.3.73 was not a fresh demand. It was reiteration of the demand raised as far back as November 1965. It is not suggested that the demand raised in November 1965 was not raised before or submitted to the Management. Even other- wise, the demand raised on 19.3.73 assuming that it was a fresh demand was for extending the said benefit with effect from an anterior date namely, 15.11.1965. It was the said demand which was referred by the Government to the Tribunal. We see no reason why the Tribunal could not have awarded relief from the date earlier than 1973 if it found that such a demand was justified and warranted in the facts of the case Actually the Tribunal granted the benefit with effect from 1.1.1968 only and not with effect from 15.11.1965 as demanded by the Workmen.
+Mr. Pai then contended that the order of reference to Industrial Tribunal made on 5.7.1968 was questioned by the Management by way of a Writ Petition in the Bombay High Court and that the said Writ Petition was allowed under a consent order, whereunder the workmen agreed to raise a fresh dispute. He submits that a fresh dispute means a dispute claiming benefit only from the date on which the dispute is raised. We see no basis for such restricted understanding. The order of the Court in Writ Petition 708 of 1968 reads as follows:
+"Order dated 5.7.1968 is set aside without prejudice to the rights of the respondents to refer fresh dispute in respect of the same demands according to Law."
+Firstly, it may be noticed that the order does not say that the fresh dispute that may be raised should claim the benefit only from the date of raising the fresh dispute. Secondly, and more importantly, the order says that the fresh dispute to be raised was to be "in respect of the same demands". Now the words "same demands" mean the very same demand which was being raised by the workmen from November 1965 onwards. We are, therefore, unable to read the said order of the High Court as imposing or implying any restriction upon the workmen to limit the benefit claimed by them only from the date of the raising of the fresh demand. It was perfectly open to them to raise a demand, subsequent to the said order, claiming the benefit with effect from a date anterior to the date of raising the demand. Mr. Pai then submitted that the demand raised by the workmen on 26.4.1968 cannot be said to raise an industrial dispute inasmuch as an in-
+dustrial dispute arises only when the demand is submitted to the Management. A demand by workmen addressed to the Government can never constitute, an industrial dispute, he submits. He, therefore, says that the Tribunal had no jurisdiction to award the benefit with effect from 1.4.1968. Reliance is placed upon the decision of this Court in The Sindhu Resettlement Corporation Lid v., The Industrial Tribunal of Gujarat & Ors., [1968] 1 SCR 515. In that case the contention urged by the Management was that inasmuch as the workmen did not raise any dispute with respect to reinstatement and because the dispute raised by them related only to payment of retrenchment compensation, the Government had no power or justification for making a reference relating to reinstatement. It is in that connection that the following observations, relied upon by Shri Pai, were made.
+"If no dispute at all was raised by the respondents with the management, any request sent by them to the Government would only be a demand by them and not an industrial dispute between them and their employer, Ai, industrial dispute, as defined, must be a dispute between employers and employers, employers and workmen, and workmen and workmen. A mere demand to a Government, without a dispute being raised by the workmen with their employer, cannot become an industrial dispute. Consequently the material before the Tribunal, clearly showed that no such industrial dispute, as was purported to be referred by the State Government to the Tribunal, had ever existed between the appellant Corpn. and the respondents and the State Government in making a reference, obviously committed an error in basing its opinion on material which was not relevant to the formation of opinion. The Government had to come an opinion that an industrial dispute did exist and that opinion could only be formed on the basis that there was a dispute between the appellant and the respondents relating to reinstatement. Such material could not possibly exist when, as early as March and July, 1958, respondent No. 3 and respondent No. 2 respectively had confined their demands to the management to retrench- ment compensation only and did not make any demand for reinstatement, On these facts, it is clear that the reference made by the Government was not competent. The only reference that the Government could have made had to be related to payment of retrenchment compensation which was the only subject matter of dispute between the appellant and the respondents."
+It is evident from a reading of the above para that the only dispute raised by the workmen before the Management related to retrenchment compensation, which means that the industrial dispute thus arising was confined only to the payment of retrenchment compensation. The Workmen had never demanded reinstatement before the Management. They, however, made a demand for reinstatement in their representation/demand made before the Government and the Government referred the dispute relating to reinstatement to the Tribunal. It is in the above circumstances that the said observations were made. In this case, however, the demand in question was raised by the workmen before the Management as far back as November 1965. Conciliation was attempted but failed. It is then that the workmen submitted a demand before the Government and the Government made a reference on 5.7.1968. That reference was no doubt set aside by the High Court but we do not know the basis of the said decision. Be that as it may, the fact remains that the workmen were left free to raise a fresh dispute with reference to the "same demands", which they actually did on 19.3.1973. They expressly claimed the benefit retrospectively from 15.11.1965. We are, therefore, unable to see how the Observations in Sindhu help the Management in this case.
+For the above reasons, we are of the opinion that the Division Bench was not right in holding that the Industrial Tribunal had no power to grant the relief claimed by the Workmen with effect from a date anterior to 19.3.1973 (the date on which the fresh demand was raised) notwithstanding the fact that the said demand specifically claimed the benefit from an anterior date i.e. 15.11.1965, and. which demand was referred to it by the Government. For the above reasons, the appeal is allowed and the Judgment and Order of the Division Bench of the Bombay High Court in appeal No. 247 of 1977 dated 1.9.1992 is set aside. The Writ Petition filed by the Management in the Bombay High Court questioning the award dated 3.1..1977 is dismissed. There shall be no orders as to costs.
+G.N.
+Appeal allowed.

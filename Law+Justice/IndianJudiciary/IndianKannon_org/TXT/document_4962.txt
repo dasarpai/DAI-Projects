@@ -1,0 +1,20 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4962/
+Cites: ['Section 256(1) in The Income- Tax Act, 1995 : https://indiankanoon.org/doc/1940213/']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+Commissioner Of Income-Tax vs Mineral And Metals Trading ... on 23 May, 2000
+Equivalent citations: 2000 246 ITR 252 Delhi
+Author: C Arijit Pasayat
+Bench: A Pasayat, D Jain
+JUDGMENT Arijit Pasayat , C. J.
+1. Heard.
+2. At the instance of the Revenue, the following question was referred for opinion under Section 256(1) of the Income-tax Act, 1961, by the Income-tax Appellate Tribunal, Delhi Bench "B", New Delhi (in short "the Tribunal"), for the assessment year 1972-73 :
+"Whether, on the facts and in the circumstances of the case, the Tribunal was justified in law in upholding the order of the Appellate Assistant Commissioner deleting the addition of Rs. 32 lakhs from the total income of the assessee ?"
+The Assessing Officer was of the view that a sum of Rs. 32 lakhs received by the assessee was a revenue receipt and brought it to tax accordingly. The Appellate Assistant Commissioner did not agree with the aforesaid finding and holding that it was a capital receipt, deleted the addition. The Tribunal with reference to the materials placed on record held that the transfer of Rs. 32 lakhs from the State Trading Corporation to the Minerals and Metals Trading Corporation is as a part of its share of the Minerals and Metals Trading Corporation (the "assessee"), in the reserve held by the State Trading Corporation before bifurcation. In other words it upheld the views of the Appellate Assistant Commissioner. The Tribunal held that it was not an income, but the share of reserve.
+3. Learned counsel for the Revenue submitted that the true nature of the contention was not appreciated by the Appellate Assistant Commissioner or the Tribunal.
+4. We find that the Tribunal after referring to the factual aspects recorded the aforesaid findings of fact that the amount in question cannot be treated as income as it was a share of reserve.
+5. We do not find any illegality in the conclusions of the Tribunal and the conclusions being factual, no question of law arises out of the order of the Tribunal. The factual finding recorded that it was received as a part of the share has not been challenged by the Revenue. That being the position, the question referred is answered in the affirmative, in favour of the asses-see and against the Revenue.

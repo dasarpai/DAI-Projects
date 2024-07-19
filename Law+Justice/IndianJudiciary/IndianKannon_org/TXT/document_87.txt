@@ -1,0 +1,12 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/87/
+Cites: ['The Chief General Manager ... vs M/S Kanhai Engineering ( Towers ) ... on 31 January, 2020 : https://indiankanoon.org/doc/34880663/', 'M/S Crompton Greaves Ltd vs M/S Annapurna Electronics on 16 April, 2010 : https://indiankanoon.org/doc/48456095/', 'Central Coalfields Limited ... vs Jharkhand Micro Small And Medium ... on 23 October, 2015 : https://indiankanoon.org/doc/28302470/', 'M/S Gats Financial ... vs Dir. Of Industries Cum Chairman & ... on 8 April, 2016 : https://indiankanoon.org/doc/19150345/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 1 in The Micro, Small and Medium Enterprises Development Act, 2006
+1. Short title and commencement.—
+(1) This Act may be called the Micro, Small and Medium Enterprises Development Act, 2006.
+(2) It shall come into force on such date1 as the Central Government may, by notification, appoint; and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.

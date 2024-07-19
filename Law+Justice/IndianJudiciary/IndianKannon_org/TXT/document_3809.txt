@@ -1,0 +1,12 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/3809/
+Cites: ['Raksha Jindal vs Central Bureau Of Investigation on 5 March, 2015\nDelhi High Court Cites 189 - Cited by 0 - Full Document', 'Selvi & Ors vs State Of Karnataka & Anr on 5 May, 2010\nSupreme Court of India Cites 90 - Cited by 53 - Full Document', 'B.M. Arif vs Boston Tea (India) Ltd., Rep. By ... on 26 March, 2004\nKarnataka High Court Cites 11 - Cited by 0 - Full Document', 'State Of Nct Of Delhi vs Mohd. Hassan @ Abu Qasim & Ors. on 12 May, 2015\nDelhi High Court Cites 25 - Cited by 0 - Full Document', 'Harikumar vs State Of Karnataka on 22 October, 1993\nKarnataka High Court Cites 42 - Cited by 0 - Full Document', 'Substantive Piece Of Evidence. ... vs State Air 1993 on 6 November, 2012\nDelhi District Court Cites 15 - Cited by 0 - Full Document', 'Jamnadas vs State Of M.P on 29 June, 2016\nSupreme Court of India Cites 20 - Cited by 0 - Full Document', 'Matta Rajesh vs State Of A.P. Rep. By Its Public ... on 22 December, 2017\nAndhra High Court Cites 16 - Cited by 0 - Full Document', 'Smt. Ratnavva W/O Dyamanna Byalal vs The State Of Karnataka on 25 September, 2020\nKarnataka High Court Cites 25 - Cited by 0 - Full Document', 'Kirankumar S/O Anandayya ... vs State Of Karnataka on 25 September, 2020\nKarnataka High Court Cites 49 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 315(1) in The Code Of Criminal Procedure, 1973
+(1) Any person accused of an offence before a Criminal Court shall be a competent witness for the defence and may give evidence on oath in disproof of the charges made against him or any person charged together with him at the same trial: Provided that-
+(a) he shall not be called as a witness except on his own request in writing;
+(b) his failure to give evidence shall not be made the subject of any comment by any of the parties or the Court or give rise to any presumption against himself or any person charged together with him at the same trial.

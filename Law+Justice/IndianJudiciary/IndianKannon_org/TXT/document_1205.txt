@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1205/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 352H(e) in The Merchant Shipping Act, 1958
+(e) “person” means any individual or partnership or any public or private body, whether corporate or not, including a state or any of its constituent sub-divisions;

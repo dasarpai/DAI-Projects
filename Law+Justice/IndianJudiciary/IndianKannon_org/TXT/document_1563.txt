@@ -1,0 +1,24 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/1563/
+Cites: ['Section 8 in The Hindu Succession Act, 1956 [Complete Act]\nCentral Government Act\nCites 0 - Cited by 1140', 'The Indian Succession Act, 1925\nCentral Government Act\nCites 0 - Cited by 6865 - Full Document', 'Commissioner Of Income-Tax, ... vs Babubhai Mansukhbhai (Deceased) ... on 19 September, 1975\nGujarat High Court\nCites 12 - Cited by 28 - Full Document', 'Section 256(1) in The Income- Tax Act, 1995 [Section 256] [Complete Act]\nCentral Government Act\nCites 0 - Cited by 9945', 'The Hindu Succession Act, 1956\nCentral Government Act\nCites 0 - Cited by 5199 - Full Document', 'Commissioner Of Income Tax vs P.L. Karuppan Chettiar on 11 May, 1992\nSupreme Court of India\nCites 11 - Cited by 60 - Full Document']
++++++++++++++++++++++++++
+
+
+Delhi High Court
+The Commissioner Of Income-Tax, ... vs Shri Virender Kumar, Delhi on 16 July, 2001
+Equivalent citations: 93 (2001) DLT 213, 2001 (59) DRJ 538
+Author: A Pasayat
+Bench: A Pasayat, D Jain
+ORDER Arijit Pasayat, C.J.
+1. Heard.
+At the instance of Revenue, following question has been referred for opinion of this Court by the Income-tax Appellate Tribunal, Delhi Bench 'B' (in short 'the Tribunal') under Section 256(1) of the Income-tax Act, 1961 (in short 'the Act'):
+"Whether on the facts and in the circumstances of the case, the Tribunal is correct in law in confirming the order of the AAC directing the ITO to take the status of the assessed as that of 'HUF' instead of 'individual' taken by the Income-tax Officer?"
+Dispute relates to assessment year 1975-76.
+2. Factual position is almost undisputed and is essentially as follows:
+assessed received a sum of Rs. 55,440/- as 1/4th share out of the estate of his father by inheritance in August, 1974. He filed a return of his income in the status of Hindu Undivided Family (in short 'the HUF'), declaring an income of Rs. 4,280/- as interest on this amount. Assessing Officer was of the view that as the estate left by the deceased was his self acquired property, the amount inherited by the assessed became his individual property and accordingly any income there from was taxable in the hands of the individual and not in the hands of HUF. assessed preferred an appeal before the Appellate Assistant Commissioner (in short 'the AAC'). Said authority placed reliance on the decision of the Gujarat High Court in CIT v. Babubhai Mansukhbhai, (1977) 108 ITR 417 and held that the status was to be taken as HUF. In further appeal before the Tribunal by the Revenue, the view was affirmed. On being moved for reference, question as set out above has been referred for opinion of this Court.
+3. We have heard learned counsel for the Revenue. There is no appearance on behalf of assessed in spite of notice. Learned counsel for the Revenue submitted that by operation of the Hindu Succession Act, 1956 (in short 'the Succession Act'), the property that devolved on the assessed was to be taxed as 'individual' and not as that of 'HUF'. The Apex Court had occasion to deal with an identical issue in C.W.T. v. Chander Sen, (1986) 161 ITR 370. It was held that:
+"It is clear that under the Hindu law, the moment a son is born, he gets a share in the father's property and becomes part of the coparcenary. His right accrues to him not on the death of the father or inheritance from the father but with the very fact of his birth. Normally, therefore, whenever the father gets a property from whatever source from the grandfather or from any other source, be it separate property or not, his son should have a share in that and it will become part of the joint Hindu family of his son and grandson and other members who form joint Hindu family with him. But the question is: is the position affected by section 8 of the Hindu Succession Act, 1956, and, if so, how? The basic argument is that section 8 indicates the heirs in respect of certain property and Class I of the heirs includes the son but not the grandson. It includes, however, the son of a predeceased son. It is this position which has mainly induced the Allahabad High Court in the two judgments we have noticed to take the view that the income from the assets inherited by a son from his father from whom he has separated by partition can be assessed as income of the son individually. Under Section 8 of the Hindu Succession Act, 1956, the property of the father who dies intestate devolves on his son in his individual capacity and not as karta of his own family."
+The Apex Court took note of the decision of the Gujarat High Court relied upon by the AAC and held that the view expressed in the said case was not correct exposition of law. This view was again reiterated by the Apex Court in C.I.T. v. P.L. Karuppan Chettiar, (1992) 197 ITR 646.
+4. Above being the position, we answer the question in the negative, in favor of Revenue and against the assessed.
+The reference stands disposed of.

@@ -1,0 +1,40 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/381/
+Cites: ['Section 263 in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 5107', 'The Income- Tax Act, 1995\nCentral Government Act Cites 0 - Cited by 93772 - Full Document', 'Section 144B in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 697', 'East Coast Marine Products (P.) ... vs Income-Tax Officer on 16 March, 1983\nIncome Tax Appellate Tribunal - Hyderabad Cites 32 - Cited by 4 - Full Document', 'Dwarkadas And Co. (P.) Ltd. vs Income-Tax Officer on 27 July, 1979\nIncome Tax Appellate Tribunal - Mumbai Cites 36 - Cited by 2 - Full Document', 'Section 32A in The Income- Tax Act, 1995 [Complete Act]\nCentral Government Act Cites 0 - Cited by 1003']
++++++++++++++++++++++++++
+
+
+Income Tax Appellate Tribunal - Mumbai
+Shapoorji Pallonji & Co. Pvt. Ltd. vs Ito on 1 January, 1800
+Equivalent citations: (1986) 25 TTJ Mum 314
+ORDER--Granting the investment allowance.
+Ratio:
+On granting the investment allowance, the order could not be said prejudicial since there would be no tax effect if allowance was not allowed.
+Held:
+For the assessment year 1979-80, the Income Tax Officer's order could not be treated as erroneous since the assessee's income would come to nil even though investment allowance was not allowed and assessee was not treated as industrial company. However, for assessment year 1978-79, section 263 could not have been invoked since assessment order had merged in the order of the Commissioner(Appeals) prior to the exercise of power under section 263.
+Case Law Analysis:
+East Cost Marine Products (P) Ltd. v. ITO (1983) 4 ITD 70 (Hyd-Trib) (SB) followed.
+Application:
+Not to current assessment years since section 32A has become inoperative.
+Income Tax Act 1961 s.32A Income Tax Act 1961 s.263 Revision under s. 263--MERGER WITH APPELLATE ORDER--Order granting investment allowance.
+Ratio:
+The assessment order which got merged into appellate order ceased to be revised under section 263 by the Commissioner.
+Held:
+For the assessment year 1979-80, the Income Tax Officer's order could not be treated as erroneous since the assessee's income would come to nil even though investment allowance was not allowed and assessee was not treated as industrial company. However, for assessment year 1978-79, section 263 could not have been invoked since assessment order had merged in the order of the Commissioner(Appeals) prior to the exercise of power under section 263.
+Case Law Analysis:
+Dwarkadas & Co. (P) Ltd. v. ITO (1982) 13 TTJ 107 (Bom) (SB): (1982) 1 ITD 303 (Bom) (SB) followed. Further, the investment allowance has been allowed by the Income Tax Officer in pursuance of directions of the Inspecting Assistant Commissioner under section 144B. The Commissioner had no jurisdiction to exercise his revisional powers in respect of investment allowance granted to the assessee.
+Case Law Analysis:
+East Cost Marine Products (P) Ltd. v. ITO (1983) 4 ITD 70 (Hyd) (SB) followed.
+Application:
+Also to current assessment years, though section 32A has become inoperative.
+Income Tax Act 1961 s.32A Income Tax Act 1961 s.263 Revision under s. 263--JURISDICTION OF CIT--Investment allowance allowed on directions under section 144B.
+Ratio:
+Investment allowance granted by the assessing officer as per directions given by the Inspecting Assistant Commissioner under section 144B hence Commissioner was not justified in invoking revisionary powers under section 263.
+Held:
+For the assessment year 1979-80, the Income Tax Officer's order could not be treated as erroneous since the assessee's income would come to nil even though investment allowance was not allowed and assessee was not treated as industrial company. However, for assessment year 1978-79, section 263 could not have been invoked since assessment order had merged in the order of the Commissioner(Appeals) prior to the exercise of power under section 263.--Dwarkadas & Co. (P) Ltd. v. ITO (1982) 13 TTJ 107 (Bom) (SB): (1982) 1 ITD 303 (Bom) (SB) followed. Further, the investment allowance has been allowed by the Income Tax Officer in pursuance of the directions of the Inspecting Assistant Commissioner under section 144B. The Commissioner had no jurisdiction to exercise his revisional powers in respect of investment allowance granted to the assessee.
+Case Law Analysis:
+East Cost Marine Products (P) Ltd. v. ITO(1983) 4 ITD 70 (Hyd) (SB) followed.
+Application:
+Not to current assessment years.
+Income Tax Act 1961 s.32A Income Tax Act 1961 s.144B Income Tax Act 1961 s.263

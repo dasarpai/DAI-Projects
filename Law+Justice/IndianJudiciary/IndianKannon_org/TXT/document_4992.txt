@@ -1,0 +1,20 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/4992/
+Cites: []
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 140 in The Companies (Amendment) Act, 2000
+140. Insertion of new section 292A.- After section 292 of the principal Act, the following section shall be inserted, namely:-" 292A. Audit Committee.- (1) Every public company having paid- up capital of not less than five crores of rupees shall constitute a committee of the Board known as Audit Committee which shall consist of not less than three directors and such number of othe directors as the Board may determine of which two- thirds of the total number of members shall be directors, other than managing or whole- time directors.
+(2) Every Audit Committee constituted under sub- section (1) shall act in accordance with terms of reference to be specified in writing by the Board.
+(3) The members of the Audit Committee shall elect a chairman from amongst themselves.
+(4) The annual report of the company shall disclose the composition of the Audit Committee.
+(5) The auditors, the internal auditor, if any, and the director- in- charge of finance shall attend and participate at meetings of the Audit Committee but shall not have the right to vote.
+(6) The Audit Committee should have discussions with the auditors periodically about internal control systems, the scope of audit including the observations of the auditors and review the half- yearly and annual financial statements before submission to t e Board and also ensure compliance of internal control systems.
+(7) The Audit Committee shall have authority to investigate into any matter in relation to the items specified in this section or referred to it by the Board and for this purpose, shall have full access to information contained in the records of the comp ny and external professional advice, if necessary.
+(8) The recommendations of the Audit Committee on any matter relating to financial management including the audit report, shall be binding on the Board.
+(9) If the Board does not accept the recommendations of the Audit Committee, it shall record the reasons therefor and communicate such reasons to the shareholders.
+(10) The chairman of the Audit Committee shall attend the annual general meetings of the company to provide any clarification on matters relating to audit.
+(11) If a default is made in complying with the provisions of this section, the company, and every officer who is in default, shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to fifty thousand r pees, or with both.".

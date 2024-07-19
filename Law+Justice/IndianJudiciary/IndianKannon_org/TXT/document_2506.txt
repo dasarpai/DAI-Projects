@@ -1,0 +1,10 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/2506/
+Cites: ['Rajesh Sah And Others ... vs State Of Uttarakhand Through ... on 1 April, 2021 : https://indiankanoon.org/doc/197342997/', 'Aghnu Mahto And Anr vs State Of Jharkhand Through Forest ... on 8 May, 2014 : https://indiankanoon.org/doc/110916307/']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 29(2) in The Indian Forest Act, 1927
+(2) The forest-land and waste-lands comprised in any such notification shall be called a “protected forest”.

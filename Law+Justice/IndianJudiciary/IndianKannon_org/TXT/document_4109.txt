@@ -1,0 +1,13 @@
+Meta Data
+DocType: Judgement
+URL: https://indiankanoon.org/doc/4109/
+Cites: ['Section 476 in The Code Of Criminal Procedure, 1973 : https://indiankanoon.org/doc/1459095/', 'Section 435 in The Code Of Criminal Procedure, 1973 : https://indiankanoon.org/doc/323239/']
++++++++++++++++++++++++++
+
+
+Madras High Court
+In Re: Subbaraya Vathyar vs Unknown on 28 September, 1904
+Equivalent citations: (1905) 15 MLJ 489
+ORDER
+1. The District Magistrate professes to have been acting in a judicial proceeding so as to give himself jurisdiction to act under Section 476 of the Code of Criminal Procedure. His calling up the records under Section 435 is not a judicial proceeding as declared in Queen-Empress v. Kuppu I.L.R. 7 M. 560 and as he did nothing else that would constitute a " judicial proceeding," he had no power to make the order that he did under Section 476 of the Code of Criminal Procedure. Further to adopt, the procedure under Section 476, immediate action is contemplated and to take such procedure after the lapse of several months is illegal.
+2. The order of the District Magistrate is accordingly reversed.

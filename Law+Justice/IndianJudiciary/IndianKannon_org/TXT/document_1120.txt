@@ -1,0 +1,14 @@
+Meta Data
+DocType: Act
+URL: https://indiankanoon.org/doc/1120/
+Cites: ['Nabbu @ Navab Son Of Babu Sakka vs State Of U.P. Through Secretary, ... on 6 March, 2006\nAllahabad High Court Cites 22 - Cited by 0 - Full Document', 'Law Relating To Attendence Of Prisoners In Courts\nLaw Commission Report Cites 39 - Cited by 0 - Full Document', 'State Of Rajasthan vs Santosh Yadav on 22 February, 2005\nRajasthan High Court Cites 25 - Cited by 4 - Full Document', 'Pramod Kumar S/O Ramesh Chandra vs The State Of U.P. on 24 August, 1990\nAllahabad High Court Cites 17 - Cited by 0 - Full Document', 'Bobby Alias Premveer And Anr. vs State Of U.P. on 16 February, 2000\nAllahabad High Court Cites 72 - Cited by 3 - Full Document', 'Charanjit Singh vs State Of Punjab on 22 May, 2001\nPunjab-Haryana High Court Cites 33 - Cited by 3 - Full Document', 'Superintendent Of Police, C.B.I. vs The Addl. Superintendent, ... on 14 December, 1994\nMadras High Court Cites 13 - Cited by 0 - Full Document', 'Ganesh Miskin @ Ganesh @ Ganu Bain vs The State Of Karnataka on 26 July, 2019\nKarnataka High Court Cites 22 - Cited by 0 - Full Document', 'Vinay Kumar vs State Of U.T. Chandigarh And ... on 15 July, 2020\nPunjab-Haryana High Court Cites 18 - Cited by 0 - Full Document', 'C.V.Krishnan vs Kerala State Ex-Service League on 25 June, 2008\nKerala High Court Cites 4 - Cited by 0 - Full Document']
++++++++++++++++++++++++++
+
+
+Central Government Act
+Section 3 in The Prisoners (Attendance in Courts) Act,1955
+3. Power of courts to require appearance of prisoners to give evidence or answer a charge.—
+(1) Any civil or criminal court may, if it thinks that the evidence of any person confined in any prison is material in any matter pending before it, make an order in the form set forth in the First Schedule, directed to the officer in charge of the prison: Provided that no civil court shall make an order under this sub-section in respect of a person confined in a prison situated outside the State in which the court is held.
+(2) Any criminal court may, if a charge of an offence against a person confined in any prison is made or pending before it, make an order in the form set forth in the Second Schedule, directed to the officer in charge of the prison.
+(3) No order made under this section by a civil court which is subordinate to a district judge shall have effect unless it is countersigned by the district judge; and no order made under this section by a criminal court which is inferior to the court of a magistrate of the first class shall have effect unless it is countersigned by the district magistrate to whom that court is subordinate or within the local limits of whose jurisdiction that court is situate.
+(4) For the purposes of sub-section (3), a court of small causes outside a presidency town or the city of Hyderabad shall be deemed to be subordinate to the district judge within the local limits of whose jurisdiction such court is situate.
