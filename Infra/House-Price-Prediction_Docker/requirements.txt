@@ -1,0 +1,5 @@
+Flask==2.2.3
+streamlit==1.21.0
+pandas==1.5.3
+numpy==1.23.5
+xgboost==1.7.4

@@ -1,0 +1,87 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<body>
+
+<div class="row container-fluid">
+
+    <h1>House Price Prediction</h1>
+
+    <!-- This form accepts input from the customer's browser and give those inputs as parameter to our
+     ML model-->
+    <form class="form-inline" action="{{ url_for('predict')}}" method="post">
+        <div class="row">
+            <div class="col-25">
+                <label for="Living area in Sqft."> Living area in Sqft.: </label>
+            </div>
+            <div class="col-25">
+                <input type="text" name="Living area in Sqft." placeholder="House Area (Range 290-13500)"
+                       required="required"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="Water Front"> Waterfront (0,1): </label></div>
+            <div class="col-25">
+                <input type="text" name="Water Front" placeholder="Waterfront (0,1)" required="required"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="Grade"> Housegrade (1,13): </label></div>
+            <div class="col-25">
+                <input type="text" name="Grade" placeholder="Housegrade (1,13)" required="required"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="Year Built"> Yearbuilt (1900-2015): </label></div>
+            <div class="col-25">
+                <input type="text" name="Year Built" placeholder="Yearbuilt (1900-2015)"
+                       required="required"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="Latitude (47.1559 to 47.7776)">Latitude (47.1559 to
+                    47.7776): </label></div>
+            <div class="col-25">
+                <input type="text" name="Latitude (47.1559 to 47.7776)"
+                       placeholder="Latitude (47.1559 to 47.7776)" required="required"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="Longitude (-122.519 to -121.315)">Longitude (-122.519 to
+                    -121.315): </label></div>
+            <div class="col-25">
+                <input type="text" name="Longitude (-122.519 to -121.315)"
+                       placeholder="Longitude (-122.519 to -121.315)" required="required"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-50">
+                <button type="submit" class="btn btn-primary btn-block btn-large">Predict House
+                    Price
+                </button>
+            </div>
+        </div>
+    </form>
+    <!-- When customer clicks 'Predict House Price' button then request goes to our app.py service
+    and the model does the prediction. The prediction is returned to this page. Prediction information is
+    in the prediction_text variable. We are using ninja variable to display the value-->
+
+    <br>
+    <br>
+    {{ prediction_text }}
+
+</div>
+
+
+{% endblock %}

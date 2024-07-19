@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  house_price_app:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - DEBIAN_FRONTEND=noninteractive

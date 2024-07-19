@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server" : "True",
+    "local_uri": "mysql://root:@localhost/dasarpai",
+    "prod_uri" : "mysql://root:localhost/dasarpai",
+    "fb_uri" : "https://facebook.com/hari.thapliyal",
+    "tw_uri" : "https://twitter.com/dasarpai",
+    "gh_uri" : "https://github.com/dasarpai",
+    "tagline" : "DasarpAI",
+    "gmail_user": "hari.prasad@vedavit-ps.com",
+    "gmail_pwd": "",
+    "num_of_post": 5,
+    "login_image": "dasarpai-1000x500.jpg",
+    "admin_user": "admin",
+    "admin_pwd": "pwd",
+    "upload_folder" : "\\static\\images"
+
+
+  }
+}
