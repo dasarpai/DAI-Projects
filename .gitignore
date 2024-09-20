@@ -27,7 +27,6 @@ share/python-wheels/
 MANIFEST
 
 # Big files
-*.bin
 *.zip
 *.pt 
 *.pptx 
