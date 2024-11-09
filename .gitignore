@@ -1,5 +1,5 @@
 # I am keeping unzipped data from downloaded file, so no sending to github again.
-data/
+tempdata/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
