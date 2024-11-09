@@ -1,3 +1,6 @@
+# I am keeping unzipped data from downloaded file, so no sending to github again.
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
