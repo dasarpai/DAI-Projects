@@ -10,25 +10,27 @@ This work explores techniques for creating questions and answers for a historica
 
 **HBQAS Overall Approach**
 
-![HBQAS Overall Approach](https://dasarpai.com/assets/images/hbqas/HBQA-PPT+Images/Ch3.20-HBQA-Approach.png)
+images\projects\hbqas\HBQA-PPT+Images
+
+![HBQAS Overall Approach](https://dasarpai.com/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.20-HBQA-Approach.png)
 
 **HBQAS has four subsystems as mentioned below.**
 
 **QAGS (Question-Answer Generation System):** Techniques for generating question-answer pairs using ChatGPT and other methods.
 
-![Question-Answer Generation System](https://dasarpai.com/assets/images/hbqas/HBQA-PPT+Images/Ch3.30-QAGS.png) 
+![Question-Answer Generation System](https://dasarpai.com/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.30-QAGS.png) 
 
 **AGS (Answer Generation System):** Fine-tuning the t5 and flan-t5 models for creating an answer generation system.
 
-![Answer Generation System](https://dasarpai.com/assets/images/hbqas/HBQA-PPT+Images/Ch3.50-AGS.png)
+![Answer Generation System](https://dasarpai.com/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.50-AGS.png)
 
 **DRS (Document Retrieval System):** Retrieving relevant documents to answer specific questions.
 
-![Document Retrieval System](https://dasarpai.com/assets/images/hbqas/HBQA-PPT+Images/Ch3.40-DRS.png)
+![Document Retrieval System](https://dasarpai.com/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.40-DRS.png)
 
 **RAAGS (Context-less Question Answering System):** Creating and evaluating a system that answers historical questions without any context.
 
-![RAAGS](https://dasarpai.com/assets/images/hbqas/HBQA-PPT+Images/Ch3.60-RAAGS.png)
+![RAAGS](https://dasarpai.com/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.60-RAAGS.png)
 
 ### Evaluation Metrics
 
@@ -42,7 +44,7 @@ To evaluate the different sub-systems, various metrics have been employed, inclu
 - F1@n
 - Cosine
 
-![HBQA-Evaluation-Metrics](https://dasarpai.com/assets/images/hbqas/HBQA-PPT+Images/Ch3.70-HBQA-Evaluation-Metrics.png)
+![HBQA-Evaluation-Metrics](https://dasarpai.com/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.70-HBQA-Evaluation-Metrics.png)
 
 Text embedding is performed using SentenceTransformer, and the approach is designed to be domain-agnostic, script-agnostic, and language-agnostic. Manual feature engineering is not required.
 
