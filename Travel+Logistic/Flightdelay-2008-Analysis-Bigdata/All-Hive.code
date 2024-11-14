@@ -1,0 +1,95 @@
+drop table hpt_db.airlines_partitioned1;
+
+-----------Creating Internal Partition based Table
+create table if not exists hpt_db.airlines_partitioned1
+(`SNo` int, `Month` int, `DayofMonth` int, `DayOfWeek` int,
+`DepTime` int, `CRSDepTime` int, `ArrTime` int, `CRSArrTime` int,
+`UniqueCarrier` string, `FlightNum` int, `TailNum` string, `ActualElapsedTime` int,
+`CRSElapsedTime` int, `AirTime` int, `ArrDelay` int, `DepDelay` int, `Origin` string,
+`Dest` string, `Distance` int, `TaxiIn` int, `TaxiOut` int, `Cancelled` int,
+`CancellationCode` string, `Diverted` int, `CarrierDelay` int, `WeatherDelay` int,
+`NASDelay` int, `SecurityDelay` int, `LateAircraftDelay` int)
+partitioned by (`Year` int)
+location '/user/hive/warehouse/airlines_partitioned1';
+
+
+insert overwrite table hpt_db.airlines_partitioned1 partition(`Year`)
+select `SNo`, `Month`, `DayofMonth`, `DayOfWeek`,
+`DepTime`, `CRSDepTime`, `ArrTime`, `CRSArrTime`,
+`UniqueCarrier`, `FlightNum`, `TailNum`, `ActualElapsedTime`,
+`CRSElapsedTime`, `AirTime`, `ArrDelay`, `DepDelay`,
+`Origin`, `Dest`, `Distance`, `TaxiIn`, `TaxiOut`,
+`Cancelled`, `CancellationCode`, `Diverted`, `CarrierDelay`,
+`WeatherDelay`, `NASDelay`, `SecurityDelay`, `LateAircraftDelay`,
+`Year`
+from hpt_db.airlines;
+
+-----------Creating External Partition based Table
+create External table if not exists hpt_db.airlines_partitioned1
+(`SNo` int, `Month` int, `DayofMonth` int, `DayOfWeek` int,
+`DepTime` int, `CRSDepTime` int, `ArrTime` int, `CRSArrTime` int,
+`UniqueCarrier` string, `FlightNum` int, `TailNum` string, `ActualElapsedTime` int,
+`CRSElapsedTime` int, `AirTime` int, `ArrDelay` int, `DepDelay` int, `Origin` string,
+`Dest` string, `Distance` int, `TaxiIn` int, `TaxiOut` int, `Cancelled` int,
+`CancellationCode` string, `Diverted` int, `CarrierDelay` int, `WeatherDelay` int,
+`NASDelay` int, `SecurityDelay` int, `LateAircraftDelay` int)
+partitioned by (`Year` int)
+location '/user/hive/warehouse/airlines_partitioned1';
+
+
+insert overwrite table hpt_db.airlines_partitioned1 partition(`Year`)
+select `SNo`, `Month`, `DayofMonth`, `DayOfWeek`,
+`DepTime`, `CRSDepTime`, `ArrTime`, `CRSArrTime`,
+`UniqueCarrier`, `FlightNum`, `TailNum`, `ActualElapsedTime`,
+`CRSElapsedTime`, `AirTime`, `ArrDelay`, `DepDelay`,
+`Origin`, `Dest`, `Distance`, `TaxiIn`, `TaxiOut`,
+`Cancelled`, `CancellationCode`, `Diverted`, `CarrierDelay`,
+`WeatherDelay`, `NASDelay`, `SecurityDelay`, `LateAircraftDelay`,
+`Year`
+from hpt_db.airlines;
+
+--------------------------------- CREATE Normal EXTERNAL TABLE from CSV
+CREATE EXTERNAL TABLE if not exists airlines(
+`SNo` int,`Year` int, `Month` int, `DayofMonth` int, `DayOfWeek` int,
+`DepTime` int, `CRSDepTime` int, `ArrTime` int, `CRSArrTime` int,
+`UniqueCarrier` string, `FlightNum` int, `TailNum` string, `ActualElapsedTime` int,
+`CRSElapsedTime` int, `AirTime` int, `ArrDelay` int, `DepDelay` int,
+`Origin` string, `Dest` string, `Distance` int, `TaxiIn` int, `TaxiOut` int,
+`Cancelled` int, `CancellationCode` string, `Diverted` int, `CarrierDelay` int,
+`WeatherDelay` int, `NASDelay` int, `SecurityDelay` int, `LateAircraftDelay` int)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION '/common_folder/airlines/'
+tblproperties ("skip.header.line.count"="1");
+
+--------------------------------- CREATE Normal Internal TABLE 
+CREATE TABLE if not exists airlines(
+`SNo` int,`Year` int, `Month` int, `DayofMonth` int, `DayOfWeek` int,
+`DepTime` int, `CRSDepTime` int, `ArrTime` int, `CRSArrTime` int,
+`UniqueCarrier` string, `FlightNum` int, `TailNum` string, `ActualElapsedTime` int,
+`CRSElapsedTime` int, `AirTime` int, `ArrDelay` int, `DepDelay` int,
+`Origin` string, `Dest` string, `Distance` int, `TaxiIn` int, `TaxiOut` int,
+`Cancelled` int, `CancellationCode` string, `Diverted` int, `CarrierDelay` int,
+`WeatherDelay` int, `NASDelay` int, `SecurityDelay` int, `LateAircraftDelay` int)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION '/common_folder/airlines/'
+tblproperties ("skip.header.line.count"="1");
+
+-------------------------- CREATE EXTERNAL TABLE  from JSON
+create external table if not exists amazon_reviews_table(
+reviewerid string, asin string, reviewername string, 
+helpful array<int>, reviewtext string, overall double, 
+summary string, unixreviewtime bigint) 
+ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
+with serdeproperties  ('paths' = '')
+location '/common_folder/amazon_reviews';
+
+--------------------------Create External Table without knowing the schema
+create external table hpt_db.amazon_json (json_string string) 
+location "/common_folder/amazon_reviews"
+
+Now I know the schema.
+"reviewerID": "AO94DHGC771SJ", "asin": "0528881469", "reviewerName": 
+"amazdnu", "helpful": [0, 0], "reviewText": "We got this GPS for my husband who is an (OTR) over the road trucker.  Very Impressed with the shipping time, it arrived a few days earlier than expected...  within a week of use however it started freezing up... could of just been a glitch in that unit.  Worked great when it worked!  Will work great for the normal person as well but does have the \"trucker\" option. (the big truck routes - tells you when a scale is coming up ect...)  Love the bigger screen, the ease of use, the ease of putting addresses into memory.  Nothing really bad to say about the unit with the exception of it freezing which is probably one in a million and that's just my luck.  I contacted the seller and within minutes of my email I received a email back with instructions for an exchange! VERY impressed all the way around!", "overall": 5.0, "summary": "Gotta have GPS!", "unixReviewTime": 1370131200, "reviewTime": "06 2, 2013"}
+

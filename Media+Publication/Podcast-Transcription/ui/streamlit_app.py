@@ -26,8 +26,8 @@ docsearch = store_documents_in_pinecone(documents, pinecone_index_name)
 # Handle user input
 user_question = st.text_input("Enter your question:", "")
 if user_question:
-with st.spinner("Querying..."):
-relevent_docs = docsearch.similarity_search(user_question)
-relevant_transcripts = '\n\n------------------------------------------------------\n\n'.join([doc.page_content for doc in relevent_docs[:3]])
-response = transcript_chat_completion(groq_api_key, relevant_transcripts, user_question)
-st.write("**Answer:**", response)
+    with st.spinner("Querying..."):
+    relevent_docs = docsearch.similarity_search(user_question)
+    relevant_transcripts = '\n\n------------------------------------------------------\n\n'.join([doc.page_content for doc in relevent_docs[:3]])
+    response = transcript_chat_completion(groq_api_key, relevant_transcripts, user_question)
+    st.write("**Answer:**", response)
