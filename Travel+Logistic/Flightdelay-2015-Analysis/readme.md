@@ -1,6 +1,6 @@
 Read me by Hari Thapliyal 
 
-# Question Explored
+# Questions Explored
 For your flight dataset, here are some key questions you can explore along with potential visualizations in Python:
 
 1. What is the distribution of departure delays across all flights?
